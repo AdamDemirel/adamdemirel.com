@@ -28,7 +28,7 @@ export default ({ title, description, path }) => (
       function gtag(){ dataLayer.push(arguments) }
       gtag('js', new Date());
 
-      gtag('config', 'UA-130095426-2');
+      gtag('config', 'UA-145443401-1');
     `}
     </script>
     <script>{`gtag('config', 'UA-145443401-1', {'page_path': ${path}});`}</script>
