@@ -90,7 +90,7 @@ const Div = styled.div``;
 
 const Card = styled.div`
   width: auto;
-  ${top({ top: ["20px", "10%", "30%"] })}
+  ${top({ top: ["20px", "10%", "10%"] })}
   ${left({ left: ["unset", "unset", "0"] })}
   ${space({ p: "15px", m: ["10px", "10px", "auto"] })}
   right: 0;
@@ -110,7 +110,6 @@ const Name = styled.h1`
   ${fontSize({ fontSize: ["40px", "80px", "110px"] })}
   ${space({ mt: 0, ml: 0, mr: 0, mb: ["30px", "35px", "40px"], p: 0 })}
   ${letterSpacing({ letterSpacing: ["-2px", "-2px", "-5px"] })}
-  text-shadow 10px 10px hsla(0%, 0%, 0%, .2);
   vertical-align: text-top;
 `;
 
