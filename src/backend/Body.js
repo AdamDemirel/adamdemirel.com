@@ -18,6 +18,15 @@ export default createGlobalStyle`
   body {
     margin: 0;
     box-sizing: border-box;
+
+
+  }
+
+  html * {
+    &::selection {
+      background-color: #191545;
+      color: white;
+    }
   }
 
   canvas {

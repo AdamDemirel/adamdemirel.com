@@ -30,7 +30,10 @@ export default class Home extends React.Component {
           <Text>
             <Span>
               I'm a <Yellow>Software Developer</Yellow> from Sydney, working with the Web and{" "}
-              <A to="https://en.wikipedia.org/wiki/Internet_of_things" iot>Internet Of Things</A> at{" "}
+              <A to="https://en.wikipedia.org/wiki/Internet_of_things" iot>
+                Internet Of Things
+              </A>{" "}
+              at{" "}
               <A to="https://papermoose.com/">
                 <Moose>Paper Moose</Moose>
               </A>
