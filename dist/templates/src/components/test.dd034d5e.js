@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{60:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),i=n(30),o=n(16);t.default=Object(o.d)(Object(i.withRouteData)(function(e){return c.a.createElement("div",null,"hello im here")}))}}]);

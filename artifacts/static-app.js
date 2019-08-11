@@ -110,7 +110,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 29);
+/******/ 	return __webpack_require__(__webpack_require__.s = 30);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -195,7 +195,7 @@ var _createClass = function () {
   };
 }();
 
-var _requireUniversalModule = __webpack_require__(32);
+var _requireUniversalModule = __webpack_require__(33);
 
 Object.defineProperty(exports, 'CHUNK_NAMES', {
   enumerable: true,
@@ -210,7 +210,7 @@ Object.defineProperty(exports, 'MODULE_IDS', {
   }
 });
 
-var _reportChunks = __webpack_require__(34);
+var _reportChunks = __webpack_require__(35);
 
 Object.defineProperty(exports, 'ReportChunks', {
   enumerable: true,
@@ -232,13 +232,13 @@ var _hoistNonReactStatics = __webpack_require__(23);
 
 var _hoistNonReactStatics2 = _interopRequireDefault(_hoistNonReactStatics);
 
-var _vm = __webpack_require__(35);
+var _vm = __webpack_require__(36);
 
 var _requireUniversalModule2 = _interopRequireDefault(_requireUniversalModule);
 
 var _utils = __webpack_require__(17);
 
-var _helpers = __webpack_require__(36);
+var _helpers = __webpack_require__(37);
 
 function _interopRequireDefault(obj) {
   return obj && obj.__esModule ? obj : {
@@ -650,7 +650,7 @@ var _utils = __webpack_require__(17);
 
 var requireById = function requireById(id) {
   if (!(0, _utils.isWebpack)() && typeof id === 'string') {
-    return __webpack_require__(33)("" + id);
+    return __webpack_require__(34)("" + id);
   }
 
   return __webpack_require__('' + id);
@@ -730,7 +730,7 @@ var external_react_static_ = __webpack_require__(8);
 // EXTERNAL MODULE: external "styled-components"
 var external_styled_components_ = __webpack_require__(2);
 
-// CONCATENATED MODULE: /home/adam/Desktop/myportfolio/src/backend/theme.js
+// CONCATENATED MODULE: /home/adam/Code/Work/myportfolio/src/backend/theme.js
 var theme = {
   colors: {
     black: "hsl(0, 0%, 0%)",
@@ -855,11 +855,11 @@ var theme = {
 var taggedTemplateLiteral_ = __webpack_require__(3);
 var taggedTemplateLiteral_default = /*#__PURE__*/__webpack_require__.n(taggedTemplateLiteral_);
 
-// CONCATENATED MODULE: /home/adam/Desktop/myportfolio/src/backend/Body.js
+// CONCATENATED MODULE: /home/adam/Code/Work/myportfolio/src/backend/Body.js
 
 
 function _templateObject() {
-  var data = taggedTemplateLiteral_default()(["\n  @font-face {\n    font-family: \"Karla\";\n    src: url(\"/fonts/Karla-Bold.woff\") format(\"woff\");\n    font-style: normal;\n    font-weight: 700;\n  }\n\n  @font-face {\n    font-family: \"Karla\";\n    src: url(\"/fonts/Karla-Regular.woff\") format(\"woff\");\n    font-style: normal;\n    font-weight: 400;\n  }\n\n  body {\n    margin: 0;\n    box-sizing: border-box;\n  }\n\n  canvas {\n    display: block;\n    vertical-align: bottom;\n  } /* ---- particles.js container ---- */\n  #particles-js {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    background-color: white;\n    background-image: url(\"\");\n    background-repeat: no-repeat;\n    background-size: cover;\n    background-position: 50% 50%;\n  } /* ---- stats.js ---- */\n  .count-particles {\n    background: #000022;\n    position: absolute;\n    top: 48px;\n    left: 0;\n    width: 80px;\n    color: #13e8e9;\n    font-size: 0.8em;\n    text-align: left;\n    text-indent: 4px;\n    line-height: 14px;\n    padding-bottom: 2px;\n    font-family: Helvetica, Arial, sans-serif;\n    font-weight: bold;\n  }\n  .js-count-particles {\n    font-size: 1.1em;\n  }\n  #stats,\n  .count-particles {\n    -webkit-user-select: none;\n    margin-top: 5px;\n    margin-left: 5px;\n  }\n  #stats {\n    border-radius: 3px 3px 0 0;\n    overflow: hidden;\n  }\n  .count-particles {\n    border-radius: 0 0 3px 3px;\n  }\n"]);
+  var data = taggedTemplateLiteral_default()(["\n  @font-face {\n    font-family: \"Karla\";\n    src: url(\"/fonts/Karla-Bold.woff\") format(\"woff\");\n    font-style: normal;\n    font-weight: 700;\n  }\n\n  @font-face {\n    font-family: \"Karla\";\n    src: url(\"/fonts/Karla-Regular.woff\") format(\"woff\");\n    font-style: normal;\n    font-weight: 400;\n  }\n\n  body {\n    margin: 0;\n    box-sizing: border-box;\n\n\n  }\n\n  html * {\n    &::selection {\n      background-color: #191545;\n      color: white;\n    }\n  }\n\n  canvas {\n    display: block;\n    vertical-align: bottom;\n  }\n\n  /* ---- particles.js container ---- */\n  #particles-js {\n    position: absolute;\n    width: 100%;\n    height: 120%;\n    background-color: white;\n    background-image: url(\"\");\n    background-repeat: no-repeat;\n    background-size: cover;\n    background-position: 50% 50%;\n  } /* ---- stats.js ---- */\n  .count-particles {\n    background: #000022;\n    position: absolute;\n    top: 48px;\n    left: 0;\n    width: 80px;\n    color: #13e8e9;\n    font-size: 0.8em;\n    text-align: left;\n    text-indent: 4px;\n    line-height: 14px;\n    padding-bottom: 2px;\n    font-family: Helvetica, Arial, sans-serif;\n    font-weight: bold;\n  }\n  .js-count-particles {\n    font-size: 1.1em;\n  }\n  #stats,\n  .count-particles {\n    -webkit-user-select: none;\n    margin-top: 5px;\n    margin-left: 5px;\n  }\n  #stats {\n    border-radius: 3px 3px 0 0;\n    overflow: hidden;\n  }\n  .count-particles {\n    border-radius: 0 0 3px 3px;\n  }\n"]);
 
   _templateObject = function _templateObject() {
     return data;
@@ -870,7 +870,7 @@ function _templateObject() {
 
 
 /* harmony default export */ var Body = (Object(external_styled_components_["createGlobalStyle"])(_templateObject()));
-// CONCATENATED MODULE: /home/adam/Desktop/myportfolio/src/Page.js
+// CONCATENATED MODULE: /home/adam/Code/Work/myportfolio/src/Page.js
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Page_Page; });
 
 
@@ -1140,7 +1140,7 @@ var plugins = [{
 /* 20 */
 /***/ (function(module, exports) {
 
-module.exports = require("/home/adam/Desktop/myportfolio/node_modules/react-static/lib/browser");
+module.exports = require("/home/adam/Code/Work/myportfolio/node_modules/react-static/lib/browser");
 
 /***/ }),
 /* 21 */
@@ -1155,8 +1155,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(0);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _home_adam_Desktop_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6);
-/* harmony import */ var _home_adam_Desktop_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_home_adam_Desktop_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _home_adam_Code_Work_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6);
+/* harmony import */ var _home_adam_Code_Work_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_home_adam_Code_Work_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3__);
 
 
 
@@ -1165,7 +1165,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-Object(_home_adam_Desktop_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3__["setHasBabelPlugin"])();
+Object(_home_adam_Code_Work_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3__["setHasBabelPlugin"])();
 var universalOptions = {
   loading: function loading() {
     return null;
@@ -1176,7 +1176,7 @@ var universalOptions = {
   },
   ignoreBabelRename: true
 };
-var t_0 = _home_adam_Desktop_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default()(babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1___default()({
+var t_0 = _home_adam_Code_Work_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default()(babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1___default()({
   id: "../node_modules/react-static/lib/browser/components/Default404",
   load: function load() {
     return Promise.all([Promise.resolve(/* import() */).then(__webpack_require__.t.bind(null, 24, 7))]).then(function (proms) {
@@ -1194,7 +1194,7 @@ var t_0 = _home_adam_Desktop_myportfolio_node_modules_react_universal_component_
   }
 }), universalOptions);
 t_0.template = '../node_modules/react-static/lib/browser/components/Default404';
-var t_1 = _home_adam_Desktop_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default()(babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1___default()({
+var t_1 = _home_adam_Code_Work_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default()(babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1___default()({
   id: "../src/pages/home",
   load: function load() {
     return Promise.all([Promise.resolve(/* import() | src/pages/home */).then(__webpack_require__.bind(null, 26))]).then(function (proms) {
@@ -1212,7 +1212,7 @@ var t_1 = _home_adam_Desktop_myportfolio_node_modules_react_universal_component_
   }
 }), universalOptions);
 t_1.template = '../src/pages/home';
-var t_2 = _home_adam_Desktop_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default()(babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1___default()({
+var t_2 = _home_adam_Code_Work_myportfolio_node_modules_react_universal_component_dist_index_js__WEBPACK_IMPORTED_MODULE_3___default()(babel_plugin_universal_import_universalImport__WEBPACK_IMPORTED_MODULE_1___default()({
   id: "../src/components/test.js",
   load: function load() {
     return Promise.all([Promise.resolve(/* import() | src/components/test */).then(__webpack_require__.bind(null, 25))]).then(function (proms) {
@@ -1256,7 +1256,7 @@ module.exports = require("hoist-non-react-statics");
 /* 24 */
 /***/ (function(module, exports) {
 
-module.exports = require("/home/adam/Desktop/myportfolio/node_modules/react-static/lib/browser/components/Default404");
+module.exports = require("/home/adam/Code/Work/myportfolio/node_modules/react-static/lib/browser/components/Default404");
 
 /***/ }),
 /* 25 */
@@ -1323,7 +1323,7 @@ var defineProperty_default = /*#__PURE__*/__webpack_require__.n(defineProperty_)
 // EXTERNAL MODULE: external "styled-system"
 var external_styled_system_ = __webpack_require__(1);
 
-// CONCATENATED MODULE: /home/adam/Desktop/myportfolio/src/backend/StyledSystem.js
+// CONCATENATED MODULE: /home/adam/Code/Work/myportfolio/src/backend/StyledSystem.js
 
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -1540,7 +1540,48 @@ function minHeight(props) {
 }
 
 
-// CONCATENATED MODULE: /home/adam/Desktop/myportfolio/src/pages/home.js
+// EXTERNAL MODULE: external "react-helmet"
+var external_react_helmet_ = __webpack_require__(29);
+
+// CONCATENATED MODULE: /home/adam/Code/Work/myportfolio/src/components/SEO.js
+
+
+/* harmony default export */ var SEO = (function (_ref) {
+  var title = _ref.title,
+      description = _ref.description;
+  return external_react_default.a.createElement(external_react_helmet_["Helmet"], {
+    htmlAttributes: {
+      lang: "en"
+    }
+  }, external_react_default.a.createElement("meta", {
+    charSet: "utf-8"
+  }), external_react_default.a.createElement("title", null, title), external_react_default.a.createElement("link", {
+    rel: "canonical",
+    href: "https://adamdemirel.com"
+  }), external_react_default.a.createElement("meta", {
+    property: "og:type",
+    content: "website"
+  }), external_react_default.a.createElement("meta", {
+    property: "og:title",
+    content: "title"
+  }), external_react_default.a.createElement("meta", {
+    property: "og:description",
+    content: description
+  }), external_react_default.a.createElement("meta", {
+    name: "twitter:card",
+    content: "summary"
+  }), external_react_default.a.createElement("meta", {
+    name: "twitter:creator",
+    content: "Adam Demirel"
+  }), external_react_default.a.createElement("meta", {
+    name: "twitter:title",
+    content: title
+  }), external_react_default.a.createElement("meta", {
+    name: "twitter:description",
+    content: description
+  }));
+});
+// CONCATENATED MODULE: /home/adam/Code/Work/myportfolio/src/pages/home.js
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return home_Home; });
 
 
@@ -1660,7 +1701,7 @@ function _templateObject4() {
 }
 
 function _templateObject3() {
-  var data = taggedTemplateLiteral_default()(["\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  text-shadow 10px 10px hsla(0%, 0%, 0%, .2);\n  vertical-align: text-top;\n"]);
+  var data = taggedTemplateLiteral_default()(["\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  vertical-align: text-top;\n"]);
 
   _templateObject3 = function _templateObject3() {
     return data;
@@ -1691,6 +1732,7 @@ function _templateObject() {
 
 
 
+
  // navbar in topright with About, Skills, Writing, Works
 // https://designmodo.com/wp-content/uploads/2017/10/neil-portfolio-image.jpg
 
@@ -1716,19 +1758,22 @@ function (_React$Component) {
         }, 400);
         var script = document.createElement("script");
         script.src = "/particles.js";
-        script.async = false;
+        script.async = true;
         document.body.appendChild(script);
       }
     }
   }, {
     key: "render",
     value: function render() {
-      return external_react_default.a.createElement(external_react_default.a.Fragment, null, external_react_default.a.createElement(Div, {
+      return external_react_default.a.createElement(external_react_default.a.Fragment, null, external_react_default.a.createElement(SEO, {
+        title: "Adam Demirel's Personal Portfolio",
+        description: "Adam Demirel is a full-stack Web Developer and IOT developer in Sydney, Australia. He is currently working at Paper Moose."
+      }), external_react_default.a.createElement(Div, {
         id: "particles-js"
       }), external_react_default.a.createElement(Card, null, external_react_default.a.createElement(Name, null, "Adam Demirel."), external_react_default.a.createElement(Text, null, external_react_default.a.createElement(Span, null, "I'm a ", external_react_default.a.createElement(Yellow, null, "Software Developer"), " from Sydney, working with the Web and", " ", external_react_default.a.createElement(home_A, {
         to: "https://en.wikipedia.org/wiki/Internet_of_things",
         iot: true
-      }, "Internet Of Things"), " at", " ", external_react_default.a.createElement(home_A, {
+      }, "Internet Of Things"), " ", "at", " ", external_react_default.a.createElement(home_A, {
         to: "https://papermoose.com/"
       }, external_react_default.a.createElement(Moose, null, "Paper Moose")), "."), external_react_default.a.createElement(Span, null, "I'm passionate about the power of computers and technology to improve the world, with a particular", " ", external_react_default.a.createElement(Blue, null, " interest in biotech and health"), "."), external_react_default.a.createElement(Span, null, "I've got a ", external_react_default.a.createElement(Purple, null, "background in neuroscience and philosophy"), ", and a curiosity about everything."), external_react_default.a.createElement(Span, null, "Outside of work, I spend my time ", external_react_default.a.createElement(Hl4, null, "rock-climbing"), ", with my loved ones, or ", external_react_default.a.createElement(Hl5, null, "learning"), " about whatever my current fascination is.")), external_react_default.a.createElement(Links, null, external_react_default.a.createElement(Li, null, external_react_default.a.createElement(home_A, {
         to: "mailto:adxm@msn.com"
@@ -1745,18 +1790,18 @@ function (_React$Component) {
   }]);
 
   return Home;
-}(external_react_default.a.Component);
+}(external_react_default.a.Component); // {
+//   /* <Span>
+//               My preferred dev stack is Linux / JS / Node / HTML / CSS w. Styled Components / React, and Express / MongoDB for backend.
+//               <br />
+//             </Span> */
+// }
 
 
-{
-  /* <Span>
-              My preferred dev stack is Linux / JS / Node / HTML / CSS w. Styled Components / React, and Express / MongoDB for backend.
-              <br />
-            </Span> */
-}
+
 var Div = external_styled_components_default.a.div(_templateObject());
 var Card = external_styled_components_default.a.div(_templateObject2(), StyledSystem_top({
-  top: ["20px", "10%", "30%"]
+  top: ["20px", "10%", "10%"]
 }), left({
   left: ["unset", "unset", "0"]
 }), space({
@@ -1824,15 +1869,21 @@ module.exports = require("@babel/runtime/helpers/defineProperty");
 
 /***/ }),
 /* 29 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-__webpack_require__(30);
-__webpack_require__(31);
-module.exports = __webpack_require__(37);
-
+module.exports = require("react-helmet");
 
 /***/ }),
 /* 30 */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(31);
+__webpack_require__(32);
+module.exports = __webpack_require__(38);
+
+
+/***/ }),
+/* 31 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1847,14 +1898,14 @@ var _require = __webpack_require__(20),
 registerPlugins(plugins);
 
 if (typeof document !== 'undefined' && module && module.hot) {
-  module.hot.accept("/home/adam/Desktop/myportfolio/artifacts/react-static-browser-plugins.js", function () {
+  module.hot.accept("/home/adam/Code/Work/myportfolio/artifacts/react-static-browser-plugins.js", function () {
     registerPlugins(__webpack_require__(19)["default"]);
   });
 }
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(15)(module)))
 
 /***/ }),
-/* 31 */
+/* 32 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1871,7 +1922,7 @@ var _require2 = __webpack_require__(21),
 registerTemplates(templates, notFoundTemplate);
 
 if (typeof document !== 'undefined' && module && module.hot) {
-  module.hot.accept("/home/adam/Desktop/myportfolio/artifacts/react-static-templates.js", function () {
+  module.hot.accept("/home/adam/Code/Work/myportfolio/artifacts/react-static-templates.js", function () {
     var _require3 = __webpack_require__(21),
         templates = _require3["default"],
         notFoundTemplate = _require3.notFoundTemplate;
@@ -1882,7 +1933,7 @@ if (typeof document !== 'undefined' && module && module.hot) {
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(15)(module)))
 
 /***/ }),
-/* 32 */
+/* 33 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2093,7 +2144,7 @@ var getConfig = function getConfig(isDynamic, universalConfig, options, props) {
 };
 
 /***/ }),
-/* 33 */
+/* 34 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
@@ -2121,10 +2172,10 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 33;
+webpackContext.id = 34;
 
 /***/ }),
-/* 34 */
+/* 35 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2233,13 +2284,13 @@ ReportChunks.childContextTypes = {
 exports["default"] = ReportChunks;
 
 /***/ }),
-/* 35 */
+/* 36 */
 /***/ (function(module, exports) {
 
 module.exports = require("vm");
 
 /***/ }),
-/* 36 */
+/* 37 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2306,28 +2357,28 @@ var __handleAfter = exports.__handleAfter = function __handleAfter(props, state,
 };
 
 /***/ }),
-/* 37 */
+/* 38 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireWildcard = __webpack_require__(38);
+var _interopRequireWildcard = __webpack_require__(39);
 
-var _interopRequireDefault = __webpack_require__(39);
+var _interopRequireDefault = __webpack_require__(40);
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports["default"] = void 0;
 
-var _extends2 = _interopRequireDefault(__webpack_require__(40));
+var _extends2 = _interopRequireDefault(__webpack_require__(41));
 
-var _objectWithoutProperties2 = _interopRequireDefault(__webpack_require__(41));
+var _objectWithoutProperties2 = _interopRequireDefault(__webpack_require__(42));
 
 var React = _interopRequireWildcard(__webpack_require__(0));
 
-var _useStaticInfo = __webpack_require__(42);
+var _useStaticInfo = __webpack_require__(43);
 /* eslint-disable import/no-dynamic-require */
 
 
@@ -2348,7 +2399,7 @@ function Suspense(_ref) {
 React.Suspense = Suspense;
 React["default"].Suspense = Suspense;
 
-var App = __webpack_require__(43)["default"];
+var App = __webpack_require__(44)["default"];
 
 var _default = function _default(staticInfo) {
   return function (props) {
@@ -2361,37 +2412,37 @@ var _default = function _default(staticInfo) {
 exports["default"] = _default;
 
 /***/ }),
-/* 38 */
+/* 39 */
 /***/ (function(module, exports) {
 
 module.exports = require("@babel/runtime/helpers/interopRequireWildcard");
 
 /***/ }),
-/* 39 */
+/* 40 */
 /***/ (function(module, exports) {
 
 module.exports = require("@babel/runtime/helpers/interopRequireDefault");
 
 /***/ }),
-/* 40 */
+/* 41 */
 /***/ (function(module, exports) {
 
 module.exports = require("@babel/runtime/helpers/extends");
 
 /***/ }),
-/* 41 */
+/* 42 */
 /***/ (function(module, exports) {
 
 module.exports = require("@babel/runtime/helpers/objectWithoutProperties");
 
 /***/ }),
-/* 42 */
+/* 43 */
 /***/ (function(module, exports) {
 
-module.exports = require("/home/adam/Desktop/myportfolio/node_modules/react-static/lib/browser/hooks/useStaticInfo");
+module.exports = require("/home/adam/Code/Work/myportfolio/node_modules/react-static/lib/browser/hooks/useStaticInfo");
 
 /***/ }),
-/* 43 */
+/* 44 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2428,10 +2479,10 @@ if (typeof document !== "undefined") {
     });
   }
 }
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(44)(module)))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(45)(module)))
 
 /***/ }),
-/* 44 */
+/* 45 */
 /***/ (function(module, exports) {
 
 module.exports = function (originalModule) {

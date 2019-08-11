@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { fontFamily, fontWeight, fontSize, width, left, top, space, lineHeight, letterSpacing } from "../backend/StyledSystem";
+import SEO from "../components/SEO";
 
 // navbar in topright with About, Skills, Writing, Works
 // https://designmodo.com/wp-content/uploads/2017/10/neil-portfolio-image.jpg
@@ -16,7 +17,7 @@ export default class Home extends React.Component {
 
       const script = document.createElement("script");
       script.src = "/particles.js";
-      script.async = false;
+      script.async = true;
       document.body.appendChild(script);
     }
   }
@@ -24,6 +25,11 @@ export default class Home extends React.Component {
   render() {
     return (
       <>
+        <SEO
+          title="Adam Demirel's Personal Portfolio"
+          description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Learn more."
+          path="/"
+        />
         <Div id="particles-js" />
         <Card>
           <Name>Adam Demirel.</Name>
@@ -79,12 +85,12 @@ export default class Home extends React.Component {
   }
 }
 
-{
-  /* <Span>
-              My preferred dev stack is Linux / JS / Node / HTML / CSS w. Styled Components / React, and Express / MongoDB for backend.
-              <br />
-            </Span> */
-}
+// {
+//   /* <Span>
+//               My preferred dev stack is Linux / JS / Node / HTML / CSS w. Styled Components / React, and Express / MongoDB for backend.
+//               <br />
+//             </Span> */
+// }
 
 const Div = styled.div``;
 

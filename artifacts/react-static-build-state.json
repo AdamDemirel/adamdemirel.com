@@ -14,22 +14,22 @@
   "productionSourceMaps": false,
   "entry": "index.js",
   "paths": {
-    "ROOT": "/home/adam/Desktop/myportfolio",
-    "SRC": "/home/adam/Desktop/myportfolio/src",
-    "DIST": "/home/adam/Desktop/myportfolio/dist",
-    "ASSETS": "/home/adam/Desktop/myportfolio/dist",
-    "PLUGINS": "/home/adam/Desktop/myportfolio/plugins",
-    "TEMP": "/home/adam/Desktop/myportfolio/tmp",
-    "ARTIFACTS": "/home/adam/Desktop/myportfolio/artifacts",
-    "PUBLIC": "/home/adam/Desktop/myportfolio/public",
-    "NODE_MODULES": "/home/adam/Desktop/myportfolio/node_modules",
-    "EXCLUDE_MODULES": "/home/adam/Desktop/myportfolio/node_modules",
-    "PACKAGE": "/home/adam/Desktop/myportfolio/package.json",
-    "HTML_TEMPLATE": "/home/adam/Desktop/myportfolio/dist/index.html",
-    "STATIC_DATA": "/home/adam/Desktop/myportfolio/dist/staticData"
+    "ROOT": "/home/adam/Code/Work/myportfolio",
+    "SRC": "/home/adam/Code/Work/myportfolio/src",
+    "DIST": "/home/adam/Code/Work/myportfolio/dist",
+    "ASSETS": "/home/adam/Code/Work/myportfolio/dist",
+    "PLUGINS": "/home/adam/Code/Work/myportfolio/plugins",
+    "TEMP": "/home/adam/Code/Work/myportfolio/tmp",
+    "ARTIFACTS": "/home/adam/Code/Work/myportfolio/artifacts",
+    "PUBLIC": "/home/adam/Code/Work/myportfolio/public",
+    "NODE_MODULES": "/home/adam/Code/Work/myportfolio/node_modules",
+    "EXCLUDE_MODULES": "/home/adam/Code/Work/myportfolio/node_modules",
+    "PACKAGE": "/home/adam/Code/Work/myportfolio/package.json",
+    "HTML_TEMPLATE": "/home/adam/Code/Work/myportfolio/dist/index.html",
+    "STATIC_DATA": "/home/adam/Code/Work/myportfolio/dist/staticData"
   },
   "plugins": [
-    "/home/adam/Desktop/myportfolio"
+    "/home/adam/Code/Work/myportfolio"
   ],
   "siteRoot": "",
   "basePath": "",

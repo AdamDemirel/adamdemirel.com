@@ -32,11 +32,13 @@ export default createGlobalStyle`
   canvas {
     display: block;
     vertical-align: bottom;
-  } /* ---- particles.js container ---- */
+  }
+
+  /* ---- particles.js container ---- */
   #particles-js {
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 120%;
     background-color: white;
     background-image: url("");
     background-repeat: no-repeat;

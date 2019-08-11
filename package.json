@@ -11,6 +11,7 @@
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
+    "react-helmet": "^5.2.1",
     "react-static": "^7.0.0",
     "react-static-plugin-reach-router": "^7.0.0",
     "react-static-plugin-sitemap": "^7.0.0",
