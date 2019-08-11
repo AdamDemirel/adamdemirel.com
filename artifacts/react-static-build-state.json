@@ -1,0 +1,53 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "entry": "index.js",
+  "paths": {
+    "ROOT": "/home/adam/Desktop/myportfolio",
+    "SRC": "/home/adam/Desktop/myportfolio/src",
+    "DIST": "/home/adam/Desktop/myportfolio/dist",
+    "ASSETS": "/home/adam/Desktop/myportfolio/dist",
+    "PLUGINS": "/home/adam/Desktop/myportfolio/plugins",
+    "TEMP": "/home/adam/Desktop/myportfolio/tmp",
+    "ARTIFACTS": "/home/adam/Desktop/myportfolio/artifacts",
+    "PUBLIC": "/home/adam/Desktop/myportfolio/public",
+    "NODE_MODULES": "/home/adam/Desktop/myportfolio/node_modules",
+    "EXCLUDE_MODULES": "/home/adam/Desktop/myportfolio/node_modules",
+    "PACKAGE": "/home/adam/Desktop/myportfolio/package.json",
+    "HTML_TEMPLATE": "/home/adam/Desktop/myportfolio/dist/index.html",
+    "STATIC_DATA": "/home/adam/Desktop/myportfolio/dist/staticData"
+  },
+  "plugins": [
+    "/home/adam/Desktop/myportfolio"
+  ],
+  "siteRoot": "",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}
