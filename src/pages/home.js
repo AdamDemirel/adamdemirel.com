@@ -7,30 +7,14 @@ import SEO from "../components/SEO";
 // https://designmodo.com/wp-content/uploads/2017/10/neil-portfolio-image.jpg
 
 export default class Home extends React.Component {
-  componentDidMount() {
-    if (typeof document !== "undefined") {
-      setTimeout(() => {
-        window.particlesJS.load("particles-js", "/particles.json", function() {
-          console.log("callback - particles.js config loaded");
-        });
-      }, 400);
-
-      const script = document.createElement("script");
-      script.src = "/particles.js";
-      script.async = true;
-      document.body.appendChild(script);
-    }
-  }
-
   render() {
     return (
       <>
         <SEO
-          title="Adam Demirel's Personal Portfolio"
+          title="Adam Demirel's Personal Website"
           description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Learn more."
           path="/"
         />
-        <Div id="particles-js" />
         <Card>
           <Name>Adam Demirel.</Name>
           <Text>

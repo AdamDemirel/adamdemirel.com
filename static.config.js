@@ -20,5 +20,6 @@ export default {
         huh: "getdata return value"
       })
     }
-  ]
+  ],
+  plugins: ["react-static-plugin-styled-components"]
 };
