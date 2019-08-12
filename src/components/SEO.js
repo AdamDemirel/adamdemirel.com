@@ -7,6 +7,7 @@ export default ({ title, description, path }) => (
       lang: "en"
     }}
   >
+    {/* SEO */}
     <meta charSet="utf-8" />
     <title>{title}</title>
     <link rel="canonical" href="https://adamdemirel.com" />
@@ -19,8 +20,7 @@ export default ({ title, description, path }) => (
     <meta name="twitter:description" content={description} />
     <link rel="icon" type="image/x-icon" href="/site_assets/favicon.ico" sizes="32x32" />
 
-    {/* <script async src="/particles.js" /> */}
-
+    {/* TRACKING */}
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145443401-1" />
     <script>
       {`
@@ -32,7 +32,6 @@ export default ({ title, description, path }) => (
     `}
     </script>
     <script>{`gtag('config', 'UA-145443401-1', {'page_path': ${path}});`}</script>
-    {/* <!-- Hotjar Tracking Code for https://adamdemirel.com --> */}
     <script>
       {`(function(h,o,t,j,a,r){
           h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -43,5 +42,11 @@ export default ({ title, description, path }) => (
           a.appendChild(r);
       })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');`}
     </script>
+
+    {/* FAVICON */}
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
   </Helmet>
 );

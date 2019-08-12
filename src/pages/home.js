@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { fontFamily, fontWeight, fontSize, width, left, top, space, lineHeight, letterSpacing } from "../backend/StyledSystem";
 import SEO from "../components/SEO";
+import Nav from "../components/Nav";
 
 // navbar in topright with About, Skills, Writing, Works
 // https://designmodo.com/wp-content/uploads/2017/10/neil-portfolio-image.jpg
@@ -15,6 +16,7 @@ export default class Home extends React.Component {
           description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Learn more."
           path="/"
         />
+        <Nav />
         <Card>
           <Name>Adam Demirel.</Name>
           <Text>
@@ -78,7 +80,7 @@ export default class Home extends React.Component {
 
 const Div = styled.div``;
 
-const Card = styled.div`
+export const Card = styled.div`
   width: auto;
   ${top({ top: ["20px", "10%", "10%"] })}
   ${left({ left: ["unset", "unset", "0"] })}
@@ -94,7 +96,7 @@ const Card = styled.div`
   border-radius: 5px;
 `;
 
-const Name = styled.h1`
+export const Name = styled.h1`
   ${fontFamily({ fontFamily: "karla" })}
   ${fontWeight({ fontWeight: 2 })}
   ${fontSize({ fontSize: ["40px", "80px", "110px"] })}
@@ -103,7 +105,7 @@ const Name = styled.h1`
   vertical-align: text-top;
 `;
 
-const Text = styled.p`
+export const Text = styled.p`
   width: 95%;
   ${fontFamily({ fontFamily: "karla" })}
   ${fontSize({ fontSize: ["20px", "24px", "26px"] })}
@@ -112,7 +114,7 @@ const Text = styled.p`
 
 const Span = styled.p``;
 
-const Yellow = styled.span`
+export const Yellow = styled.span`
   background-color: #fefecf;
   color: black;
 
@@ -143,7 +145,7 @@ const Links = styled.ul`
   padding: 0;
 `;
 
-const Li = styled.li`
+export const Li = styled.li`
   display: inline;
   font-family: inherit;
 

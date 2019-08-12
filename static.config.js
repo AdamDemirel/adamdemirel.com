@@ -14,12 +14,12 @@ export default {
       template: "src/pages/home"
     },
     {
-      path: "hello",
-      template: "src/components/test.js",
-      getData: async () => ({
-        huh: "getdata return value"
-      })
+      path: "skills",
+      template: "src/pages/skills"
+      // getData: async () => ({
+      //   huh: "getdata return value"
+      // })
     }
   ],
-  plugins: ["react-static-plugin-styled-components"]
+  plugins: ["react-static-plugin-styled-components", "react-static-plugin-reach-router"]
 };
