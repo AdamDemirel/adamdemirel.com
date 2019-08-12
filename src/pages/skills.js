@@ -3,9 +3,15 @@ import Nav from "../components/Nav";
 import { Yellow, Card, Name, Text } from "./home";
 import styled from "styled-components";
 import { width, space, fontSize } from "../backend/StyledSystem";
+import SEO from "../components/SEO";
 
 export default () => (
   <>
+    <SEO
+      title="Skills - Adam Demirel's Personal Website"
+      description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
+      path="/skills"
+    />
     <Nav />
     <Card>
       <Name>Skills.</Name>
