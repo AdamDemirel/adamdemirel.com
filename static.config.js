@@ -74,5 +74,5 @@ export default {
       }
     }
   ],
-  plugins: ["react-static-plugin-styled-components", "react-static-plugin-reach-router"]
+  plugins: ["react-static-plugin-styled-components", "babel-plugin-styled-components", "react-static-plugin-reach-router"]
 };
