@@ -640,7 +640,7 @@ People who have long commutes are much more miserable than people with short com
 
 In terms of experience, commuting is the least enjoyable of 19 daily activities measured in a well-designed study of how people spent their time and feel about it (30).
 
-Distance to work is established as one of the biggest determinants of well-being, but I can't find anything directly testing its correlation to JS. Related to well-being, commuters have lower life-satisfaction, a lower sense that their daily activities are worthwhile, lower happiness and higher anxiety levels than non-commuters. (https://webarchive.nationalarchives.gov.uk/20140725230415/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/commuting-and-personal-well-being--2014/sty-commuting-and-well-being.html?format=hi-vis)
+Distance to work is established as one of the biggest determinants of well-being, but I can't find anything directly testing its correlation to JS. Related to well-being, commuters have lower life-satisfaction, a lower sense that their daily activities are worthwhile, lower happiness and higher anxiety levels than non-commuters. ([ref](https://webarchive.nationalarchives.gov.uk/20140725230415/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/commuting-and-personal-well-being--2014/sty-commuting-and-well-being.html?format=hi-vis))
 
 Average happiness levels begin to fall after the first 15 minutes of the commute to work, then the negative effects peak at 61-90mins and remain stably detrimental after. The except is when you get to 3h+ each way, the negative effects begin to disappear - suggesting this subset of people might have different expectations and perceptions about their commute.
 
@@ -915,7 +915,9 @@ Projects.
 
 http://www.highbeam.com/doc/1G1-115567607.html \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/)
 
-https://www.researchgate.net/publication/233747919_Vocational_Interests_and_Performance_A_Quantitative_Summary_of_Over_60_Years_of_Research # (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/)
+nye et all 2012
+[Vocational Interests etc](https://www.researchgate.net/publication/233747919_Vocational_Interests_and_Performance_A_Quantitative_Summary_of_Over_60_Years_of_Research )
+# (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/)
 
 http://www.webcitation.org/6UBlH5yen \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/)
 
@@ -947,14 +949,14 @@ https://web.archive.org/web/20150113155248/http://www.wjh.harvard.edu/~dtg/Quoid
 
 http://highered.mheducation.com/sites/007040187x/student_view0/chapter5/self-assessment_5_7.html \* from gns page
 
-nye et all 2012 https://www.researchgate.net/publication/233747919_Vocational_Interests_and_Performance_A_Quantitative_Summary_of_Over_60_Years_of_Research \* tr
 
 judge 2000 - personality and job satisfaction, the mediating role of job characteristics \* tr [looks really good](https://sci-hub.se/http://dx.doi.org/10.1037/0021-9010.85.2.237)
 
 “Warr (1999). Well-being and the workplace. In Kahneman, Diener, & Schwartz (Eds.),Well-being: The foundations of hedonic psychology. New York: Sage.” (from lukeprog happiness references, “job satisfaction is strongly correlated with happiness”)
 Im up to affective dispositions section column 1 page 401
 
-bui 2017 https://www.researchgate.net/publication/315798577_Big_Five_personality_traits_and_job_satisfaction_Evidence_from_a_national_sample \*
+bui 2017 https://www.researchgate.net/publication/315798577_Big_Five_personality_
+traits_and_job_satisfaction_Evidence_from_a_national_sample \*
 
 25 ) > Task Significance and Performance: Meaningfulness as a Mediator https://journals.sagepub.com/doi/pdf/10.1177/1069072716680047
 
@@ -967,7 +969,8 @@ bui 2017 https://www.researchgate.net/publication/315798577_Big_Five_personality
 3)  29 > http://ftp.iza.org/dp1278.pdf
 
 30> Developments in the Measurement
-of Subjective Well-Being https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf (table 2)
+of Subjective Well-Being https://inequality.stanford.edu/sites/default/files/media/_
+media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf (table 2)
 
 31> http://www.panglossinc.com/documents/Therelationshipbetweenpayandjobsatisfaction.pdf
 
@@ -980,7 +983,8 @@ at Work and Work Productivity,
 Organizational Citizenship
 Behavior, and Satisfaction
 
-36 > https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf
+36 > https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_
+wellbeing_employment.pdf
 
 37 > https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
 
