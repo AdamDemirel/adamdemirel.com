@@ -169,7 +169,6 @@ To measure prosocial values, (27) use the benevolence subscale of the Portrait V
 > Forgiving people who might have wronged him is important to him. He tries to see
 > what is good in them and not to hold a grudge.
 
----
 
 ### Task Feedback
 
@@ -212,6 +211,8 @@ Specialization is the extent to which a job involves the performance of tasks re
 ### Problem Solving
 
 Problem solving is the extent to which a job requires the production of unique solutions or ideas - by innovating, solving nonroutine problems, and dealing with (or preventing) errors.
+
+---
 
 # 2. Social Characteristics
 

@@ -1,14 +1,36 @@
 import { async } from "q";
-import showdown from "showdown";
+// import showdown from "showdown";
 import fs from "fs";
-import { resolve } from "path";
-const converter = new showdown.Converter();
+const { create } = require("md-mdast");
+const toHast = require("mdast-util-to-hast");
+const toHtml = require("hast-util-to-html");
+// const converter = new showdown.Converter();
+
+const parser = create();
 
 const getPost = async pageName => {
   return await new Promise((res, rej) => {
     fs.readFile(__dirname + `/content/${pageName}.md`, "utf-8", (err, data) => {
       if (err) throw err;
-      res(converter.makeHtml(data));
+
+      const mdast = parser.tokenizeBlock(data);
+      let hast = toHast(mdast);
+      let num = 0;
+
+      //     console.log(typeof hast)
+      hast.children.map(el => {
+        if (el.tagName === "h1" || el.tagName === "h2" || el.tagName === "h3" || el.tagName === "h4" || el.tagName === "h5" || el.tagName === "h6") {
+          el.properties.id = `section-${num}`;
+          num += 1;
+          return el;
+        }
+
+        return el;
+      });
+
+      res(toHtml(hast));
+
+      // res(converter.makeHtml(data));
     });
   });
 
@@ -66,6 +88,7 @@ export default {
       template: "src/pages/post.js",
       getData: async () => {
         const post = await getPost("job-satisfaction");
+        // console.log("CL: post", post);
 
         return {
           title: "Job Satisfaction",
@@ -74,5 +97,5 @@ export default {
       }
     }
   ],
-  plugins: ["react-static-plugin-styled-components", "babel-plugin-styled-components", "react-static-plugin-reach-router"]
+  plugins: ["react-static-plugin-styled-components", "react-static-plugin-reach-router"]
 };

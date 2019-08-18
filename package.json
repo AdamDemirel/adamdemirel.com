@@ -11,17 +11,24 @@
   "dependencies": {
     "@reach/router": "^1.2.1",
     "babel-plugin-styled-components": "^1.10.6",
+    "hast-util-to-html": "^6.0.2",
+    "md-mdast": "^3.2.0",
+    "mdast": "^3.0.0",
+    "mdast-util-to-hast": "^6.0.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-helmet": "^5.2.1",
+    "react-scrollspy": "^3.4.0",
     "react-static": "^7.0.0",
     "react-static-plugin-reach-router": "^7.0.10",
     "react-static-plugin-sitemap": "^7.0.0",
     "react-static-plugin-source-filesystem": "^7.0.0",
     "react-static-plugin-styled-components": "^7.0.10",
+    "remark-html": "^10.0.0",
     "showdown": "^1.9.0",
     "styled-components": "^4.3.2",
-    "styled-system": "^5.0.21"
+    "styled-system": "^5.0.21",
+    "unified": "^8.3.2"
   },
   "devDependencies": {
     "babel-eslint": "9.x",
