@@ -18,7 +18,6 @@ export default ({ title, description, path }) => (
     <meta name="twitter:creator" content="Adam Demirel" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <link rel="icon" type="image/x-icon" href="/site_assets/favicon.ico" sizes="32x32" />
 
     {/* TRACKING */}
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145443401-1" />
@@ -48,5 +47,6 @@ export default ({ title, description, path }) => (
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" sizes="32x32" />
   </Helmet>
 );
