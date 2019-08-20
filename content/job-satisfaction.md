@@ -877,6 +877,7 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 **Other**
 * Lastly, experiment with the unknowns and how they affect JS: sleep (most importantly), ergonomics, temperature, CO2/air, noise level, job specialization, stress-reducing interventions, and problem solving
 
+# Ultra Compressed Conclusion
 **So basically to find a satisfying career: work a mentally challenging job, with people you like, that ideally suits your personality strengths, that pays okay, close to work, without any obvious negative factors, in a small organisation, preferably part-time, and make sure that you express positive personality traits whilst doing so. If you do this, you will have scientifically and commonsensically maximized your odds at a life of happy work.**
 
 # Recommended Reading
