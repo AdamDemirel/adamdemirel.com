@@ -47,7 +47,7 @@ const getPost = async pageName => {
 // Get started at httsp://react-static.js.org
 
 export default {
-  plugins: ["react-static-plugin-styled-components", "react-static-plugin-reach-router"],
+  plugins: ["react-static-plugin-styled-components"],
   siteRoot: "https://adamdemirel.com",
   getRoutes: async ({ dev }) => [
     {
