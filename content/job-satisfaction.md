@@ -1,3 +1,9 @@
+`150`
+
+
+~~150. https://google.com~~
+
+
 intro (make it enticing)
 If you're like the majority of humans, you will have no option but to work to generate income to provide yourself with food and shelter. Sure, you do have other options like being voluntarily homeless, opting for a life of extreme frugality - eg in a van (https://en.wikipedia.org/wiki/Downshifting_(lifestyle)), living off of welfare or leeching from others, etc (?), but to most these are not seductive alternatives to simply abiding by the system which gives them a regular paycheck.
 
@@ -893,16 +899,20 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 - https://80000hours.org/articles/comparative-advantage/ \*
 
 # Resources & References \*
-- https://www.amazon.co.uk/Handbook-Career-Advising-Josseybass/dp/0470373687 \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/ )
 
-- https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
+~~1. https://www.amazon.co.uk/Handbook-Career-Advising-Josseybass/dp/0470373687 \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/ )~~
+
+
+2. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
+
 
 - https://en.wikipedia.org/wiki/Job_satisfaction \*
 - https://en.wikipedia.org/wiki/Job_design \*
 - https://en.wikipedia.org/wiki/Job_characteristic_theory \*
 
 
-- http://www.amazon.co.uk/Career-Ahead-Complete-Handbook/dp/0956111807 \* (https://80000hours.org/2012/08/how-to-find-a-job-you-ll-love/)
+3. http://www.amazon.co.uk/Career-Ahead-Complete-Handbook/dp/0956111807 \* (https://80000hours.org/2012/08/how-to-find-a-job-you-ll-love/)
+
 
 - For more research on VIA strengths see https://www.viacharacter.org/research/findings/character-strengths-in-the-workplace-and-organizations
 
@@ -993,3 +1003,8 @@ wellbeing_employment.pdf
 
 https://80000hours.org/2014/09/update-dont-follow-your-passion/
 We found that the most important four factors for being satisfied in your work are: 1. Engaging, meaningful work: the extent to which you have variety, autonomy, a sense of completion, feedback and work you feel makes a difference. 2. Getting on with your colleagues: the extent to which you get help from, like and form meaningful relationships with your colleagues. 3. Personal fit: the extent to which you’re good at your job. 4. Hygiene factors: do you have reasonable hours, job security, a short commute and sufficient pay?
+
+
+`35`
+
+~~~50. http://google.com~~~

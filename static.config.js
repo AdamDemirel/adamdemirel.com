@@ -1,10 +1,9 @@
 import { async } from "q";
-// import showdown from "showdown";
 import fs from "fs";
 const { create } = require("md-mdast");
 const toHast = require("mdast-util-to-hast");
 const toHtml = require("hast-util-to-html");
-// const converter = new showdown.Converter();
+const React = require("react");
 
 const parser = create();
 
@@ -14,11 +13,85 @@ const getPost = async pageName => {
       if (err) throw err;
 
       const mdast = parser.tokenizeBlock(data);
+      const refProperties = num => ({
+        hName: "sup",
+        hProperties: {
+          id: [`fnref:${num}`],
+          position: "relative"
+        },
+        hChildren: [
+          {
+            type: "element",
+            tagName: "a",
+            properties: {
+              href: `#fn:${num}`,
+              rel: "footnote",
+              "data-footnote-number": num
+            },
+            children: [{ type: "text", value: num }]
+            // children: [
+            //   {
+            //     type: "text",
+            //     value: "supa"
+            //   }
+            // ]
+          }
+        ]
+      });
+
+      const footnoteProperties = (num, link) => {
+        num = num.replace(". ", "");
+
+        return {
+          hName: "cite",
+          hProperties: {
+            class: "footnote",
+            id: `fn:${num}`
+          },
+          hChildren: [
+            {
+              type: "text",
+              value: `${num}. ${link} `
+            },
+            {
+              type: "element",
+              tagName: "a",
+              properties: {
+                href: `#fnref:${num}`,
+                title: "return to citation"
+              },
+              children: [{ type: "text", value: "↩" }]
+            }
+          ]
+        };
+      };
+
+      mdast.children.forEach(item => {
+        // console.log("CL: item", item);
+        if (item.children && item.children.length !== 0) {
+          item.children.map(child => {
+            if (child.type === "inlineCode") {
+              child.data = refProperties(child.value);
+              return child;
+            } else if (child.type === "spoiler" || child.type === "delete") {
+              let num, link;
+              if (child.children) {
+                num = child.children[0].value;
+                link = child.children[1].value;
+              }
+              child.data = footnoteProperties(num, link);
+            } else {
+              return child;
+            }
+          });
+        }
+      });
+
       let hast = toHast(mdast);
       let num = 0;
 
-      //     console.log(typeof hast)
       hast.children.map(el => {
+        // console.log("el", el.children);
         if (el.tagName === "h1" || el.tagName === "h2" || el.tagName === "h3" || el.tagName === "h4" || el.tagName === "h5" || el.tagName === "h6") {
           el.properties.id = `section-${num}`;
           num += 1;
@@ -29,25 +102,26 @@ const getPost = async pageName => {
       });
 
       res(toHtml(hast));
-
-      // res(converter.makeHtml(data));
     });
   });
-
-  // return content;
 };
 
 // getPost("test").then(data => console.log("data", data));
 
-// This file is used to configure:
-// - static-site generation
-// - Document shell (index.html)
-// - ...tons of other things!
-
-// Get started at httsp://react-static.js.org
-
+//"react-static-plugin-styled-components",
 export default {
-  plugins: ["react-static-plugin-styled-components"],
+  Document: ({ Html, Head, Body, children, state: { siteData, renderMeta } }) => (
+    <Html lang="en-US">
+      <Head>
+        <meta charSet="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script src="https://unpkg.com/littlefoot/dist/littlefoot.min.js" type="application/javascript"></script>
+        <script src="/littlefoot.js" type="application/javascript"></script>
+      </Head>
+      <Body>{children}</Body>
+    </Html>
+  ),
+  plugins: ["react-static-plugin-reach-router"],
   siteRoot: "https://adamdemirel.com",
   getRoutes: async ({ dev }) => [
     {
@@ -97,6 +171,5 @@ export default {
         };
       }
     }
-  ],
-
+  ]
 };

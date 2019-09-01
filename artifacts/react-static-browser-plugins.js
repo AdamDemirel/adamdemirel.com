@@ -3,11 +3,6 @@ import plugin0 from '../node_modules/react-static-plugin-reach-router/browser.ap
 
 // Plugins
 const plugins = [{
-        location: "../node_modules/react-static-plugin-styled-components",
-        plugins: [],
-        hooks: {}
-      },
-{
         location: "../node_modules/react-static-plugin-reach-router",
         plugins: [],
         hooks: plugin0({})

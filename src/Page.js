@@ -8,18 +8,16 @@ import { Router } from "@reach/router";
 export default class Page extends React.Component {
   render() {
     return (
-      <Root>
-        <div id="App">
-          <ThemeProvider theme={theme}>
-            <Suspense fallback={<div>Loading...</div>}>
-              <Body />
-              <Router>
-                <Routes default />
-              </Router>
-            </Suspense>
-          </ThemeProvider>
-        </div>
-      </Root>
+      <Suspense fallback={<div>Loading...</div>}>
+        <ThemeProvider theme={theme}>
+          <Root>
+            <Body />
+            <Router>
+              <Routes default />
+            </Router>
+          </Root>
+        </ThemeProvider>
+      </Suspense>
     );
   }
 }
