@@ -24,9 +24,6 @@ export default {
     {
       path: "skills",
       template: "src/pages/skills"
-      // getData: async () => ({
-      //   huh: "getdata return value"
-      // })
     },
     {
       path: "writing",

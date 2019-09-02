@@ -1,54 +1,48 @@
-`150`
+For the average modern worker, their working week is around 40 hours per week. So assuming tht you work for 40 hours per week, from ages 20-60 before you reite, the total amount of hours that you will work in your life is roughly 80,000 hours (50 weeks x 40 years x 40 hours). That's a lot of hours.
 
-
-~~150. https://google.com~~
-
-
-intro (make it enticing)
-If you're like the majority of humans, you will have no option but to work to generate income to provide yourself with food and shelter. Sure, you do have other options like being voluntarily homeless, opting for a life of extreme frugality - eg in a van (https://en.wikipedia.org/wiki/Downshifting_(lifestyle)), living off of welfare or leeching from others, etc (?), but to most these are not seductive alternatives to simply abiding by the system which gives them a regular paycheck.
+If you're like the majority of humans, you will have no option but to work to generate income to provide yourself with food and shelter. Sure, you do have other options like being voluntarily homeless, opting for a life of extreme frugality - eg in a [van](https://en.wikipedia.org/wiki/Downshifting_(lifestyle))), living off of welfare or leeching from others, etc. But to most, these are not seductive alternatives to simply abiding by the system which gives them a regular paycheck.
 
 > “The three most harmful addictions are heroin, carbohydrates, and a monthly salary.” - Nassim Nicholas Taleb
 
-The average working week is 40 hours, so assuming you work for 40 hours a week, from ages 20-60 before you retire, the amount of total hours that you will work in your life is roughly 80,000 hours (50 weeks _ 40 years _ 40 hours). That's a lot of hours.
+Fortunately, you have a lot of control over how you will spend this time. And given the disproportionate amount of your life that you will spend working, surpassed only by the amount of time spent sleeping, it is only logical to spend some time thinking strategically about how you will spend it, otherwise you risk living an unexamined life.
 
-// Add some comments from finding flow about people spend their lives here.
+Not only do you spend a lot of time working, but how satisfied you are with your job is also one of the strongest determinants of how satisfied with your life you are. These concepts in the research are both referred to as _job satisfaction_ and _life satisfaction_ measures. There is a significant correlation of 0.44 `1` between them. It is suggested that the relationship is reciprocal or bidirectional in cause - ie life satisfaction may have a positive influence on job satisfaction, and job satisfaction can also positively influence life satisfaction.
 
-Fortunately, you have a lot of control over how you will spend this time. And given the disproportionate amount of your life that you will spend there, succeeded only by time spent sleeping, it is only logical to spend some time thinking strategically about how you will spend it, otherwise you may just go with the flow and accept the status quo.
+Funnily enough, retirement or unemployment is not the answer. Unemployment turns out to make people very unhappy `2`. Other research supports that job satisfaction strongly correlates with happiness. `3` `4`. This fits our intuition about the retired getting less happy potentially due to boredom or losing social connections.
 
-Not only do you spend a lot of time working, but how satisfaction you are with your job is also one of the strongest determinants of how satisfied with your life you are. These concepts in the research are both referred to as _job satisfaction_ and _life satisfaction_ measures. There is a significant correlation of 0.44 (sample size 20k, tait et all, 1989) between them. It is suggested that the relationship is reciprocal or bidirectional in cause - ie life satisfaction may positive influence job satisfaction, and job satisfaction can also positively influence life satisfaction.
+According to Gallup `5`, in 2013 around 70% of American workers are either "not engaged" or "actively disengaged" with their work. Given what I've said above, obviously this is not an optimal way to spend a finite existence. The purpose of money is to be a flat medium that allows you to exchange it for things that you want - or more basically, the purpose of money is to solve problems. If the generation of money creates more problems than it solves, then it is no longer serving its purpose and its usefulness should be reevaluated.
 
-Funnily enough, retirement or unemployment is not the answer. Unemployment turns out to make people very unhappy (Argyle (2001). The Psychology of Happiness (2nd ed.). New York: Routledge.). Other research ccccccorrobrates that satisfatrongly correlated with happiness. (Judge & Klinger 2008; Warr 1999)
+Throughout this article, I will be sharing my independent research on which correlations make up job satisfaction, and hopefully by doing so I will increase your awareness of what the current research says about the determinants of a satisfying job, and possibly contribute to your future choices in some way.
 
-According to Gallup, in 2013 around 70% of American workers are either "not engaged" or "actively disengaged" with their work (http://www.gallup.com/strategicconsulting/163007/state-american-workplace.aspx). Given what I've said above, obviously this is not an optimal way to spend ones existence. The purpose of money is to be a flat medium that allows you to exchange it for things that you want - or more basically, the purpose of money is to solve problems. If the generation of money creates more problems than it solves, then it is no longer serving its purpose.
-
-Throughout this (article) I will be reviewing my research on which criteria/determinants/causes/aspects make up job satisfaction, and hopefully being aware of what the current research says will influence your choices in some way.
-
-If you want to skip straight to the results, see section #research summary
+If you want to skip straight to the results, see the [research summary](#research-summary) for the correlation matrix, the  [conclusion](#conclusion) for the readable summary of the whole article, or the [ultra compressed conclusion](#ultra-compressed-conclusion) if you want a TL;DR, but note by doing so you will be losing a lot of granularity and context and the suggestions will bear little weight.
 
 # Job Satisfaction
 
-_Job satisfaction_ is a measurement taken in Psychology of an attitude that people have towards their job, measured in a variety of ways. It is linked to worker productivity and performance, motivation, workplace civility, prosociality, absenteeism, lateness, stress (https://www.sciencedirect.com/science/article/pii/S0191308510000067), accidents, withdrawal intentions and employee turnover/retention, organisational commitment, mental and physical health, and most interestingly _life satisfaction_. The most widely built upon definition of job satisfaction is that it is
+_Job satisfaction_ (_JS_ henceforth) is a measurement taken in Psychology of an attitude that people have towards their job, measured in a variety of ways. It is linked to `6` worker productivity and performance, motivation, workplace civility, prosociality, absenteeism, lateness, stress `7`, accidents, withdrawal intentions and employee turnover/retention, organisational commitment, mental and physical health, and most interestingly _life satisfaction_.
+
+The most widely built upon definition of job satisfaction is that it is
 
 > “a pleasurable or positive emotional state resulting from the appraisal of one’s job or job experiences”.
 
-There are three main ways to measure job satisfaction: evaluative, cognitive, and behavioural. Evaluative satisfaction is when the subject reports "I like/dislike my job". Cognitive satisfaction regards beliefs about the nature of subjects work - eg that their work is challenging/respectable/demanding/rewarding. And indirect behavioural measurements of job satisfaction are found via absenteeism, lateness, sickness.
+There are three main ways to measure JS: evaluative, cognitive, and behavioural. Evaluative satisfaction is when the subject reports "I like/dislike my job". Cognitive satisfaction regards beliefs about the nature of the subjects work - eg that their work is challenging / respectable / demanding / rewarding. And indirect behavioural measurements of JS are found via absenteeism, lateness, sickness.
 
-There are five main schools of thought on what leads to job satisfaction:
+There are five main schools of thought on what leads to JS:
 
-1. Motivation Characteristics - That satisfying jobs contain specific attributes in and of themselves that make them satisfying.
-2. Social Characteristics - That job satisfaction is derived from positive social interactions.
-3. Environment Characteristics - There are factors in the workplace environment itself that are important.
-4. Dispositional / Worker Characteristics - Job satisfaction is mediated by personality
-5. Person-Environment Fit - The match between an individuals interests and preferences, and the job.
+1. [Motivational Characteristics](#1.-motivational-characteristics) - That satisfying jobs contain specific attributes in and of themselves that make them satisfying.
+2. [Social Characteristics](#2.-social-characteristics) - That job satisfaction is derived from positive social interactions.
+3. [Environmental Characteristics](#3.-environmental-characteristics) - There are factors in the workplace environment itself that are important to JS.
+4. [Worker Characteristics](#4.-worker-characteristics) - Job satisfaction is mediated by personality
+5. [Person-Environment Fit](#5.-person-environment-fit) - The match between an individuals interests and preferences, and the job.
 
-1-3 Have really good dateaan them which will look at to see how much they are related to job satisfaction. 4 and 5 both have some data but not quite as robust, and will also look at them. We will then look at a handful of other variables which also are less well supported than the first 3 but nonetheless are relevant - such as income.
+Schools 1-3 Have really good data on them which we will look at to see how much they are related to job satisfaction. Schools 4 and 5 both have some data but not quite as robust. We will then look at a handful of other variables which also are less well supported than the first 3 but nonetheless are relevant - such as income.
 
-I'm going to cover what the research on these has to say, and then explore a list of variables that I think are noteworthy, and hopefully we can discover which determinants/antecedents/predictors of job satisfaction, so that we can control them. Although the following may seem like a lot of information and correlational evidence, note that the main paper it is drawn from (humphrey 2007) originally found 6,333 unique correlations across 260 articles with a pooled sample size of X, and these were the most noteworthy.
+I'm going to cover what the research on these has to say, and then explore a list of variables that I think are noteworthy, and hopefully during that process we can discover what are the most valid determinants / antecedents / predictors of job satisfaction so that we can control them. Although the following may seem like a lot of information and correlational evidence, note that the main paper it is drawn from - Humphrey (2007) `8` originally found 6,333 unique correlations across 260 articles with a pooled sample size of 75,000 subjects, and those discussed here were the most noteworthy out of them all.
 
-Throughout the article I will be posting a number that correlates with the amount of job satisfaction, eg x correlates with job satisfaction by y amount. what this means is:
+Throughout the article I will be posting a number that correlates with the amount of job satisfaction, eg "Noise correlates with job satisfaction by 0.33 amount". If you are unsure what this means, it is this: Suppose you wanted to figure out what the likelihood of getting in a car accident whilst driving drunk was. The way to answer that question is to look at a sample of drivers, lets say 100 of them, and look at how many got in an accident in total over a certain period, lets say 12 months. If 20 of those drivers got into a car accident, and we found out at that every single one of them had alcohol in their system, the correlation between drinking and getting in an accident is 100% or 1.0. That is, every single driver that got in an accident also had alcohol in their system. When correlations are this strong, and with a large sample size, you can reasonably deduce that one thing is causal on the other, or that they correlate highly enough that they both overlap on some third causal factor which is still affected by it. If only 1/3rd of the drivers had alcohol in their system, then the correlation would be roughly 0.33.
 
-- How does this all relate to job satisfaction? Mention drunk driving example. So basically the more characteristics you have down, the more likely you are to have job satisfaction. And even if you have some factors under control, others still have the opportunity to control it.
+How does this all relate to job satisfaction? Basically the more characteristics you have down, the more likely you are to have job satisfaction, even if they aren't causal. Just like finding out that 33% of driving accidents are by drivers with alcohol in their system, and it being wise to avoid doing this thing that correlates with that risk, in the same vein it is wise to follow the correlations for JS. And note that in the same way not drinking doesn't 100% prevent the risk of accidents - you can still get hit by another driver, you can have certain JS factors under control and other factors can still have the ability to raise or lower your JS.
 
+// UP TO HERE
 The absolute best measure we have of Job Satisfaction as a whole is done via the "Overall Job Satisfaction Measure", a 5-item inventory that correlates extremely highly at 0.85 which is what you'd expect when it is directly asking you about JS:
   > 1. All things considered, are you satisfied with your present job (circle one)? YES NO
   > 2. How satisfied are you with your job in general (circle one)? 1 very dissatisfied; 2 somewhat dissatisfied; 3 neutral; 4 somewhat satisfied; 5 very satisfied.
@@ -97,7 +91,7 @@ It was later argued (Breaugh 1985, Morgeson and Humphrey 2006) that autonomy was
 2. Work Methods Autonomy - The freedom to control which methods and procedures are utilized (jackson and colleagues 1993)
 3. Decision Making Autonomy - The freedom to make decisions at work (Karasek et al 1998)
 
-So roughly speaking, job autonomy is how much the job allows you to decide yourself _how and when to do your work_. A paper also calls it simply “absence of close supervision” (warr 1999);
+So roughly speaking, job autonomy is how much the job allows you to decide yourself _how and when to do your work_. A paper also calls it simply “absence of close supervision” `4`.
 
 ### Skill Variety / Task Variety
 
@@ -116,7 +110,7 @@ Skill Identity was measured by asking:
 > The opportunity to do a number of different things
 > The amount of variety in my job
 
-So roughly speaking, task and skill variety are together the extent to which a job allows an individual to _engage in different tasks utilizing different skills_. A paper also calls it simply _nonrepetitive work_ (warr 1999);
+So roughly speaking, task and skill variety are together the extent to which a job allows an individual to _engage in different tasks utilizing different skills_. A paper also calls it simply _nonrepetitive work_ `4`.
 
 ### Task Identity
 
@@ -266,9 +260,9 @@ This is the extent to which a job requiries an individual to communicate with pe
 
 You would think that being able to chat with coworkers on the job would be quite important for job satisfaction, but it only has a mere .04 correlation, but a .11 correlation with net emotional state while on the job. (kahneman 2006 measurement.pdf
 
-# 3. Work Context Characteristics / Environmental Determinants
+# 3. Environmental Characteristics
 
-Work Context Characteristics are a relatively neglected area of research, but it involves the features of the working environment itself that may influence job satisfaction, the three most noteworthy being:
+Environmental characteristics, or 'Work Context Characteristics' as they are more oddly referred to in the literature, are a relatively neglected area of research, but it involves the features of the working environment itself that may influence job satisfaction, the three most noteworthy being:
 
 - Physical Demands / Ease
 - Work Conditions
@@ -300,9 +294,9 @@ Ergonomics involves the extent to which work permits appropriate posture and mov
 
 Although there is a dizzying array of research on the effect of CO2 on job performance, I couldn't seem to find any research done directly on job satisfaction.
 
-# 4. Dispositional / Worker Characteristics
+# 4. Worker Characteristics
 
-Dispositional Caracteristics are the extent to which job satisfaction is a result of internal traits of the worker. Some people may just be optimists or pessimists in regards to their work. Te idea is tat certain personality traits - eg how neurotic you are, can influence your evaluation of _any_ job. Though it doesnt plan to invalidate JCM or social caracteristics, but to explain why those eneral principles dont account for all of te variation in job satisfaction.
+Worker Characteristics (or Dispositional Caracteristics as they are referred to in the lit), are the extent to which job satisfaction is a result of internal traits of the worker. Some people may just be optimists or pessimists in regards to their work. Te idea is tat certain personality traits - eg how neurotic you are, can influence your evaluation of _any_ job. Though it doesnt plan to invalidate JCM or social caracteristics, but to explain why those eneral principles dont account for all of te variation in job satisfaction.
 
 Its one of te latest metods of explaining job satisfaction, and it argues that it hinges on personality and individual traits, and that some people are inclined to be satisfied or dissatisfied with their work irrespective of the job characteristics or other factors (Jex 2002)
 
@@ -521,7 +515,7 @@ See the job performing section.
 Beyond the five main schools of thought above, there has been a lot of separate research into individual variables which affect job satisfaction. I've included research on those below that I believe are the most noteworthy.
 
 ## Income
-Income level is obviously one of the top factors that people weight when career planning or predicting what jobs are satisfying. Obviously this has been recognized by JS researchers. Warr (1999) simply referred to it as the "availability of money for needs".
+Income level is obviously one of the top factors that people weight when career planning or predicting what jobs are satisfying. Obviously this has been recognized by JS researchers. Warr (1999) `4` simply referred to it as the "availability of money for needs".
 
 To start off with, it used to be thought that the social norm to work was the cause that unemployment made people unhappy, but it turns oout that it is is not affected by the social norm to work, but instead it was found that affluence and possessing money in and of itself was what mattered (https://journals.sagepub.com/doi/abs/10.1177/0950017014564602).
 
@@ -558,7 +552,7 @@ So the conclusion is not to aim for income to increase job satisfaction.
 
 ## Job Status
 
-Job Status is to the extent that your position is socially valued by others, which in turn influences your perceived social worth. A paper also calls it simply _self respect from the job_ (warr 1999). For example, lawyers and doctors are two conventionally high status positions. This is one of the top criteria that younger people select by (interesting view [here](http://www.paulgraham.com/love.html))
+Job Status is to the extent that your position is socially valued by others, which in turn influences your perceived social worth. A paper also calls it simply _self respect from the job_ `4`. For example, lawyers and doctors are two conventionally high status positions. This is one of the top criteria that younger people select by (interesting view [here](http://www.paulgraham.com/love.html))
 
 A low status job affects job satisfaction with a -.23 correlation, but only affects net emotional state on the job by -.12. (kahneman 2006 measurement.pdf)
 
@@ -889,7 +883,6 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 # Recommended Reading
 
 - A really good summary of job satisfaction research can be found in chapter 6 of 'handbook of principles of organizational behaviour' promote job satisfaction through mental challenge. timothy a judge and ryan klinger. judge and kliner 2009 “promote job satisfaction through mental challenge”
-- https://wikispaces.psu.edu/display/PSYCH484/11.+Job+Satisfaction
 - https://oshwiki.eu/wiki/Job_satisfaction:_theories_and_definitions \*
 - http://dilbert.com/search_results?terms=Career+Advice
 - https://80000hours.org/articles/job-satisfaction-research/
@@ -899,11 +892,28 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 - https://80000hours.org/articles/comparative-advantage/ \*
 
 # Resources & References \*
+~~1. Tait, M., Padgett, M. and Baldwin, T. (1989) Job and Life Satisfaction: A Reevaluation of the Strength of the Relationship and Gender Effects as a Function of the Date of the Study. Journal of Applied Psychology, 74, 502-507. http://dx.doi.org/10.1037/0021-9010.74.3.502 (Sample size 20k).~~
 
-~~1. https://www.amazon.co.uk/Handbook-Career-Advising-Josseybass/dp/0470373687 \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/ )~~
+~~2. Argyle (2001). The Psychology of Happiness (2nd ed.). New York: Routledge.~~
+
+~~3. Judge & Klinger 2008. [Job satisfaction: Subjective well-being at work.](https://psycnet.apa.org/record/2008-00541-019)~~
+
+~~4. Warr (1999). Well-being and the workplace. In Kahneman, Diener, & Schwartz (Eds.), Well-being: The foundations of hedonic psychology. New York: Sage.~~ *
+
+~~5. http://www.gallup.com/strategicconsulting/163007/state-american-workplace.aspx~~
+
+~~6. https://wikispaces.psu.edu/display/PSYCH484/11.+Job+Satisfaction~~
+
+~~7. https://www.sciencedirect.com/science/article/pii/S0191308510000067~~
+
+~~8. [Humphrey, Nahrgang 2007. "Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature"](https://msu.edu/~morgeson/humphrey_nahrgang_morgeson_2007.pdf)~~
+
+"http://www.timothy-judge.com/c06.pdf Judge, T. A., Klinger, R. (2009). “Promote Job Satisfaction through Mental Challenge”. Handbook of Principles of Organizational Behaviour, Second Ed, pp107-119)~~
+
+https://www.amazon.co.uk/Handbook-Career-Advising-Josseybass/dp/0470373687 \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/ )~~
 
 
-2. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
+ https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
 
 
 - https://en.wikipedia.org/wiki/Job_satisfaction \*
@@ -911,7 +921,7 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 - https://en.wikipedia.org/wiki/Job_characteristic_theory \*
 
 
-3. http://www.amazon.co.uk/Career-Ahead-Complete-Handbook/dp/0956111807 \* (https://80000hours.org/2012/08/how-to-find-a-job-you-ll-love/)
+1. http://www.amazon.co.uk/Career-Ahead-Complete-Handbook/dp/0956111807 \* (https://80000hours.org/2012/08/how-to-find-a-job-you-ll-love/)
 
 
 - For more research on VIA strengths see https://www.viacharacter.org/research/findings/character-strengths-in-the-workplace-and-organizations
@@ -934,17 +944,15 @@ http://www.webcitation.org/6UBlH5yen \* (https://80000hours.org/2013/04/how-impo
 
 http://www.timothy-judge.com/ See selected chapters at the end (googled his name due to being author in 2 textbook chaps above from 80k)
 
-https://msu.edu/~morgeson/humphrey_nahrgang_morgeson_2007.pdf \* ("http://www.timothy-judge.com/c06.pdf Judge, T. A., Klinger, R. (2009). “Promote Job Satisfaction through Mental Challenge”. Handbook of Principles of Organizational Behaviour, Second Ed, pp107-119)
+
 
 Hackman, Oldham (1975) Development of the Job Diagnostic Survey. #
 
 https://www.sciencedirect.com/science/article/abs/pii/S000187919991727X \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/)
 
-Humphrey Nahrgrang (2007) Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature. #
-
 Judge & Klinger (2008). Job satisfaction: Subjective well-being at work. In Eid & Larsen (Eds.), The science of subjective well-being (pp. 393-413). New York: Guilford. #rr
 
-Warr (1999). Well-being and the workplace. In Kahneman, Diener, & Schwartz (Eds.), Well-being: The foundations of hedonic psychology. New York: Sage. \* tr
+
 
 CH1 handbook of principles of oganizational behaviour ‘Select on Intelligence’ #
 
@@ -963,8 +971,7 @@ http://highered.mheducation.com/sites/007040187x/student_view0/chapter5/self-ass
 
 judge 2000 - personality and job satisfaction, the mediating role of job characteristics \* tr [looks really good](https://sci-hub.se/http://dx.doi.org/10.1037/0021-9010.85.2.237)
 
-“Warr (1999). Well-being and the workplace. In Kahneman, Diener, & Schwartz (Eds.),Well-being: The foundations of hedonic psychology. New York: Sage.” (from lukeprog happiness references, “job satisfaction is strongly correlated with happiness”)
-Im up to affective dispositions section column 1 page 401
+
 
 bui 2017 https://www.researchgate.net/publication/315798577_Big_Five_personality_
 traits_and_job_satisfaction_Evidence_from_a_national_sample \*
