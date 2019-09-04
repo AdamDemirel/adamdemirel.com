@@ -673,8 +673,8 @@ Those 14 Work Characteristics (2.0 below) include the Motivational Characteristi
 
 Here is a complete summary of all of the variables and correlations mentioned throughout this article, the most important part of this whole article:
 
-//  TODO: * all dot points link to the appropriate sections.
 ## Correlation Summary
+- See the sidebar for links
 1. Overall Job Satisfaction Measure .85
 2. Work Characteristics
    1. Motivational Characteristics
@@ -793,7 +793,7 @@ I did find one paper `55`  which measured global JS across 50k participants and 
 
 Which is interesting and indicative, but I wouldn't weigh it *too* highly.
 
-The other best and crudest thing that I could find was [this](https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/future-intentions) which measures intention to change fields by industry, which you would assume somewhat correlates with JCM. You could potentially use these rates to inform your decision of how dissatisfied people are in different industries. At a high level, food and accomodation services, arts and recreation services, and admin and support services all have the highest turnover intentions. mining, professional, scientific and technical services, construction, [public admin and safety](https://joboutlook.gov.au/IndustrySpecific?search=Industry&Industry=O), and IT have the lowest.
+The other best and crudest thing that I could find was [this](https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/future-intentions) which measures intention to change fields by industry, which you would assume somewhat correlates with JCM. You could potentially use these rates to inform your decision of how dissatisfied people are in different industries. At a high level, food and accomodation services, arts and recreation services, and admin and support services all have the highest turnover intentions. Whereas mining, professional, scientific and technical services, construction, [public admin and safety](https://joboutlook.gov.au/IndustrySpecific?search=Industry&Industry=O), and IT have the lowest.
 
 I think a better approach to filtering jobs is to start with your passions, interests, and strengths, even if not perfect, and then filter by JCM and job complexity. I would weigh job complexity and JCM about equally as highly. So the more complex the job, the better.
 
@@ -804,8 +804,8 @@ Then once you have a list, I would email, talk to, meet, interview, etc, as many
 Once you find jobs that seem like a good personal fit, and have the JCM, it might be worth trying to do an unpaid internship, volunteering, or participation in workshops just to try to get as close as you can to the day to day tasks of the job and assess how you feel doing it.
 
 Hopefully the above gets you 90% of the way there. If not, the ~.20-.30 correlations may be worth cross checking, and make sure that:
-* you're not overqualified for the job
-* that it preferably requires specialized education
+* You're not overqualified for the job
+* That it preferably requires specialized education
 * It doesn't require fast working speed (like hospitality)
 * The job isn't low status
 * That you preferably get to interact with others inside the organisation as a part of your job / Interdependnece (weigh this more highly than the previous)
@@ -817,16 +817,16 @@ Besides all of that, the only other thing you should weigh in your job is the si
 ## Post-Career Selection
 Once you've decided on career, or are in one, there is a handful of things that are still within your control to maximize your job satisfaction.
 
-If you are already in a job and it is low in the JCM, there's a handful of things that you can do to increase them, and the mental challenge that results (also useful for managers):
-1. job rotation – rotate employees from one job to another once mastered and no longer challenged.
-2. job enlargement/horizontal loading – expand/add tasks to a particular job. > increased variety
-3. job enrichment/vertical loading – add responsibilities (like staffing, scheduling, performance appraisals) > increased autonomy
+If you are already in a job and it is low in the JCM, there's a handful of things that you can do to increase them, and the mental challenge that results from doing so (also useful for managers):
+1. Job Rotation – rotate employees from one job to another once mastered and no longer challenged.
+2. Job Enlargement / Horizontal Loading – expand/add tasks to a particular job. > increased variety
+3. Job Enrichment / vertical Loading – add responsibilities (like staffing, scheduling, performance appraisals) > increased autonomy
 
-First, change jobs or negotiate salary if your income is less than 700 per week, non-negotiable, as this can invalidate everything else. Once it is over that, it is sufficient to optimize JS.
+First, change jobs or negotiate salary if your income is less than 700aud per week, non-negotiable, as this can invalidate everything else. Once it is over that, it is sufficient to optimize JS.
 
 The second most non-job characterstic improvement that you can make after your income is above 700$/wk is to live as close to work as possible. The negative effect on this on job dissatisfaction is just as dramatic as the negative effects of low income. Ideally you are within 15 minutes of walking/cycling distance. Weigh distance over transport mode.
 
-You might be slightly happier working part-time than full-time, but only if it doesn't negatively affect your income too much. If you can find a work situation in a job that you fits all the other criteria, is close to work, and still pays well whilst allowing you to work part-time, you should definitely experiment with it as a means of improvement your JS.
+You might be slightly happier working part-time than full-time, but only if it doesn't negatively affect your income too much. If you can find a work situation in a job that you fits all the other criteria, is close to work, and still pays well whilst allowing you to work part-time, you should definitely experiment with it as a means of improving your JS.
 
 Now that your job and environment is taken care of, the last thing within your control is **you** and your personality.
 
@@ -836,18 +836,18 @@ Okay so we established that your personal life has spill-over effects on your wo
 
 If it turns out that if you are a neurotic person and quite susceptible to negative emotions, there is a lot of different things that you can try, but you should know that many people worse off than yourself have found things that worked well for them, so don't abandon this too soon. It's worth starting [here](https://80000hours.org/career-guide/how-to-be-successful/#2-if-necessary-make-mental-health-your-top-priority), and trying [these](https://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/) evidenced-based treatments for depressive moods, or [these](https://slatestarcodex.com/2015/07/13/things-that-sometimes-work-if-you-have-anxiety/) for anxious.
 
-If it turns out that you are not very neurotic, the next few things that you should give equal importance to from the big5 are increasing your extraversion, agreeableness, and conscientousness, by trying [these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills). Don't focus on openness at all (at least not for job satisfaction).
+If it turns out that you are not very neurotic, the next few things that you should give equal importance to from the big5 are increasing your extraversion, agreeableness, and conscientousness, by trying [these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills). Don't focus on openness at all (at least not for JS).
 
 Even more important than any of the BIG5 traits (including neuroticism) is your self-esteem. Your self-esteem is the biggest personality variable which can mediate JS, and you can attempt to improve it [by trying these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills). Less important but still so are your self-efficacy and locus of control. A basic primer on improving locus of control is [this](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination#spirals), but for a more thorough treatment, CBT is basically a match for this - have a look at the book Learned Optimism by Martin Seligman. As for self-efficacy, it might be worth trying some of [these](https://positivepsychology.com/3-ways-build-self-efficacy/) or researching farther.
 
-If that all sounds overwhelming, 80000 hours again has some good [advice](https://80000hours.org/2014/12/stop-worrying-so-much-about-the-long-term/) which is:
+If everything all sounds overwhelming, 80000 hours again has some good [advice](https://80000hours.org/2014/12/stop-worrying-so-much-about-the-long-term/) which is:
 > Especially if you’re at the start of your career, try not to worry too much about what you’re going to do long-term. Instead, focus on making your next decision. | The best way to take account of the long-term is to focus on taking a step that will improve your career capital and help you learn more.
 
 and William MacAskill (one of the EA founders), in his TED talk, recommends learning things to build skills if you're unsure about what to do long-term.
 
 # Conclusion
 
-In conclusion, the final take away from all of this to keep it simple is to do the following, in order of priority:
+In conclusion, the final take away from all of this to keep it simple(r) is to do the following, in order of priority:
 
 **The Job**
 * The most important characteristic of a job is that it is socially supporting in allowing you to receive feedback, from your supervisors and coworkers
@@ -881,7 +881,7 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 * Lastly, experiment with the unknowns and how they affect JS: sleep (most importantly), ergonomics, temperature, CO2/air, noise level, job specialization, stress-reducing interventions, and problem solving
 
 # Ultra Compressed Conclusion
-**So basically to find a satisfying career: work a mentally challenging job, with people you like, that ideally suits your personality strengths, that pays okay, close to work, without any obvious negative factors, in a small organisation, preferably part-time, and make sure that you express positive personality traits whilst doing so. If you do this, you will have scientifically and commonsensically maximized your odds at a life of happy work.**
+**So basically to find a satisfying career: work a mentally challenging job, with people you like and receive support from, that ideally suits your personality strengths, that pays okay, close to home, without any obvious negative factors, in a small organisation, preferably part-time, and make sure that you express positive personality traits whilst doing so. If you do this, you will have scientifically and commonsensically maximized your odds at a life of happy work.**
 
 # Recommended Reading
 
