@@ -1,5 +1,5 @@
-const React = require("react");
-const getPost = require("./src/backend/getPost.js");
+import React from "react";
+import getPost from "./getPost.js";
 
 //"react-static-plugin-styled-components",
 export default {

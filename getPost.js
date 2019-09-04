@@ -7,7 +7,7 @@ const parser = create();
 
 // getPost("test").then(data => console.log("data", data));
 
-export default async function getPost(pageName) {
+export default async pageName => {
   return await new Promise((res, rej) => {
     fs.readFile(__dirname + `/content/${pageName}.md`, "utf-8", (err, data) => {
       if (err) throw err;
@@ -71,7 +71,9 @@ export default async function getPost(pageName) {
               let num, link;
               if (child.children) {
                 num = child.children[0].value;
-                link = child.children[1].value;
+                if (child.children[1]) {
+                  link = child.children[1].value;
+                }
               }
               child.data = footnoteProperties(num, link);
             } else {
@@ -98,4 +100,4 @@ export default async function getPost(pageName) {
       res(toHtml(hast));
     });
   });
-}
+};
