@@ -83,29 +83,29 @@ export default withRouteData(({ title, content, path }) => {
                 <a href="#section-50">6.1 Income</a>
               </li>
               <Li>
-                <a href="#section-64">7. Experience Sampling Method</a>
+                <a href="#section-64">7. Experience Sampling</a>
               </Li>
               <li>
                 <a href="#section-65">8. Research Summary</a>
               </li>
               <li>
-                <a href="#section-65">8.1. Correlation Summary</a>
+                <a href="#section-66">8.1. Correlation Summary</a>
               </li>
               <li>
-                <a href="#section-66">9. Application</a>
+                <a href="#section-67">9. Application</a>
               </li>
               <li>
-                <a href="#section-68">10. Conclusion</a>
+                <a href="#section-69">10. Conclusion</a>
               </li>
               <li>
-                <a href="#section-69">11. Ultra Compressed Conclusion</a>
+                <a href="#section-70">11. Compressed Conclusion</a>
               </li>
 
               <Li>
-                <a href="#section-69">12. Recommended Reading</a>
+                <a href="#section-71">12. Recommended Reading</a>
               </Li>
               <Li>
-                <a href="">13. Resources & References</a>
+                <a href="#section-73">13. Resources & References</a>
               </Li>
             </Scrollspy>
           </ScrollspyStickyWrapper>
