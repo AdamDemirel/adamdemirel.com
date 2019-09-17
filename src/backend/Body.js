@@ -5,6 +5,7 @@ export default createGlobalStyle`
     font-family: "Karla";
     src: url("/fonts/Karla-Bold.woff") format("woff");
     font-style: normal;
+    font-display: swap;
     font-weight: 700;
   }
 
@@ -13,6 +14,7 @@ export default createGlobalStyle`
     src: url("/fonts/Karla-Regular.woff") format("woff");
     font-style: normal;
     font-weight: 400;
+    font-display: swap;
   }
 
   body {
