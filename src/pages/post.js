@@ -5,12 +5,18 @@ import { Name } from "../pages/home";
 import styled from "styled-components";
 import { top, left, space, fontFamily, fontSize, lineHeight } from "../backend/StyledSystem";
 import Scrollspy from "react-scrollspy";
+import SEO from "../components/SEO";
 
 export default withRouteData(({ title, content }) => {
   // console.log("post props", props);
 
   return (
     <>
+      <SEO
+        title={`${title} - Writing - Adam Demirel's Personal Website`}
+        description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
+        path="/tochange"
+      />
       <Nav />
       <Card>
         <Name>{title}</Name>
