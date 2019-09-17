@@ -44,7 +44,8 @@ export default {
 
         return {
           title: "Sleep",
-          content: post
+          content: post,
+          path: "sleep"
         };
       }
     },
@@ -56,7 +57,8 @@ export default {
 
         return {
           title: "Job Satisfaction",
-          content: post
+          content: post,
+          path: "job-satisfaction" // for GA
         };
       }
     }

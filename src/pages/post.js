@@ -7,7 +7,7 @@ import { top, left, space, fontFamily, fontSize, lineHeight } from "../backend/S
 import Scrollspy from "react-scrollspy";
 import SEO from "../components/SEO";
 
-export default withRouteData(({ title, content }) => {
+export default withRouteData(({ title, content, path }) => {
   // console.log("post props", props);
 
   return (
@@ -15,7 +15,7 @@ export default withRouteData(({ title, content }) => {
       <SEO
         title={`${title} - Writing - Adam Demirel's Personal Website`}
         description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
-        path="/tochange"
+        path={`/${path}`}
       />
       <Nav />
       <Card>
