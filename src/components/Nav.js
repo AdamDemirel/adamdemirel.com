@@ -4,23 +4,39 @@ import { Li } from "../pages/home";
 import { Link } from "@reach/router";
 import { space } from "../backend/StyledSystem";
 
+const NavLink = props => (
+  <StyledLink
+    {...props}
+    getProps={({ isCurrent }) => {
+      // the object returned here is passed to the
+      // anchor element's props
+      return {
+        style: {
+          backgroundColor: isCurrent ? "#625cdf" : "transparent",
+          color: isCurrent ? "white" : "inherit"
+        }
+      };
+    }}
+  />
+);
+
 export default () => (
   <Nav>
     <Li>
-      <StyledLink to="/" exact>
+      <NavLink to="/" exact>
         About
-      </StyledLink>
+      </NavLink>
     </Li>
     <Li>
-      <StyledLink to="/skills" exact>
+      <NavLink to="/skills" exact>
         Skills
-      </StyledLink>
+      </NavLink>
     </Li>
-    {/* <Li>
-      <StyledLink to="/writing" exact>
+    <Li>
+      <NavLink to="/writing" exact>
         Writing
-      </StyledLink>
-    </Li> */}
+      </NavLink>
+    </Li>
   </Nav>
 );
 
@@ -33,7 +49,6 @@ const Nav = styled.ul`
 `;
 
 const StyledLink = styled(Link)`
-  ${space({ p: "5px" })}
   font-family: Karla;
   text-decoration: none;
   font-weight: 700;

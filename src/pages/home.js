@@ -100,7 +100,7 @@ export const Name = styled.h1`
   ${fontFamily({ fontFamily: "karla" })}
   ${fontWeight({ fontWeight: 2 })}
   ${fontSize({ fontSize: ["40px", "80px", "110px"] })}
-  ${space({ mt: 0, ml: 0, mr: 0, mb: ["30px", "35px", "40px"], p: 0 })}
+  ${space({ mt: "15px", ml: 0, mr: 0, mb: ["30px", "35px", "40px"], p: 0 })}
   ${letterSpacing({ letterSpacing: ["-2px", "-2px", "-5px"] })}
   vertical-align: text-top;
 `;
@@ -148,6 +148,7 @@ const Links = styled.ul`
 export const Li = styled.li`
   display: inline;
   font-family: inherit;
+  ${space({ m: "5px" })}
 
   color: #625cdf;
 

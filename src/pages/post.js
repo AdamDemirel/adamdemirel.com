@@ -65,21 +65,6 @@ export default withRouteData(({ title, content }) => {
                 <a href="#section-2">1.1 Job Characteristics Model</a>
               </li>
               <li>
-                <a href="#section-3">1.1.1 Autonomy</a>
-              </li>
-              <li>
-                <a href="#section-4">1.1.2 Skill Variety / Task Variety</a>
-              </li>
-              <li>
-                <a href="#section-5">1.1.3 Task Identity</a>
-              </li>
-              <li>
-                <a href="#section-6">1.1.4 Task Significance</a>
-              </li>
-              <li>
-                <a href="#section-8">1.1.5 Task Feedback</a>
-              </li>
-              <li>
                 <a href="#section-9">1.2 Growth Needs Strength</a>
               </li>
               <li>
@@ -89,46 +74,16 @@ export default withRouteData(({ title, content }) => {
               <Li>
                 <a href="#section-15 ">2. Social Characteristics</a>
               </Li>
-              <li>
-                <a href="#section-16">2.1 Social Information Processing</a>
-              </li>
-              <li>
-                <a href="#section-17">2.2 Interdependence</a>
-              </li>
-              <li>
-                <a href="#section-18">2.3 Feedback from Others</a>
-              </li>
               <Li>
                 <a href="#section-22">3. Environment Characteristics</a>
               </Li>
               <Li>
                 <a href="#section-29">4. Worker Characteristics</a>
               </Li>
-              <li>
-                <a href="#section-30">4.1 Genetics</a>
-              </li>
-              <li>
-                <a href="#section-32">4.2 The Big Five Personality Traits</a>
-              </li>
-              <li>
-                <a href="#section-38">4.3 Core Self-Evaluations</a>
-              </li>
-              <li>
-                <a href="#section-43">4.4 Affective Disposition</a>
-              </li>
 
               <Li>
                 <a href="#section-44">5. Person-Environment Fit</a>
               </Li>
-              <li>
-                <a href="#section-45">5.1 Myers Briggs</a>
-              </li>
-              <li>
-                <a href="#section-46">5.2 Holland Codes</a>
-              </li>
-              <li>
-                <a href="#section-47">5.3 Values in Action</a>
-              </li>
 
               <Li>
                 <a href="#section-49">6. Other</a>
@@ -136,21 +91,14 @@ export default withRouteData(({ title, content }) => {
               <li>
                 <a href="#section-50">6.1 Income</a>
               </li>
-              <li>
-                <a href="#section-55">6.2 Organisation Size</a>
-              </li>
-              <li>
-                <a href="#section-58">6.3 Employment Type</a>
-              </li>
-              <li>
-                <a href="#section-63">6.4 Commute Time</a>
-              </li>
-
               <Li>
                 <a href="#section-64">7. Experience Sampling Method</a>
               </Li>
               <li>
                 <a href="#section-65">8. Research Summary</a>
+              </li>
+              <li>
+                <a href="#section-65">8.1. Correlation Summary</a>
               </li>
               <li>
                 <a href="#section-66">9. Application</a>
@@ -161,22 +109,29 @@ export default withRouteData(({ title, content }) => {
               <li>
                 <a href="#section-69">11. Ultra Compressed Conclusion</a>
               </li>
+
+              <Li>
+                <a href="#section-69">12. Recommended Reading</a>
+              </Li>
+              <Li>
+                <a href="">13. Resources & References</a>
+              </Li>
             </Scrollspy>
           </ScrollspyStickyWrapper>
         </ScrollspyOuterWrapper>
         <TextWrapper>
-          <Text>
-            <div dangerouslySetInnerHTML={{ __html: content }} />
-          </Text>
+          <Text dangerouslySetInnerHTML={{ __html: content }} />
         </TextWrapper>
       </Card>
     </>
   );
 });
 
-const Text = styled.p`
+const Text = styled.div`
   width: 50%;
-  margin: 0 15% 0 auto;
+  margin: 0 auto;
+  box-sizing: border-box;
+
   ${fontFamily({ fontFamily: "karla" })}
   ${fontSize({ fontSize: ["20px", "20px", "20px"] })}
   ${lineHeight({ lineHeight: ["24px", "30px", "30px"] })}
@@ -186,6 +141,10 @@ const Text = styled.p`
   }
 
   @media (min-width: 601px) and (max-width: 960px) {
+    max-width: 550px;
+  }
+
+  @media (max-width: 600px) {
     max-width: 550px;
   }
 
@@ -199,6 +158,8 @@ const Text = styled.p`
 `;
 
 const TextWrapper = styled.div`
+  max-width: 100%;
+
   display: inline-block;
   position: static;
   top: 0;
@@ -209,6 +170,10 @@ const TextWrapper = styled.div`
   }
   @media (min-width: 601px) and (max-width: 960px) {
     width: 100%;
+  }
+
+  @media (min-width: 960px) and (max-width: 1200px) {
+    padding-left: 200px;
   }
 `;
 
@@ -269,23 +234,30 @@ const Li = styled.li`
 `;
 
 const Card = styled.div`
-width: auto;
-${top({ top: ["20px", "10%", "10%"] })}
-${left({ left: ["unset", "unset", "0"] })}
-${space({ p: "15px", m: ["10px", "10px", "auto"] })}
-right: 0;
-max-width: 1250px;
-font-weight: 900;
-z-index: 999;
-position: absolute;
-color: #191545;
-font-weight: 400;
-background-color: white;
-border-radius: 5px;
+  width: auto;
+  ${top({ top: ["20px", "10%", "10%"] })}
+  ${left({ left: ["unset", "unset", "0"] })}
+  ${space({ p: "15px", m: ["10px", "10px", "auto"] })}
+  right: 0;
+  max-width: 1250px;
+  font-weight: 900;
+  z-index: 999;
+  position: absolute;
+  color: #191545;
+  font-weight: 400;
+  background-color: white;
+  border-radius: 5px;
 
-@media(max-width: 960px) {
-  right: unset;
-  position: static;
+  // styles footnotes
+  code {
+    background-color: #EFF8FF;
+    padding: 0 3px;
+    font-size: 16px;
+  }
 
-}
+  // logic for realigning the table of contents from top to side
+  @media(max-width: 960px) {
+    right: unset;
+    position: static;
+  }
 `;

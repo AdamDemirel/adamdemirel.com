@@ -1,4 +1,4 @@
-For the average modern worker, their working week is around 40 hours per week. So assuming tht you work for 40 hours per week, from ages 20-60 before you reite, the total amount of hours that you will work in your life is roughly 80,000 hours (50 weeks x 40 years x 40 hours). That's a lot of hours.
+For the average modern worker, their working week is around 40 hours per week. So assuming that you work for 40 hours per week, from ages 20-60 before you reite, the total amount of hours that you will work in your life is roughly 80,000 hours (50 weeks x 40 years x 40 hours). That's a lot of hours.
 
 If you're like the majority of humans, you will have no option but to work to generate income to provide yourself with food and shelter. Sure, you do have other options like being voluntarily homeless, opting for a life of extreme frugality - eg in a [van](https://en.wikipedia.org/wiki/Downshifting_(lifestyle))), living off of welfare or leeching from others, etc. But to most, these are not seductive alternatives to simply abiding by the system which gives them a regular paycheck.
 
@@ -18,7 +18,7 @@ If you want to skip straight to the results, see the [research summary](#researc
 
 # Job Satisfaction
 
-_Job satisfaction_ (_JS_ henceforth) is a measurement taken in Psychology of an attitude that people have towards their job, measured in a variety of ways. It is linked to `6` worker productivity and performance, motivation, workplace civility, prosociality, absenteeism, lateness, stress `7`, accidents, withdrawal intentions and employee turnover/retention, organisational commitment, mental and physical health, and most interestingly _life satisfaction_.
+_Job Satisfaction_ (_JS_ henceforth) is a measurement taken in Psychology of an attitude that people have towards their job, measured in a variety of ways. It is linked to `6` worker productivity and performance, motivation, workplace civility, prosociality, absenteeism, lateness, stress `7`, accidents, withdrawal intentions and employee turnover/retention, organisational commitment, mental and physical health, and most interestingly _Life Satisfaction_.
 
 The most widely built upon definition of job satisfaction is that it is
 
@@ -519,7 +519,20 @@ See the [Job Performance section](#Job-Performance--Being-Good-At-Your-Job) belo
 
 # 6. Other Factors
 
-Beyond the five main schools of thought above, there has been a lot of separate research into individual variables which affect JS. I've included research on those below that I believe are the most noteworthy.
+Beyond the five main schools of thought above, there has been a lot of separate research into individual variables which affect JS. I've included research on those below that I believe are the most noteworthy:
+- [Income](#Income)
+- [Job Status](#Job-Status)
+- [Job Performance](#Job-Performance--Being-Good-At-Your-Job)
+- [Stress Level](#Stress-Level)
+- [Qualifications](#Qualifications)
+- [Organisation Size](#Organisation-Size)
+- [Gender](#Gender)
+- [Working Speed / Pressure](#Working-Speed--Pressure)
+- [Employment Type](#Employment-Type) / [Hours Worked](#Hours-Worked)
+- [Creative Occupations](#Creative-Occupations)
+- [Sleep](#Sleep)
+- [Age](#Age)
+- [Commute Time](#Commute-Time)
 
 ## Income
 Income level is obviously one of the top factors that people weigh highly when career planning or predicting what jobs are satisfying. Obviously this has been recognized by JS researchers. Warr (1999) `4` simply referred to it as the "availability of money for needs".
@@ -629,7 +642,7 @@ and publishing are associated with lower levels of wellbeing than non-creative j
 
 Unfortunately I couldn't find anything relating to JS.
 
-## Sleep/;'/';'//
+## Sleep
  Quality
 I can't seem to find any great studies of the effect of sleep quality on JS (send some over if you can find, I'd love to see), but the importance of sleep quality for life satisfaction and well-being is [one of the most significant variables](https://medium.com/@adxm/the-14-evidence-based-principles-to-optimize-your-sleep-bb0f31200cb2), so it would only make sense for it to spillover to JS as well.
 
@@ -900,113 +913,113 @@ In conclusion, the final take away from all of this to keep it simple(r) is to d
 > We found that the most important four factors for being satisfied in your work are: 1. Engaging, meaningful work: the extent to which you have variety, autonomy, a sense of completion, feedback and work you feel makes a difference. 2. Getting on with your colleagues: the extent to which you get help from, like and form meaningful relationships with your colleagues. 3. Personal fit: the extent to which you’re good at your job. 4. Hygiene factors: do you have reasonable hours, job security, a short commute and sufficient pay?
 
 # Resources & References
-~~1. Tait, M., Padgett, M. and Baldwin, T. (1989) Job and Life Satisfaction: A Reevaluation of the Strength of the Relationship and Gender Effects as a Function of the Date of the Study. Journal of Applied Psychology, 74, 502-507. http://dx.doi.org/10.1037/0021-9010.74.3.502 (Sample size 20k).~~
+1. Tait, M., Padgett, M. and Baldwin, T. (1989) Job and Life Satisfaction: A Reevaluation of the Strength of the Relationship and Gender Effects as a Function of the Date of the Study. Journal of Applied Psychology, 74, 502-507 (Sample size 20k)
 
-~~2. Argyle (2001). The Psychology of Happiness (2nd ed.). New York: Routledge.~~
+2. Argyle (2001). The Psychology of Happiness (2nd ed.). New York: Routledge.
 
-~~3. Judge & Klinger 2008. [Job satisfaction: Subjective well-being at work.](https://psycnet.apa.org/record/2008-00541-019) In Eid & Larsen (Eds.), The science of subjective well-being (pp. 393-413). New York: Guilford.~~
+3. Judge & Klinger 2008. Job satisfaction: Subjective well-being at work. In Eid & Larsen (Eds.), The science of subjective well-being (pp. 393-413). New York: Guilford.
 
-~~5. http://www.gallup.com/strategicconsulting/163007/state-american-workplace.aspx~~
+5. http://www.gallup.com/strategicconsulting/163007/state-american-workplace.aspx
 
-~~6. https://wikispaces.psu.edu/display/PSYCH484/11.+Job+Satisfaction~~
+6. https://wikispaces.psu.edu/display/PSYCH484/11.+Job+Satisfaction
 
-~~7. https://www.sciencedirect.com/science/article/pii/S0191308510000067~~
+7. https://www.sciencedirect.com/science/article/pii/S0191308510000067
 
-~~8. Humphrey, Nahrgang 2007. "Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature"](https://msu.edu/~morgeson/humphrey_nahrgang_morgeson_2007.pdf)~~
+8. Humphrey, Nahrgang 2007. Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature
 
-~~9. https://80000hours.org/2012/08/how-to-find-a-job-you-ll-love/ https://80000hours.org/2012/08/don-t-do-what-you-re-passionate-about-part-2/ ~~
+9. https://80000hours.org/2012/08/don-t-do-what-you-re-passionate-about-part-2/
 
-~~10. http://www.timothy-judge.com/c06.pdf Judge, T. A., Klinger, R. (2009). “Promote Job Satisfaction through Mental Challenge”. Handbook of Principles of Organizational Behaviour, Second Ed, pp107-119. http://www.timothy-judge.com/c06.pdf ~~
+10. http://www.timothy-judge.com/c06.pdf Judge, T. A., Klinger, R. (2009). “Promote Job Satisfaction through Mental Challenge”. Handbook of Principles of Organizational Behaviour, Second Ed, pp107-119. http://www.timothy-judge.com/c06.pdf
 
-~~11. Hackman, Oldham (1975) Development of the Job Diagnostic Survey. An Instrument for the Diagnosis of Jobs and the Evaluation of Job Redesign Projects. https://pdfs.semanticscholar.org/e47e/797a026069ebce49ce95c7290406ed782ae9.pdf #~~
+11. Hackman, Oldham (1975) Development of the Job Diagnostic Survey. An Instrument for the Diagnosis of Jobs and the Evaluation of Job Redesign Projects.#
 
-~~12. https://signalvnoise.com/posts/104-all-about-flow #~~
+12. https://signalvnoise.com/posts/104-all-about-flow#
 
-~~13. Breaugh 1985, Morgeson and Humphrey 2006~~
+13. Breaugh 1985, Morgeson and Humphrey 2006
 
-~~14. Jackson, P. R., Wall, T. D., Martin, R. & Davids, K. (1993). New measures of job control, cognitive demand, and production responsibility. Journal of Applied  Psychology, 78, 753-762.~~
+14. Jackson, P. R., Wall, T. D., Martin, R. & Davids, K. (1993). New measures of job control, cognitive demand, and production responsibility. Journal of Applied  Psychology, 78, 753-762.
 
-~~15. The Job Content Questionnaire (JCQ): an instrument for internationally comparative assessments of psychosocial job characteristics.~~
+15. The Job Content Questionnaire (JCQ): an instrument for internationally comparative assessments of psychosocial job characteristics.
 
-~~16. Sims, H. P., Szilagyi, A. D., & Keller, R. T. (1976). The Measurement of Job Characteristics. Academy of Management Journal, 19, 195-212.~~
+16. Sims, H. P., Szilagyi, A. D., & Keller, R. T. (1976). The Measurement of Job Characteristics. Academy of Management Journal, 19, 195-212.
 
-~~17. 26> Grant, A. M. (2008). The significance of task significance: Job performance effects, relational mechanisms, and boundary conditions. Journal of Applied Psychology, 93(1), pp.108-124. # http://selfdeterminationtheory.org/SDT/documents/2008_Grant_JAP_TaskSignificance.pdf~~
+17. Grant, A. M. (2008). The significance of task significance: Job performance effects, relational mechanisms, and boundary conditions. Journal of Applied Psychology, 93(1), pp.108-124.#
 
-~~18. Task Significance and Performance: Meaningfulness as a Mediator https://journals.sagepub.com/doi/pdf/10.1177/1069072716680047 ~~
+18. Task Significance and Performance: Meaningfulness as a Mediator https://journals.sagepub.com/doi/pdf/10.1177/1069072716680047
 
-~~19. Schwartz, S., Melech, G., Lehmann, A., Burgess, S., Harris, M. and Owens, V. (2001). Extending the Cross-Cultural Validity of the Theory of Basic Human Values with a Different Method of Measurement. Journal of Cross-Cultural Psychology, 32(5), pp.519-542.~~
+19. Schwartz, S., Melech, G., Lehmann, A., Burgess, S., Harris, M. and Owens, V. (2001). Extending the Cross-Cultural Validity of the Theory of Basic Human Values with a Different Method of Measurement. Journal of Cross-Cultural Psychology, 32(5), pp.519-542.
 
-~~20. Jex, S.M. (2002) Organizational Psychology: A Scientist-Practitioner Approach. John Wiley & Sons, New York~~
+20. Jex, S.M. (2002) Organizational Psychology: A Scientist-Practitioner Approach. John Wiley & Sons, New York
 
-~~21. Daniel Kahneman. Developments in the Measurement of Subjective Well-Being https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf (table 2)~~
+21. Daniel Kahneman. Developments in the Measurement of Subjective Well-Being. Table 2
 
-~~22. Staw, Bell, and Clausen, (1986) The dispositional approach to job attitudes: A lifetime longitudinal test.~~
+22. Staw, Bell, and Clausen, (1986) The dispositional approach to job attitudes: A lifetime longitudinal test.
 
-~~23. Arvey, Carter, and Buerkley, (1991) Job satisfaction: Dispositional and situational influences.~~
+23. Arvey, Carter, and Buerkley, (1991) Job satisfaction: Dispositional and situational influences.
 
-~~24. deleted~~
+24. deleted
 
-~~25. Arvey, R. D., Bouchard, T. J. Jr, Segal, N. L. & Abraham, L. M. (1989). Job satisfaction: Environmental and genetic components. Journal of Applied P.yychology, 74, 187-I 92.~~
+25. Arvey, R. D., Bouchard, T. J. Jr, Segal, N. L. & Abraham, L. M. (1989). Job satisfaction: Environmental and genetic components. Journal of Applied P.yychology, 74, 187-I 92.
 
-~~26. Are genetic and environmental influences on job satisfaction stable over time? A three-wave longitudinal twin study. https://www.ncbi.nlm.nih.gov/pubmed/2750466~~
+26. Are genetic and environmental influences on job satisfaction stable over time? A three-wave longitudinal twin study.
 
-~~27. https://sci-hub.se/https://doi.org/10.1016/0191-8869(94)90258-5~~
+27. https://sci-hub.se/https://doi.org/10.1016/0191-8869(94)90258-5
 
-~~28. https://onlinelibrary.wiley.com/doi/abs/10.1348/096317909X478557~~
+28. https://onlinelibrary.wiley.com/doi/abs/10.1348/096317909X478557
 
-~~29. Bui (2017) https://www.researchgate.net/publication/315798577_Big_Five_personality_traits_and_job_satisfaction_Evidence_from_a_national_sample~~
+29. https://www.researchgate.net/publication/315798577_Big_Five_personality_traits_and_job_satisfaction_Evidence_from_a_national_sample
 
-~~30. Judge (2000) Personality and job satisfaction, the mediating role of job characteristics https://sci-hub.se/http://dx.doi.org/10.1037/0021-9010.85.2.237 *~~
+30. Judge (2000) Personality and job satisfaction, the mediating role of job characteristics*
 
-~~31. Judge, Bono, Erez, and Locke, (2005). Core Self-Evaluations and Job and Life Satisfaction: The Role of Self-Concordance and Goal Attainment. https://psycnet.apa.org/record/2005-02538-004~~
+31. Judge, Bono, Erez, and Locke, (2005). Core Self-Evaluations and Job and Life Satisfaction: The Role of Self-Concordance and Goal Attainment.
 
-~~32. Judge, T. A., Locke, E. A., & Durham, C. C. (1997). The dispositional causes of job satisfaction: A core evaluations approach. Research in Organizational Behavior, 19, 151–188.~~
+32. Judge, T. A., Locke, E. A., & Durham, C. C. (1997). The dispositional causes of job satisfaction: A core evaluations approach. Research in Organizational Behavior, 19, 151–188.
 
-~~33. https://www.reddit.com/r/askscience/comments/1p2cki/how_scientifically_valid_is_the_myers_briggs/~~
+33. https://www.reddit.com/r/askscience/comments/1p2cki/how_scientifically_valid_is_the_myers_briggs/
 
-~~34 https://digest.bps.org.uk/2019/01/21/teenagers-lack-of-insight-into-some-of-their-abilities-has-implications-for-career-counselling/~~
+34. https://digest.bps.org.uk/2019/01/21/teenagers-lack-of-insight-into-some-of-their-abilities-has-implications-for-career-counselling/
 
-~~35. Nye, et al. (2012) [Vocational Interests etc](https://www.researchgate.net/publication/233747919_Vocational_Interests_and_Performance_A_Quantitative_Summary_of_Over_60_Years_of_Research ) # (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/)~~
+35. https://www.researchgate.net/publication/233747919_Vocational_Interests_and_Performance_A_Quantitative_Summary_of_Over_60_Years_of_Research
 
-~~36. Arnold R. Spokane, Erik J. Luchetta, Matthew H. Richwine' (1995). Holland’s Theory of Personalities in Work Environments' https://www.webcitation.org/6UBlH5yen~~
+36. Arnold R. Spokane, Erik J. Luchetta, Matthew H. Richwine (1995). Holland’s Theory of Personalities in Work Environments
 
-~~37. http://www.sciencedirect.com/science/article/pii/S000187919991727X~~
+37. http://www.sciencedirect.com/science/article/pii/S000187919991727X
 
-~~38. Holland, J.L. (1997) Making Vocational Choices: A Theory of Vocational Personalities and Work Environments. 3rd Edition, Psychological Assessment Resources, Odessa.~~
+38. Holland, J.L. (1997) Making Vocational Choices: A Theory of Vocational Personalities and Work Environments. 3rd Edition, Psychological Assessment Resources, Odessa.
 
-~~39. Heintz, S., & Ruch, W. (2019). Character strengths and job satisfaction: Differential relationships across occupational groups and adulthood. Applied Research in Quality of Life. doi:10.1007/s11482-018-9691-3~~
+39. Heintz, S., & Ruch, W. (2019). Character strengths and job satisfaction: Differential relationships across occupational groups and adulthood. Applied Research in Quality of Life.
 
-~~40. My Better Self: Using Strengths at Work and Work Productivity, Organizational Citizenship Behavior, and Satisfaction~~
+40. My Better Self: Using Strengths at Work and Work Productivity, Organizational Citizenship Behavior, and Satisfaction
 
-~~41. https://80000hours.org/2014/10/interview-holden-karnofsky-on-the-importance-of-personal-fit/~~
+41. https://80000hours.org/2014/10/interview-holden-karnofsky-on-the-importance-of-personal-fit/
 
-~~42. https://journals.sagepub.com/doi/abs/10.1177/0950017014564602~~
+42. https://journals.sagepub.com/doi/abs/10.1177/0950017014564602
 
-~~43. https://www.lesswrong.com/posts/vADtvr9iDeYsCDfxd/value-of-information-four-examples#Choosing_a_Career~~
+43. https://www.lesswrong.com/posts/vADtvr9iDeYsCDfxd/value-of-information-four-examples#Choosing_a_Career
 
-~~44. https://www.sciencedirect.com/science/article/abs/pii/0047272795015647~~
+44. https://www.sciencedirect.com/science/article/abs/pii/0047272795015647
 
-~~45. http://www.panglossinc.com/documents/Therelationshipbetweenpayandjobsatisfaction.pdf~~
+45. http://www.panglossinc.com/documents/Therelationshipbetweenpayandjobsatisfaction.pdf
 
-~~46. https://80000hours.org/articles/job-satisfaction-research/#3-work-youre-good-at~~
+46. https://80000hours.org/articles/job-satisfaction-research/#3-work-youre-good-at
 
-~~47. https://80000hours.org/2016/02/should-you-look-for-a-low-stress-job/ #~~
+47. https://80000hours.org/2016/02/should-you-look-for-a-low-stress-job/ #
 
-~~48. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees~~
+48. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
 
-~~49. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees~~
+49. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
 
-~~50. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf~~
+50. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf
 
-~~51. https://www.nesta.org.uk/report/creative-occupations-and-subjective-wellbeing/~~
+51. https://www.nesta.org.uk/report/creative-occupations-and-subjective-wellbeing/
 
-~~52. The Commuting Paradox http://ftp.iza.org/dp1278.pdf~~
+52. http://ftp.iza.org/dp1278.pdf
 
-~~53. https://webarchive.nationalarchives.gov.uk/20140725230415/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/commuting-and-personal-well-being--2014/sty-commuting-and-well-being.html?format=hi-vis~~
+53. https://webarchive.nationalarchives.gov.uk/20140725230415/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/commuting-and-personal-well-being--2014/sty-commuting-and-well-being.html?format=hi-vis
 
-~~54. See 'experienced wellbeing' chapter of Thinking Fast and Slow by Daniel Kahneman~~
+54. See 'experienced wellbeing' chapter of Thinking Fast and Slow by Daniel Kahneman
 
-~~55. http://www-news.uchicago.edu/releases/07/pdf/070417.jobs.pdf~~
+55. http://www-news.uchicago.edu/releases/07/pdf/070417.jobs.pdf
 
 ## Other References
 - https://www.amazon.co.uk/Handbook-Career-Advising-Josseybass/dp/0470373687 \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/ )
