@@ -19,10 +19,11 @@ export default props => {
       <Card>
         <Name>Writing</Name>
         <Text>
-          <h3>Previous Posts</h3>
-          My old writing can be found on my <a href="https://medium.com/@adxm">Medium</a>.
-          <hr />
-          <h3>New</h3>
+          <p>
+            I occasionally write about things that interest or infatuate my attention - usually related to health and happiness. My old writing can be
+            found on my <a href="https://medium.com/@adxm">Medium</a>. My newer writing can be found below. More writing to come.
+          </p>
+
           <ul>
             <li>
               17-09-19: <StyledLink to="/job-satisfaction">Job Satisfaction</StyledLink>
