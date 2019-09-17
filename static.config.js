@@ -1,7 +1,6 @@
 import React from "react";
 import getPost from "./getPost.js";
 
-//"react-static-plugin-styled-components",
 export default {
   Document: ({ Html, Head, Body, children, state: { siteData, renderMeta } }) => (
     <Html lang="en-US">
@@ -14,7 +13,7 @@ export default {
       <Body>{children}</Body>
     </Html>
   ),
-  plugins: ["react-static-plugin-reach-router"],
+  plugins: ["react-static-plugin-reach-router", "react-static-plugin-styled-components"],
   siteRoot: "https://adamdemirel.com",
   getRoutes: async ({ dev }) => [
     {
