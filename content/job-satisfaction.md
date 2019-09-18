@@ -43,13 +43,13 @@ Throughout the article I will be posting a number that correlates with the amoun
 How does this all relate to job satisfaction? Basically the more characteristics you have down, the more likely you are to have job satisfaction, even if they aren't causal. Just like finding out that 33% of driving accidents are by drivers with alcohol in their system, and it being wise to avoid doing this thing that correlates with that risk, in the same vein it is wise to follow the correlations for JS. And note that in the same way not drinking doesn't 100% prevent the risk of accidents - you can still get hit by another driver, you can have certain JS factors under control and other factors can still have the ability to raise or lower your JS.
 
 Providing little insight, the absolute best measure we have of Job Satisfaction as a whole is done via the "Overall Job Satisfaction Measure", a 5-item inventory that correlates extremely highly at 0.85 which is what you'd expect when it is directly asking you about JS:
-> 1. All things considered, are you satisfied with your present job (circle one)? YES NO
-> 2. How satisfied are you with your job in general (circle one)? 1 very dissatisfied; 2 somewhat dissatisfied; 3 neutral; 4 somewhat satisfied; 5 very satisfied.
-> Below, please write down your best estimates on the percent of time you feel satisfied, dissatisfied, and neutral about your present job on average. The three figures should add up to equal 100%. ON THE AVERAGE:
-> 3. The percent of time I feel satisfied with my present job 30% (note: only this response is scored)
-> 4. The percent of time I feel dissatisfied with my present job 30%
-> 5. The percent of time I feel neutral about my present job 40%
-> TOTAL %
+* 1. All things considered, are you satisfied with your present job (circle one)? YES NO
+* 2. How satisfied are you with your job in general (circle one)? 1 very dissatisfied; 2 somewhat dissatisfied; 3 neutral; 4 somewhat satisfied; 5 very satisfied.
+* Below, please write down your best estimates on the percent of time you feel satisfied, dissatisfied, and neutral about your present job on average. The three figures should add up to equal 100%. ON THE AVERAGE:
+* 3. The percent of time I feel satisfied with my present job 30% (note: only this response is scored)
+* 4. The percent of time I feel dissatisfied with my present job 30%
+* 5. The percent of time I feel neutral about my present job 40%
+* TOTAL %
 
 ---
 
