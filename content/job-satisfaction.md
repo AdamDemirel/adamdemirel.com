@@ -1,4 +1,4 @@
-For the average modern worker, their working week is around 40 hours per week. So assuming that you work for 40 hours per week, from ages 20-60 before you reite, the total amount of hours that you will work in your life is roughly 80,000 hours (50 weeks x 40 years x 40 hours). That's a lot of hours.
+For the average modern worker, their working week is around 40 hours per week. So assuming that you work for 40 hours per week, from ages 20-60 before you retire, the total amount of hours that you will work in your life is roughly 80,000 hours (50 weeks x 40 years x 40 hours). That's a lot of hours.
 
 If you're like the majority of humans, you will have no option but to work to generate income to provide yourself with food and shelter. Sure, you do have other options like being voluntarily homeless, opting for a life of extreme frugality - eg in a [van](https://en.wikipedia.org/wiki/Downshifting_(lifestyle))), living off of welfare or leeching from others, etc. But to most, these are not seductive alternatives to simply abiding by the system which gives them a regular paycheck.
 
@@ -34,7 +34,7 @@ There are five main schools of thought on what leads to JS:
 4. [Worker Characteristics](#4.-worker-characteristics) - Job satisfaction is mediated by personality
 5. [Person-Environment Fit](#5.-person-environment-fit) - The match between an individuals interests and preferences, and the job.
 
-Schools 1-3 Have really good data on them which we will look at to see how much they are related to job satisfaction. Schools 4 and 5 both have some data but not quite as robust. We will then look at a handful of other variables which also are less well supported than the first 3 but nonetheless are relevant - such as income.
+Schools 1-3 Have fantastic data on them which we will look at to see how much they are related to job satisfaction. Schools 4 and 5 both have some data but not quite as robust. We will then look at a handful of other variables which also are less well-supported than the first 3 but nonetheless are relevant - such as income.
 
 I'm going to cover what the research on these has to say, and then explore a list of variables that I think are noteworthy, and hopefully during that process we can discover what are the most valid determinants / antecedents / predictors of job satisfaction so that we can control them. Although the following may seem like a lot of information and correlational evidence, note that the main paper it is drawn from - Humphrey (2007) `8` originally found 6,333 unique correlations across 260 articles with a pooled sample size of 75,000 subjects, and those discussed here were the most noteworthy out of them all.
 
@@ -71,13 +71,13 @@ The JS research is one of most well researched approaches and identifies that it
 4. [Task Significance](#task-significance)
 5. [Task Feedback](#task-feedback)
 
-These were all originally measured by what is called the _Job Diagnostic Survey (JDS)_ `11`, a series of questions with a 1-7 scale. The survey that is used to test it is most recently called the Work Design Questionairre, and you can see the questions asked [here](https://msu.edu/~morgeson/English_WDQ.pdf).
+These were all originally measured by what is called the _Job Diagnostic Survey (JDS)_ `11`, a series of questions with a 1-7 scale. The survey that is used to test it is most recently called the Work Design Questionnaire, and you can see the questions asked [here](https://msu.edu/~morgeson/English_WDQ.pdf).
 
 All of these factors together result in high work **engagement**. The more of them you have, the more likely the job is to be satisfying, irrespective of who is doing the job, where it is, how much it pays, etc. You want a job that engages you because challenge gets you into flow `12`.
 
-> The right job according to Mihaly C is a job that challenges us to an optimal level - one thats neither so hard that we give up, nor so easy that we get bored. Finding a job that engages your natural talents and give you constant feedback is a sure way to build happiness.
+> The right job according to Mihaly C is a job that challenges us to an optimal level - one that's neither so hard that we give up, nor so easy that we get bored. Finding a job that engages your natural talents and give you constant feedback is a sure way to build happiness.
 
-What's the most interesting about the job charactieristcs model is that none of the criteria are uniquely related to the subject matter of any specific job, a failed bias we are typically drawn to. Instead, what the content job is, or is about, doesn't matter so much as what characteristics it has.
+What's the most interesting about the job characteristics model is that none of the criteria are uniquely related to the subject matter of any specific job, a failed bias we are typically drawn to. Instead, what the content job is, or is about, doesn't matter so much as what characteristics it has.
 
 ### Autonomy
 
@@ -95,9 +95,9 @@ So roughly speaking, job autonomy is how much the job allows you to decide yours
 
 ### Skill Variety / Task Variety
 
-Skill Variety is the extent to which an individual must use different skills to perform at their job. Separate but related is Task Variety which is the extent to which an individual performs different tasks at the job. Task Identity wasn't originally measured by Hackman `11` but was instead measured in a separate survey called the _Job Characteristics Inventory_ in 1976 `16`.
+Skill Variety is the extent to which an individual must use different skills to perform at their job. Separate but related is Task Variety which is the extent to which an individual performs different tasks on the job. Task Identity wasn't originally measured by Hackman `11` but was instead measured in a separate survey called the _Job Characteristics Inventory_ in 1976 `16`.
 
-Both constructs are very similar but have slightly different predictive power. Skill variety focuses on the skills of the worker, whereas the task variety focuses on the job itself which is more consistent with the other 4 factors of the JCM. As a result of the similarity between skill variety and task variety, they have often been combined together and measured as one construct in many studies.
+Both constructs are very similar but have slightly different predictive power. Skill variety focuses on the skills of the worker, whereas the task variety focuses on the job itself which is more consistent with the other 4 factors of the JCM. As a result of the similarity between skill variety and task variety, they have often been combined and measured as one construct in many studies.
 
 Task Identity was measured by asking:
 
@@ -151,13 +151,13 @@ He then extended his measurements beyond questions directly about TS and looked 
 
 Work that helps others is also often linked to meaning, and vice versa. An extreme view which potentially captures the dissatisfaction that results from meaningless work is by the psychologist Erich Fromm:
 
-> I think [mans] work is to a large extent meaningless. Because he is not related to it, he is increasingly part of a big social machinery governed by a big beauracracy, and I think american man subconsciously hates his work very often, because he feels trapped by it, imprisoned by it, because he feels as if he is spending most of his energy for something which has no meaning in itself. He's not dignified in making a life with his work because that's not quite enough to make one happy, if one spends 8 hours a day in something which in itself has no meaning and interest except that one gains money from it.
+> I think [mans] work is to a large extent meaningless. Because he is not related to it, he is increasingly part of a big social machinery governed by a big bureaucracy, and I think American man subconsciously hates his work very often, because he feels trapped by it, imprisoned by it, because he feels as if he is spending most of his energy for something which has no meaning in itself. He's not dignified in making a life with his work because that's not quite enough to make one happy, if one spends 8 hours a day in something which in itself has no meaning and interest except that one gains money from it.
 
-This is a little extreme, but it highlights the concept. Interestingly, there is a great organisation called [80000 hours](https://80000hours.org) which focuses on effective altruism, and they think that one of the best ways to go about this is to use your career effectively. As a part of that, they also do a lot of JS research and career advice, some of which I recommend [here](#80k-advice). One of the main arguments that they make is that JS is primarily driven by task significance, and that you should design your career to have the largest social impact that you can to increase your job satisfaction and improve the world at the same time. Although they have gained a lot of popularity recently for various reasons, their argument hinges on how significant task signifiance really is.
+This is a little extreme, but it highlights the concept. Interestingly, there is a great organisation called [80000 hours](https://80000hours.org) which focuses on effective altruism, and they think that one of the best ways to go about this is to use your career effectively. As a part of that, they also do a lot of JS research and career advice, some of which I recommend [here](#80k-advice). One of the main arguments that they make is that JS is primarily driven by task significance, and that you should design your career to have the largest social impact that you can to increase your job satisfaction and improve the world at the same time. Although they have gained a lot of popularity recently for various reasons, their argument hinges on how significant task significance really is.
 
 Firstly, in regards to motivation, the motivation to do prosocial work is based on the extent to which the nature of your work allows you to interact with those who benefit from it `18` - by frequency, proximity, duration, depth, and breadth of contact. This means that the 80k argument to benefit others indirectly (ie. by donating to effective charities) won't have as large of an effect on your JS as they advise.
 
-But most critical of 80k's mission is that the relationship between Perceived Social Impact, and Perceived Social Worth is moderated by [_conscientiousness_](#conscientousness), and _pro-social values_ (see below). Conscientiousness negatively mediates the relationship - ie the higher the conscientiousness, the lower the effect of task significance on job performance (due to effective performance and high effort being a reward in and of itself). And the higher the pro-social values, the higher the effect of task significance on job performance (due to them being more influenced by perceived social value and worth).
+But most critical of 80k's mission is that the relationship between Perceived Social Impact, and Perceived Social Worth is moderated by [_conscientiousness_](#conscientiousness), and _pro-social values_ (see below). conscientiousness negatively mediates the relationship - ie the higher the conscientiousness, the lower the effect of task significance on job performance (due to effective performance and high effort being a reward in and of itself). And the higher the pro-social values, the higher the effect of task significance on job performance (due to them being more influenced by perceived social value and worth).
 
 #### Pro-Social Values
 To measure prosocial values, use the benevolence subscale of the Portrait Values Questionnaire `19`:
@@ -170,7 +170,7 @@ knows.
 
 ### Task Feedback
 
-Back to the JCM - Task feedback, also referred to as Feedback From The job, is the extent to which a job imparts information about an individuals performance. Or roughly, the degree to which the work itself provides feedback of how well one is performing at the job.
+Back to the JCM - Task feedback, also referred to as Feedback From The job, is the extent to which a job imparts information about an individuals performance. Or roughly, the degree to which the work itself provides feedback of how well one is performing on the job.
 
 Task feedback was measured by asking:
 
@@ -200,7 +200,7 @@ Information Processing is the extent to which a job requires the individual to f
 
 ### Job Complexity
 
-Job complexity is the extent to which a job is multifacted and difficult to perform. As a result they tend to be mentally demanding. Oddly, although high complexity is expected to increase JS, it is also more likely to promote stress and feelings of work overload, even if engaging.
+Job complexity is the extent to which a job is multifaceted and difficult to perform. As a result they tend to be mentally demanding. Oddly, although high complexity is expected to increase JS, it is also more likely to promote stress and feelings of work overload, even if engaging.
 
 ### Specialization
 
@@ -216,7 +216,7 @@ Problem solving is the extent to which a job requires the production of unique s
 
 The third school of thought on what constitutes JS is that people primarily derive their evaluations from the people that they surround themselves with. It's established that humans are social animals and are generally positively affected by socialising, making us more energetic, happier, excited, enthusiastic, and it is a [fundamental motivation](https://en.wikipedia.org/wiki/Social_psychology) for most behaviour.
 
-Lately, researchers have thought social characteristics via the relationships between workers as being among the most important causes of JS. This fits with our intution that working with people you dislike is terrible, or vice versa. The ways in which social characteristics may influence JS are many, but the ones that have been noted as potentially important are:
+Lately, researchers have thought social characteristics via the relationships between workers as being among the most important causes of JS. This fits with our intuition that working with people you dislike is terrible, or vice versa. The ways in which social characteristics may influence JS are many, but the ones that have been noted as potentially important are:
 
 1. [Social Information Processing](#Social-Information-Processing) - ie conforming to others evaluations
 2. [Interdependence](#interdependence)
@@ -233,7 +233,7 @@ Social information processing is the theory that employees look to their coworke
 
 This school of thought is less about what job or criteria help in promoting JS and moreso about the social influences on the perceptions of the job characteristics themselves.
 
-Generally the research supports social information processing as having an affect on job satisfaction, but the methodology of the studies is questionable, and there doesn't seem to be a clear consensus on the correlation with JS.
+Generally the research supports social information processing as having an effect on job satisfaction, but the methodology of the studies is questionable, and there doesn't seem to be a clear consensus on the correlation with JS.
 
 ## Interdependence
 
@@ -251,7 +251,7 @@ As simple as this criteria is, it turns out to be one of the best predictors of 
 
 ## Interaction Outside the Organisation
 
-This is the extent to which a job requiries an individual to communicate with people (eg suppliers or customers) external to the organization, also referred to as Serving The Public.
+This is the extent to which a job requires an individual to communicate with people (eg suppliers or customers) external to the organization, also referred to as Serving The Public.
 
 ## Small Talking
 
@@ -279,7 +279,7 @@ Work conditions capture aspects of the environment generally, such as health haz
 
 ## Noise
 
-Being exposed to offensive noise while at work only affects JS by a mere -.04, but it turns out that it has a bigger affect than any other factor on net emotional state while doing the job, at a whopping -.90 correlation `21`. This means that noise pollution while working basically makes a job more dissatisfying than any other factor.
+Being exposed to offensive noise while at work only affects JS by a mere -.04, but it turns out that it has a bigger effect than any other factor on net emotional state while doing the job, at a whopping -.90 correlation `21`. This means that noise pollution while working basically makes a job more dissatisfying than any other factor.
 
 ## Heat / Cold
 
@@ -297,11 +297,11 @@ Although there is a dizzying array of research on the effect of CO2 on job perfo
 
 # 4. Worker Characteristics
 
-Worker Characteristics (or Dispositional Caracteristics as they are referred to in the lit), are the extent to which JS is the result of internal traits of the worker. Some people may just be optimists or pessimists in regards to their work. The idea is that certain personality traits (eg how neurotic you are) can influence your evaluation of _any_ job. Though the school of thought doesn't aim to invalidate JCM or social caracteristics, but rather to explain why those general principles don't account for all of the variation / correlation in JS.
+Worker Characteristics (or Dispositional Caracteristics as they are referred to in the lit), are the extent to which JS is the result of internal traits of the worker. Some people may just be optimists or pessimists in regards to their work. The idea is that certain personality traits (eg how neurotic you are) can influence your evaluation of _any_ job. Though the school of thought doesn't aim to invalidate JCM or social characteristics, but rather to explain why those general principles don't account for all of the variation / correlation in JS.
 
 It is one of the latest methods of explaining JS, arguing that JS hinges on personality and individual traits, and that some people are inclined to be satisfied or dissatisfied with their work irrespective of the job characteristics or other factors `20`.
 
-The support for this idea is a few fold:
+The support for this idea is a few folds:
 
 - Unhappy children become dis­satisfied workers later in life `22`.
 - JS is partly heritable `23`.
@@ -320,43 +320,43 @@ And fourthly, considering the hereditary nature of JS, these personality traits 
 
 #### Spillover Hypothesis & Life Satisfaction
 
-In Psychology, the [spillover-crossover model](https://en.wikipedia.org/wiki/Spillover-crossover_model) examines the relationship in how the work domain affects the home domain, and vice versa. Specifically, it converns how well-being is transmitted from one to the other. For example, having family conflict at home can spillover and affect your relationships at work.
+In Psychology, the [spillover-crossover model](https://en.wikipedia.org/wiki/Spillover-crossover_model) examines the relationship in how the work domain affects the home domain, and vice versa. Specifically, it concerns how well-being is transmitted from one to the other. For example, having family conflict at home can spillover and affect your relationships at work.
 
 Related to this is the link between life satisfaction and job satisfaction. Interestingly, it turns out that there is a stronger causal relationship between your happiness on your job, than from your job on your happiness `28`. Research suggests that life satisfaction often precedes and is a good predictor of job satisfaction.
 
 ## The Big Five Personality Traits
 
-The Big 5 Personality Traits are Openness, Conscientousness, Extraversion/Introversion, Agreeableness/Disagreeableness, and Neuroticism (OCEAN). The Big Five is an extremely respected area of study in Psychology and carries a huge amount of support and widespread consensus as a model. It has predictive power for many many fields, only superseded by the power of IQ. There is a lot to say about it, but a basic intro can be found on [wikipedia](https://en.wikipedia.org/wiki/Big_Five_personality_traits).
+The Big 5 Personality Traits are Openness, conscientiousness, extroversion/Introversion, Agreeableness/Disagreeableness, and Neuroticism (OCEAN). The Big Five is an extremely respected area of study in Psychology and carries a huge amount of support and widespread consensus as a model. It has predictive power for many many fields, only superseded by the power of IQ. There is a lot to say about it, but a basic intro can be found on [wikipedia](https://en.wikipedia.org/wiki/Big_Five_personality_traits).
 
-Again, we're curious as to how this relates to JS. In summary, Conscientousness has a consistently significant impact on JS, whereas openness has a consistently insignificant one. The other 3 - neuroticism, extraversion, and agreeableness, have inconsistent relationships.
+Again, we're curious as to how this relates to JS. In summary, conscientiousness has a consistently significant impact on JS, whereas openness has a consistently insignificant one. The other 3 - neuroticism, extroversion, and agreeableness, have inconsistent relationships.
 
 ### Openness To Experience
 
 Openness is characterized by intellectual curiosity, imagination, and non-conformity. Although important for many other fields, it has little effect on JS - correlating at 0.0 `29`.
 
-### Conscientousness
+### conscientiousness
 
-Conscientousness is an individuals level of organization, hard work, and motivation in the pursuit of established goals. Its a strong perdictor of job performance and success, more than any other personality or individual trait besides IQ.
+conscientiousness is an individuals level of organization, hard work, and motivation in the pursuit of established goals. Its a strong perdictor of job performance and success, more than any other personality or individual trait besides IQ.
 
-Given that, it may explain why conscientousness is positively related to JS. It seems to have a consisntelty significant impact on JS, and low conscientousness results in low JS.
+Given that, it may explain why conscientiousness is positively related to JS. It seems to have a consistently significant impact on JS, and low conscientiousness results in low JS.
 
 The Correlation is about .26 `3` `29`, and it's also highly predictive of work performance.
 
-### Extraversion / Introversion
+### Extroversion / Introversion
 
-Extraversion is the extent to which individuals are assertive, active, enthusiastic, energetic, and dominant. Roughly speaking they are more socially oriented than their introverted counterparts.
+extroversion is the extent to which individuals are assertive, active, enthusiastic, energetic, and dominant. Roughly speaking they are more socially oriented than their introverted counterparts.
 
-There appears to be a very strong relation between extraversion and JS, at about .24 `29` - .25 `3`.
+There appears to be a very strong relation between extroversion and JS, at about .24 `29` - .25 `3`.
 
 ### Agreeableness
 
-Agreeableness is the level of cooperation (trusting of others) and likeability of an individual, usually resulting in positive social relationships with others. It's unclear whether how strongly it affects JS `29`, but the correlatation seems to be around .26.
+Agreeableness is the level of cooperation (trusting of others) and likability of an individual, usually resulting in positive social relationships with others. It's unclear whether how strongly it affects JS `29`, but the correlatation seems to be around .26.
 
 ### Neuroticism
 
 Neuroticism is the extent to which an individual lacks positive psychological adjustment and emotional stability. ie high neuroticism = low emotional stability. It's a little more subtle than that, but the gist is that they are more liekly to experience negative emotions - including anxiety, depression, hostility, etc `29`.
 
-Neuroticism is believed to have the strongest effect on JS out of all of the big 5 traits, but in a negative manner, and emotional stability has an inversely positive effect. Though some other research contradicts this.
+Neuroticism is believed to have the strongest effect on JS out of all the big 5 traits, but in a negative manner, and emotional stability has an inversely positive effect. Though some other research contradicts this.
 
 It correlates at -.26 `29` to -.29 `3`.
 
@@ -371,7 +371,7 @@ Core Self-Evaluations (CSE) are a broad personality concept that encapsulate 4 s
 
 The mechanism on JS is believed to be mediated by the effect that these personality traits have on the perception of the job characteristics themselves. If we have a positive self-regard, we are likely to see our jobs positively and undertake ones that are challenging, and vice versa. The various processes that potentially mediate the relationship are that positive core self-evaluations lead us to both seek out and attain more challenging work, and then further perceive the work as more challenging and interesting thereafter `30`. The individuals with positive CSE are also more likely to work towards goals for reasons consistent with their values `31` which would make them more satisfied.
 
-Overall, the 4 core traits combined together correlate highly with job satisfaction at .41 `30`, or .37 `3`, though the individual traits vary. The measures were all originally devised by Judge et al 1997 `32`, and including a 1-5 scale (strongly disagree - strongly agree).
+Overall, the 4 core traits combined correlate highly with job satisfaction at .41 `30`, or .37 `3`, though the individual traits vary. The measures were all originally devised by Judge et al 1997 `32`, and including a 1-5 scale (strongly disagree - strongly agree).
 
 ### Self-Esteem
 
@@ -415,7 +415,7 @@ Correlates .28 `30`.
 
 ### Low Neuroticism / Emotional Stability
 
-Neuroticism is the degree to which an individual experiences feelings of irritability, nervousness worry, embarassment, or guilt. It is essentially the same as the [big 5 neuroticism trait](#Neuroticism), but measured in a slightly different way.
+Neuroticism is the degree to which an individual experiences feelings of irritability, nervousness worry, embarrassment, or guilt. It is essentially the same as the [big 5 neuroticism trait](#Neuroticism), but measured in a slightly different way.
 
 It's measured by asking the individual to rate their level of agreement with statements such as:
 
@@ -473,11 +473,11 @@ Unfortunately the paper referenced above is only interested in job performance a
 
 > Lastly, more research is needed on the relations between vocational interests and other important criteria (e.g., job satisfaction)
 
-Altough there is a large amount of research supporting the idea that the 6 different types are valid and do exist, its relation to JS is more sparse and inconsistent. But the findings are that its relationship can range anywhere from .15 all the way up to .54 `36`! How much you can trust this is questionable though.
+Although there is a large amount of research supporting the idea that the 6 different types are valid and do exist, its relation to JS is more sparse and inconsistent. But the findings are that its relationship can range anywhere from .15 all the way up to .54 `36`! How much you can trust this is questionable though.
 
 A more robust meta analysis of 9000 individuals found only a 0.10 - 0.20 correlation with JS `37`.
 
-Holland did establish that people are already motivationally drawn into work environments that are compatible with their interests. The question is how that relates to JS. He also argued that JS is unlikely to come merely from making the work more mentally callenging without being personally interested in it, eg studyin the law is mentally callenging, but many people have no interest in it at all `38`.
+Holland did establish that people are already motivationally drawn into work environments that are compatible with their interests. The question is how that relates to JS. He also argued that JS is unlikely to come merely from making the work more mentally challenging without being personally interested in it, eg studyin the law is mentally challenging, but many people have no interest in it at all `38`.
 
 I think it is worth doing the [free test](https://openpsychometrics.org/tests/RIASEC/) or the more accurate one [here](http://www.self-directed-search.com/) and perusing the jobs that they recommend [here](https://www.onetonline.org/explore/interests/) out of curiosity to help widen your options. Self directed search is another name for the Holland test. These tests are basically aptitude tests that take in self-reported personality factors and output a list of careers that you might be well suited for. Then you have between 6-20 options to research more in depth for job caracteristics, etc.
 
@@ -504,14 +504,14 @@ Though I found some more recent research which directly looked at the relationsh
 - Gratitude and Spirituality .07, and
 - Persistence .06
 
-This is a similar list to which correlate most highly with life satisfaciton.
+This is a similar list to which correlate most highly with life satisfaction.
 
 >The 24 character strengths together accounted for 12% of the variance in job satisfaction beyond gender, age, and education.
 
 Another paper which looked at the correlation of all 24 strengths at work found that they only correlate 0.07 `40`.
 
 ## Fit Is Picking What You Might Excel At
-Most of the other person-environment fit approaches are focused on your interests and preferences and matching them with the job. But a later scool of thought `41` is that fit is about how likely you are to exceed at your job, and this could potentially be importrant for JS as perfoming highly in your job can lead to JS.
+Most of the other person-environment fit approaches are focused on your interests and preferences and matching them with the job. But a later school of thought `41` is that fit is about how likely you are to exceed at your job, and this could potentially be important for JS as performing highly in your job can lead to JS.
 
 See the [Job Performance section](#Job-Performance--Being-Good-At-Your-Job) below.
 
@@ -551,7 +551,7 @@ Firstly, a lot of pay satisfaction comes down to it being Pay That You Think Is 
 
 Both of these moderate whether you think a pay is fair or not `44` which influences your satisfaction with it.
 
-A really good and comprehensive review of the effect on income on happiness and JS was done by 80000hours [here](https://80000hours.org/articles/money-and-happiness/) and a quick summary [here](https://80000hours.org/2012/09/does-money-make-you-happy/). Though here is an overview:
+A fantastic and comprehensive review of the effect on income on happiness and JS was done by 80000hours [here](https://80000hours.org/articles/money-and-happiness/) and a quick summary [here](https://80000hours.org/2012/09/does-money-make-you-happy/). Though here is an overview:
 * As you've probably heard, research shows diminishing returns to increased income levels.
 * As the income level increases, its effect on happiness flattens out.
 * The effect of income on an individuals happiness (maximizing positive emotions, minimizing negative emotions, and minimizing stress) starts to flatten out at:
@@ -562,7 +562,7 @@ A really good and comprehensive review of the effect on income on happiness and 
    * 58K AUD/yr - 1100AUD/wk
    * 40k USD/yr - 800USD/wk
 
-This is much lower than most people expect, because all of the studies are done on household incomes which people conflate with individual incomes. But, the effect of this is mediated by which country you grew up in and your cultural context.
+This is much lower than most people expect, because all the studies are done on household incomes which people conflate with individual incomes. But, the effect of this is mediated by which country you grew up in and your cultural context.
 
 And finally, related specifically to JS itself, pay level was found to correlate only .15 with job satisfaction `45`.
 
@@ -584,13 +584,13 @@ How well you do at your job has a bidirectional effect on job satisfaction - mea
 
 ## Stress Level
 
-Research shows that low stress jobs don't make you happy, but rather a challenging job. Some stress is bad, some is good. If you have few demands placed on you, then its more likely that youll be bored.
+Research shows that low stress jobs don't make you happy, but rather a challenging job. Some stress is bad, some is good. If you have few demands placed on you, then its more likely that you'll be bored.
 
 Moderate stress levels are good for JS `47`. Resources on improving occupational stress [here](http://www.rand.org/content/dam/rand/pubs/technical_reports/2005/RAND_TR192.pdf).
 
 ## Qualifications
 
-Being overquaified for ones job affects JS with a -.20 correlation, and affects net emotional state on the job by -.11 `21`.
+Being overqualified for ones job affects JS with a -.20 correlation, and affects net emotional state on the job by -.11 `21`.
 
 If the job that you are doing requires specialized education or training, it positively affects JS with a .20 correlation, and net emotional state on the job by 0.10 `21`.
 
@@ -610,11 +610,11 @@ Females are more satisfied with their job than male employees on average `49`. M
 
 If your job requires that you are under constant pressure to work fast, it negatively affects job satisfaction with a -.19 correlation, and affects net emotional state on the job by -.28 `21`. Does this make hospitality a bad choice? Potentially.
 
-If your job requireed constant attention to avoid mistakes, it affects job satisfaction negatively by only -.04 correlation, but it affects net emotional state on the job by -.13 `21`.
+If your job required constant attention to avoid mistakes, it affects job satisfaction negatively by only -.04 correlation, but it affects net emotional state on the job by -.13 `21`.
 
 ## Employment Type
 
-Recall that life satisfaction is a global measure of how happy people are with their lives as a whole. It turns out that whether you are employed or not has a strong relation to this. You would think that being able to louze around all day would make you happy, but it turns out that unemployed people are less satisfied with their lives and unhappier than employed `50`. People on government bucks also have double the life dissatisfaction of the employed.
+Recall that life satisfaction is a global measure of how happy people are with their lives as a whole. It turns out that whether you are employed or not has a strong relation to this. You would think that being able to louse around all day would make you happy, but it turns out that unemployed people are less satisfied with their lives and unhappier than employed `50`. People on government bucks also have double the life dissatisfaction of the employed.
 
 So employment makes you happier than unemployment, but self-employment happens to make you very slightly less satisfied than regular old employment.
 
@@ -659,7 +659,7 @@ Distance to work is established as one of the biggest determinants of well-being
 
 Average happiness levels begin to fall after the first 15 minutes of the commute to work, then the negative effects peak at 61-90mins and remain stably detrimental after. The except is when you get to 3h+ each way, the negative effects begin to disappear - suggesting this subset of people might have different expectations and perceptions about their commute.
 
-If you are travelling by car or private vehicle, those travelling less than 15 minutes each way are happier than those travelling 16min+ by the same method. If you are travelling by bus, those spending more than 30min+ commuting were less happy the latter. If you are travelling by train, there's no adverse effects on well-being up to 30mins compared to those in cars and buses, but after 30 minutes of travel, happiness levels dropped for those travelling by any method. Interestingly, those cycling or walking to work btw 16-30mins had lower happiness than those travelling only 15 mins by any method, but people cycling 30mins or more to work had similar levels of those travelling only up to 15 mins by other methods.
+If you are traveling by car or private vehicle, those traveling less than 15 minutes each way are happier than those traveling 16min+ by the same method. If you are traveling by bus, those spending more than 30min+ commuting were less happy the latter. If you are traveling by train, there's no adverse effects on well-being up to 30mins compared to those in cars and buses, but after 30 minutes of travel, happiness levels dropped for those traveling by any method. Interestingly, those cycling or walking to work btw 16-30mins had lower happiness than those traveling only 15 mins by any method, but people cycling 30mins or more to work had similar levels of those traveling only up to 15 mins by other methods.
 
 # ESM
 
@@ -680,7 +680,7 @@ Though further work is to be done.
 
 So there we have it, ~80-90 total variables of potential interest to job satisfaction. That's a whole lot of information to take into account when selecting for how you might spend 80,000 hours of your life, and a whole lot of complexity, contradictions, ambiguities, personal differences, and weights to take into account. How to even begin thinking about this? Hopefully this research summary was the end of your search, not just the start.
 
-The best paper I came across in this whole process was the 2007 paper by Humphrey and Nahgrang `8` that meta-analysed 260 different studies, including 220k participants, and looked at 14 work characteristics (sections 1-3 here). I've listed them below and due to the large sample size and inter-comparisons, I would trust the validity of these more than most of the others. They found that the 14 characteristics explained beyong 55% of the variance in job satisfaction which is basically the most we can get at this point. What that means is that if you took 2 random people with different lives, personalities, and jobs, you could basically predict about 55% of what their job satisfaction would be by looking at these 14 variables.
+The best paper I came across in this whole process was the 2007 paper by Humphrey and Nahgrang `8` that meta-analysed 260 different studies, including 220k participants, and looked at 14 work characteristics (sections 1-3 here). I've listed them below and due to the large sample size and inter-comparisons, I would trust the validity of these more than most of the others. They found that the 14 characteristics explained beyond 55% of the variance in job satisfaction which is basically the most we can get at this point. What that means is that if you took 2 random people with different lives, personalities, and jobs, you could basically predict about 55% of what their job satisfaction would be by looking at these 14 variables.
 
 Those 14 Work Characteristics (2.0 below) include the Motivational Characteristics (which explained 17% of JS variance), Social Characteristics (which explained 17%), and Work Context (mere 4%).
 
@@ -700,7 +700,7 @@ Here is a complete summary of all of the variables and correlations mentioned th
          3. Task Variety .56
          4. Task Significance .43
             1. Pro-Social Values +
-            2. Conscientousness -
+            2. conscientiousness -
          5. Task Identity .32
          6. Feedback From The Job .45
       2. Job Complexity .52
@@ -727,8 +727,8 @@ Here is a complete summary of all of the variables and correlations mentioned th
    2. Spillover ?
    3. The Big Five
       1. Openness .0
-      2. Conscientousness .26
-      3. Extraversion .24-25
+      2. conscientiousness .26
+      3. extroversion .24-25
       4. Agreeableness .26
       5. Neuroticism -.26-29
    4. Core Self-Evaluations .37
@@ -812,7 +812,7 @@ I think a better approach to filtering jobs is to start with your passions, inte
 
 Don't take the MBTI / Myers Briggs, unless you're doing so for entertainment, as it's basically useless for our purposes. I would instead take the [RIASEC / Hollands](#RIASEC--Holland-Codes) and figure out what your type is, and then peruse the job listings, making a shortlist. This is not a be-all-end-all though, you should keep your options open for jobs not on here, as it only correlates .10-20 remember? But it's a useful filter.
 
-Then once you have a list, I would email, talk to, meet, interview, etc, as many people that you can from those jobs and try to assess to the best of your ability how they rank on the JCM - potentially even using the direct questions from the surveys, and also on job complexity and information processing. As for weighing the JCM - as you saw, weigh decision-making autonomy the highest, equal with task variety, and then skill variety/feedback from the job second. It might be worth doing the pros-social values test and its definitely worth doing the big 5 test, and use both the pros-social values and conscientousness to weigh task significance of the job. If you are low in conscientousness or pro-social values, then you shouldn't weigh task signifiance highly at all, as having a social important won't be as important to you as engaging work will be in and of itself. Task identity can be weighed pretty low.
+Then once you have a list, I would email, talk to, meet, interview, etc, as many people that you can from those jobs and try to assess to the best of your ability how they rank on the JCM - potentially even using the direct questions from the surveys, and also on job complexity and information processing. As for weighing the JCM - as you saw, weigh decision-making autonomy the highest, equal with task variety, and then skill variety/feedback from the job second. It might be worth doing the pros-social values test and its definitely worth doing the big 5 test, and use both the pros-social values and conscientiousness to weigh task significance of the job. If you are low in conscientiousness or pro-social values, then you shouldn't weigh task signifiance highly at all, as having a social important won't be as important to you as engaging work will be in and of itself. Task identity can be weighed pretty low.
 
 Once you find jobs that seem like a good personal fit, and have the JCM, it might be worth trying to do an unpaid internship, volunteering, or participation in workshops just to try to get as close as you can to the day to day tasks of the job and assess how you feel doing it.
 
@@ -849,7 +849,7 @@ Okay so we established that your personal life has spill-over effects on your wo
 
 If it turns out that if you are a neurotic person and quite susceptible to negative emotions, there is a lot of different things that you can try, but you should know that many people worse off than yourself have found things that worked well for them, so don't abandon this too soon. It's worth starting [here](https://80000hours.org/career-guide/how-to-be-successful/#2-if-necessary-make-mental-health-your-top-priority), and trying [these](https://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/) evidenced-based treatments for depressive moods, or [these](https://slatestarcodex.com/2015/07/13/things-that-sometimes-work-if-you-have-anxiety/) for anxious.
 
-If it turns out that you are not very neurotic, the next few things that you should give equal importance to from the big5 are increasing your extraversion, agreeableness, and conscientousness, by trying [these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills). Don't focus on openness at all (at least not for JS).
+If it turns out that you are not very neurotic, the next few things that you should give equal importance to from the big5 are increasing your extroversion, agreeableness, and conscientiousness, by trying [these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills). Don't focus on openness at all (at least not for JS).
 
 Even more important than any of the BIG5 traits (including neuroticism) is your self-esteem. Your self-esteem is the biggest personality variable which can mediate JS, and you can attempt to improve it [by trying these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills). Less important but still so are your self-efficacy and locus of control. A basic primer on improving locus of control is [this](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination#spirals), but for a more thorough treatment, CBT is basically a match for this - have a look at the book Learned Optimism by Martin Seligman. As for self-efficacy, it might be worth trying some of [these](https://positivepsychology.com/3-ways-build-self-efficacy/) or researching farther.
 
@@ -869,7 +869,7 @@ In conclusion, the final take away from all of this to keep it simple(r) is to d
 * Interview, email, meet, many people working the jobs you are interested in, and question them specifically on the Job Characteristics Model
 * Quickly [do](http://highered.mheducation.com/sites/007040187x/student_view0/chapter5/self-assessment_5_6.html) the Growth Needs Strength to see how much to weigh the JCM
 * Weigh decision-making autonomy and task-variety the highest in job characteristics, followed by job-complexity, then skill-variety, task significance, feedback from the job, and lastly identity
-* Do the [pro-social values test](#pro-social-values) and the BIG5 [test](https://understandmyself.com), using the former and your conscientousness to moderate the effect of JCM task significance
+* Do the [pro-social values test](#pro-social-values) and the BIG5 [test](https://understandmyself.com), using the former and your conscientiousness to moderate the effect of JCM task significance
 * Experiment with short-listed jobs, by volunteering, doing unpaid internships, or workshops, to get as close to the jobs daily tasks as you can, and re-assess JCM and personal fit
 * Ensure the absence of: overqualification, underqualification, fast working speed, low status, working alone, no social feedback from others, and poor performance
 * Optimally work for an organisation with < 20 people
@@ -885,7 +885,7 @@ In conclusion, the final take away from all of this to keep it simple(r) is to d
 **You**
 * Improve your self-esteem by trying [these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills)
 * Improve your negative moods by trying [these](https://80000hours.org/career-guide/how-to-be-successful/#2-if-necessary-make-mental-health-your-top-priority), [these](https://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/), and [these](https://slatestarcodex.com/2015/07/13/things-that-sometimes-work-if-you-have-anxiety/)
-* Improve your BIG5 extraversion, agreeableness, and conscientousness by trying [these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills)
+* Improve your BIG5 extroversion, agreeableness, and conscientiousness by trying [these](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy#Happiness__personality__and_skills)
 * Improve your locus-of-control by doing [this](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination#spirals)
 * Improve your self-efficacy by trying CBT
 * If you are overwhelmed by all this and unsure long-term, build skills and focus on making your next decision in a direction that will foster your career
@@ -1034,7 +1034,7 @@ In conclusion, the final take away from all of this to keep it simple(r) is to d
 - http://www.timothy-judge.com/ See selected chapters at the end
 - https://www.sciencedirect.com/science/article/abs/pii/S000187919991727X \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/)
 - CH1 handbook of principles of oganizational behaviour ‘Select on Intelligence’ #
-- CH2 handbook of principles of oganizational behaviour ‘Select on Conscientiousness and Emotional Stability’ #
+- CH2 handbook of principles of oganizational behaviour ‘Select on conscientiousness and Emotional Stability’ #
 - Allan, B., Duffy, R. and Collisson, B. (2016). Task Significance and Performance. Journal of Career Assessment, 26(1), pp.172-182. (g) #
 - ch25 of org behaviour book on decision making \* (https://80000hours.org/2013/01/3-ways-to-broaden-your-career-horizons/ )
 - http://highered.mheducation.com/sites/007040187x/student_view0/chapter5/self-assessment_5_7.html \* from gns page
