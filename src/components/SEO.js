@@ -14,7 +14,7 @@ export default ({ title, description, path }) => (
     <meta property="og:type" content="website" />
     <meta property="og:title" content="title" />
     <meta property="og:description" content={description} />
-    <meta name="twitter:card" content={description} />
+    <meta name="twitter:card" content="summary" />
     <meta name="twitter:creator" content="Adam Demirel" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
