@@ -106,8 +106,14 @@ Task Identity was measured by asking:
 Skill Identity was measured by asking:
 
 > How much variety is there in your job?
+
+
 > How similar are the tasks you perform in a typical work day?
+
+
 > The opportunity to do a number of different things
+
+
 > The amount of variety in my job
 
 So roughly speaking, task and skill variety are together the extent to which a job allows an individual to engage in different tasks utilizing different skills. A paper also calls it simply _nonrepetitive work_ `4`.
