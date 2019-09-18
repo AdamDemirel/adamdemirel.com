@@ -14,10 +14,11 @@ export default ({ title, description, path }) => (
     <meta property="og:type" content="website" />
     <meta property="og:title" content="title" />
     <meta property="og:description" content={description} />
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content={description} />
     <meta name="twitter:creator" content="Adam Demirel" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="https://adamdemirel.com/favicon.ico" sizes="32x32" />
 
     {/* TRACKING */}
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145443401-1" />
