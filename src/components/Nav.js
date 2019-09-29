@@ -46,6 +46,7 @@ const Nav = styled.ul`
   right: 0;
   list-style: none;
   margin-right: 10px;
+  margin-top: 10px;
 `;
 
 const StyledLink = styled(Link)`

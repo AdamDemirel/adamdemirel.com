@@ -866,7 +866,7 @@ and William MacAskill (one of the EA founders), in his TED talk, recommends lear
 
 # Conclusion
 
-In conclusion, the final take away from all of this to keep it simple(r) is to do the following, in order of priority:
+In conclusion, the final take away from all of this to keep it simple is to do the following, in order of priority:
 
 **The Job**
 * The most important characteristic of a job is that it is socially supporting in allowing you to receive feedback, from your supervisors and coworkers
@@ -925,107 +925,107 @@ In conclusion, the final take away from all of this to keep it simple(r) is to d
 
 3. Judge & Klinger 2008. Job satisfaction: Subjective well-being at work. In Eid & Larsen (Eds.), The science of subjective well-being (pp. 393-413). New York: Guilford.
 
-5. http://www.gallup.com/strategicconsulting/163007/state-american-workplace.aspx
+4. http://www.gallup.com/strategicconsulting/163007/state-american-workplace.aspx
 
-6. https://wikispaces.psu.edu/display/PSYCH484/11.+Job+Satisfaction
+5. https://wikispaces.psu.edu/display/PSYCH484/11.+Job+Satisfaction
 
-7. https://www.sciencedirect.com/science/article/pii/S0191308510000067
+6. https://www.sciencedirect.com/science/article/pii/S0191308510000067
 
-8. Humphrey, Nahrgang 2007. Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature
+7. Humphrey, Nahrgang 2007. Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature
 
-9. https://80000hours.org/2012/08/don-t-do-what-you-re-passionate-about-part-2/
+8. https://80000hours.org/2012/08/don-t-do-what-you-re-passionate-about-part-2/
 
-10. http://www.timothy-judge.com/c06.pdf Judge, T. A., Klinger, R. (2009). “Promote Job Satisfaction through Mental Challenge”. Handbook of Principles of Organizational Behaviour, Second Ed, pp107-119. http://www.timothy-judge.com/c06.pdf
+9.  http://www.timothy-judge.com/c06.pdf Judge, T. A., Klinger, R. (2009). “Promote Job Satisfaction through Mental Challenge”. Handbook of Principles of Organizational Behaviour, Second Ed, pp107-119. http://www.timothy-judge.com/c06.pdf
 
-11. Hackman, Oldham (1975) Development of the Job Diagnostic Survey. An Instrument for the Diagnosis of Jobs and the Evaluation of Job Redesign Projects.#
+10. Hackman, Oldham (1975) Development of the Job Diagnostic Survey. An Instrument for the Diagnosis of Jobs and the Evaluation of Job Redesign Projects.#
 
-12. https://signalvnoise.com/posts/104-all-about-flow#
+11. https://signalvnoise.com/posts/104-all-about-flow#
 
-13. Breaugh 1985, Morgeson and Humphrey 2006
+12. Breaugh 1985, Morgeson and Humphrey 2006
 
-14. Jackson, P. R., Wall, T. D., Martin, R. & Davids, K. (1993). New measures of job control, cognitive demand, and production responsibility. Journal of Applied  Psychology, 78, 753-762.
+13. Jackson, P. R., Wall, T. D., Martin, R. & Davids, K. (1993). New measures of job control, cognitive demand, and production responsibility. Journal of Applied  Psychology, 78, 753-762.
 
-15. The Job Content Questionnaire (JCQ): an instrument for internationally comparative assessments of psychosocial job characteristics.
+14. The Job Content Questionnaire (JCQ): an instrument for internationally comparative assessments of psychosocial job characteristics.
 
-16. Sims, H. P., Szilagyi, A. D., & Keller, R. T. (1976). The Measurement of Job Characteristics. Academy of Management Journal, 19, 195-212.
+15. Sims, H. P., Szilagyi, A. D., & Keller, R. T. (1976). The Measurement of Job Characteristics. Academy of Management Journal, 19, 195-212.
 
-17. Grant, A. M. (2008). The significance of task significance: Job performance effects, relational mechanisms, and boundary conditions. Journal of Applied Psychology, 93(1), pp.108-124.#
+16. Grant, A. M. (2008). The significance of task significance: Job performance effects, relational mechanisms, and boundary conditions. Journal of Applied Psychology, 93(1), pp.108-124.#
 
-18. Task Significance and Performance: Meaningfulness as a Mediator https://journals.sagepub.com/doi/pdf/10.1177/1069072716680047
+17. Task Significance and Performance: Meaningfulness as a Mediator https://journals.sagepub.com/doi/pdf/10.1177/1069072716680047
 
-19. Schwartz, S., Melech, G., Lehmann, A., Burgess, S., Harris, M. and Owens, V. (2001). Extending the Cross-Cultural Validity of the Theory of Basic Human Values with a Different Method of Measurement. Journal of Cross-Cultural Psychology, 32(5), pp.519-542.
+18. Schwartz, S., Melech, G., Lehmann, A., Burgess, S., Harris, M. and Owens, V. (2001). Extending the Cross-Cultural Validity of the Theory of Basic Human Values with a Different Method of Measurement. Journal of Cross-Cultural Psychology, 32(5), pp.519-542.
 
-20. Jex, S.M. (2002) Organizational Psychology: A Scientist-Practitioner Approach. John Wiley & Sons, New York
+19. Jex, S.M. (2002) Organizational Psychology: A Scientist-Practitioner Approach. John Wiley & Sons, New York
 
-21. Daniel Kahneman. Developments in the Measurement of Subjective Well-Being. Table 2
+20. Daniel Kahneman. Developments in the Measurement of Subjective Well-Being. Table 2
 
-22. Staw, Bell, and Clausen, (1986) The dispositional approach to job attitudes: A lifetime longitudinal test.
+21. Staw, Bell, and Clausen, (1986) The dispositional approach to job attitudes: A lifetime longitudinal test.
 
-23. Arvey, Carter, and Buerkley, (1991) Job satisfaction: Dispositional and situational influences.
+22. Arvey, Carter, and Buerkley, (1991) Job satisfaction: Dispositional and situational influences.
 
-24. deleted
+23. deleted
 
-25. Arvey, R. D., Bouchard, T. J. Jr, Segal, N. L. & Abraham, L. M. (1989). Job satisfaction: Environmental and genetic components. Journal of Applied P.yychology, 74, 187-I 92.
+24. Arvey, R. D., Bouchard, T. J. Jr, Segal, N. L. & Abraham, L. M. (1989). Job satisfaction: Environmental and genetic components. Journal of Applied P.yychology, 74, 187-I 92.
 
-26. Are genetic and environmental influences on job satisfaction stable over time? A three-wave longitudinal twin study.
+25. Are genetic and environmental influences on job satisfaction stable over time? A three-wave longitudinal twin study.
 
-27. https://sci-hub.se/https://doi.org/10.1016/0191-8869(94)90258-5
+26. https://sci-hub.se/https://doi.org/10.1016/0191-8869(94)90258-5
 
-28. https://onlinelibrary.wiley.com/doi/abs/10.1348/096317909X478557
+27. https://onlinelibrary.wiley.com/doi/abs/10.1348/096317909X478557
 
-29. https://www.researchgate.net/publication/315798577_Big_Five_personality_traits_and_job_satisfaction_Evidence_from_a_national_sample
+28. https://www.researchgate.net/publication/315798577_Big_Five_personality_traits_and_job_satisfaction_Evidence_from_a_national_sample
 
-30. Judge (2000) Personality and job satisfaction, the mediating role of job characteristics*
+29. Judge (2000) Personality and job satisfaction, the mediating role of job characteristics*
 
-31. Judge, Bono, Erez, and Locke, (2005). Core Self-Evaluations and Job and Life Satisfaction: The Role of Self-Concordance and Goal Attainment.
+30. Judge, Bono, Erez, and Locke, (2005). Core Self-Evaluations and Job and Life Satisfaction: The Role of Self-Concordance and Goal Attainment.
 
-32. Judge, T. A., Locke, E. A., & Durham, C. C. (1997). The dispositional causes of job satisfaction: A core evaluations approach. Research in Organizational Behavior, 19, 151–188.
+31. Judge, T. A., Locke, E. A., & Durham, C. C. (1997). The dispositional causes of job satisfaction: A core evaluations approach. Research in Organizational Behavior, 19, 151–188.
 
-33. https://www.reddit.com/r/askscience/comments/1p2cki/how_scientifically_valid_is_the_myers_briggs/
+32. https://www.reddit.com/r/askscience/comments/1p2cki/how_scientifically_valid_is_the_myers_briggs/
 
-34. https://digest.bps.org.uk/2019/01/21/teenagers-lack-of-insight-into-some-of-their-abilities-has-implications-for-career-counselling/
+33. https://digest.bps.org.uk/2019/01/21/teenagers-lack-of-insight-into-some-of-their-abilities-has-implications-for-career-counselling/
 
-35. https://www.researchgate.net/publication/233747919_Vocational_Interests_and_Performance_A_Quantitative_Summary_of_Over_60_Years_of_Research
+34. https://www.researchgate.net/publication/233747919_Vocational_Interests_and_Performance_A_Quantitative_Summary_of_Over_60_Years_of_Research
 
-36. Arnold R. Spokane, Erik J. Luchetta, Matthew H. Richwine (1995). Holland’s Theory of Personalities in Work Environments
+35. Arnold R. Spokane, Erik J. Luchetta, Matthew H. Richwine (1995). Holland’s Theory of Personalities in Work Environments
 
-37. http://www.sciencedirect.com/science/article/pii/S000187919991727X
+36. http://www.sciencedirect.com/science/article/pii/S000187919991727X
 
-38. Holland, J.L. (1997) Making Vocational Choices: A Theory of Vocational Personalities and Work Environments. 3rd Edition, Psychological Assessment Resources, Odessa.
+37. Holland, J.L. (1997) Making Vocational Choices: A Theory of Vocational Personalities and Work Environments. 3rd Edition, Psychological Assessment Resources, Odessa.
 
-39. Heintz, S., & Ruch, W. (2019). Character strengths and job satisfaction: Differential relationships across occupational groups and adulthood. Applied Research in Quality of Life.
+38. Heintz, S., & Ruch, W. (2019). Character strengths and job satisfaction: Differential relationships across occupational groups and adulthood. Applied Research in Quality of Life.
 
-40. My Better Self: Using Strengths at Work and Work Productivity, Organizational Citizenship Behavior, and Satisfaction
+39. My Better Self: Using Strengths at Work and Work Productivity, Organizational Citizenship Behavior, and Satisfaction
 
-41. https://80000hours.org/2014/10/interview-holden-karnofsky-on-the-importance-of-personal-fit/
+40. https://80000hours.org/2014/10/interview-holden-karnofsky-on-the-importance-of-personal-fit/
 
-42. https://journals.sagepub.com/doi/abs/10.1177/0950017014564602
+41. https://journals.sagepub.com/doi/abs/10.1177/0950017014564602
 
-43. https://www.lesswrong.com/posts/vADtvr9iDeYsCDfxd/value-of-information-four-examples#Choosing_a_Career
+42. https://www.lesswrong.com/posts/vADtvr9iDeYsCDfxd/value-of-information-four-examples#Choosing_a_Career
 
-44. https://www.sciencedirect.com/science/article/abs/pii/0047272795015647
+43. https://www.sciencedirect.com/science/article/abs/pii/0047272795015647
 
-45. http://www.panglossinc.com/documents/Therelationshipbetweenpayandjobsatisfaction.pdf
+44. http://www.panglossinc.com/documents/Therelationshipbetweenpayandjobsatisfaction.pdf
 
-46. https://80000hours.org/articles/job-satisfaction-research/#3-work-youre-good-at
+45. https://80000hours.org/articles/job-satisfaction-research/#3-work-youre-good-at
 
-47. https://80000hours.org/2016/02/should-you-look-for-a-low-stress-job/ #
+46. https://80000hours.org/2016/02/should-you-look-for-a-low-stress-job/ #
+
+47. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
 
 48. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
 
-49. https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/job-satisfaction-employees
+49. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf
 
-50. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf
+50. https://www.nesta.org.uk/report/creative-occupations-and-subjective-wellbeing/
 
-51. https://www.nesta.org.uk/report/creative-occupations-and-subjective-wellbeing/
+51. http://ftp.iza.org/dp1278.pdf
 
-52. http://ftp.iza.org/dp1278.pdf
+52. https://webarchive.nationalarchives.gov.uk/20140725230415/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/commuting-and-personal-well-being--2014/sty-commuting-and-well-being.html?format=hi-vis
 
-53. https://webarchive.nationalarchives.gov.uk/20140725230415/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/commuting-and-personal-well-being--2014/sty-commuting-and-well-being.html?format=hi-vis
+53. See 'experienced wellbeing' chapter of Thinking Fast and Slow by Daniel Kahneman
 
-54. See 'experienced wellbeing' chapter of Thinking Fast and Slow by Daniel Kahneman
-
-55. http://www-news.uchicago.edu/releases/07/pdf/070417.jobs.pdf
+54. http://www-news.uchicago.edu/releases/07/pdf/070417.jobs.pdf
 
 ## Other References
 - https://www.amazon.co.uk/Handbook-Career-Advising-Josseybass/dp/0470373687 \* (https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/ )
