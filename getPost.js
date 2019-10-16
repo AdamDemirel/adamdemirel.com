@@ -92,7 +92,7 @@ export default async pageName => {
       // });
 
       let hast = toHast(mdast);
-      console.log('CL: hast', hast);
+      // console.log('CL: hast', hast);
       let num = 0;
 
       hast.children.map(el => {

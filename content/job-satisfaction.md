@@ -14,11 +14,11 @@ According to Gallup `5`, in 2013 around 70% of American workers are either "not 
 
 Throughout this article, I will be sharing my independent research on which correlations make up job satisfaction, and hopefully by doing so I will increase your awareness of what the current research says about the determinants of a satisfying job, and possibly contribute to your future choices in some way.
 
-If you want to skip straight to the results, see the [research summary](#research-summary) for the [correlation matrix](#Correlation-Summary), the  [conclusion](#conclusion) for the readable summary of the whole article, or the [ultra compressed conclusion](#ultra-compressed-conclusion) if you want a TL;DR, but note by doing so you will be losing a lot of granularity and context and the suggestions will bear little weight.
+If you want to skip straight to the results, see the [research summary](#section-65) for the [correlation matrix](#section-66), the  [conclusion](#section-69) for the readable summary of the whole article, or the [ultra compressed conclusion](#section-70) if you want a TL;DR, but note by doing so you will be losing a lot of granularity and context and the suggestions will bear little weight.
 
 # Job Satisfaction
 
-_Job Satisfaction_ (_JS_ henceforth) is a measurement taken in Psychology of an attitude that people have towards their job, measured in a variety of ways. It is linked to `6` worker productivity and performance, motivation, workplace civility, prosociality, absenteeism, lateness, stress `7`, accidents, withdrawal intentions and employee turnover/retention, organisational commitment, mental and physical health, and most interestingly _Life Satisfaction_.
+_Job Satisfaction_ (_JS_ henceforth) is a measurement taken in Psychology of an attitude that people have towards their job, measured in a variety of ways. It is linked to `6` worker productivity and performance, motivation, workplace civility, prosociality, absenteeism, lateness, stress `7`, accidents, withdrawal intentions and employee turnover/retention, organizational commitment, mental and physical health, and most interestingly _Life Satisfaction_.
 
 The most widely built upon definition of job satisfaction is that it is
 
@@ -28,11 +28,11 @@ There are three main ways to measure JS: evaluative, cognitive, and behavioural.
 
 There are five main schools of thought on what leads to JS:
 
-1. [Motivational Characteristics](#1.-motivational-characteristics) - That satisfying jobs contain specific attributes in and of themselves that make them satisfying.
-2. [Social Characteristics](#2.-social-characteristics) - That job satisfaction is derived from positive social interactions.
-3. [Environmental Characteristics](#3.-environmental-characteristics) - There are factors in the workplace environment itself that are important to JS.
-4. [Worker Characteristics](#4.-worker-characteristics) - Job satisfaction is mediated by personality
-5. [Person-Environment Fit](#5.-person-environment-fit) - The match between an individuals interests and preferences, and the job.
+1. [Motivational Characteristics](#section-1) - That satisfying jobs contain specific attributes in and of themselves that make them satisfying.
+2. [Social Characteristics](#section-15) - That job satisfaction is derived from positive social interactions.
+3. [Environmental Characteristics](#section-22) - There are factors in the workplace environment itself that are important to JS.
+4. [Worker Characteristics](#section-29) - Job satisfaction is mediated by personality
+5. [Person-Environment Fit](#section-44) - The match between an individuals interests and preferences, and the job.
 
 Schools 1-3 Have fantastic data on them which we will look at to see how much they are related to job satisfaction. Schools 4 and 5 both have some data but not quite as robust. We will then look at a handful of other variables which also are less well-supported than the first 3 but nonetheless are relevant - such as income.
 
@@ -65,11 +65,11 @@ There is widespread agreement that the job characteristics model below is the st
 
 The JS research is one of most well researched approaches and identifies that it is the nature of the job itself, not anything else, that determines how satisfying the job is. The original and withstanding model was developed in 1975 by Hackman and Oldham `11` and proposed five factors which make work satisfying for workers and that make up a satisfaction job:
 
-1. [Autonomy](#autonomy)
-2. [Skill Variety / Task Variety](#skill-variety--task-variety)
-3. [Task Identity](#task-identity)
-4. [Task Significance](#task-significance)
-5. [Task Feedback](#task-feedback)
+1. [Autonomy](#section-3)
+2. [Skill Variety / Task Variety](#section-4)
+3. [Task Identity](#section-5)
+4. [Task Significance](#section-6)
+5. [Task Feedback](#section-8)
 
 These were all originally measured by what is called the _Job Diagnostic Survey (JDS)_ `11`, a series of questions with a 1-7 scale. The survey that is used to test it is most recently called the Work Design Questionnaire, and you can see the questions asked [here](https://msu.edu/~morgeson/English_WDQ.pdf).
 
@@ -159,11 +159,11 @@ Work that helps others is also often linked to meaning, and vice versa. An extre
 
 > I think [mans] work is to a large extent meaningless. Because he is not related to it, he is increasingly part of a big social machinery governed by a big bureaucracy, and I think American man subconsciously hates his work very often, because he feels trapped by it, imprisoned by it, because he feels as if he is spending most of his energy for something which has no meaning in itself. He's not dignified in making a life with his work because that's not quite enough to make one happy, if one spends 8 hours a day in something which in itself has no meaning and interest except that one gains money from it.
 
-This is a little extreme, but it highlights the concept. Interestingly, there is a great organisation called [80000 hours](https://80000hours.org) which focuses on effective altruism, and they think that one of the best ways to go about this is to use your career effectively. As a part of that, they also do a lot of JS research and career advice, some of which I recommend [here](#80k-advice). One of the main arguments that they make is that JS is primarily driven by task significance, and that you should design your career to have the largest social impact that you can to increase your job satisfaction and improve the world at the same time. Although they have gained a lot of popularity recently for various reasons, their argument hinges on how significant task significance really is.
+This is a little extreme, but it highlights the concept. Interestingly, there is a great organization called [80000 hours](https://80000hours.org) which focuses on effective altruism, and they think that one of the best ways to go about this is to use your career effectively. As a part of that, they also do a lot of JS research and career advice, some of which I recommend [here](#80k-advice). One of the main arguments that they make is that JS is primarily driven by task significance, and that you should design your career to have the largest social impact that you can to increase your job satisfaction and improve the world at the same time. Although they have gained a lot of popularity recently for various reasons, their argument hinges on how significant task significance really is.
 
 Firstly, in regards to motivation, the motivation to do prosocial work is based on the extent to which the nature of your work allows you to interact with those who benefit from it `18` - by frequency, proximity, duration, depth, and breadth of contact. This means that the 80k argument to benefit others indirectly (ie. by donating to effective charities) won't have as large of an effect on your JS as they advise.
 
-But most critical of 80k's mission is that the relationship between Perceived Social Impact, and Perceived Social Worth is moderated by [_conscientiousness_](#conscientiousness), and _pro-social values_ (see below). conscientiousness negatively mediates the relationship - ie the higher the conscientiousness, the lower the effect of task significance on job performance (due to effective performance and high effort being a reward in and of itself). And the higher the pro-social values, the higher the effect of task significance on job performance (due to them being more influenced by perceived social value and worth).
+But most critical of 80k's mission is that the relationship between Perceived Social Impact, and Perceived Social Worth is moderated by [_conscientiousness_](#section-34), and _pro-social values_ (see below). conscientiousness negatively mediates the relationship - ie the higher the conscientiousness, the lower the effect of task significance on job performance (due to effective performance and high effort being a reward in and of itself). And the higher the pro-social values, the higher the effect of task significance on job performance (due to them being more influenced by perceived social value and worth).
 
 #### Pro-Social Values
 To measure prosocial values, use the benevolence subscale of the Portrait Values Questionnaire `19`:
@@ -192,11 +192,11 @@ What this shows is that although the JCM is one of the most important factors in
 
 The JCM comprises the 5 core motivational characteristics, but 5 more were further identified later on as being potentially important, and discussed in the literature:
 
-- [Task variety](#skill-variety--task-variety), which we discussed above
-- [Information Processing](#information-processing)
-- [Job Complexity](#job-complexity)
-- [Specialization](#specialization)
-- [Problem Solving](#problem-solving)
+- [Task variety](#section-4), which we discussed above
+- [Information Processing](#section-11)
+- [Job Complexity](#section-12)
+- [Specialization](#section-13)
+- [Problem Solving](#section-14)
 
 The JCM and task variety are concerned with the nature of the job itself, whereas these other 4 are focused with the knowledge demands of the work.
 
@@ -224,12 +224,12 @@ The third school of thought on what constitutes JS is that people primarily deri
 
 Lately, researchers have thought social characteristics via the relationships between workers as being among the most important causes of JS. This fits with our intuition that working with people you dislike is terrible, or vice versa. The ways in which social characteristics may influence JS are many, but the ones that have been noted as potentially important are:
 
-1. [Social Information Processing](#Social-Information-Processing) - ie conforming to others evaluations
-2. [Interdependence](#interdependence)
-3. [Feedback from Others](#Feedback-From-Others)
-4. [Social support](#Social-Support)
-5. [Interaction Outside the Organisation](#Interaction-Outside-the-Organisation)
-6. [Small Talking](#small-talking)
+1. [Social Information Processing](#section-16) - ie conforming to others evaluations
+2. [Interdependence](#section-17)
+3. [Feedback from Others](#section-18)
+4. [Social support](#section-19)
+5. [Interaction Outside the organization](#section-20)
+6. [Small Talking](#section-21)
 
 80000hours simply [refers](https://80000hours.org/career-guide/job-satisfaction/) to this school of thought as "work with supportive colleagues", which accurately captures the meaning.
 
@@ -255,7 +255,7 @@ This is the extent to which a job provides opportunities for getting assistance 
 
 As simple as this criteria is, it turns out to be one of the best predictors of JS.
 
-## Interaction Outside the Organisation
+## Interaction Outside the organization
 
 This is the extent to which a job requires an individual to communicate with people (eg suppliers or customers) external to the organization, also referred to as Serving The Public.
 
@@ -269,9 +269,9 @@ You would think that being able to chat with coworkers on the job would be quite
 
 Environmental Characteristics, or 'Work Context Characteristics' as they are more oddly referred to in the literature, are a relatively neglected area of research, but which involve the features of the working environment itself that may influence JS, the three most noteworthy being:
 
-- [Physical Demands / Ease](#Physical-Demands--Ease)
-- [Work Conditions](#Work-Conditions)
-- [Ergonomics](#Ergonomics)
+- [Physical Demands / Ease](#section-23)
+- [Work Conditions](#section-24)
+- [Ergonomics](#section-27)
 
 These are expected to influence JS via being more related to biological concerns for safety and survival, as a fundamental motivation.
 
@@ -317,9 +317,9 @@ The support for this idea is a few folds:
 
 There are a handful of dispositional and personality characteristics which are potentially relevant to JS, but the three most important aspects of personality are:
 
-- [The Big Five Personality Traits](#The-Big-Five-Personality-Traits) - The 5 core personality traits which have been shown to be related to a wide range of different domains and outcomes
-- [The 4 Core Self-Evaluations](#Core-Self-Evaluations) -
-- [Affective Dispositions](#Affective-Disposition) - Positive vs Negative Affectivity / Emotions
+- [The Big Five Personality Traits](#section-32) - The 5 core personality traits which have been shown to be related to a wide range of different domains and outcomes
+- [The 4 Core Self-Evaluations](#section-38) -
+- [Affective Dispositions](#section-43) - Positive vs Negative Affectivity / Emotions
 
 ### Genetics
 And fourthly, considering the hereditary nature of JS, these personality traits are believed to be partly genetic, with genes explaining up to 30% of the variation in JS `25` `26`. That is, the genes of genetically identical / monozygotic twins explained .29 correlation with JS, whereas genetically dissimilar / dizygotic twins  explained -0.02 `27`. So it's clear that there's a genetic relationship, but interestingly, the relationship only moderated JS, and not external characteristics such as pay.
@@ -340,7 +340,7 @@ Again, we're curious as to how this relates to JS. In summary, conscientiousness
 
 Openness is characterized by intellectual curiosity, imagination, and non-conformity. Although important for many other fields, it has little effect on JS - correlating at 0.0 `29`.
 
-### conscientiousness
+### Conscientiousness
 
 conscientiousness is an individuals level of organization, hard work, and motivation in the pursuit of established goals. Its a strong perdictor of job performance and success, more than any other personality or individual trait besides IQ.
 
@@ -370,10 +370,10 @@ It correlates at -.26 `29` to -.29 `3`.
 
 Core Self-Evaluations (CSE) are a broad personality concept that encapsulate 4 specific personality traits:
 
-- [Generalized Self Efficacy](#Generalized-Self-Efficacy)
-- [Locus of Control](#Locus-of-Control)
-- [Self-Esteem](#Self-Esteem)
-- [Low Neuroticism / ie Emotional Stability](#Low-Neuroticism--Emotional-Stability)
+- [Generalized Self Efficacy](#section-40)
+- [Locus of Control](#section-41)
+- [Self-Esteem](#section-39)
+- [Low Neuroticism / ie Emotional Stability](#section-42)
 
 The mechanism on JS is believed to be mediated by the effect that these personality traits have on the perception of the job characteristics themselves. If we have a positive self-regard, we are likely to see our jobs positively and undertake ones that are challenging, and vice versa. The various processes that potentially mediate the relationship are that positive core self-evaluations lead us to both seek out and attain more challenging work, and then further perceive the work as more challenging and interesting thereafter `30`. The individuals with positive CSE are also more likely to work towards goals for reasons consistent with their values `31` which would make them more satisfied.
 
@@ -421,7 +421,7 @@ Correlates .28 `30`.
 
 ### Low Neuroticism / Emotional Stability
 
-Neuroticism is the degree to which an individual experiences feelings of irritability, nervousness worry, embarrassment, or guilt. It is essentially the same as the [big 5 neuroticism trait](#Neuroticism), but measured in a slightly different way.
+Neuroticism is the degree to which an individual experiences feelings of irritability, nervousness worry, embarrassment, or guilt. It is essentially the same as the [big 5 neuroticism trait](#section-37), but measured in a slightly different way.
 
 It's measured by asking the individual to rate their level of agreement with statements such as:
 
@@ -448,9 +448,9 @@ Having a career which is a good 'fit' for their personality is usually extremely
 It states that JS is the result of an individual being in the correct environment - one that matches their interests, preferences, personality, "passions", etc. This is the most intuitive because it fits with a lot of the career advice that is out there - namely that the way to find a satisfying job is to firstly discover your interests and passions, and then to find a job that allows you to do those. Basically, to make sure that you put the right person in the right job.
 
 There are a few main tests worth mentioning based on their popularity, and merits:
-1. [Myers–Briggs Type Indicator](#Myers%E2%80%93Briggs-Type-Indicator)
-2. [RIASEC / Holland Codes](#RIASEC--Holland-Codes)
-3. [Values In Action](#Values-In-Action-VIA)
+1. [Myers–Briggs Type Indicator](#section-45)
+2. [RIASEC / Holland Codes](#section-46)
+3. [Values In Action](#section-47)
 
 Although these are not perfect approaches, I think they are better than systematically going through an uncategorized [list of jobs](https://joboutlook.gov.au/A-Z) and trying to forecast what you would and wouldn't enjoy, as people have a [poor ability](https://80000hours.org/2012/09/do-you-really-know-what-job-will-make-you-happy/) at predicting what will make them happy.
 
@@ -519,26 +519,26 @@ Another paper which looked at the correlation of all 24 strengths at work found 
 ## Fit Is Picking What You Might Excel At
 Most of the other person-environment fit approaches are focused on your interests and preferences and matching them with the job. But a later school of thought `41` is that fit is about how likely you are to exceed at your job, and this could potentially be important for JS as performing highly in your job can lead to JS.
 
-See the [Job Performance section](#Job-Performance--Being-Good-At-Your-Job) below.
+See the [Job Performance section](#section-52) below.
 
 ---
 
 # 6. Other Factors
 
 Beyond the five main schools of thought above, there has been a lot of separate research into individual variables which affect JS. I've included research on those below that I believe are the most noteworthy:
-- [Income](#Income)
-- [Job Status](#Job-Status)
-- [Job Performance](#Job-Performance--Being-Good-At-Your-Job)
-- [Stress Level](#Stress-Level)
-- [Qualifications](#Qualifications)
-- [Organisation Size](#Organisation-Size)
-- [Gender](#Gender)
-- [Working Speed / Pressure](#Working-Speed--Pressure)
-- [Employment Type](#Employment-Type) / [Hours Worked](#Hours-Worked)
-- [Creative Occupations](#Creative-Occupations)
-- [Sleep](#Sleep)
-- [Age](#Age)
-- [Commute Time](#Commute-Time)
+- [Income](#section-50)
+- [Job Status](#section-51)
+- [Job Performance](#section-52)
+- [Stress Level](#section-53)
+- [Qualifications](#section-54)
+- [organization Size](#section-55)
+- [Gender](#section-56)
+- [Working Speed / Pressure](#section-57)
+- [Employment Type](#section-58) / [Hours Worked](#section-59)
+- [Creative Occupations](#section-60)
+- [Sleep](#section-61)
+- [Age](#section-62)
+- [Commute Time](#section-63)
 
 ## Income
 Income level is obviously one of the top factors that people weigh highly when career planning or predicting what jobs are satisfying. Obviously this has been recognized by JS researchers. Warr (1999) `4` simply referred to it as the "availability of money for needs".
@@ -600,17 +600,17 @@ Being overqualified for ones job affects JS with a -.20 correlation, and affects
 
 If the job that you are doing requires specialized education or training, it positively affects JS with a .20 correlation, and net emotional state on the job by 0.10 `21`.
 
-## Organisation Size
+## organization Size
 
-Organisation size also impacts job satisfaction `48`.
+organization size also impacts job satisfaction `48`.
 
 > On average, employees who worked in smaller enterprises with 5 to 19 employees reported higher levels of satisfaction with their current job (5.54 / 7) than employees who worked for medium sized (20-199 people) (5.39 / 7) and larger enterprises (200+ people) (5.32 / 7).
 
-Also, slightly unrelated to job satisfaction, but quite noteworthy is a set of research called the [_whitehall studies_](https://en.wikipedia.org/wiki/Whitehall_Study#Explanations_and_Implications), and what was found was that the larger the organisation, the more stratification there is between classes of workers, and the greater the job stress for those lower down.
+Also, slightly unrelated to job satisfaction, but quite noteworthy is a set of research called the [_whitehall studies_](https://en.wikipedia.org/wiki/Whitehall_Study#Explanations_and_Implications), and what was found was that the larger the organization, the more stratification there is between classes of workers, and the greater the job stress for those lower down.
 
 ## Gender
 
-Females are more satisfied with their job than male employees on average `49`. Male employees are more affected by the level and [autonomy](#Autonomy) and control over their work, whereas females are more affected by [work-life balance](#Employment-Type) (balancing work and non-work commitments).
+Females are more satisfied with their job than male employees on average `49`. Male employees are more affected by the level and [autonomy](#section-3) and control over their work, whereas females are more affected by [work-life balance](#section-58) (balancing work and non-work commitments).
 
 ## Working Speed / Pressure
 
@@ -671,7 +671,7 @@ If you are traveling by car or private vehicle, those traveling less than 15 min
 
 The sad news is that almost everything in this article is based on self-report by asking people to rate 1-10 how satisfied they feel with their work - the whole job or certain aspects of it. Unfortunately there's many issues with doing this that make the validity questionable, but fortunately a lot of independent measures corroborate the ratings that people give - eg behavioural effects of high and low JS such as turnover, absenteeism, workplace behaviours correlate highly with JS reports.
 
-In saying that, the gold standard for measurement is the [Experience Sampling Method](http://www.tandfonline.com/doi/abs/10.1080/13594320444000137?journalCode=pewo20) (ESM) which pages/messages people many times throughout the day to get real-time reports on peoples moods rather than post-hoc ratings which are more tainted. The ESM measures *now and there* not *later and elsewhere*. For a few direct examples of the discrepancy between JS reports and ESM reports, have a look at [small talking](#Small-Talking), [noise](#noise), [job status](#Job-Status), [qualifications](#Qualifications), and [working speed / pressure](#Working-Speed--Pressure).
+In saying that, the gold standard for measurement is the [Experience Sampling Method](http://www.tandfonline.com/doi/abs/10.1080/13594320444000137?journalCode=pewo20) (ESM) which pages/messages people many times throughout the day to get real-time reports on peoples moods rather than post-hoc ratings which are more tainted. The ESM measures *now and there* not *later and elsewhere*. For a few direct examples of the discrepancy between JS reports and ESM reports, have a look at [small talking](#section-21), [noise](#section-25), [job status](#section-51), [qualifications](#section-54), and [working speed / pressure](#section-57).
 
 Unfortunately there doesn't have been too much research done with this method directly on JS (though what has [is](https://www.hcs.harvard.edu/~jus/0303/bishay.pdf) interesting). From my elementary search, it seems like there's barely anything done on non-teachers, or measuring which jobs are best, or measuring which characteristics of the job contributes to JS, only that personality/beliefs have a role. So basically what's been done ignores most job satisfaction research. But I believe the ESM will be the future of how the studies are conducted and is promising to keep an eye on if you're interested.
 
@@ -718,7 +718,7 @@ Here is a complete summary of all of the variables and correlations mentioned th
       2. Social Support .59
       3. Feedback from Others .45
       4. Interdependence .36
-      5. Interaction Outside the Organisation .08
+      5. Interaction Outside the organization .08
       6. Small Talking .04
    3. Work Context
       1. Ergonomics ?
@@ -764,7 +764,7 @@ Here is a complete summary of all of the variables and correlations mentioned th
       1. Moderate Stress > High/Low
    5. Overqualified -.20
    6. Specialized Education .20
-   7. Organisation Size ?
+   7. organization Size ?
       1. 5-19 employees > 20-199 > 200+
    8. Gender ?
       1. Females JS > Males
@@ -793,11 +793,11 @@ Although you would think your genetics are completely chance and outside of your
 
 As for unknowns - who knows whether the ergonomics, temperature, CO2 / air quality level, noise level, job specialization, or problem solving affects JS. The best thing we can do here is to experiment with it ourselves and make subjective ratings during those days, or to hold on for better studies in the future. It is unknown to what *extent* sleep affects JS but it almost certainly does in some way. The same for stress level, but good stress is different from bad stress. Also, your job satisfaction may be mediated by conforming to the evaluations around you (social information processing), but it's hard to know by how much.
 
-Also the correlation between small talking on the job, physical demands of the job, and interacting with people outside of the organisation are so small that they are not worth paying attention to. Creative jobs are also slightly more satisfying than non, but not so much that you should weigh it highly.
+Also the correlation between small talking on the job, physical demands of the job, and interacting with people outside of the organization are so small that they are not worth paying attention to. Creative jobs are also slightly more satisfying than non, but not so much that you should weigh it highly.
 
 Now for the cream of the crop: what actual job should you select for?
 
-The most important take away that I haven't highlighted yet is the strength of correlation that Social Support received - a whopping .59, even more than JCM. Recall that social support is a measurement of how assisting your supervisors and coworkers are. How this affects us is that making sure that you like the people that you work with will have the largest effect on whether you will likely find your job satisfying or not, so make sure to get this one right. Obviously you won't know the people in your organisation until you work there, but you should keep this knowledge in your mind to weigh each job that you try. This criteria is starting to be acknowledged by many orgs and they are referring to it as "culture fit".
+The most important take away that I haven't highlighted yet is the strength of correlation that Social Support received - a whopping .59, even more than JCM. Recall that social support is a measurement of how assisting your supervisors and coworkers are. How this affects us is that making sure that you like the people that you work with will have the largest effect on whether you will likely find your job satisfying or not, so make sure to get this one right. Obviously you won't know the people in your organization until you work there, but you should keep this knowledge in your mind to weigh each job that you try. This criteria is starting to be acknowledged by many orgs and they are referring to it as "culture fit".
 
 Okay so you know you should work with people you like, but in which type of job? As mentioned earlier, there are [job listings](https://joboutlook.gov.au/A-Z) out there that you could systematically go through, but it wouldn't help for 3 reasons: they don't list the criteria you care about for each job (like the JCM), you don't know how much personal fit you have for each job, and it's overwhelming. They usually only list pay scales and growth of the industry which is not very meaningful.
 
@@ -812,13 +812,13 @@ I did find one paper `55`  which measured global JS across 50k participants and 
 
 Which is interesting and indicative, but I wouldn't weigh it *too* highly.
 
-The other best and crudest thing that I could find was [this](https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/future-intentions) which measures intention to change fields by industry, which you would assume somewhat correlates with JCM. You could potentially use these rates to inform your decision of how dissatisfied people are in different industries. At a high level, food and accomodation services, arts and recreation services, and admin and support services all have the highest turnover intentions. Whereas mining, professional, scientific and technical services, construction, [public admin and safety](https://joboutlook.gov.au/IndustrySpecific?search=Industry&Industry=O), and IT have the lowest.
+The other best and crudest thing that I could find was [this](https://www.fwc.gov.au/resources/research/australian-workplace-relations-study/first-findings-report/6-employee-experiences/future-intentions) which measures intention to change fields by industry, which you would assume somewhat correlates with JCM. You could potentially use these rates to inform your decision of how dissatisfied people are in different industries. At a high level, food and accommodation services, arts and recreation services, and admin and support services all have the highest turnover intentions. Whereas mining, professional, scientific and technical services, construction, [public admin and safety](https://joboutlook.gov.au/IndustrySpecific?search=Industry&Industry=O), and IT have the lowest.
 
 I think a better approach to filtering jobs is to start with your passions, interests, and strengths, even if not perfect, and then filter by JCM and job complexity. I would weigh job complexity and JCM about equally as highly. So the more complex the job, the better.
 
 Don't take the MBTI / Myers Briggs, unless you're doing so for entertainment, as it's basically useless for our purposes. I would instead take the [RIASEC / Hollands](#RIASEC--Holland-Codes) and figure out what your type is, and then peruse the job listings, making a shortlist. This is not a be-all-end-all though, you should keep your options open for jobs not on here, as it only correlates .10-20 remember? But it's a useful filter.
 
-Then once you have a list, I would email, talk to, meet, interview, etc, as many people that you can from those jobs and try to assess to the best of your ability how they rank on the JCM - potentially even using the direct questions from the surveys, and also on job complexity and information processing. As for weighing the JCM - as you saw, weigh decision-making autonomy the highest, equal with task variety, and then skill variety/feedback from the job second. It might be worth doing the pros-social values test and its definitely worth doing the big 5 test, and use both the pros-social values and conscientiousness to weigh task significance of the job. If you are low in conscientiousness or pro-social values, then you shouldn't weigh task signifiance highly at all, as having a social important won't be as important to you as engaging work will be in and of itself. Task identity can be weighed pretty low.
+Then once you have a list, I would email, talk to, meet, interview, etc, as many people that you can from those jobs and try to assess to the best of your ability how they rank on the JCM - potentially even using the direct questions from the surveys, and also on job complexity and information processing. As for weighing the JCM - as you saw, weigh decision-making autonomy the highest, equal with task variety, and then skill variety/feedback from the job second. It might be worth doing the pros-social values test and its definitely worth doing the big 5 test, and use both the pros-social values and conscientiousness to weigh task significance of the job. If you are low in conscientiousness or pro-social values, then you shouldn't weigh task significance highly at all, as having a social important won't be as important to you as engaging work will be in and of itself. Task identity can be weighed pretty low.
 
 Once you find jobs that seem like a good personal fit, and have the JCM, it might be worth trying to do an unpaid internship, volunteering, or participation in workshops just to try to get as close as you can to the day to day tasks of the job and assess how you feel doing it.
 
@@ -827,11 +827,11 @@ Hopefully the above gets you 90% of the way there. If not, the ~.20-.30 correlat
 * That it preferably requires specialized education
 * It doesn't require fast working speed (like hospitality)
 * The job isn't low status
-* That you preferably get to interact with others inside the organisation as a part of your job / Interdependnece (weigh this more highly than the previous)
+* That you preferably get to interact with others inside the organization as a part of your job / Interdependence (weigh this more highly than the previous)
 * That you get social feedback from others for the work you're doing
 * You're performing well
 
-Besides all of that, the only other thing you should weigh in your job is the size of the organisation, which should ideally be <20 people.
+Besides all of that, the only other thing you should weigh in your job is the size of the organization, which should ideally be <20 people.
 
 ## Post-Career Selection
 Once you've decided on career, or are in one, there is a handful of things that are still within your control to maximize your job satisfaction.
@@ -843,7 +843,7 @@ If you are already in a job and it is low in the JCM, there's a handful of thing
 
 First, change jobs or negotiate salary if your income is less than 700aud per week, non-negotiable, as this can invalidate everything else. Once it is over that, it is sufficient to optimize JS.
 
-The second most non-job characterstic improvement that you can make after your income is above 700$/wk is to live as close to work as possible. The negative effect on this on job dissatisfaction is just as dramatic as the negative effects of low income. Ideally you are within 15 minutes of walking/cycling distance. Weigh distance over transport mode.
+The second most non-job characteristic improvement that you can make after your income is above 700$/wk is to live as close to work as possible. The negative effect on this on job dissatisfaction is just as dramatic as the negative effects of low income. Ideally you are within 15 minutes of walking/cycling distance. Weigh distance over transport mode.
 
 You might be slightly happier working part-time than full-time, but only if it doesn't negatively affect your income too much. If you can find a work situation in a job that you fits all the other criteria, is close to work, and still pays well whilst allowing you to work part-time, you should definitely experiment with it as a means of improving your JS.
 
@@ -878,7 +878,7 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 * Do the [pro-social values test](#pro-social-values) and the BIG5 [test](https://understandmyself.com), using the former and your conscientiousness to moderate the effect of JCM task significance
 * Experiment with short-listed jobs, by volunteering, doing unpaid internships, or workshops, to get as close to the jobs daily tasks as you can, and re-assess JCM and personal fit
 * Ensure the absence of: overqualification, underqualification, fast working speed, low status, working alone, no social feedback from others, and poor performance
-* Optimally work for an organisation with < 20 people
+* Optimally work for an organization with < 20 people
 * Once you are in a job, to improve JCM, try: rotating jobs, adding tasks/variety to your job, adding responsibility/autonomy to your job
 * Negotiate your salary or change jobs if income < 700aud/wk
 * Live as close to work as possible, ideally < 15 minutes distance, ideally walking or cycling
@@ -900,7 +900,7 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 * Lastly, experiment with the unknowns and how they affect JS: sleep (most importantly), ergonomics, temperature, CO2/air, noise level, job specialization, stress-reducing interventions, and problem solving
 
 # Ultra Compressed Conclusion
-**So basically to find a satisfying career: work a mentally challenging job, with people you like and receive support from, that ideally suits your personality strengths, that pays okay, close to home, without any obvious negative factors, in a small organisation, preferably part-time, and make sure that you express positive personality traits whilst doing so. If you do this, you will have scientifically and commonsensically maximized your odds at a life of happy work.**
+**So basically to find a satisfying career: work a mentally challenging job, with people you like and receive support from, that ideally suits your personality strengths, that pays okay, close to home, without any obvious negative factors, in a small organization, preferably part-time, and make sure that you express positive personality traits whilst doing so. If you do this, you will have scientifically and commonsensically maximized your odds at a life of happy work.**
 
 # Recommended Reading
 
