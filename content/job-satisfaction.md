@@ -159,7 +159,7 @@ Work that helps others is also often linked to meaning, and vice versa. An extre
 
 > I think [mans] work is to a large extent meaningless. Because he is not related to it, he is increasingly part of a big social machinery governed by a big bureaucracy, and I think American man subconsciously hates his work very often, because he feels trapped by it, imprisoned by it, because he feels as if he is spending most of his energy for something which has no meaning in itself. He's not dignified in making a life with his work because that's not quite enough to make one happy, if one spends 8 hours a day in something which in itself has no meaning and interest except that one gains money from it.
 
-This is a little extreme, but it highlights the concept. Interestingly, there is a great organization called [80000 hours](https://80000hours.org) which focuses on effective altruism, and they think that one of the best ways to go about this is to use your career effectively. As a part of that, they also do a lot of JS research and career advice, some of which I recommend [here](#80k-advice). One of the main arguments that they make is that JS is primarily driven by task significance, and that you should design your career to have the largest social impact that you can to increase your job satisfaction and improve the world at the same time. Although they have gained a lot of popularity recently for various reasons, their argument hinges on how significant task significance really is.
+This is a little extreme, but it highlights the concept. Interestingly, there is a great organization called [80000 hours](https://80000hours.org) which focuses on effective altruism, and they think that one of the best ways to go about this is to use your career effectively. As a part of that, they also do a lot of JS research and career advice, some of which I recommend [here](#section-**72**). One of the main arguments that they make is that JS is primarily driven by task significance, and that you should design your career to have the largest social impact that you can to increase your job satisfaction and improve the world at the same time. Although they have gained a lot of popularity recently for various reasons, their argument hinges on how significant task significance really is.
 
 Firstly, in regards to motivation, the motivation to do prosocial work is based on the extent to which the nature of your work allows you to interact with those who benefit from it `18` - by frequency, proximity, duration, depth, and breadth of contact. This means that the 80k argument to benefit others indirectly (ie. by donating to effective charities) won't have as large of an effect on your JS as they advise.
 
@@ -531,7 +531,7 @@ Beyond the five main schools of thought above, there has been a lot of separate 
 - [Job Performance](#section-52)
 - [Stress Level](#section-53)
 - [Qualifications](#section-54)
-- [organization Size](#section-55)
+- [Organization Size](#section-55)
 - [Gender](#section-56)
 - [Working Speed / Pressure](#section-57)
 - [Employment Type](#section-58) / [Hours Worked](#section-59)
@@ -816,7 +816,7 @@ The other best and crudest thing that I could find was [this](https://www.fwc.go
 
 I think a better approach to filtering jobs is to start with your passions, interests, and strengths, even if not perfect, and then filter by JCM and job complexity. I would weigh job complexity and JCM about equally as highly. So the more complex the job, the better.
 
-Don't take the MBTI / Myers Briggs, unless you're doing so for entertainment, as it's basically useless for our purposes. I would instead take the [RIASEC / Hollands](#RIASEC--Holland-Codes) and figure out what your type is, and then peruse the job listings, making a shortlist. This is not a be-all-end-all though, you should keep your options open for jobs not on here, as it only correlates .10-20 remember? But it's a useful filter.
+Don't take the MBTI / Myers Briggs, unless you're doing so for entertainment, as it's basically useless for our purposes. I would instead take the [RIASEC / Hollands](#section-45) and figure out what your type is, and then peruse the job listings, making a shortlist. This is not a be-all-end-all though, you should keep your options open for jobs not on here, as it only correlates .10-20 remember? But it's a useful filter.
 
 Then once you have a list, I would email, talk to, meet, interview, etc, as many people that you can from those jobs and try to assess to the best of your ability how they rank on the JCM - potentially even using the direct questions from the surveys, and also on job complexity and information processing. As for weighing the JCM - as you saw, weigh decision-making autonomy the highest, equal with task variety, and then skill variety/feedback from the job second. It might be worth doing the pros-social values test and its definitely worth doing the big 5 test, and use both the pros-social values and conscientiousness to weigh task significance of the job. If you are low in conscientiousness or pro-social values, then you shouldn't weigh task significance highly at all, as having a social important won't be as important to you as engaging work will be in and of itself. Task identity can be weighed pretty low.
 
@@ -875,7 +875,7 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 * Interview, email, meet, many people working the jobs you are interested in, and question them specifically on the Job Characteristics Model
 * Quickly [do](http://highered.mheducation.com/sites/007040187x/student_view0/chapter5/self-assessment_5_6.html) the Growth Needs Strength to see how much to weigh the JCM
 * Weigh decision-making autonomy and task-variety the highest in job characteristics, followed by job-complexity, then skill-variety, task significance, feedback from the job, and lastly identity
-* Do the [pro-social values test](#pro-social-values) and the BIG5 [test](https://understandmyself.com), using the former and your conscientiousness to moderate the effect of JCM task significance
+* Do the [pro-social values test](#section-7) and the BIG5 [test](https://understandmyself.com), using the former and your conscientiousness to moderate the effect of JCM task significance
 * Experiment with short-listed jobs, by volunteering, doing unpaid internships, or workshops, to get as close to the jobs daily tasks as you can, and re-assess JCM and personal fit
 * Ensure the absence of: overqualification, underqualification, fast working speed, low status, working alone, no social feedback from others, and poor performance
 * Optimally work for an organization with < 20 people
