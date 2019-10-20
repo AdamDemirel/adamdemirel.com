@@ -65,6 +65,4 @@ export default createGlobalStyle`
     aside {
       position: relative;
     }
-
-
 `;

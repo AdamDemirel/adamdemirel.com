@@ -105,14 +105,19 @@ export const Name = styled.h1`
   vertical-align: text-top;
 `;
 
-export const Text = styled.p`
+export const Text = styled.div`
   width: 95%;
   ${fontFamily({ fontFamily: "karla" })}
   ${fontSize({ fontSize: ["20px", "24px", "26px"] })}
   ${lineHeight({ lineHeight: ["24px", "32px", "36px"] })}
 `;
 
-const Span = styled.p``;
+const Span = styled.p`
+  font-family: inherit;
+  color: inherit;
+  font-size: inherit;
+  line-height: inherit;
+`;
 
 export const Yellow = styled.span`
   background-color: #fefecf;

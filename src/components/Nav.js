@@ -23,17 +23,17 @@ const NavLink = props => (
 export default () => (
   <Nav>
     <Li>
-      <NavLink to="/" exact>
+      <NavLink to="/" exact="true">
         About
       </NavLink>
     </Li>
     <Li>
-      <NavLink to="/skills" exact>
+      <NavLink to="/skills" exact="true">
         Skills
       </NavLink>
     </Li>
     <Li>
-      <NavLink to="/writing" exact>
+      <NavLink to="/writing" exact="true">
         Writing
       </NavLink>
     </Li>
