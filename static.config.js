@@ -7,8 +7,6 @@ export default {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <script src="https://unpkg.com/littlefoot/dist/littlefoot.min.js" type="application/javascript"></script>
-        <script src="/littlefoot.js" type="application/javascript"></script>
       </Head>
       <Body>{children}</Body>
     </Html>
