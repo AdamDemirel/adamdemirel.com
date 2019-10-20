@@ -3,18 +3,22 @@ import { createGlobalStyle } from "styled-components";
 export default createGlobalStyle`
   @font-face {
     font-family: "Karla";
-    src: url("/fonts/Karla-Bold.woff") format("woff");
     font-style: normal;
-    font-display: swap;
+    font-display: fallback;
     font-weight: 700;
+    src:
+      url("/fonts/karla-bold.woff2") format("woff2"),
+      url("/fonts/karla-bold.woff") format("woff");
   }
 
   @font-face {
     font-family: "Karla";
-    src: url("/fonts/Karla-Regular.woff") format("woff");
     font-style: normal;
     font-weight: 400;
-    font-display: swap;
+    font-display: fallback;
+    src:
+      url("/fonts/karla-regular.woff2") format("woff2"),
+      url("/fonts/karla-regular.woff") format("woff");
   }
 
   body {
