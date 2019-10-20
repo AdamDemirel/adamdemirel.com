@@ -13,7 +13,7 @@ export default {
       <Body>{children}</Body>
     </Html>
   ),
-  plugins: ["react-static-plugin-reach-router", "react-static-plugin-styled-components"],
+  plugins: ["react-static-plugin-styled-components", "react-static-plugin-reach-router"],
   siteRoot: "https://adamdemirel.com",
   getRoutes: async ({ dev }) => [
     {
@@ -27,13 +27,6 @@ export default {
     {
       path: "writing",
       template: "src/pages/writing"
-      // children: posts.map(post => ({
-      //   path: `post/${post.slug}`,
-      //   template: 'src/containers/BlogPost',
-      //   getData: async () => ({
-      //     post,
-      //   }),
-      // })),
     },
     {
       path: "sleep",
