@@ -7,6 +7,8 @@ export default {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="preload" href="/fonts/karla-bold.woff2" as="font" type="font/woff2"></link>
+        <link rel="preload" href="/fonts/karla-regular.woff2" as="font" type="font/woff2"></link>
       </Head>
       <Body>{children}</Body>
     </Html>
