@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
   @font-face {
-    font-family: "Karla";
+    font-family: Karla;
     font-style: normal;
     font-display: fallback;
     font-weight: 700;
@@ -12,7 +12,7 @@ export default createGlobalStyle`
   }
 
   @font-face {
-    font-family: "Karla";
+    font-family: Karla;
     font-style: normal;
     font-weight: 400;
     font-display: fallback;
