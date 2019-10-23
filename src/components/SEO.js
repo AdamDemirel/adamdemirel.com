@@ -7,12 +7,11 @@ export default ({ title, description, path }) => (
       lang: "en"
     }}
   >
-    {/* SEO */}
     <meta charSet="utf-8" />
     <title>{title}</title>
     <link rel="canonical" href="https://adamdemirel.com" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="title" />
+    <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:creator" content="Adam Demirel" />
@@ -48,6 +47,6 @@ export default ({ title, description, path }) => (
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" sizes="32x32" />
+    {/* <link rel="icon" type="image/x-icon" href="/favicon.ico" sizes="32x32" /> */}
   </Helmet>
 );
