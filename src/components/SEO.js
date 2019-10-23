@@ -17,7 +17,7 @@ export default ({ title, description, path }) => (
     <meta name="twitter:creator" content="Adam Demirel" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content="https://adamdemirel.com/favicon.ico" sizes="32x32" />
+    <meta name="twitter:image" content="https://adamdemirel.com/favicon-32x32.png" sizes="32x32" />
 
     {/* TRACKING */}
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145443401-1" />
