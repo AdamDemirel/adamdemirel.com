@@ -57,7 +57,7 @@ export default withRouteData(({ title, content, path }) => {
                   <a href="#section-13 ">6. Sleeping Position</a>
                 </Li>
                 <Li>
-                  <a href="#section-14">7. Presence of Supplements / Nutrients</a>
+                  <a href="#section-14">7. Supplements / Nutrients</a>
                 </Li>
                 <Li>
                   <a href="#section-15">8. Sufficient Airflow</a>
