@@ -6,13 +6,15 @@ We all know that sleep is important, but we don't realize just how *monumentally
 ![Sainsbury's Graph](/images/sainsburygraph.png)
 Full report can be read [here](https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/sainsburys-living-well-index.PDF).
 
-> A good night's sleep is worth more than quadrupling your disposable income. Better sleep is the biggest single contributor to living better.
+> A good night's sleep is worth more than quadrupling your disposable income. **Better sleep is the biggest single contributor to living better.**
 
 If that still isn't enough, poor sleep impacts self-control, impairs your ability to interpret facial expressions and can make your relationships go sour (1), predicts weight gain (2), increases inflammation (3), increases traffic accident risk (4), diagnosis of type 2 diabetes (5), seasonal flu (6), cardiovascular diseases (7), and is one of the strongest predictors of depression (8). And to me the most interesting of all - the quality of your sleep correlates with whether or not you feel that your life is meaningful (9).
 
 So we agree that sleep is monumentally important, possibly even the most important thing in your life. The fact that sleep takes up 225,000 hours of your life justifies you spending a few hours to understanding and improving it. The 8 principles listed herein are all of the variables which correlate with good sleep quality.
 
+
 ---
+
 
 ## Principle 1: Sufficient Sleep Duration
 
@@ -24,7 +26,9 @@ So we have determined that you should probably sleep 7.5 or 9 hours (with a slig
 
 Now you know how many hours of sleep your body requires. This is non-negotiable.
 
+
 ---
+
 
 ## Principle 2: Regular Sleep/Wake Time
 
@@ -40,7 +44,9 @@ A paper suggested that this principle be called "work-sleep balance" and that we
 
 Although you could fall asleep at midnight and wake up at 7.30am or 9am, I suggest that you go to bed earlier. The first reason that this is important is simply that **delaying your bedtime increases the probability that you will shorten your sleep duration and be underslept** (17). And the second is that there are a lot of biological responses which take place on a 24 hour cycle, some involving sleep, and it is best that you coordinate your sleep with them. Lastly, late bedtime is associated with weight gain (18).
 
+
 ---
+
 
 ## Principle 3: Correct Sleep Temperature
 
@@ -61,6 +67,7 @@ The ChilliPad improved the world record holding cyclist Sky Christopherson's sle
 
 Both the air conditioner and the ChilliPad still have the limitation of being at a constant temperature. That was, until the ChilliPad cofounders began creating a new edition, called the Kryo. The Kryo is still a work in development currently being funded by crowdsourcing but it has one *main* advantage over all the other systems (and other smaller benefits like a connected app): *temperature adjustment* throughout the night.
 
+![kryo mattress](/images/kryo.png)
 The thin Kryo Mattress Pad
 
 The Kryo receives the input of how hot your body is and adjusts the cooling temperature of the unit to keep you at a constant temperature, rather than the device. **I personally am waiting out on my Kryo device** to optimize this Principle fully. In regards to the effectiveness of cooling mattress pads, one person even commented the following about the Chillipad: "I don't want to overstate my results, but this seems to be so effective that I'm less reliant on caffeine during the day." (26).
@@ -89,6 +96,8 @@ The idea is that you want to minimise blue light exposure nearing towards bed ti
 * We've been marketed the aesthetic blue light blocking computer glasses which, but regular old cheap orange sun blocking glasses that drivers use also work, and more well. Uvex is a popular brand. Dave Asprey is also a fan of doing this method.
 * Reading by a candle is also ideal, since candles don't produce blue lights.
 
+![asprey](/images/asprey.jpeg)
+
 But given the complexity of all this, I have found that it is very difficult to completely eliminate light in an urban environment long-term and make it a sustainable habit. I also find it all overhyped given that this is all to the end of lowering your body temperature essentially, which induces sleep.
 
 In saying that, I have found that regardless of my light exposure, **keeping a regular wake-sleep time and minimising caffeine to earlier in the day is the single biggest change which helps me sleep on time**. I have found that if i do this, regardless of blaring blue light in my eyes, I will still get tired. So there is an anecdotal discrepancy between the mechanism and my experience. Reading in bed by a fan may be a big reason why - a fan is potentially inducing a lower body temperature in me which mediates sleep. And keeping your body still acts as a cue for sleep - which is why you get tired when you watch a movie.
@@ -103,6 +112,7 @@ I keep this area simple, because I think melotonin production is overrated as lo
 
 Not only is the absence of light at night important, but the presence of it during the day is also - beyond the effects of vitamin D. Your body operates on an "in-built" rhythm called the circadian rhythm which is roughly 24 hours, give or take an hour or more between individuals. What I mean by inbuilt is: if you put people in a black room with no clocks or light and they have no way of knowing what the time is, they will begin drifting away from the 24 hour cycle of the outside world and into sync with their internal clock. So for instance if your internal circadian rhythm is 24.5 hours, you will follow this daily - which doesn't align with the 24 hour day we expect to attend to.
 
+![golite](/images/golite.jpeg)
 Philips goLITE
 
 But in the outside world with light, light acts as a *zeitgeber *- a cue for your body that it is day time, and the absence of it that it is night hence why light suppresses melotonin. Though the converse of above is that we usually need more light than we actually get due to being indoors creatures, and perhaps more than computer screens omit. The basic recommendation here is to **go outside during the day** - often people find that a run during the day in the sun is enough to keep their sleep-wake regular, and get their vitamin D. Others find that eating breakfast outside in the sun is an easy habit to maintain. I personally use the Philips goLITE for 30 minutes each day because I am assured that I am getting blue light in the amount that I desire, and bright light boxes have also been shown to increase serotonin levels (32).
@@ -115,6 +125,8 @@ Oddly, **what may be more important than light is simply vitamin D** which has b
 
 ## Principle 5: Absence Of Sound Pollution
 
+![street cars](/images/streets.jpeg)
+
 Environmental sound during sleep is likely an overlooked variable by most people. Sound in the environment has been shown to cause "micro-awakenings". A micro awakening is a very short awakening during sleep from a fraction of a second to a few seconds which is often not recognised or consciously remembered. "Cortical arousal's" are spikes in wakefulness, brain, breathing, and heart activity. 50 deciBals (dB henceforth) of noise was shown to induce these cortical arousal's in subjects (34). These arousal's can cause an abrupt change from deeper sleep to lighter (35).
 
 It is well established that there is a link between noise pollution in the environment and sleep impairment. It has even been shown to be linked to things as odd as attention disorders in children (36). All the evidence seems to point to the fact that **most people are sleeping in environments which are exposing them to noise levels which are disruptive to their sleep** (37), particularly people in urban environments - and this sleep disruption is constituting a health risk. Research even shows that exposure to residential traffic noise of only *10dB *or higher, increased the risk of type 2 diabetes by 20–40% over 10 years (38) - the postulated factors which contribute to it are the duration and quality of sleep. Environmental noise during sleep also increases the risk of cardiovascular disease (39).
@@ -123,7 +135,7 @@ Typical *noise pollution* is the product of vehicles on the road, aeroplanes, ne
 
 The European Environment Agency showed that **most people are exposed to about 55dB of noise during the night** (41). Other bodies such as the International Noise Council, the World Health Organisation, and the Environmental Protection Agency recommend **noise levels in the environment not exceeding a threshold of 30dB to minimise sleep disturbances** (42). The sleep disturbances and effects seem to be linked to the consequence of reduced sleep quantity, and the effect that has on reducing quantity of total quality sleep as a result (43).
 
-
+![test](/images/db_chart.png)
 The World Health Organisation's recommendation to avoid environmental noise exposure in excess of 30dB. http://www.euro.who.int/__data/assets/pdf_file/0017/43316/E92845.pdf?ua=1 (page 108)
 
 So there is the evidence that environmental noise during sleep is bad. There are two primary methods to eliminate it: block or reduce sounds from entering your ear canals, or to produce other sounds in your environment which override the environmental noise and are also more favourable to sleep. I believe that it is not worth the risk of producing your own noise given the slight possibility that any noise at all modifies brain activity and may still have low level detrimental effects that are not immediately discernible. But I will list both methods for completeness.
@@ -134,11 +146,16 @@ The types of produced sound that is wanted is usually "white noise", "pink noise
 
 As for the most popular pink and white noise, there is no study comparing their effectiveness head to head.
 
+![marpac dohm](/images/marpac.png)
+
 Some devices called sound machines like *sound of sleep *are able to plug into a power outlet and produce these frequencies, but it is uncertain whether these produce any effect beyond playing it via the speakers of a computer. The most popular noise machine is the *marpac dohm white noise machine* with some acclaimed amazon reviews (47) and testimonies from the likes of Tim Ferris (48). But some report that these noise machines are inferior to phone apps and websites due to the inability to change the volume. And others merely report that they get the same effect from using a bedside fan.
 
 ### Sound removal/reduction
 
-Foam earbuds; moulded earbuds; Isolate Pro earbuds.The second method of eliminating sound disturbances is via removing or reducing the sound by blocking the ear canal with earbuds, or by buying insulated windows. I do not recommend insulated windows as they prevent airflow, and heat ventilation. The earbuds can be constructed from different materials and have different form factors which produce different effects. But the three main forms are foam earplugs, moulded earplugs, and aluminium+silicon earplugs.
+![sound reduction devices](/images/sound_reduction.jpeg)
+Foam earbuds; moulded earbuds; Isolate Pro earbuds.
+
+The second method of eliminating sound disturbances is via removing or reducing the sound by blocking the ear canal with earbuds, or by buying insulated windows. I do not recommend insulated windows as they prevent airflow, and heat ventilation. The earbuds can be constructed from different materials and have different form factors which produce different effects. But the three main forms are foam earplugs, moulded earplugs, and aluminium+silicon earplugs.
 
 Foam earplugs are the typical spongy orange/yellow earplugs we think of. They are light, cheap, and disposable - and both made and designed to be used on construction sites. They are typically *claimed* to block up to 22–29 dB of sound (49) - or more accurately, reduce. If there is 40dB of sound in your environment, then wearing these are claimed to reduce that sound down to 11–18dB. Considering that sleep disruption is caused by 30dB+, these are an effective choice for blocking out any environmental noise between 52–59dB. Granted, the more noise that you reduce, the safer you will be. The downside to using them is that they wear and tear, and they are difficult to put in your ear properly, and the data in the isolate pro graph below suggests that they only block around 10dB in actuality.
 
@@ -146,6 +163,7 @@ The second main class of moulded earplugs are made and designed for musicians at
 
 The third class is new aluminium and titanium based silicon earbuds. There is a brand making them called Flare which makes the Isolate Pro's shown in the image above. They ran some tests which demonstrated their effectiveness - whereas the foam earbuds only blocked 10dB of the 60dB sound source being produced, their aluminium earbuds blocked 22dB and titanium earbuds blocked 27dB. I recommend the Flare Isolate Pro Mini earbuds. I am currently using the aluminum pair. In saying that, I have heard good things about the Marpac Dohm from people I respect - and the one big upside to white noise machines is that they don't require putting something in your ear which may feel uncomfortable for some people.
 
+![isolate pro](/images/isolate.jpeg)
 https://www.kickstarter.com/projects/584645150/isolate-switch-off-your-ears
 
 ### Quantifying
@@ -154,6 +172,8 @@ It used to be necessary to purchase expensive devices like this to measure envir
 ---
 
 ## Principle 6: Sleeping Position
+
+![sleeping position](/images/position.jpeg)
 
 Does our position whilst we are asleep have any effect on the quality of our sleep?
 
@@ -219,7 +239,11 @@ I have not adequately tested any of these, but they may be worth looking into.
 
 ### PEMF (Pulsed Electro-magnetic Fields)
 
-The 750$ device.As odd as it sounds, some people believe that shocking yourself with certain electromagnetic frequencies (using a 750$ device..) whilst you sleep can induce you into deeper sleep states fast and keep you there consistently for more efficient sleep. A chapter is written about it in this book. There is at least one study (79) that I came across which suggests that exposure to PEMF before sleep slows has lingering effects on your brain as you get to sleep, but nothing measuring sleep quality.
+As odd as it sounds, some people believe that shocking yourself with certain electromagnetic frequencies (using a 750$ device..) whilst you sleep can induce you into deeper sleep states fast and keep you there consistently for more efficient sleep. A chapter is written about it in this book. There is at least one study (79) that I came across which suggests that exposure to PEMF before sleep slows has lingering effects on your brain as you get to sleep, but nothing measuring sleep quality.
+
+
+![pmef](/images/mef.jpeg)
+The 750$ device.
 
 And then on the converse, many people recommend to put your mobile phone on airplane mode whilst you sleep to prevent the electromagnetic signals from disrupting your sleep.
 
