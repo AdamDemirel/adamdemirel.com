@@ -1,6 +1,7 @@
 ![Image of a bed](/images/sleep.jpeg)
 
-The 8 Evidence-Based Principles to Optimize Your Sleep
+# The 8 Evidence-Based Principles to Optimize Your Sleep
+
 We all know that sleep is important, but we don't realize just how *monumentally* important it is - to literally everything. **We spend one third of our lives asleep, roughly 225,000 hours**. Assuming that you will live to 80 years old, in total you will spend *twenty six* years of that asleep! We know that, yet we still don't respect sleep as one of the most important priorities in our life, usually because we think it is empty time which we don't experience and because we can usually get away with disrespecting it. But here is something that should make you think again and realize that improving your sleep could have a larger effect on your life than literally anything else you do. The [Sainsbury's Living Well Index](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index) is a landmark study by Oxford Economics which measures well-being -and of every single variable that people were measured by: age, community connections, finances, relationships, health, environment, sex life, children, etc - a good night's sleep was by far the most significant variable.
 
 ![Sainsbury's Graph](/images/sainsburygraph.png)
