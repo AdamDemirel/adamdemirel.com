@@ -26,6 +26,7 @@ export default withRouteData(({ title, content, path }) => {
 
               <Scrollspy
                 items={[
+                  "section-0",
                   "section-1",
                   "section-2",
                   "section-4",
@@ -39,11 +40,14 @@ export default withRouteData(({ title, content, path }) => {
                 currentClassName="activeScrollspy"
               >
                 <li>
+                  <a href="#section-0">Intro</a>
+                </li>
+                <li>
                   <a href="#section-1">1. Sufficient Sleep Duration</a>
                 </li>
-                <Li>
+                <li>
                   <a href="#section-2">2. Regular Sleep/Wake Time</a>
-                </Li>
+                </li>
                 <li>
                   <a href="#section-4">3. Correct Sleep Temperature</a>
                 </li>
@@ -53,18 +57,18 @@ export default withRouteData(({ title, content, path }) => {
                 <li>
                   <a href="#section-9">5. Absence Of Sound Pollution</a>
                 </li>
-                <Li>
+                <li>
                   <a href="#section-13 ">6. Sleeping Position</a>
-                </Li>
-                <Li>
+                </li>
+                <li>
                   <a href="#section-14">7. Supplements / Nutrients</a>
-                </Li>
-                <Li>
+                </li>
+                <li>
                   <a href="#section-15">8. Sufficient Airflow</a>
-                </Li>
-                <Li>
+                </li>
+                <li>
                   <a href="#section-17">Other Alternative Interventions</a>
-                </Li>
+                </li>
               </Scrollspy>
               :
               <Scrollspy
