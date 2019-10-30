@@ -7,9 +7,10 @@ We all know that sleep is important, but we don't realize just how monumentally 
 Full report can be read at https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/sainsburys-living-well-index.PDF
 
 > A good night's sleep is worth more than quadrupling your disposable income. Better sleep is the biggest single contributor to living better.
-If that still isn't enough, poor sleep impacts self-control, impairs your ability to interpret facial expressions and can make your relationships go sour (1), predicts weight gain (2), increases inflammation (3), increases traffic accident risk (4), diagnosis of type 2 diabetes (5), seasonal flu (6), cardiovascular diseases (7), and is one of the strongest predictors of depression (8). And to me the most interesting of all - the quality of your sleep correlates with whether or not you feel that your life is meaningful (9).
-So we agree that sleep is monumentally important, possibly even the most important thing in your life. The fact that sleep takes up 225,000 hours of your life justifies you spending a few hours to understanding and improving it. The 8 principles listed herein are all of the variables which correlate with good sleep quality.
 
+If that still isn't enough, poor sleep impacts self-control, impairs your ability to interpret facial expressions and can make your relationships go sour (1), predicts weight gain (2), increases inflammation (3), increases traffic accident risk (4), diagnosis of type 2 diabetes (5), seasonal flu (6), cardiovascular diseases (7), and is one of the strongest predictors of depression (8). And to me the most interesting of all - the quality of your sleep correlates with whether or not you feel that your life is meaningful (9).
+
+So we agree that sleep is monumentally important, possibly even the most important thing in your life. The fact that sleep takes up 225,000 hours of your life justifies you spending a few hours to understanding and improving it. The 8 principles listed herein are all of the variables which correlate with good sleep quality.
 
 ---
 
