@@ -23,8 +23,51 @@ export default withRouteData(({ title, content, path }) => {
         <ScrollspyOuterWrapper>
           <ScrollspyStickyWrapper>
             {title === "Sleep" ?
-              <div>here</div>
+
+              <Scrollspy
+                items={[
+                  "section-1",
+                  "section-2",
+                  "section-4",
+                  "section-6",
+                  "section-9",
+                  "section-13",
+                  "section-14",
+                  "section-15",
+                  "section-17",
+                ]}
+                currentClassName="activeScrollspy"
+              >
+                <li>
+                  <a href="#section-1">1. Sufficient Sleep Duration</a>
+                </li>
+                <Li>
+                  <a href="#section-2">2. Regular Sleep/Wake Time</a>
+                </Li>
+                <li>
+                  <a href="#section-4">3. Correct Sleep Temperature</a>
+                </li>
+                <li>
+                  <a href="#section-6">4. Correct Light Exposure</a>
+                </li>
+                <li>
+                  <a href="#section-9">5. Absence Of Sound Pollution</a>
+                </li>
+                <Li>
+                  <a href="#section-13 ">6. Sleeping Position</a>
+                </Li>
+                <Li>
+                  <a href="#section-14">7. Presence of Supplements / Nutrients</a>
+                </Li>
+                <Li>
+                  <a href="#section-15">8. Sufficient Airflow</a>
+                </Li>
+                <Li>
+                  <a href="#section-17">Other Alternative Interventions</a>
+                </Li>
+              </Scrollspy>
               :
+
 
               <Scrollspy
                 items={[
