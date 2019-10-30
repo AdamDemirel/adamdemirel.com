@@ -29,7 +29,7 @@ export default props => {
               17-09-19: <StyledLink to="/job-satisfaction">Job Satisfaction</StyledLink>
             </li>
             <li>
-              12-04-18: <StyledLink to="/sleep">The 8 Evidence-Based Principles to Optimize Your Sleep</StyledLink>
+              12-04-18: <StyledLink to="/sleep">Sleep Quality</StyledLink>
             </li>
           </ul>
         </Text>

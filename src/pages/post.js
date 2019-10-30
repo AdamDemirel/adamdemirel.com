@@ -23,7 +23,6 @@ export default withRouteData(({ title, content, path }) => {
         <ScrollspyOuterWrapper>
           <ScrollspyStickyWrapper>
             {title === "Sleep" ?
-
               <Scrollspy
                 items={[
                   "section-0",
