@@ -58,7 +58,7 @@ export default class Home extends React.Component {
             </Li>{" "}
             /{" "}
             <Li>
-              <A to="https://github.com/brasscapon">Github</A>
+              <A to="https://github.com/AdamDemirel">Github</A>
             </Li>{" "}
             /{" "}
             <Li>
