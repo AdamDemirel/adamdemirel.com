@@ -67,8 +67,6 @@ export default withRouteData(({ title, content, path }) => {
                 </Li>
               </Scrollspy>
               :
-
-
               <Scrollspy
                 items={[
                   "section-0",

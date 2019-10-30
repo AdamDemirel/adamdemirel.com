@@ -28,6 +28,9 @@ export default props => {
             <li>
               17-09-19: <StyledLink to="/job-satisfaction">Job Satisfaction</StyledLink>
             </li>
+            <li>
+              12-04-18: <StyledLink to="/sleep">The 8 Evidence-Based Principles to Optimize Your Sleep</StyledLink>
+            </li>
           </ul>
         </Text>
       </Card>
