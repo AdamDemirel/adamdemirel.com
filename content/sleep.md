@@ -4,7 +4,7 @@ The 8 Evidence-Based Principles to Optimize Your Sleep
 We all know that sleep is important, but we don't realize just how monumentally important it is - to literally everything.** We spend one third of our lives asleep, roughly 225,000 hours**. Assuming that you will live to 80 years old, in total you will spend twenty six years of that asleep! We know that, yet we still don't respect sleep as one of the most important priorities in our life, usually because we think it is empty time which we don't experience and because we can usually get away with disrespecting it. But here is something that should make you think again and realize that improving your sleep could have a larger effect on your life than literally anything else you do. The [Sainsbury's Living Well Index](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index) is a landmark study by Oxford Economics which measures well-being -and of every single variable that people were measured by: age, community connections, finances, relationships, health, environment, sex life, children, etc - a good night's sleep was by far the most significant variable.
 
 ![Sainsbury's Graph](/images/sainsburygraph.png)
-Full report can be read at https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/sainsburys-living-well-index.PDF
+Full report can be read [here](https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/sainsburys-living-well-index.PDF).
 
 > A good night's sleep is worth more than quadrupling your disposable income. Better sleep is the biggest single contributor to living better.
 
@@ -56,121 +56,187 @@ There's a few ways that your sleep temperature can be modified:
 Cooling mattress pads are similar to heat pads for your bed in winter that we are familiar with, but they allow for cooling rather than heating as the name implies. There are a few on the market, but most are poorly made and inefficient. One of the most current acclaimed is the ChilliPad which is a mattress pad which contains tubes that run water into the main unit where it diffuses the heat. Basically the water runs under your body and transfers the heat into the tube water and back out of the system. These are much more effective than a bedside fan due to them being in contact with your body rather than them cooling the whole room. The first advantage of them over an air conditioner is that if you sleep with a partner and you have differing temperature preferences, you can sleep at different temperatures. The second benefit of them is that they are more cost-efficient than an air conditioner since a lot of the air conditioners energy is wasted on cooling the rest of the room rather than the isolated mat.
 
 ![chillipad graph](/images/chillipad.png)
-The ChilliPad improved the world record holding cyclist Sky Christopherson's sleep more than any other intervention he tried. (17) The line is the national average for deep sleep.Both the air conditioner and the ChilliPad still have the limitation of being at a constant temperature. That was, until the ChilliPad cofounders began creating a new edition, called the Kryo. The Kryo is still a work in development currently being funded by crowdsourcing but it has one main advantage over all the other systems (and other smaller benefits like a connected app): temperature adjustment throughout the night.
-The thin Kryo Mattress PadThe Kryo receives the input of how hot your body is and adjusts the cooling temperature of the unit to keep you at a constant temperature, rather than the device. I personally am waiting out on my Kryo device to optimize this Principle fully. In regards to the effectiveness of cooling mattress pads, one person even commented the following about the Chillipad: "I don't want to overstate my results, but this seems to be so effective that I'm less reliant on caffeine during the day." (26).
+The ChilliPad improved the world record holding cyclist Sky Christopherson's sleep more than any other intervention he tried. (17) The line is the national average for deep sleep.
+
+Both the air conditioner and the ChilliPad still have the limitation of being at a constant temperature. That was, until the ChilliPad cofounders began creating a new edition, called the Kryo. The Kryo is still a work in development currently being funded by crowdsourcing but it has one main advantage over all the other systems (and other smaller benefits like a connected app): *temperature adjustment* throughout the night.
+
+The thin Kryo Mattress Pad
+
+The Kryo receives the input of how hot your body is and adjusts the cooling temperature of the unit to keep you at a constant temperature, rather than the device. I personally am waiting out on my Kryo device to optimize this Principle fully. In regards to the effectiveness of cooling mattress pads, one person even commented the following about the Chillipad: "I don't want to overstate my results, but this seems to be so effective that I'm less reliant on caffeine during the day." (26).
+
 Lastly, temperature is a bit more important in falling asleep rather than being asleep. Following this line of thought, I suggest that it may even be worth experimenting having your showers before bed if you are currently having them in the morning. There is conflicting evidence as to which cools your body better - a warm (27) (28) or cold shower. Some say that a hot shower counter-intuitively causes your body to cool down to overcompensate from the heat, others say that a cold shower intuitively cools you down. I'd suggest timing your latency to fall asleep against both and seeing which is faster.
-Quantifying
+
+### Quantifying
 If you really want to go a step further and measure your body temperature whilst sleeping, there are some wearable devices on the market which seem promising, notably the in-ear thermometers Cosinuss One and Cosinuss Degree, Guagewear, and the Tempdrop band. Though I haven't personally tried any of them.
 
-
 ---
 
-Principle 4: Correct Light Exposure
-There are two components of getting correct light exposure for optimal sleep: the first is the presence of light exposure during the day, and the second is the absence of light exposure at night. I'm going to start with the latter as it's more familiar to most:
-The Absence of Light Exposure At Night
-We have all heard about how we should use black out curtains whilst we sleep, how we shouldn't use computer screens or phones before bed, or even cover electronic device lights. The reason behind all of this is simply that there is a certain frequency of light titled blue light which essentially strikes our eyes and suppresses our brain from secreting the hormone melotonin which helps us get to sleep (29), as we seen (lots of research here).
-The idea is that you want to minimise blue light exposure nearing towards bed time, around 2 hours before to allow your melotonin production to secrete. There are a lot of ways to do this, including:
-The nifty blue light blocking apps on our devices - the popular f.lux for computers and twilight for phones which both work by dimming the screen and removing it from emitting blue light.
-Black out blinds to block ambient light in urban environment. Though as we've seen these block airflow, and make the room hot whilst sleeping.
-Cover electronic device lights, though it is usually very difficult to completely remove all sources of light in the environment, especially if we want to begin dimming 2 hours before bed, we would have to turn off all the lights in the house.
-Unless we use these bulbs invented by NASA which doesn't emit blue light like most household bulbs, especially LED
-You can go as far as I did and experiment with reading by infrared reptile lamps by your bedside after 7pm or so. The NASA scientist Ray Cronise also does this (30).
+## Principle 4: Correct Light Exposure
 
-We've been marketed the aesthetic blue light blocking computer glasses which, but regular old cheap orange sun blocking glasses that drivers use also work, and more well. Uvex is a popular brand. Dave Asprey is also a fan of doing this method.
-Reading by a candle is also ideal, since candles don't produce blue lights.
+There are two components of getting correct light exposure for optimal sleep: the first is the presence of light exposure during the day, and the second is the absence of light exposure at night. I'm going to start with the latter as it's more familiar to most:
+
+### The Absence of Light Exposure At Night
+
+We have all heard about how we should use black out curtains whilst we sleep, how we shouldn't use computer screens or phones before bed, or even cover electronic device lights. The reason behind all of this is simply that there is a certain frequency of light titled blue light which essentially strikes our eyes and suppresses our brain from secreting the hormone melotonin which helps us get to sleep (29), as we seen (lots of research here).
+
+The idea is that you want to minimise blue light exposure nearing towards bed time, around 2 hours before to allow your melotonin production to secrete. There are a lot of ways to do this, including:
+* The nifty blue light blocking apps on our devices - the popular f.lux for computers and twilight for phones which both work by dimming the screen and removing it from emitting blue light.
+* Black out blinds to block ambient light in urban environment. Though as we've seen these block airflow, and make the room hot whilst sleeping.
+* Cover electronic device lights, though it is usually very difficult to completely remove all sources of light in the environment, especially if we want to begin dimming 2 hours before bed, we would have to turn off all the lights in the house.
+* Unless we use these bulbs invented by NASA which doesn't emit blue light like most household bulbs, especially LED
+* You can go as far as I did and experiment with reading by infrared reptile lamps by your bedside after 7pm or so. The NASA scientist Ray Cronise also does this (30).
+* We've been marketed the aesthetic blue light blocking computer glasses which, but regular old cheap orange sun blocking glasses that drivers use also work, and more well. Uvex is a popular brand. Dave Asprey is also a fan of doing this method.
+* Reading by a candle is also ideal, since candles don't produce blue lights.
 
 But given the complexity of all this, I have found that it is very difficult to completely eliminate light in an urban environment long-term and make it a sustainable habit. I also find it all overhyped given that this is all to the end of lowering your body temperature essentially, which induces sleep.
+
 In saying that, I have found that regardless of my light exposure, keeping a regular wake-sleep time and minimising caffeine to earlier in the day is the single biggest change which helps me sleep on time. I have found that if i do this, regardless of blaring blue light in my eyes, I will still get tired. So there is an anecdotal discrepancy between the mechanism and my experience. Reading in bed by a fan may be a big reason why - a fan is potentially inducing a lower body temperature in me which mediates sleep. And keeping your body still acts as a cue for sleep - which is why you get tired when you watch a movie.
+
 One tool I do use though and recommend is a very cheap sleep mask to block out light whilst I am sleeping, rather than before sleep.
+
 If all else fails, you can basically blast blue light in your eyes all that you want if you take some melotonin pills, with evidence showing that you only need as little as 0.3mg (31) rather than 3mg which is what most people take. Though I personally find that any dose of melotonin pills wakes me up at night for some reason.
+
 I keep this area simple, because I think melotonin production is overrated as long as you're inducing a cooler body temperature, but feel free to experiment with what's said here and see what works for you.
-The Presence of Light Exposure During The Day
+
+### The Presence of Light Exposure During The Day
+
 Not only is the absence of light at night important, but the presence of it during the day is also - beyond the effects of vitamin D. Your body operates on an "in-built" rhythm called the circadian rhythm which is roughly 24 hours, give or take an hour or more between individuals. What I mean by inbuilt is: if you put people in a black room with no clocks or light and they have no way of knowing what the time is, they will begin drifting away from the 24 hour cycle of the outside world and into sync with their internal clock. So for instance if your internal circadian rhythm is 24.5 hours, you will follow this daily - which doesn't align with the 24 hour day we expect to attend to.
-Philips goLITEBut in the outside world with light, light acts as a zeitgeber - a cue for your body that it is day time, and the absence of it that it is night hence why light suppresses melotonin. Though the converse of above is that we usually need more light than we actually get due to being indoors creatures, and perhaps more than computer screens omit. The basic recommendation here is to go outside during the day - often people find that a run during the day in the sun is enough to keep their sleep-wake regular, and get their vitamin D. Others find that eating breakfast outside in the sun is an easy habit to maintain. I personally use the Philips goLITE for 30 minutes each day because I am assured that I am getting blue light in the amount that I desire, and bright light boxes have also been shown to increase serotonin levels (32).
+
+Philips goLITE
+
+But in the outside world with light, light acts as a zeitgeber - a cue for your body that it is day time, and the absence of it that it is night hence why light suppresses melotonin. Though the converse of above is that we usually need more light than we actually get due to being indoors creatures, and perhaps more than computer screens omit. The basic recommendation here is to go outside during the day - often people find that a run during the day in the sun is enough to keep their sleep-wake regular, and get their vitamin D. Others find that eating breakfast outside in the sun is an easy habit to maintain. I personally use the Philips goLITE for 30 minutes each day because I am assured that I am getting blue light in the amount that I desire, and bright light boxes have also been shown to increase serotonin levels (32).
+
 Another light zeitegeber that I use is the Philips hue alarm clock which gently wakes me up with light instead of of an obnoxious alarm sound. It gets increasingly brighter as it nears towards your alarm time gently waking you up. A video of it in action can be seen here.
+
 Oddly, what may be more important than light is simply vitamin D which has been shown to be what is regulating our circadian rhythm on a cellular level (33) by expressing genes during the day and turning them off at night. This may be why some people have reported that taking vitamin D before bed worsens their sleep, but not during the morning.
 
-
 ---
 
-Principle 5: Absence Of Sound Pollution
-Photo by Dan Gold on UnsplashEnvironmental sound during sleep is likely an overlooked variable by most people. Sound in the environment has been shown to cause "micro-awakenings". A micro awakening is a very short awakening during sleep from a fraction of a second to a few seconds which is often not recognised or consciously remembered. "Cortical arousal's" are spikes in wakefulness, brain, breathing, and heart activity. 50 deciBals (dB henceforth) of noise was shown to induce these cortical arousal's in subjects (34). These arousal's can cause an abrupt change from deeper sleep to lighter (35).
+## Principle 5: Absence Of Sound Pollution
+
+Environmental sound during sleep is likely an overlooked variable by most people. Sound in the environment has been shown to cause "micro-awakenings". A micro awakening is a very short awakening during sleep from a fraction of a second to a few seconds which is often not recognised or consciously remembered. "Cortical arousal's" are spikes in wakefulness, brain, breathing, and heart activity. 50 deciBals (dB henceforth) of noise was shown to induce these cortical arousal's in subjects (34). These arousal's can cause an abrupt change from deeper sleep to lighter (35).
+
 It is well established that there is a link between noise pollution in the environment and sleep impairment. It has even been shown to be linked to things as odd as attention disorders in children (36). All the evidence seems to point to the fact that most people are sleeping in environments which are exposing them to noise levels which are disruptive to their sleep (37), particularly people in urban environments - and this sleep disruption is constituting a health risk. Research even shows that exposure to residential traffic noise of only 10dB or higher, increased the risk of type 2 diabetes by 20–40% over 10 years (38) - the postulated factors which contribute to it are the duration and quality of sleep. Environmental noise during sleep also increases the risk of cardiovascular disease (39).
+
 Typical noise pollution is the product of vehicles on the road, aeroplanes, neighbours, industrial work in the area, or it may also be produced by urban animals such as raccoons or bats. But road traffic is the most contributing source of noise pollution (40). It may also be caused by your partner's snoring.
+
 The European Environment Agency showed that most people are exposed to about 55dB of noise during the night (41). Other bodies such as the International Noise Council, the World Health Organisation, and the Environmental Protection Agency recommend noise levels in the environment not exceeding a threshold of 30dB to minimise sleep disturbances (42). The sleep disturbances and effects seem to be linked to the consequence of reduced sleep quantity, and the effect that has on reducing quantity of total quality sleep as a result (43).
-The World Health Organisation's recommendation to avoid environmental noise exposure in excess of 30dB. http://www.euro.who.int/__data/assets/pdf_file/0017/43316/E92845.pdf?ua=1 (page 108)So there is the evidence that environmental noise during sleep is bad. There are two primary methods to eliminate it: block or reduce sounds from entering your ear canals, or to produce other sounds in your environment which override the environmental noise and are also more favourable to sleep. I believe that it is not worth the risk of producing your own noise given the slight possibility that any noise at all modifies brain activity and may still have low level detrimental effects that are not immediately discernible. But I will list both methods for completeness.
-Produced Sound
+
+
+The World Health Organisation's recommendation to avoid environmental noise exposure in excess of 30dB. http://www.euro.who.int/__data/assets/pdf_file/0017/43316/E92845.pdf?ua=1 (page 108)
+
+So there is the evidence that environmental noise during sleep is bad. There are two primary methods to eliminate it: block or reduce sounds from entering your ear canals, or to produce other sounds in your environment which override the environmental noise and are also more favourable to sleep. I believe that it is not worth the risk of producing your own noise given the slight possibility that any noise at all modifies brain activity and may still have low level detrimental effects that are not immediately discernible. But I will list both methods for completeness.
+
+### Produced Sound
+
 The types of produced sound that is wanted is usually "white noise", "pink noise", and "brown noise", each associated with different frequencies of sound, and each speculated to have their own unique effects (44). White noise at 50–60dB has been shown to be effective in promoting sleep and improving sleep quality ratings (45). But there are a myriad of noise colors (46), and they can be played around with here. The idea behind playing a single consistent frequency of group of frequencies is that it drowns out any single sound. Human sound perception has evolved to detect changes in the environment, and so if it is quiet, any single sound stands out. White noise reduces the differences between the background sound produced by the white noise generator, and any other sounds that occur against it.
+
 As for the most popular pink and white noise, there is no study comparing their effectiveness head to head.
-Some devices called sound machines like sound of sleep are able to plug into a power outlet and produce these frequencies, but it is uncertain whether these produce any effect beyond playing it via the speakers of a computer. The most popular noise machine is the marpac dohm white noise machine with some acclaimed amazon reviews (47) and testimonies from the likes of Tim Ferris (48). But some report that these noise machines are inferior to phone apps and websites due to the inability to change the volume. And others merely report that they get the same effect from using a bedside fan .
-Sound removal/reduction
+
+Some devices called sound machines like sound of sleep are able to plug into a power outlet and produce these frequencies, but it is uncertain whether these produce any effect beyond playing it via the speakers of a computer. The most popular noise machine is the marpac dohm white noise machine with some acclaimed amazon reviews (47) and testimonies from the likes of Tim Ferris (48). But some report that these noise machines are inferior to phone apps and websites due to the inability to change the volume. And others merely report that they get the same effect from using a bedside fan.
+
+### Sound removal/reduction
 Foam earbuds; moulded earbuds; Isolate Pro earbuds.The second method of eliminating sound disturbances is via removing or reducing the sound by blocking the ear canal with earbuds, or by buying insulated windows. I do not recommend insulated windows as they prevent airflow, and heat ventilation. The earbuds can be constructed from different materials and have different form factors which produce different effects. But the three main forms are foam earplugs, moulded earplugs, and aluminium+silicon earplugs.
+
 Foam earplugs are the typical spongy orange/yellow earplugs we think of. They are light, cheap, and disposable - and both made and designed to be used on construction sites. They are typically claimed to block up to 22–29 dB of sound (49) - or more accurately, reduce. If there is 40dB of sound in your environment, then wearing these are claimed to reduce that sound down to 11–18dB. Considering that sleep disruption is caused by 30dB+, these are an effective choice for blocking out any environmental noise between 52–59dB. Granted, the more noise that you reduce, the safer you will be. The downside to using them is that they wear and tear, and they are difficult to put in your ear properly, and the data in the isolate pro graph below suggests that they only block around 10dB in actuality.
+
 The second main class of moulded earplugs are made and designed for musicians at concerts. They are silicon inserts which you can squish and shape to fill your ear hole. Although they seem like a promising alternative, they are also not any better than the foam earplugs, and only block about 13dB of noise (50). I also find them uncomfortable as they get sweaty when my body heats up naturally during sleep.
+
 The third class is new aluminium and titanium based silicon earbuds. There is a brand making them called Flare which makes the Isolate Pro's shown in the image above. They ran some tests which demonstrated their effectiveness - whereas the foam earbuds only blocked 10dB of the 60dB sound source being produced, their aluminium earbuds blocked 22dB and titanium earbuds blocked 27dB. I recommend the Flare Isolate Pro Mini earbuds. I am currently using the aluminum pair. In saying that, I have heard good things about the Marpac Dohm from people I respect - and the one big upside to white noise machines is that they don't require putting something in your ear which may feel uncomfortable for some people.
-https://www.kickstarter.com/projects/584645150/isolate-switch-off-your-earsQuantifying
+
+https://www.kickstarter.com/projects/584645150/isolate-switch-off-your-ears
+
+### Quantifying
 It used to be necessary to purchase expensive devices like this to measure environmental noise, but you can now do it simply and for free with a smart phone app. Just search 'sound meter app' into google or your app store.
 
-
 ---
 
-Principle 6: Sleeping Position
-sourceDoes our position whilst we are asleep have any effect on the quality of our sleep?
+## Principle 6: Sleeping Position
+
+Does our position whilst we are asleep have any effect on the quality of our sleep?
+
 It has been well known for a while that sleeping position can be used to treat a variety of medical disorders, with the most well supported being obstructive sleep apnea - a condition whereby you scarily stop breathing for a few moments, usually unconsciously. More than 50% of obstructive sleep apnea cases have worsening symptoms when sleeping on their back (51), to the extent that their symptoms can be removed sometimes entirely by modifying their sleeping position off of their back (52, 53, 54, 55). It is alleged that 22 million Americans have sleep apnea, with 80% of cases not diagnosed (56). Even if you do not know that you have sleep apnea, not sleeping on your back may be a wise choice to reduce the mere possibility that you do and that you are not aware of it.
+
 But as for other conditions, there is conflicting evidence as to what constitutes optimal position, depending on which condition is attempting to be treated. It has been shown that a twisted neck during sleep can encourage muscle and skeletal pain in the neck and shoulders (57). Back sleeping is believed to improve symptoms of dry eyes (58). Sleeping position has also been shown to be implicated in back pain. If you are pregnant, then sleeping on your back is associated with a 9% increased risk in stillbirth (59). But on the contrary, sleeping on the back is suggested to reduce the likelihood of sudden infant death syndrome of babies (60).
+
 Perhaps most fascinating and relevant to the laymen is a recent 2015 discovery via the study of rodents which may be applicable to humans (61, 62). Rodents in stomach, back, and side sleeping positions were watched under MRI and it was observed that Glymphatic transport was the most efficient when rodents slept on their side. That is, the waste of the rodents brains was allowed to be cleared the most easily. Importantly, one of those waste products is amyloid-beta which is considered to be linked to Alzheimer's disease (63). Maiken Nedergaard - one of the researchers on the team, later commented in a keynote that:
-…it appears that we have adapted the lateral sleep position to most efficiently clear our brain of the metabolic waste products that built up while we are awake.
+
+> …it appears that we have adapted the lateral sleep position to most efficiently clear our brain of the metabolic waste products that built up while we are awake.
+
 So whether the claim that we evolved to utilise this position is currently unknown, she noted that the side position is already the most popular in humans and wild animals.
+
 So if you are not already a side sleeper, the position may be worth adopting merely for the likelihood that similar mechanisms are at play in humans as well as mice, even if it is currently unknown causally. But to support the theory, a 2007 survey of 812 participants found that the majority of the subjects already slept in the side position as Maiken noted, as well as finding that in contrast to the popular wisdom of sleeping on ones back to improve back pain, the side sleepers reported less physical pains and promoted higher sleep quality ratings.
+
 But how do you become a side sleeper if you have slept on your stomach or back your whole life? One potential tech solution may be whats called a sleep position trainer which is a device that straps to your chest and measures your position in space, and gently vibrates to alert you to cue you to shift off of your back (64, 65). There are also effective (66) mobile apps, one for android titled apnea sleep position trainer and for IOS titled SomnoPose-Sleep Position Monitor which are purported to do the same thing. But the easy solution may be to just prop yourself into place with pillows on your backside and next to your head, as well as perhaps under your knees to keep you in place on your side. And over time the habit will be reinforced to cause side sleeping to be your new norm.
+
 There we have it - some evidence to suggest that side sleeping may be the optimal decision.
 
-
 ---
 
-Principle 7: Presence of Supplements/Nutrients
+## Principle 7: Presence of Supplements/Nutrients
+
 So we have already discussed melotonin which may be worth trying if you are having difficulty getting to sleep earlier or maintaining a regular bedtime
-"Our meta-analysis demonstrated melatonin had a significant benefit in reducing sleep latency. Subjects randomly assigned to melatonin fell asleep 7 minutes earlier on average than subjects receiving placebo…in the random effects model, sleep latency was reduced by over 10 minute" (67)
+
+> "Our meta-analysis demonstrated melatonin had a significant benefit in reducing sleep latency. Subjects randomly assigned to melatonin fell asleep 7 minutes earlier on average than subjects receiving placebo…in the random effects model, sleep latency was reduced by over 10 minute" (67)
+
 Here are some others worth mentioning:
-Magnesium Citrate acts as a mild sedative to help you fall asleep (68), and increases the amount of deep sleep (69).
-Potassium Citrate can lower limb spasms during sleep (70).
-The amino acid Tryptophan is a precursor to melotonin if you want to increase it indirectly. I have found that this is better for me than supplementing melotonin directly as it allows my body to regulate how much I need, and it has usually resulted in me getting tired fast and having a deep and uninterrupted sleep.
-Even more effective than Tryptophan is 5HTP which is one step closer to melotonin. 5HTP puts me fast into deep sleep.
-Ensure that you have enough zinc in your diet (~15mg/day) which is required to make testosterone. Normal testosterone levels are needed for good sleep (71).
-Taurine increases the neurotransmitter GABA which induces sleep (72), the same mechanism as alcohol. But alcohol has what's called a "rebound effect" which results in you waking up later in the night and ending up with an overall worse quality sleep which is why it's not recommended.
-Theanine increases "alpha waves" which is the relaxing state of electrical firing our brain is in prior to sleep (73). An experiment showed that it countered the adverse effects of caffeine on sleep in rats (74).
-Valerian also produces GABA (75)
-A lot of people on reddit are big on Glycine which report feeling more rested the following morning. Though studies haven't found it to be effective and I don't notice any benefit.
+* Magnesium Citrate acts as a mild sedative to help you fall asleep (68), and increases the amount of deep sleep (69).
+* Potassium Citrate can lower limb spasms during sleep (70).
+* The amino acid Tryptophan is a precursor to melotonin if you want to increase it indirectly. I have found that this is better for me than supplementing melotonin directly as it allows my body to regulate how much I need, and it has usually resulted in me getting tired fast and having a deep and uninterrupted sleep.
+* Even more effective than Tryptophan is 5HTP which is one step closer to melotonin. 5HTP puts me fast into deep sleep.
+* Ensure that you have enough zinc in your diet (~15mg/day) which is required to make testosterone. Normal testosterone levels are needed for good sleep (71).
+* Taurine increases the neurotransmitter GABA which induces sleep (72), the same mechanism as alcohol. But alcohol has what's called a "rebound effect" which results in you waking up later in the night and ending up with an overall worse quality sleep which is why it's not recommended.
+* Theanine increases "alpha waves" which is the relaxing state of electrical firing our brain is in prior to sleep (73). An experiment showed that it countered the adverse effects of caffeine on sleep in rats (74).
+* Valerian also produces GABA (75)
+* A lot of people on reddit are big on Glycine which report feeling more rested the following morning. Though studies haven't found it to be effective and I don't notice any benefit.
 
 We discussed vitamin D briefly, but it might be the most important one worth mentioning. Really interesting research by Stasha Gominak suggests that for best sleep to occur our blood vitamin D level should be maintained between 60–80ng/ml, and "every single person must have vitamin D blood levels done several times during the first year of supplementation to see what dose they need to stay between that range" (76). I personally went through the process of doing this and found that she was right, it had a larger effect on my sleep quality than most other things I did, and gives me much more margin of error for doing a lot of other stuff wrong and still getting good sleep. A good summary of her ideas can be found in this talk which I recommend.
-An uncontrolled clinical trial of vitamin D supplementation in 1500 patients over a 2 year period, maintaining a consistent vitamin D blood level in the range of 60–80 ng/ml over many months, produced normal sleep in most patients regardless of the type of sleep disorder, suggesting that multiple types of sleep disorders might share the same etiology. (77)
 
+> An uncontrolled clinical trial of vitamin D supplementation in 1500 patients over a 2 year period, maintaining a consistent vitamin D blood level in the range of 60–80 ng/ml over many months, produced normal sleep in most patients regardless of the type of sleep disorder, suggesting that multiple types of sleep disorders might share the same etiology. (77)
 
 ---
 
-1. Sufficient Airflow
+## Principle 8. Sufficient Airflow
+
 It is well established that oxygen is imperative to sleep quality. This is the reason that obstructive sleep apnea (OSA) is so destructive to sleep and your health - whereby you stop breathing for only brief bouts. The biggest risk factor for OSA is snoring. If you snore, I suggest that you firstly sleep on your stomach. If that does not work, I suggest getting a sleep study.
+
 Though the easiest demonstration for me of the importance of oxygenation to laymens is the effect of atltitude on sleep quality (78). The higher the altitude, the less oxygen there is, and the lower subjects sleep quality was. Some people were then assigned to oxygen rich rooms and their sleep quality improved.
+
 Although I don't exactly know how much oxygen is in an average room, or how much we consume per breath or sleep. I do recommend sleeping with the windows open to increase ventilation as a basic counter-measure to stay on the safe side.
+
 For more information, see this post.
-Quantifying
+
+### Quantifying
+
 If you are interested in quantifying this principle, you can get cheap pulse oximetry devices which attach to your finger and measure your blood saturated oxygen levels throughout the night. This is also a cheap and easy screening for sleep apnea.
 
-
 ---
 
-Other Alternative Interventions
+## Other Alternative Interventions
 I have not adequately tested any of these, but they may be worth looking into.
-PEMF (Pulsed Electro-magnetic Fields)
+
+### PEMF (Pulsed Electro-magnetic Fields)
+
 The 750$ device.As odd as it sounds, some people believe that shocking yourself with certain electromagnetic frequencies (using a 750$ device..) whilst you sleep can induce you into deeper sleep states fast and keep you there consistently for more efficient sleep. A chapter is written about it in this book. There is at least one study (79) that I came across which suggests that exposure to PEMF before sleep slows has lingering effects on your brain as you get to sleep, but nothing measuring sleep quality.
-And then on the converse, many people recommend to put your mobile phone on aeroplane mode whilst you sleep to prevent the electromagnetic signals from disrupting your sleep.
-Hammock Sleeping
+
+And then on the converse, many people recommend to put your mobile phone on airplane mode whilst you sleep to prevent the electromagnetic signals from disrupting your sleep.
+
+### Hammock Sleeping
+
 I found it interesting to discover that Astronauts find it difficult to sleep in space due to the absence of gravity (80). And although certain mattresses have been shown (81) to reduce the pressure on your body, I'm undecided if any specific mattress improves your sleep quality. Most interesting to me of any of the platforms is the hammock, which one study has shown synchronises hemispheres of the brain and causes us to both fall asleep faster and improves a specific stage of sleep associated with rest (N2) (82, 83).
-Blood Sugar Whilst Sleeping
+
+### Blood Sugar Whilst Sleeping
+
 Seth Roberts is a well known figure which experimented on himself. One of his more well-known experiments involved him correlating his sleep quality with whether or not his blood sugar was low. This was popularised by Tim Ferris in his book The 4 Hour Body. Basically the idea is that your brain requires sugar for energy whilst you are sleeping because it is very active, and that if you have low blood sugar overnight then it will cause you to wake up feeling groggy. Dave Asprey from Bulletproof states:
-During the night, your brain uses a lot of energy. One efficient form of brain energy comes from sugar stored in your liver, called liver glycogen. Your brain taps your liver glycogen before hitting your muscle glycogen (stored sugar in your muscles), so having a little extra sugar before bed can help your brain function better at night. Raw honey is preferentially used to stock liver glycogen, so it is used first for brain function. (84)
+
+> During the night, your brain uses a lot of energy. One efficient form of brain energy comes from sugar stored in your liver, called liver glycogen. Your brain taps your liver glycogen before hitting your muscle glycogen (stored sugar in your muscles), so having a little extra sugar before bed can help your brain function better at night. Raw honey is preferentially used to stock liver glycogen, so it is used first for brain function. (84)
+
 Seth's prescription here and here recommend taking 1–2tsp of raw honey by itself (without protein) before bed. This is further corroborated by Tim Ferris noting:
-Having two tablespoons of organic almond butter (or peanut butter) on celery sticks before bed eliminated at least 50 percent of "feel like shit" 1–3 awakenings (85)
+
+> Having two tablespoons of organic almond butter (or peanut butter) on celery sticks before bed eliminated at least 50 percent of "feel like shit" 1–3 awakenings (85)
+
 Anecdotally this makes sense to me and could also potentially explain why I sleep well after drinking apple cider alcohol - it's high in sugar and alcohol and not much else. Although I experimented with it a little and didn't notice any huge advantages, I have noticed that if I don't eat complex carbs during dinner I will wake feeling worse. Perhaps it's the same principle.
-Blocking Negative Visualisation
+
+### Blocking Negative Visualisation
+
 Although I have heard various ways to reduce obsessive ruminations preventing you from sleeping, such as tetris, reading, tv, and adult coloring in books - the only thing I actually know of with evidence behind it oddly is lavendar. 80mg of lavendar oil 30–45 minutes before bed was shown to reduce intrusive thoughts (86, 87).
