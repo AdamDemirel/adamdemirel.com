@@ -102,7 +102,7 @@ But given the complexity of all this, I have found that it is very difficult to 
 
 In saying that, I have found that regardless of my light exposure, **keeping a regular wake-sleep time and minimising caffeine to earlier in the day is the single biggest change which helps me sleep on time**. I have found that if i do this, regardless of blaring blue light in my eyes, I will still get tired. So there is an anecdotal discrepancy between the mechanism and my experience. Reading in bed by a fan may be a big reason why - a fan is potentially inducing a lower body temperature in me which mediates sleep. And keeping your body still acts as a cue for sleep - which is why you get tired when you watch a movie.
 
-*One tool* I do use though and** recommend is a very cheap sleep mask** to block out light *whilst* I am sleeping, rather than before sleep.
+*One tool* I do use though and **recommend is a very cheap sleep mask** to block out light *whilst* I am sleeping, rather than before sleep.
 
 If all else fails, you can basically blast blue light in your eyes all that you want if you take some melotonin pills, with evidence showing that you only need as little as 0.3mg ([31](http://news.mit.edu/2001/melatonin-1017)) rather than 3mg which is what most people take. Though I personally find that *any* dose of melotonin pills wakes me up at night for some reason.
 
@@ -113,7 +113,6 @@ I keep this area simple, because I think melotonin production is overrated as lo
 Not only is the absence of light at night important, but the presence of it during the day is also - beyond the effects of vitamin D. Your body operates on an "in-built" rhythm called the circadian rhythm which is roughly 24 hours, give or take an hour or more between individuals. What I mean by inbuilt is: if you put people in a black room with no clocks or light and they have no way of knowing what the time is, they will begin drifting away from the 24 hour cycle of the outside world and into sync with their internal clock. So for instance if your internal circadian rhythm is 24.5 hours, you will follow this daily - which doesn't align with the 24 hour day we expect to attend to.
 
 ![golite](/images/golite.jpeg)
-Philips goLITE
 
 But in the outside world with light, light acts as a *[zeitgeber](https://en.wikipedia.org/wiki/Zeitgeber)* - a cue for your body that it is day time, and the absence of it that it is night hence why light suppresses melotonin. Though the converse of above is that we usually need more light than we actually get due to being indoors creatures, and perhaps more than computer screens omit. The basic recommendation here is to **go outside during the day** - often people find that a run during the day in the sun is enough to keep their sleep-wake regular, and get their vitamin D. Others find that eating breakfast outside in the sun is an easy habit to maintain. I personally use the Philips goLITE for 30 minutes each day because I am assured that I am getting blue light in the amount that I desire, and bright light boxes have also been shown to increase serotonin levels ([32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077351/)).
 
@@ -195,7 +194,7 @@ There we have it - some evidence to suggest that **side sleeping may be the 
 
 ---
 
-## Principle 7: Presence of Supplements/Nutrients
+## Principle 7: Presence of Supplements / Nutrients
 
 So we have already discussed melotonin which may be worth trying if you are having difficulty getting to sleep earlier or maintaining a regular bedtime
 
