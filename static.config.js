@@ -53,6 +53,19 @@ export default {
           path: "job-satisfaction" // for GA
         };
       }
+    },
+    {
+      path: "happiness",
+      template: "src/pages/post.js",
+      getData: async () => {
+        const post = await getPost("happiness");
+
+        return {
+          title: "Happiness",
+          content: post,
+          path: "happiness"
+        }
+      }
     }
   ]
 };
