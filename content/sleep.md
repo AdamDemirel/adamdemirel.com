@@ -266,3 +266,23 @@ Anecdotally this makes sense to me and could also potentially explain why I slee
 ### Blocking Negative Visualization
 
 Although I have heard various ways to reduce obsessive ruminations preventing you from sleeping, such as tetris, reading, tv, and adult coloring in books - the only thing I actually know of with evidence behind it oddly is lavender. **80mg of lavender oil 30–45 minutes before bed was shown to reduce intrusive thoughts** ([86](https://www.ncbi.nlm.nih.gov/pubmed/20512042), [87](https://www.ncbi.nlm.nih.gov/pubmed/16131287)).
+
+---
+
+# Conclusion
+So in summary, here are the actionable takeaways:
+- Wear a sleep mask to bed, or use black out blinds
+- Use f.lux on your computer and twilight on your phone to dim the screens at night
+- Set an alarm at night to go to bed at the same time, ideally sleeping for 7.5 or 9h (adding 14m to fall asleep)
+- Sleep in 13c room (assisted by using a aircon, chilipad, or kryo)
+- Sleep with your windows open to lower co2
+- Get 30 mins of bright blue light early in the morning (either sunlight or philips golite)
+- Ideally wake up with light rather than a sound alarm (eg philips dawn simulator)
+- Make sure your environmental noise levels are <30dB (assisted by usign a white noise machine)
+- Sleep on your side
+- Intermittent fast (16-8)
+- 400mg mag citrate + 20mg zinc picolate 30min before bed
+- Windows open to lower co2
+- Only 1x coffee < 10am
+- No alcohol before bed
+- Get an apnea test if you snore (important!)
