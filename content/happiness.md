@@ -23,6 +23,8 @@ The purpose of this essay is to attempt to unravel and answer the age old ethica
 
 Each of us has roughly 36,000 days to do something worthwhile with our limited time and use it in ways which make us feel good rather than bad. An hour read here could hopefully nudge how you spend a portion of those days.
 
+![sadf](/images/happiness/timemonths.png)
+
 What is Happiness? This is probably one of the most important questions of this essay. To be able to attain something or seek after it, you must have some idea of what it is. What I'm referring to by happiness will become clearer throughout the read, but at its core it's a value system. By [value system](https://en.wikipedia.org/wiki/Axiology) I mean a hierachy of preferences which can be used to inform decisions.
 
 The methods of measuring happiness will differ depending on the area of study, but they all share the same common theme of trying to find an optimal set of outcomes.
@@ -62,23 +64,23 @@ The main drawback of this is that we often [lack awareness](https://en.wikipedia
 
 But again, obviously this is helpful as a imperfect but valuable tool and is also the final metric we will use. Who cares what the research says if our individual exprience is the opposite? I agree, but what's useful is that science and happiness stories might provide us with ideas to self experiment with to get our own first-hand data.
 
-
-
-
-
-
-
-
-
-
-
----
----
----
 ---
 
+# Ancient Greek History
+Obviously there are many happiness stories out there, narratives going back 1000 years in many cultures. Furtunately a lot of them can be captured under a handful of patterns. I think the important stories to discuss are the a few of the Ancient Greek schools of thought, with the three most influential being *Epicureanism, Cyrenaicism, and Stoicism*. I think it is interesting that they are all related close in space and time and had opposing schools of thought to eachother, and it allows us to analyse the higher concepts. Here I'm going to give a quick overview of them as I don’t believe any account of happiness would be complete without covering them in some basic detail. I'm aware that there are other schools of thought which are classified as ancient but equally as influential, such as Buddhism. I am limiting myself to the Ancient Greeks here, as I will discuss Buddhism and others which are worth noting in their own sections at later points.
 
-Ancient History
+The question of how to be “happy” or live a happy life has been a question plaguing humans since time immemorial. Throughout most of animal history, animals would use their immediate environment as a guide to their behaviour — they would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to replicate their genes. But at an unbeknown point, later humans developed enough sentience and freedom to begin to ask *how they could be better*. They began to ask *what should I do with my time, with my attention, and with this finite amount of time that i’m endowed?*
+
+
+
+
+
+
+
+
+
+
+
 
 
 What makes Epicurus distinct in his belief about pleasure being the goal of living is that he believed that the best way to go about achieving pleasure is merely through satisfying simple desires. For instance, he thought that “barely bread and water could yield the peak of pleasure”.
