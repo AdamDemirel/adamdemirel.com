@@ -23,7 +23,7 @@ The purpose of this essay is to attempt to unravel and answer the age old ethica
 
 Each of us has roughly 36,000 days to do something worthwhile with our limited time and use it in ways which make us feel good rather than bad. An hour read here could hopefully nudge how you spend a portion of those days.
 
-What I'm referring to by happiness will become clearer throughout the read, but at its core it's a value system. By [value system](https://en.wikipedia.org/wiki/Axiology) I mean a hierachy of preferences which can be used to inform decisions.
+What is Happiness? This is probably one of the most important questions of this essay. To be able to attain something or seek after it, you must have some idea of what it is. What I'm referring to by happiness will become clearer throughout the read, but at its core it's a value system. By [value system](https://en.wikipedia.org/wiki/Axiology) I mean a hierachy of preferences which can be used to inform decisions.
 
 The methods of measuring happiness will differ depending on the area of study, but they all share the same common theme of trying to find an optimal set of outcomes.
 
@@ -63,18 +63,8 @@ The main drawback of this is that we often [lack awareness](https://en.wikipedia
 But again, obviously this is helpful as a imperfect but valuable tool and is also the final metric we will use. Who cares what the research says if our individual exprience is the opposite? I agree, but what's useful is that science and happiness stories might provide us with ideas to self experiment with to get our own first-hand data.
 
 
-What is Happiness? This is probably one of the most important questions of this essay. To be able to attain something or seek after it, you must have some idea of what it is.
-
-- Pleasure and pain are not merely physical sensations, but mental states taken about physical sensations, events in the world, beliefs, and memories also. (See
 
 
-
-
-
-
-- the pleasure response isnt a sinewave! 1 or 0! its a function. Eg see alcohol chart. (time x axis, hedonic tone y axis. peaks shortly and later drops) (or university where you have the oscillating pleasure of a novel environment and socialising with friends, with a big drop after 4 yr  bachelors and financial debt recovery )
-  - a very basic example is the sexual response cycle where your intensity of arousal goes from baseline to high, and then peaks in an orgasm before dropping back down.
-Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. X axis= pain/pleasure. Y axis = time.
 
 
 
@@ -87,19 +77,6 @@ Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. 
 ---
 ---
 
-
-
-
-
----
----
-
-
-success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
--- eg rephrase to something along the lines of "some could view success as being aworld class performer"
-
----
----
 
 Ancient History
 
@@ -141,6 +118,16 @@ Cyrenaicism and indulgence
 (in intro)
 > By 'all of life is problem solving', I think popper meant all organisms (inc humans) are pleasure seekers + pain avoiders. (demonstrated with his aversive amoeba).
 
+
+
+
+
+
+
+
+
+
+
 ---
 ---
 
@@ -148,7 +135,14 @@ Cyrenaicism and indulgence
 
 
 
+- Pleasure and pain are not merely physical sensations, but mental states taken about physical sensations, events in the world, beliefs, and memories also. (See
 
+- the pleasure response isnt a sinewave! 1 or 0! its a function. Eg see alcohol chart. (time x axis, hedonic tone y axis. peaks shortly and later drops) (or university where you have the oscillating pleasure of a novel environment and socialising with friends, with a big drop after 4 yr  bachelors and financial debt recovery )
+  - a very basic example is the sexual response cycle where your intensity of arousal goes from baseline to high, and then peaks in an orgasm before dropping back down.
+Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. X axis= pain/pleasure. Y axis = time.
+
+success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
+-- eg rephrase to something along the lines of "some could view success as being aworld class performer"
 
 
 
