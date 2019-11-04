@@ -71,8 +71,9 @@ Obviously there are many happiness stories out there, narratives going back 1000
 
 The question of how to be “happy” or live a happy life has been a question plaguing humans since time immemorial. Throughout most of animal history, animals would use their immediate environment as a guide to their behaviour — they would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to replicate their genes. But at an unbeknown point, later humans developed enough sentience and freedom to begin to ask *how they could be better*. They began to ask *what should I do with my time, with my attention, and with this finite amount of time that i’m endowed?*
 
+The ancient Greeks had a bit to say on this question, but unfortunately, their answers are quite crude and fall short on a few points. I am going to do my best to exclude details of the founding figures lives and principles which are not overtly relevant to answering the questions set out. To give one such example of a type of point I could repeatedly make (but wont) is that Epicurus (discussed below) was the founder of a famous ‘Garden’ — a kind of Ashram, where he was the *guru*. The fact that he occupied a position of high prestige in a hierarchy like this *could* have had an influence on his well-being. But he never discusses it, and is likely unaware of it. I will not discuss such obvious confounds. Instead, I will focus merely on what they have attempted to communicate as principles to embody. So, what are the relevant principles that Epicurus emphasised?
 
-
+![epicurus](/images/happiness/epicurus.jpg)
 
 
 
