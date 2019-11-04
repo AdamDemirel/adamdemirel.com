@@ -1,28 +1,39 @@
-resources:
-- https://markmanson.net/stop-trying-to-be-happy
-- https://en.wikipedia.org/wiki/Downshifting
-- https://en.wikipedia.org/wiki/Personal_development * (this must necessarily fit into lifestyle design methinks.)
-- https://sivers.org/relax #
-- https://sivers.org/full #
-- https://sivers.org/no2 #
 
+- history (epicurus+stoics+aristotle, bentham, mill, hume)
+- maximizing pleasure and minimising pain =-- see my pains list
 
-- https://en.wikipedia.org/wiki/Delayed_gratification
-- http://jamesclear.com/delayed-gratification
-https://www.google.com.au/search?q=deferring+gratification+and+success&oq=deferring+gratification+and+success&aqs=chrome..69i57.4128j0j7&sourceid=chrome&es_sm=122&ie=UTF-8
-https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
-https://www.psychologytoday.com/blog/happiness-in-world/201207/the-power-delaying-gratification
-http://www.startofhappiness.com/power-delayed-gratification/
+- maximizing pleasure (cyrenaics) - see my pleasures list
+- maximizing pain
+- minimising pleasure?
+- minimising pain (Epicureans for physical pains, stoics for mental)
+  - minimising desires
+  - minimising desire / downshifting
+- environmental triggers
+  - remove the triggers: eg omegle, kageshi, tinder
+  -  https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/ #
 
 ---
 
-""America has taught Me that each Human being has 36,000 days to do something extraordinary. In less than 2,000 days, I've independently launched a start-up, wrote a book, obtained celebrity contacts & most importantly reached YOU. Here's my business card: MrTalented.org 30-seconds of your time could change the course of history." - mr talented
 
-* Pleasure is the only intrinsic good, pain is the only intrinsic bad. [hedonism] More pleasure, the less pain, the better.
 
----
 
+
+# Intro
 The purpose of this essay is to attempt to unravel and answer the age old ethical question "what is happiness?" and in doing so converge on an accurate model of what the desirable life looks like.
+
+Each of us has roughly 36,000 days to do something worthwhile with our limited time and use it in ways which make us feel good rather than bad. An hour read here could hopefully nudge how you spend a portion of those days.
+
+What I'm referring to by happiness will become clearer throughout the read, but at its core it's a value system. By [value system](https://en.wikipedia.org/wiki/Axiology) I mean a hierachy of preferences which can be used to inform decisions.
+
+The methods of measuring happiness will differ depending on the area of study, but they all share the same common theme of trying to find an optimal set of outcomes.
+
+> There was a wonderful paper that asked what happiness means at different points in history and in different cultures. And oddly enough, historically, happiness means **good fortune**. It doesn't mean the emotional response to having good fortune, it means good fortune itself. A happy person is a lucky person. It's not that a happy person is a lucky person, what it means to be happy is that you're lucky. This was the dominant definition pretty much everywhere and in modern cultures this definition has been replaced. ([1](https://youtu.be/hjACfaEh9BM?t=1378), [2](https://www.ncbi.nlm.nih.gov/pubmed/23599280))
+
+But although this linguistic definition was used, it is not of much use to us because it is not actionable and if anything it is passive. The importance of this analysis and the modern happiness research is uncovering things that empower our decisions and alter our lives in large and small ways. So beyond good fortune, happiness must mean something else, and that something else is best defined by the hedonists, summarised: **pleasure is the only intrinsic good, pain is the only intrinsic bad. The more pleasure a life contains, and the less pain, the better the life is.**
+
+I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Utility) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
+
+![green up arrow red down arrow](/images/happiness/updown.png)
 
 Given the time I've spent researching this field, there seems to be three methods used in attempting to answer the question:
 * Happiness Stories
@@ -49,8 +60,6 @@ The main drawback of this is that we often [lack awareness](https://en.wikipedia
 
 But again, obviously this is helpful as a imperfect but valuable tool and is also the final metric we will use. Who cares what the research says if our individual exprience is the opposite? I agree, but what's useful is that science and happiness stories might provide us with ideas to self experiment with to get our own first-hand data.
 
----
----
 
 What is Happiness? This is probably one of the most important questions of this essay. To be able to attain something or seek after it, you must have some idea of what it is.
 
@@ -58,12 +67,31 @@ What is Happiness? This is probably one of the most important questions of this 
 
 
 
----
----
-"happiness is a value system / axiology"
 
-https://www.youtube.com/watch?v=hjACfaEh9BM&feature=youtu.be&list=PLdp0VhLt5DygbIqJmLmv2-exJ2nOGqsND&t=1390
-- a happy person is a lucky person.
+
+
+- the pleasure response isnt a sinewave! 1 or 0! its a function. Eg see alcohol chart. (time x axis, hedonic tone y axis. peaks shortly and later drops) (or university where you have the oscillating pleasure of a novel environment and socialising with friends, with a big drop after 4 yr  bachelors and financial debt recovery )
+  - a very basic example is the sexual response cycle where your intensity of arousal goes from baseline to high, and then peaks in an orgasm before dropping back down.
+Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. X axis= pain/pleasure. Y axis = time.
+
+
+
+
+
+
+
+---
+---
+---
+---
+
+
+
+
+
+---
+---
+
 
 success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
 -- eg rephrase to something along the lines of "some could view success as being aworld class performer"
@@ -185,12 +213,13 @@ emotional response -> behavioral response (or extinguishment of) -> feedback loo
 -- a might operate subconsciously
 
 
+Your behaviours of what rewards you seek and punishes avoid, are not based on some complex forms of reasoning and analysis, but mere intuition shortly preceding each behaviour in time.
 
 --- ---
 ===---
  experienced self / esm:
 
-Your behaviours of what rewards you seek and punishes avoid, are not based on some complex forms of reasoning and analysis, but mere intuition shortly preceding each behaviour in time.
+
 
 Your life does not exist in some sort of capsule where you can experience your Total pleasures and pains at each point, and trying to maximise pleasures completely or minimise pains completely is a futile endeavour, as you can do neither.
 
@@ -232,6 +261,8 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 - https://en.wikipedia.org/wiki/Daniel_Kahneman#Hedonic_psychology *
 - https://en.wikipedia.org/wiki/Happiness_economics *
 
+- see the 3-4 pdfs in /experiencing/
+
 ---
 ---
 
@@ -245,29 +276,9 @@ Our life is a sum of the small activities that we do repeatedly. (13.07.17: aka 
 ---
 ---
 
-- history (epicurus+stoics+aristotle, bentham, mill, hume)
-- maximizing pleasure and minimising pain =-- see my pains list
-- minimising desire / downshifting
-- maximizing pleasure (cyrenaics) - see my pleasures list
-- maximizing pain (Nietzsche believed that the greatest pleasures came about as a result of not avoiding pains but using them as guides towards what needs your attention to solve.) [put it under hormesis title. Great idea.]
-  - this makes sense when you think about what hungers, thirsts, temperature, tiredness etc motivation ( ... trying to achieve homeostasis by eating, fluid, etc. also see my descriptive motives list.) plays into 'darwinian happiness' book?
-  - as chaos pointed out, not every pleasure has a pain that motivates you to seek it (2015) - aesthetic ones like the pleasure of a flower
-  - hormesis: 19.11.17: https://en.wikipedia.org/wiki/Eustress seems like a
-  - better term than antifragility. | 19.05.18: or hormesis.
-  - - https://gettingstronger.org/about-this-blog/ # hormetism
-  - - https://www.scientificamerican.com/article/negative-emotions-key-well-being/ #
-- minimising pleasure?
-- minimising pain (Epicureans for physical pains, stoics for mental)
-- minimising desires
-- environmental triggers
-  - remmove the triggers: eg omegle, kageshi, tinder
-  - - https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/ #
 
 
 
-- the pleasure response isnt a sinewave! 1 or 0! its a function. Eg see alcohol chart. (time x axis, hedonic tone y axis. peaks shortly and later drops) (or university where you have the oscillating pleasure of a novel environment and socialising with friends, with a big drop after 4 yr  bachelors and financial debt recovery )
-  - a very basic example is the sexual response cycle where your intensity of arousal goes from baseline to high, and then peaks in an orgasm before dropping back down.
-Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. X axis= pain/pleasure. Y axis = time.
 
 
 
@@ -299,9 +310,10 @@ Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. 
 - SWB reports
   - 06.05.17 Realised that happiness must be operationalised and have certain metrics to improve upon (inspired by research methodology chapter in psych textbook)
 - "Rewards"
-- PERMA / 'flourish psychology'
+- PERMA / 'flourish psychology' (see /perma/)
 - Maximizing Psychology pleasure & PHysical pleasure (top 2 categories?)
 - Life satisfaction reports
+  - life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from perma book)
 - Remembered Utility vs experienced utility
 - Seligman explanatory style / optimism
 - Where does goal setting fit?
@@ -337,6 +349,8 @@ Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. 
 - You don't solve desires to be complete, because you can no longer want it, you only want the fantasy of it. Plus others take their place.  JRE noted this when he said at 40 he realised theres no moment of full happiness or satisfaction you reach – the ride just continues on.
 - How to account for this in the previous historical and conceptual analysis?
 
+25/08/16: Although there is some plausability to lacans jouissance theory, it is one of those woopy spoopy philosophical ideas, because the idea of pain and pleasure do clearly still exist as reward and punishment mechanisms. Provide someone with a painful and rewarding experience side by side and see which one they prefer. This simple state of preference is what i am after, not some grand cognitive satisfaction that is illusory.
+
 ---
 ---
 
@@ -366,9 +380,18 @@ Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. 
 - If improving your circumstances (like working) is painful, that means they are still flagposts to change your behaviour (ie find a more fulfilling job).
 
 
+ (Nietzsche believed that the greatest pleasures came about as a result of not avoiding pains but using them as guides towards what needs your attention to solve.) [put it under hormesis title. Great idea.]
+  - this makes sense when you think about what hungers, thirsts, temperature, tiredness etc motivation ( ... trying to achieve homeostasis by eating, fluid, etc. also see my descriptive motives list.) plays into 'darwinian happiness' book?
+  - as chaos pointed out, not every pleasure has a pain that motivates you to seek it (2015) - aesthetic ones like the pleasure of a flower
+  - hormesis: 19.11.17: https://en.wikipedia.org/wiki/Eustress seems like a
+  - better term than antifragility. | 19.05.18: or hormesis.
+  - - https://gettingstronger.org/about-this-blog/ # hormetism
+  - - https://www.scientificamerican.com/article/negative-emotions-key-well-being/ #
 
+-> you wouldnt want to deliberately maximize negative emotions (at least not the severe ones)
+- The lesson is that the bellcurve of emotion is a tricky one and sometimes you might want to expose yourself to pains before you get a peak in pleasure following
 
-
+But at the end of the day positive emotons are still the desirable emotional state that is being used as the metric of goodness here, we've just acknowledge that negative emotions are sometimes useful.
 
 ---
 ---
@@ -429,9 +452,10 @@ http://lesswrong.com/lw/3nn/scientific_selfhelp_the_state_of_our_knowledge/ *
 
 on the other end of the stick if this is all overwhelming one possible way to live your life is to live in the moment and do whatever is most immediately imperative to you.
 
----
-## maximizing pleasure
-25/08/16: Although there is some plausability to lacans jouissance theory, it is one of those woopy spoopy philosophical ideas, because the idea of pain and pleasure do clearly still exist as reward and punishment mechanisms. Provide someone with a painful and rewarding experience side by side and see which one they prefer. This simple state of preference is what i am after, not some grand cognitive satisfaction that is illusory.
+
+- see experiencing/datavis
+
+
 
 ---
 
@@ -473,3 +497,22 @@ cosmetic pharmacology
 ---
 
 # maximizing meaning
+- see perma/meaning
+- meaning? what cause bigger than myself should i serve? (from perma)
+
+
+resources:
+- https://markmanson.net/stop-trying-to-be-happy
+- https://en.wikipedia.org/wiki/Downshifting
+- https://en.wikipedia.org/wiki/Personal_development * (this must necessarily fit into lifestyle design methinks.)
+- https://sivers.org/relax #
+- https://sivers.org/full #
+- https://sivers.org/no2 #
+
+
+- https://en.wikipedia.org/wiki/Delayed_gratification
+- http://jamesclear.com/delayed-gratification
+https://www.google.com.au/search?q=deferring+gratification+and+success&oq=deferring+gratification+and+success&aqs=chrome..69i57.4128j0j7&sourceid=chrome&es_sm=122&ie=UTF-8
+https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
+https://www.psychologytoday.com/blog/happiness-in-world/201207/the-power-delaying-gratification
+http://www.startofhappiness.com/power-delayed-gratification/
