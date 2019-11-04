@@ -33,7 +33,7 @@ But although this linguistic definition was used, it is not of much use to us be
 
 I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
 
-![green up arrow red down arrow](/images/happiness/updown2.jpg)
+![green up arrow red down arrow](/images/happiness/updown.png)
 
 Given the time I've spent researching this field, there seems to be three methods used in attempting to answer the question:
 * Happiness Stories
