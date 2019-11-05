@@ -14,10 +14,6 @@
 
 ---
 
-
-> By 'all of life is problem solving', I think popper meant all organisms (inc humans) are pleasure seekers + pain avoiders. (demonstrated with his aversive amoeba).
-
-
 # Intro
 The purpose of this essay is to attempt to unravel and answer the age old ethical question "what is happiness?" and in doing so converge on an accurate model of what the desirable life looks like.
 
@@ -31,15 +27,9 @@ The methods of measuring happiness will differ depending on the area of study, b
 
 > There was a wonderful paper that asked what happiness means at different points in history and in different cultures. And oddly enough, historically, happiness means **good fortune**. It doesn't mean the emotional response to having good fortune, it means good fortune itself. A happy person is a lucky person. It's not that a happy person is a lucky person, what it means to be happy is that you're lucky. This was the dominant definition pretty much everywhere and in modern cultures this definition has been replaced. ([1](https://youtu.be/hjACfaEh9BM?t=1378), [2](https://www.ncbi.nlm.nih.gov/pubmed/23599280))
 
-But although this linguistic definition was used, it is not of much use to us because it is not actionable and if anything it is passive. The importance of this analysis and the modern happiness research is uncovering things that empower our decisions and alter our lives in large and small ways. So beyond good fortune, happiness must mean something else, and that something else is best defined by the hedonists, summarised: **pleasure is the only intrinsic good, pain is the only intrinsic bad. The more pleasure a life contains, and the less pain, the better the life is.**
+But although this linguistic definition was used, it is not of much use to us because it is not actionable and if anything it is passive. The importance of this analysis and the modern happiness research is uncovering things that empower our decisions and alter our lives in large and small ways. So beyond good fortune, happiness must mean something else, and that something else is best defined and introduced by the ancient greek hedonists, which I will cover below.
 
-![green up arrow red down arrow](/images/happiness/updown.png)
-
-I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
-
-![sadf](/images/happiness/maxmin.jpg)
-
-Given the time I've spent researching this field, there seems to be three methods used in attempting to figure out how to do that:
+Given the time I've spent researching this field, there seems to be three methods used in attempting to figure out what happiness is:
 * Happiness Stories
 * The scientific method
 * Self experimentation
@@ -48,11 +38,11 @@ Given the time I've spent researching this field, there seems to be three method
 
 The first and default method that most people rely upon in attempting to form a happiness model about the world is to observe and talk to other people. This can take the form of reading narratives, watching narratives, or simply talking to others.
 
-Whether or not this is a reliable method is questionable, but what is useful is that these folk theories may give us hints about which areas to look further into or new ideas to test (via science and our own self experimentation).
+Whether or not this is a reliable method is questionable, but what is useful is that these folk theories may give us hints about which areas to look further into or new ideas to test (via the scientific method and our own self experimentation).
 
 ## The Scientific Method
 
-The second method that we can use is the scientific method. That means using a systematic set of observations as an attempt to quanify and arrive at answers which go beyond a single person, and in a more standardised manner. Such tools are valuable because they can overcome biases / blind spots individuals may have by using [larger datasets of information](https://en.wikipedia.org/wiki/Law_of_large_numbers). There are a handful of scientific tools that can be used - questionnaires, brain scans, facial expressions, and others. As you will see, the simple questionnaire has dominated a lot of the happiness research.
+The second method that we can use is the scientific method. That means using a systematic set of observations as an attempt to quantify and arrive at answers which go beyond a single person, and in a more standardised manner. Such tools are valuable because they can overcome biases / blind spots individuals may have by using [larger datasets of information](https://en.wikipedia.org/wiki/Law_of_large_numbers). There are a handful of scientific tools that can be used - questionnaires, brain scans, facial expressions, and others. As you will see, the simple questionnaire has dominated a lot of the happiness research.
 
 We are lucky that we now no longer need to rely on introspecting or making conjectures about happiness, but have the ability to peruse the large body of literature on the subject.
 
@@ -62,14 +52,23 @@ The third method is what people use informally, which is relying on their own pe
 
 The main drawback of this is that we often [lack awareness](https://en.wikipedia.org/wiki/Introspection_illusion) into what makes us feel good and bad, and even if we know we don't usually crystallize in language which is helpful for deciding we want more or less of it.
 
-But again, obviously this is helpful as a imperfect but valuable tool and is also the final metric we will use. Who cares what the research says if our individual exprience is the opposite? I agree, but what's useful is that science and happiness stories might provide us with ideas to self experiment with to get our own first-hand data.
+But again, obviously this is helpful as an imperfect but valuable tool and is also the final metric we use. Who cares what the research says if our individual exprience is the opposite? I agree, but what's useful is that science and happiness stories might provide us with ideas to self experiment with to get our own first-hand data.
 
 ---
 
 # Ancient Greek History
-Obviously there are many happiness stories out there, narratives going back 1000 years in many cultures. Furtunately a lot of them can be captured under a handful of patterns. I think the important stories to discuss are the a few of the Ancient Greek schools of thought, with the three most influential being *Epicureanism, Cyrenaicism, and Stoicism*. I think it is interesting that they are all related close in space and time and had opposing schools of thought to eachother, and it allows us to analyse the higher concepts. Here I'm going to give a quick overview of them as I don’t believe any account of happiness would be complete without covering them in some basic detail. I'm aware that there are other schools of thought which are classified as ancient but equally as influential, such as Buddhism. I am limiting myself to the Ancient Greeks here, as I will discuss Buddhism and others which are worth noting in their own sections at later points.
+The main type of happiness story I will cover is historical stories. Movies and fictional books are of less structure and use here. Obviously there are many happiness stories out there, narratives going back 1000 years in many cultures. Furtunately a lot of them can be captured under a handful of patterns. I think the important stories to discuss are a few of the Ancient Greek schools of thought, with the three most influential being *Epicureanism, Cyrenaicism*, and *Stoicism*. I think it is interesting that they are all related close in space and time and had opposing schools of thought to eachother, and it allows us to extract out the shared pattern.
 
-The question of how to be “happy” or live a happy life has been a question plaguing humans since time immemorial. Throughout most of animal history, animals would use their immediate environment as a guide to their behaviour — they would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to replicate their genes. But at an unbeknown point, later humans developed enough sentience and freedom to begin to ask *how they could be better*. They began to ask *what should I do with my time, with my attention, and with this finite amount of time that i’m endowed?*
+I'm going to give a quick overview of three schools below as I don’t believe any account of happiness would be complete without covering them in some basic detail. I'm aware that there are other schools of thought which are classified as ancient but equally as influential, such as Buddhism. I am limiting myself to the Ancient Greeks here, as I will discuss Buddhism and others which are worth noting in their own sections at later points.
+
+Interesting enough, even the most simple of organisms, the *Amoeba*, seems to display a "pain-like" and "pleasure-like" response, moving closer and feeding off of nearby foods and light, and avoiding noxious chemicals and other objects. And the amoeba is believed to be related to the earliest forms of life 800million years ago! So the motivation of organisms to be pleasure seekers and pain avoiders it not a new phenomena.
+
+// place drawing of aemoeba
+
+The question of how to be “happy” or live a happy life has been a question plaguing humans since time immemorial. Throughout most of animal history, animals would use their immediate environment as a guide to their behaviour — they would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to replicate their genes.
+
+
+But at an unbeknown point, later humans developed enough sentience and freedom to begin to ask *how they could be better*. They began to ask *what should I do with my time, with my attention, and with this finite amount of time that i’m endowed?*
 
 The ancient Greeks had a bit to say on this question, but unfortunately, their answers are quite crude and fall short on a few points. I am going to do my best to exclude details of the founding figures lives and principles which are not overtly relevant to answering the questions set out. To give one such example of a type of point I could repeatedly make (but wont) is that Epicurus (discussed below) was the founder of a famous ‘Garden’ — a kind of Ashram, where he was the *guru*. The fact that he occupied a position of high prestige in a hierarchy like this *could* have had an influence on his well-being. But he never discusses it, and is likely unaware of it. I will not discuss such obvious confounds. Instead, I will focus merely on what they have attempted to communicate as principles to embody. So, what are the relevant principles that Epicurus emphasised?
 
@@ -130,6 +129,7 @@ Stoicism is the third form of hedonism — another negative hedonism. The Stoics
 # Hedonism
 Though all three schools fall short on one glaring point, which is obvious to anybody living in the 21st century: **pleasure is not happiness, and pain is not unhappiness**. The reason this is so is mostly to do with **duration**. If you are eating an enjoyable meal and experiencing pleasure, you may say you are happy, but that is merely a *report of your current experience*. If you said this and then lived the rest of your life in pain, it would be queer to state that you lived a happy life. Does that then make happiness about the **quantity** of pleasures and pains, such that a life with *more* pleasure than pain is a happier life? If you include mental pleasures and mental pains, some figures such as the *psychological hedonist* Fred Feldman would argue so (but he calls them *attitudinal pleasures and pains* rather than mental — because they are attitudes you have about the world.) To what extent you need pleasure or the absence of pain in this theory os ambiguous, but what is obvious, is that pleasure is positive and pain is negative (as an evaluation), and although they may or may not make you happy or unhappy, I can agree with this: **The first premise of hedonism is that pleasure is positive and pain is negative; the more pleasure you experience the better, the less pain the worse**. And this is what all three schools have in common despite their shortcomings, they are evaluations of pleasure and pain. To demonstrate the *positivity or negativity* of a stimuli, all that is required is to do is to compare them side by side and *choose which is more preferable*.
 
+
 This is where the first basic divide is made between pleasure and pain. “Propositional Attitudes” (attitudinal evaluations as per Feldman) are always entailed by Physical Pleasures like eating and Physical Pains like being inflicted with a wound — that’s what make their physical sensations Pleasurable or Painful. It is only because an attitude is taken *about* a sensation of pleasure or pain. BUT, propositional attitudes of pleasure and pain need not necessarily entail a physical sensation — it may be about a set of events in the *past (via memory)* or the *future (via mental forecasting)*, or even about a set of events perceived in the present — such as the pleasure taken at the perception of an artwork (which as a stimuli has a neutral state on us experiencing sensory pleasures or sensory pains). Thus, all physical pleasures and physical pains are based in the *present* but not all attitudinal pleasures and attitudinal pains are (called mental pleasures and mental pains henceforth) — they may be of the past or the future. This opens up a whole new avenue of pleasures such as masochism, social pleasures, romantic pleasures, of accomplishment, recognition, service, fame. This opening of pandoras box of pleasure and pain which is the mind is what I will call **pleasures of the mind**.
 
 **The second premise of hedonism is that pleasure is the only intrinsic value, rendering a life without pleasure worthless**. One may hold values such as knowledge of value, but consider a life full of knowledge without mental pleasure or pain — it is neutral, it’s not preferable over anything (preference is essentially what *value* is!) In comparison, consider a life full of pleasure without knowledge. By using this dialectical reasoning, any additional value trait with the absence of pleasure can be seen lesspreferable than pleasure.
@@ -148,6 +148,14 @@ Note: I know you’re thinking, “who believed adding pleasures of the mind equ
 (8) The intuitive critique to hedonism is it’s most obvious shortcoming: **pleasure is not happiness, and pain is not unhappiness** (arguably).
 Which leads us into our next series of posts.
 
+summarised: **pleasure is the only intrinsic good, pain is the only intrinsic bad. The more pleasure a life contains, and the less pain, the better the life is.**
+
+![green up arrow red down arrow](/images/happiness/updown.png)
+
+I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
+
+![sadf](/images/happiness/maxmin.jpg)
+
 
 
 
@@ -155,8 +163,7 @@ Which leads us into our next series of posts.
 ---
 
 
-
-
+and benthams principles here
 
 - Pleasure and pain are not merely physical sensations, but mental states taken about physical sensations, events in the world, beliefs, and memories also. (See
 
@@ -168,6 +175,17 @@ success 29.07.17: - Had the idea that one form that 'success' can take is being 
 -- eg rephrase to something along the lines of "some could view success as being aworld class performer"
 
 
+
+### Habits
+habits (in comparison to swb single retro judgement): > Habits optimize for recursive emotional responses. Habits of thoughts (memories and forecasts) and behaviours
+
+CONCLUSION >> So the best way to live is to find ways in which you can improve your circumstances (like working) that are combined with escapism (like flow) so when you experience inter-flow rumination, you feel less bad and have the means (like money) to experience more pleasure? >> Thus, still chase pleasures and minimise pains, but not at the expense of improved circumstances which is most important. Also, seek flow as much as possible.
+
+Our life is a sum of the small activities that we do repeatedly. (13.07.17: aka habits)
+>> I think why all of my other theories got this premise wrong is because humans have a tendency to think globally in the whole scale of life, and not linearly that life is a secession of discrete events. (This point was raised in before sunset that he mentions how crazy it is that this is our life that we are living right now.) (“Tomorrow will be like today. Life wastes itself whilst we are preparing to live. - Ralph Waldo Emerson”)
+
+- After all my hedonism theorism, ive concluded that even accounting for jouissance and nietzsche, the most important thing is habit.  [24/08/16 I think what I meant by this was what tim ferris said: life is the sum of small activities done repeatedly] / circumstantial goals
+---
 
 
 
@@ -212,13 +230,6 @@ https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-ma
 Happiness produced is 70k
 
 
----
----
-
-### Habits
-habits (in comparison to swb single retro judgement): > Habits optimize for recursive emotional responses. Habits of thoughts (memories and forecasts) and behaviours
-
-CONCLUSION >> So the best way to live is to find ways in which you can improve your circumstances (like working) that are combined with escapism (like flow) so when you experience inter-flow rumination, you feel less bad and have the means (like money) to experience more pleasure? >> Thus, still chase pleasures and minimise pains, but not at the expense of improved circumstances which is most important. Also, seek flow as much as possible.
 
 ---
 ### purpose of thoughts
@@ -284,12 +295,6 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 
 ---
 ---
-
-## Habits
-Our life is a sum of the small activities that we do repeatedly. (13.07.17: aka habits)
->> I think why all of my other theories got this premise wrong is because humans have a tendency to think globally in the whole scale of life, and not linearly that life is a secession of discrete events. (This point was raised in before sunset that he mentions how crazy it is that this is our life that we are living right now.) (“Tomorrow will be like today. Life wastes itself whilst we are preparing to live. - Ralph Waldo Emerson”)
-
-- After all my hedonism theorism, ive concluded that even accounting for jouissance and nietzsche, the most important thing is habit.  [24/08/16 I think what I meant by this was what tim ferris said: life is the sum of small activities done repeatedly] / circumstantial goals
 
 
 ---
