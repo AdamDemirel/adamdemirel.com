@@ -82,6 +82,10 @@ Epicureanism (3) is the school of thought that friendship along with the satisfa
 
 Epicurus is labelled as a *Hedonist* — an important term that gives shape to this series of essays. A hedonist believes that the attainment of pleasure and the removal of pain are the only way to live a good life. There are many forms and nuances that hedonism can take, as will be discussed in the following chapter, but note for now that he declares “pleasure is the goal of living”. Popular culture commonly takes hedonism to mean *decadent hedonism* — which is more related to the *indulgence* of Cyrenaicism as you will see.
 
+
+
+
+
 // below from non medium //
 What makes Epicurus distinct in his belief about pleasure being the goal of living is that he believed that the best way to go about achieving pleasure is merely through satisfying simple desires. For instance, he thought that “barely bread and water could yield the peak of pleasure”.
 
@@ -124,13 +128,25 @@ Stoicism is the third form of hedonism — another negative hedonism. The Stoics
 > “We are not troubled by things but the opinion which we have of things.” — Epicetus
 
 # Hedonism
-Though all three schools fall short on one glaring point, which is obvious to anybody living in the 21st century: **pleasure is not happiness, and pain is not unhappiness**. The reason this is so is mostly to do with **duration**. If you are eating an enjoyable meal and experiencing pleasure, you may say you are happy, but that is merely a *report of your current experience*. If you said this and then lived the rest of your life in pain, it would be queer to state that you lived a happy life. Does that then make happiness about the quantity of pleasures and pains, such that a life with more pleasure than pain is a happier life? If you include mental pleasures and mental pains, some figures such as the psychological hedonist Fred Feldman would argue so (but he calls them attitudinal pleasures and pains rather than mental — because they are attitudes you have about the world.) To what extent you need pleasure or the absence of pain in this theory os ambiguous, but what is obvious, is that pleasure is positive and pain is negative (as an evaluation), and although they may or may not make you happy or unhappy, I can agree with this: The first premise of hedonism is that pleasure is positive and pain is negative; the more pleasure you experience the better, the less pain the worse. And this is what all three schools have in common despite their shortcomings, they are evaluations of pleasure and pain. To demonstrate the positivity or negativity of a stimuli, all that is required is to do is to compare them side by side and choose which is more preferable.
+Though all three schools fall short on one glaring point, which is obvious to anybody living in the 21st century: **pleasure is not happiness, and pain is not unhappiness**. The reason this is so is mostly to do with **duration**. If you are eating an enjoyable meal and experiencing pleasure, you may say you are happy, but that is merely a *report of your current experience*. If you said this and then lived the rest of your life in pain, it would be queer to state that you lived a happy life. Does that then make happiness about the **quantity** of pleasures and pains, such that a life with *more* pleasure than pain is a happier life? If you include mental pleasures and mental pains, some figures such as the *psychological hedonist* Fred Feldman would argue so (but he calls them *attitudinal pleasures and pains* rather than mental — because they are attitudes you have about the world.) To what extent you need pleasure or the absence of pain in this theory os ambiguous, but what is obvious, is that pleasure is positive and pain is negative (as an evaluation), and although they may or may not make you happy or unhappy, I can agree with this: **The first premise of hedonism is that pleasure is positive and pain is negative; the more pleasure you experience the better, the less pain the worse**. And this is what all three schools have in common despite their shortcomings, they are evaluations of pleasure and pain. To demonstrate the *positivity or negativity* of a stimuli, all that is required is to do is to compare them side by side and *choose which is more preferable*.
 
+This is where the first basic divide is made between pleasure and pain. “Propositional Attitudes” (attitudinal evaluations as per Feldman) are always entailed by Physical Pleasures like eating and Physical Pains like being inflicted with a wound — that’s what make their physical sensations Pleasurable or Painful. It is only because an attitude is taken *about* a sensation of pleasure or pain. BUT, propositional attitudes of pleasure and pain need not necessarily entail a physical sensation — it may be about a set of events in the *past (via memory)* or the *future (via mental forecasting)*, or even about a set of events perceived in the present — such as the pleasure taken at the perception of an artwork (which as a stimuli has a neutral state on us experiencing sensory pleasures or sensory pains). Thus, all physical pleasures and physical pains are based in the *present* but not all attitudinal pleasures and attitudinal pains are (called mental pleasures and mental pains henceforth) — they may be of the past or the future. This opens up a whole new avenue of pleasures such as masochism, social pleasures, romantic pleasures, of accomplishment, recognition, service, fame. This opening of pandoras box of pleasure and pain which is the mind is what I will call **pleasures of the mind**.
 
+**The second premise of hedonism is that pleasure is the only intrinsic value, rendering a life without pleasure worthless**. One may hold values such as knowledge of value, but consider a life full of knowledge without mental pleasure or pain — it is neutral, it’s not preferable over anything (preference is essentially what *value* is!) In comparison, consider a life full of pleasure without knowledge. By using this dialectical reasoning, any additional value trait with the absence of pleasure can be seen lesspreferable than pleasure.
 
+Insummary:
+(1) Pleasures and pains can be split into **pleasures of the senses**, and **pleasures of the mind**.
+(2) The Epicureans believed that **removing pains of the senses** equalled happiness.
+(3) The Cyrenaics believed that **adding pleasures of the senses** equalled happiness.
+(4) The Stoics believed that **removing pains of the mind** equalled happiness.
 
+Note: I know you’re thinking, “who believed adding pleasures of the mind equals happiness?” — the answer is in some later posts.
 
-
+(5) Although it’s up for debate which view is correct, what all three views had in common is their view in **hedonism**.
+(6) **The first premise of hedonism** is that pleasure is positive and pain is negative; the more pleasure you experience the better, the less pain the worse.
+(7) **The second premise of hedonism** is that pleasure is the only intrinsic value, rendering a life without pleasure worthless.
+(8) The intuitive critique to hedonism is it’s most obvious shortcoming: **pleasure is not happiness, and pain is not unhappiness** (arguably).
+Which leads us into our next series of posts.
 
 
 
