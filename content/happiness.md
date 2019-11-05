@@ -15,7 +15,7 @@
 ---
 
 
-
+> By 'all of life is problem solving', I think popper meant all organisms (inc humans) are pleasure seekers + pain avoiders. (demonstrated with his aversive amoeba).
 
 
 # Intro
@@ -73,17 +73,16 @@ The question of how to be “happy” or live a happy life has been a question p
 
 The ancient Greeks had a bit to say on this question, but unfortunately, their answers are quite crude and fall short on a few points. I am going to do my best to exclude details of the founding figures lives and principles which are not overtly relevant to answering the questions set out. To give one such example of a type of point I could repeatedly make (but wont) is that Epicurus (discussed below) was the founder of a famous ‘Garden’ — a kind of Ashram, where he was the *guru*. The fact that he occupied a position of high prestige in a hierarchy like this *could* have had an influence on his well-being. But he never discusses it, and is likely unaware of it. I will not discuss such obvious confounds. Instead, I will focus merely on what they have attempted to communicate as principles to embody. So, what are the relevant principles that Epicurus emphasised?
 
+## Epicureanism
 ![epicurus](/images/happiness/epicurus.jpg)
 
+> //epicurus quote here
 
+Epicureanism (3) is the school of thought that friendship along with the satisfaction of “basal desires” (required for survival) are the only requisites for living the happiest life possible. The school was founded on the writings of the individual Epicurus. In his view, we have a small amount of needs — to sleep, to eat, to drink, to avoid physical pains, and to socialise, and once you remove the pain that comes with these you have reached what he calls an [ataraxic](https://en.wikipedia.org/wiki/Ataraxia) state — *freedom from discomfort*. The pleasure taken at the removal of basic pains is what he calls *static pleasures*, and could also include other basic pains such as defecation, scratching, etc. Once all present pains have been removed and you have reached ataraxia, this would be the peak of pleasure. Epicurus wrote his views in large part as a reaction to the Cyrenaics, which emphasised sensory pleasures.
 
+Epicurus is labelled as a *Hedonist* — an important term that gives shape to this series of essays. A hedonist believes that the attainment of pleasure and the removal of pain are the only way to live a good life. There are many forms and nuances that hedonism can take, as will be discussed in the following chapter, but note for now that he declares “pleasure is the goal of living”. Popular culture commonly takes hedonism to mean *decadent hedonism* — which is more related to the *indulgence* of Cyrenaicism as you will see.
 
-
-
-
-
-
-
+// below from non medium //
 What makes Epicurus distinct in his belief about pleasure being the goal of living is that he believed that the best way to go about achieving pleasure is merely through satisfying simple desires. For instance, he thought that “barely bread and water could yield the peak of pleasure”.
 
 There is a lot that can be said about Epicureanism, and it may seem incompetent if I summarise and clarify it in a few lines, but I believe that it can be done faithfully. And it is as follows:
@@ -113,14 +112,19 @@ In concrete terms: We only have the need for pleasure when we feel a pain, but w
 
 The Problem with Epicureanism
 His theory seems valid, except for one crucial detail which undermines the whole enterprise. I wholly agree that by observing human behaviour, you can accurately arrive at the pleasure principle: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain). But I think he is deeply wrong in assuming that it is simple to come about freedom from psychological pains. I agree that the removal of physical pains is relatively simple – supplying food, water, etc, and even the presence of friends. But I by no means think that doing this subsequently causes a complete freedom of psychological pains – like anxiety, fear, etc, that he describes. What results when you have satisfied your basic desires? You will eventually experience all sorts of psychological pains, but most important is boredom. Boredom is a psychological pain which results when one is aimless – which is exactly what results by doing what Epicurus suggests. Time needs to be filled with something – and it can't be completely filled with removing physical needs – because such basic needs are finite. Even socialising, though important, is easy to satisfy and dulls eventually.
+// above from non medium //
 
+## Cyrenaicism
+// insert image here
+Cyrenaicism is a school of thought lead by Aristippus. Cyrenaicism is conceptually one level farther than Epicureanism, because it *considers* mental pleasures and pains. But Aristippus considers that mental pleasures and pains are essentially of low value, and that sensory pleasures are of more importance due to them being more *intense* (as they are visceral) and easier/more certain of being acquired than far off ones which most people spend their time pursuing. Aristippus thus believed that happiness consisted in gorging oneself with as many physical pleasures as one could — sex, eating, drinking, and doing so in maximum quantity. These pleasures are what I will call **pleasures of the senses**. These writings are understandable once placed in context — written at a time of war and short life expectancy. Cyrenaicism is the typical view of *hedonism* that most people associate the pursuit of pleasure with, and why the term has a negative connotation. But note that this is only one form of hedonism, or more aptly called *positive hedonism* (as per the *addition* of pleasures) as opposed to *negative hedonism* (as per the *removal* of pains, such as in Epicureanism).
 
+## Stoicism
+Stoicism is the third form of hedonism — another negative hedonism. The Stoics wanted to live a life of peace and quiet, similar to the Epicureans. The idea is that the addition of any sensory pains or necessary sensory pleasures would disrupt their mental tranquillity. But Epicureanism has little theory developed in way of mental pains like the Stoics do, and the Stoic form of *Ataraxia* includes mental pleasures or pains, and thereby becomes more encompassing if one considers mental pains such as *desire, boredom, hatred, guilt*, or any of the other multitude of negative mental states or emotions. To counterpoint — take an ataraxic state in Epicureanism: all physical pains have been removed, but now the subject is theoretically existing in a state of boredom. Would it make sense to say that a whole life lived in boredom but with the absence of pain is a happy life? Ofcourse not. But it wasn’t completely commonsense for the Greeks to think of the mind as producing pains back then, usually only the environment. So the Stoics have the added advantage of realising that our mind itself may be a source of pleasure or pain, and this is aptly emphasised in the quote —
 
-Cyrenaicism and indulgence
+> “We are not troubled by things but the opinion which we have of things.” — Epicetus
 
-(in intro)
-> By 'all of life is problem solving', I think popper meant all organisms (inc humans) are pleasure seekers + pain avoiders. (demonstrated with his aversive amoeba).
-
+# Hedonism
+Though all three schools fall short on one glaring point, which is obvious to anybody living in the 21st century: **pleasure is not happiness, and pain is not unhappiness**. The reason this is so is mostly to do with **duration**. If you are eating an enjoyable meal and experiencing pleasure, you may say you are happy, but that is merely a *report of your current experience*. If you said this and then lived the rest of your life in pain, it would be queer to state that you lived a happy life. Does that then make happiness about the quantity of pleasures and pains, such that a life with more pleasure than pain is a happier life? If you include mental pleasures and mental pains, some figures such as the psychological hedonist Fred Feldman would argue so (but he calls them attitudinal pleasures and pains rather than mental — because they are attitudes you have about the world.) To what extent you need pleasure or the absence of pain in this theory os ambiguous, but what is obvious, is that pleasure is positive and pain is negative (as an evaluation), and although they may or may not make you happy or unhappy, I can agree with this: The first premise of hedonism is that pleasure is positive and pain is negative; the more pleasure you experience the better, the less pain the worse. And this is what all three schools have in common despite their shortcomings, they are evaluations of pleasure and pain. To demonstrate the positivity or negativity of a stimuli, all that is required is to do is to compare them side by side and choose which is more preferable.
 
 
 
@@ -515,3 +519,7 @@ https://www.google.com.au/search?q=deferring+gratification+and+success&oq=deferr
 https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
 https://www.psychologytoday.com/blog/happiness-in-world/201207/the-power-delaying-gratification
 http://www.startofhappiness.com/power-delayed-gratification/
+
+
+# References
+1. All of my information directed here about Epicureanism is derived from his two most prominent writings: Letter to Menoceceus, and Leading Doctrines, along with the two secondary sources David E Cooper (1998) Epicurus’ two letters in Oxford Ethics: The Classic Readings, and Abbreviations used in text by Sharples on The Stoics.
