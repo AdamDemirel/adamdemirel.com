@@ -77,7 +77,7 @@ The ancient Greeks had a bit to say on this question, but unfortunately, their a
 ## Epicureanism
 ![epicurus](/images/happiness/epicurus.jpg)
 
-> // epicurus quote here
+> "The acquisition of riches has been for many men, not an end, but a change, of troubles." -Epicurus
 
 
 
