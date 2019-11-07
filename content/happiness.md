@@ -114,19 +114,8 @@ We saw that his reason for ignoring pleasures unecessary for survival was due to
 
 These are the reasons that although epicureanism provides some important take aways regarding happiness which I will summarise shortly, cannot be relied upon entirely and warrants further research.
 
-
-
-
-
-
-
-
-
-
-
-// upto
-
 ## Cyrenaicism
+
 Epicurus' school of thought that the absence of pain is happiness is what's known as **negative hedonism** (negative meaning removal). In contrast, Cyrenaicism is a school of thought that is considered **positive hedonism**, meaning the addition of pleasures. These two schools are considered diametrically opposed, and the Epicureans were a reaction to the Cyrenaics.
 
 The positive hedonists advocated a lifestyle which aimed to maximise pleasurable experiences. The major proponent of positive hedonism was an ancient greek philosopher named [Aristippus](https://en.wikipedia.org/wiki/Aristippus) who lead a school of thought named the Cyrenaic school.
@@ -150,14 +139,22 @@ Although he acknowledges that sensory pleasures are more intense, his approach i
 So in summary, Aristippus advocated maximising physical pleasures, and cared little for avoiding pain or maximising psychological pleasures. We're starting to see a pattern here.
 
 ## Stoicism
+The other negative hedonist school of thought which aims to minimise painful experiences were the [Stoics](https://en.wikipedia.org/wiki/Stoicism), lead by the individual Zeno.
 
-	The negative hedonists advocate a lifestyle which aims to minimise painful experiences. The two major proponents of negative hedonism are the greek philosopher Epicurus and the school of Stoicism.
+![zeno](/images/happiness/zeno.jpg)
 
-	<!-- The other main proponents of the negative school of thought were also the Stoics, which were principally very similar to Buddhist philosophy (this is wrong. Explain that the stoics are talking about errors in judgement whereas the buddhists are escetics like alcoholics – and perhaps include alcoholics as a third school of drug users). They both aimed for a life of peace which was free of tribulation, or troubled emotions, or ataraxia as they called it -a state which equates to Epicurus’ notion of static pleasure o. They believed that pains as well as pleasures would disrupt this state of tranquility. This lead them to withdraw from the world and engage in tranquil meditation – a sort of voluntary negation of mental rumination. -->
+The Stoics wanted to live a life of peace and quiet, similar to the Epicureans. They thought that the addition of any sensory pains or sensory pleasures would disrupt their mental tranquility. But Epicureanism has little theory developed in way of mental pains like the Stoics do, and the Stoic form of *Ataraxia* includes both psychological pleasures and pains, and thereby becomes more encompassing if one considers psychological pains such as *desire, boredom, hatred, guilt*, or any of the other multitude of negative mental states or emotions, as we discussed in the issues with Epicureanism.
 
-Stoicism is the third form of hedonism — another negative hedonism. The Stoics wanted to live a life of peace and quiet, similar to the Epicureans. The idea is that the addition of any sensory pains or necessary sensory pleasures would disrupt their mental tranquillity. But Epicureanism has little theory developed in way of mental pains like the Stoics do, and the Stoic form of *Ataraxia* includes mental pleasures or pains, and thereby becomes more encompassing if one considers mental pains such as *desire, boredom, hatred, guilt*, or any of the other multitude of negative mental states or emotions. To counterpoint — take an ataraxic state in Epicureanism: all physical pains have been removed, but now the subject is theoretically existing in a state of boredom. Would it make sense to say that a whole life lived in boredom but with the absence of pain is a happy life? Ofcourse not. But it wasn’t completely commonsense for the Greeks to think of the mind as producing pains back then, usually only the environment. So the Stoics have the added advantage of realising that our mind itself may be a source of pleasure or pain, and this is aptly emphasised in the quote —
+To counterpoint — take an ataraxic state in Epicureanism: all physical pains have been removed, but now the subject is theoretically existing in a state of boredom. Would it make sense to say that a whole life lived in boredom but with the absence of pain is a happy life? Ofcourse not. But it wasn’t completely commonsense for the Greeks to think of the mind as producing pains back then, usually only the environment. So the Stoics have the added advantage of realising that our mind itself may be a source of pleasure or pain, and this is aptly emphasised in the quote —
 
 > “We are not troubled by things but the opinion which we have of things.” — Epictetus
+
+They believed that both pains and pleasures disrupt mental peace and tranquility, and this led them to withdraw from the world and engage in tranquil meditation - a sort of voluntary negation of psychological pains and pleasures.
+
+The stoics were principally very similar to Buddhist philosophy / ascetics, aiming to eliminate psychological pains. They both aimed for a life of peace which was free of tribulation or troubled emotions (ataraxia), a state which equates to Epicurus' notion of static pleasures.
+
+### The problem with Stoicism
+The same issue with the other schools also occurs with stoicism, that is, they have taken one extreme form on the hedonism axis, in this case - minimising all psychological pain and pleasure, and excluded the others. Just like the Epicureans neglected all psychological pleasures and pains, and just like the Cyrenaics neglected all psychological pains, so do the Stoics neglect all psychological pleasures. But the Stoics do have the advantage over Epicureanism that they acknowledge psychological states.
 
 # Hedonism
 Though all three schools fall short on one glaring point, which is obvious to anybody living in the 21st century: **pleasure is not happiness, and pain is not unhappiness**. The reason this is so is mostly to do with **duration**. If you are eating an enjoyable meal and experiencing pleasure, you may say you are happy, but that is merely a *report of your current experience*. If you said this and then lived the rest of your life in pain, it would be queer to state that you lived a happy life. Does that then make happiness about the **quantity** of pleasures and pains, such that a life with *more* pleasure than pain is a happier life? If you include mental pleasures and mental pains, some figures such as the *psychological hedonist* Fred Feldman would argue so (but he calls them *attitudinal pleasures and pains* rather than mental — because they are attitudes you have about the world.) To what extent you need pleasure or the absence of pain in this theory os ambiguous, but what is obvious, is that pleasure is positive and pain is negative (as an evaluation), and although they may or may not make you happy or unhappy, I can agree with this: **The first premise of hedonism is that pleasure is positive and pain is negative; the more pleasure you experience the better, the less pain the worse**. And this is what all three schools have in common despite their shortcomings, they are evaluations of pleasure and pain. To demonstrate the *positivity or negativity* of a stimuli, all that is required is to do is to compare them side by side and *choose which is more preferable*.
