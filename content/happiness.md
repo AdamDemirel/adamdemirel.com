@@ -83,7 +83,7 @@ The ancient Greeks had a bit to say on this question, but unfortunately, their a
 
 > "The acquisition of riches has been for many men, not an end, but a change, of troubles." -Epicurus
 
-Epicureanism (3) is the school of thought founded on the writings of the individual Epicurus. Epicurus is considered a **Hedonist**, an important term which this essay could also be labelled arguing for. The popular culture usage of the word hedonism usually refers to *decadent hedonism*, which is more related to the indulgence of Cyrenaicism as you will see. A lot of scholars effortfully defend Epicureanism from falling under this same label.
+Epicureanism (3) is the school of thought founded on the writings of the individual [Epicurus](https://en.wikipedia.org/wiki/Epicurus). Epicurus is considered a **Hedonist**, an important term which this essay could also be labelled arguing for. The popular culture usage of the word hedonism usually refers to *decadent hedonism*, which is more related to the indulgence of Cyrenaicism as you will see. A lot of scholars effortfully defend Epicureanism from falling under this same label.
 
 There are two principles to Epicureanism: the first is that the *removal* of basic physical needs and desires results in the happiest state possible. That small list of needs are simple needs required for survival, what he called "basal desires", and include the need to sleep, to eat, to drink, and to avoid physical pains. He believed that once you removed the pain that comes with those basic needs (resulting in what he calls *static pleasures*), you have reached what he calls an [ataraxic](https://en.wikipedia.org/wiki/Ataraxia) state — meaning *freedom from desire and discomfort*, a neutral state without pains or pleasures which is the peak of happiness. In his view, "barely bread and water could yield the peak of pleasure". Summarised simply, **happiness is freedom from pain and pleasure**.
 
@@ -156,6 +156,8 @@ The stoics were principally very similar to Buddhist philosophy / ascetics, aimi
 ### The problem with Stoicism
 The same issue with the other schools also occurs with stoicism, that is, they have taken one extreme form on the hedonism axis, in this case - minimising all psychological pain and pleasure, and excluded the others. Just like the Epicureans neglected all psychological pleasures and pains, and just like the Cyrenaics neglected all psychological pains, so do the Stoics neglect all psychological pleasures. But the Stoics do have the advantage over Epicureanism that they acknowledge psychological states.
 
+---
+
 # Hedonism - What Happiness Is
 So we've covered the three most influential greek schools of thought that paved the way for the development of later advances in happiness research. Although they disagree with eachother in different ways, what they do agree on is what I will call the first premise of hedonism: that **pleasure is positive and desirable** and **pain is negative and aversive**.
 
@@ -192,7 +194,7 @@ I buy this definition and I will argue why throughout, but the main reason is th
 
 
 ## Pleasure/Pain Criteria
-Extending on the view above, old mate Jeremy Bentham here came along in the 18th century and developed what he called [Hedonic Calculus](https://en.wikipedia.org/wiki/Felicific_calculus) was a method for attempting to measure pleasure and pain. The criteria he used to judge pleasures and pains were similar to some we've already discussed, but added a few more:
+Extending on the view above, old mate [Jeremy Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham) here came along in the 18th century and developed what he called [Hedonic Calculus](https://en.wikipedia.org/wiki/Felicific_calculus) was a method for attempting to measure pleasure and pain. The criteria he used to judge pleasures and pains were similar to some we've already discussed, but added a few more:
 1. The intensity/strength
 2. The duration
 3. The certainty/uncertainty
@@ -200,7 +202,7 @@ Extending on the view above, old mate Jeremy Bentham here came along in the 18th
 5. The repeatability
 6. Whether the pleasure is followed by a pain
 
-![Jeremy Bentham](/images/happiness/bentham.jpg)
+![Jeremy Bentham](/images/happiness/bentham.png)
 
 We've already seen how intensity and duration are important (as intensity x duration = total hedonic sum). And the greeks already discussed the certainty/uncertainty, and the distance somewhat. What they didn't really mention was the repeatability and whether it was followed by pain which are two interesting criteria to introduce.
 
