@@ -157,9 +157,11 @@ The stoics were principally very similar to Buddhist philosophy / ascetics, aimi
 The same issue with the other schools also occurs with stoicism, that is, they have taken one extreme form on the hedonism axis, in this case - minimising all psychological pain and pleasure, and excluded the others. Just like the Epicureans neglected all psychological pleasures and pains, and just like the Cyrenaics neglected all psychological pains, so do the Stoics neglect all psychological pleasures. But the Stoics do have the advantage over Epicureanism that they acknowledge psychological states.
 
 # Hedonism - What Happiness Is
-So we've covered the three most influential greek schools of thought that paved the way for the development of later advances in happiness research. Although they disagree with eachother in different ways, what they do agree on is what I will call the first premise of hedonism: that **pleasure is positive and desirable** and **pain is negative and aversive**. Whether you want to call pleasure or pain something else, like *positive/negative emotions*, *positive/negative experiences*, *the satisfaction of desire*, or anything else, they do agree on this. What they disagree on is the importance of physical vs psychological pleasures/pains, and whether duration is importance. We've already established that both physical and psychological pleasures/pains are important, and so is duration.
+So we've covered the three most influential greek schools of thought that paved the way for the development of later advances in happiness research. Although they disagree with eachother in different ways, what they do agree on is what I will call the first premise of hedonism: that **pleasure is positive and desirable** and **pain is negative and aversive**.
 
 ![green up arrow red down arrow](/images/happiness/updown.png)
+
+Whether you want to call pleasure or pain something else, like *positive/negative emotions*, *positive/negative experiences*, *the satisfaction of desire*, or anything else, they do agree on this. What they disagree on is the importance of physical vs psychological pleasures/pains, and whether duration is important. We've already established that both physical and psychological pleasures/pains are important, and so is duration.
 
 Though we arrived on the point that pleasure is good and pain is bad, this still falls short on one glaring point, which is obvious to anybody living in the 21st century: **pleasure is not happiness, and pain is not unhappiness**. The reason this is so is mostly to do with **duration**. If you are eating an enjoyable meal and experiencing pleasure, you may say you are happy, but that is merely a *report of your current experience*. If you said this and then lived the rest of your life in pain, it would be silly to state that you lived a happy life.
 
@@ -189,6 +191,26 @@ So in conclusion, the hedonsitic view of happiness is that **pleasure is the onl
 I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
 
 
+## Pleasure/Pain Criteria
+Extending on the view above, old mate Jeremy Bentham here came along in the 18th century and developed what he called [Hedonic Calculus](https://en.wikipedia.org/wiki/Felicific_calculus) was a method for attempting to measure pleasure and pain. The criteria he used to judge pleasures and pains were similar to some we've already discussed, but added a few more:
+1. The intensity/strength
+2. The duration
+3. The certainty/uncertainty
+4. How soon it will occur
+5. The repeatability
+6. Whether the pleasure is followed by a pain
+
+![Jeremy Bentham](/images/happiness/bentham.jpg)
+
+We've already seen how intensity and duration are important (as intensity x duration = total hedonic sum). And the greeks already discussed the certainty/uncertainty, and the distance somewhat. What they didn't really mention was the repeatability and whether it was followed by pain which are two interesting criteria to introduce.
+
+> Humans don´t live in territories but in habits. — Peter Sloterdijk
+
+Repeatability is interesting because doing a small thing enough times can compound to have large effects. So even if there are a few events which result in the largest pleasure gains and pain removals, perhaps there are activities that we can do repeatedly which can improve our lives in small ways which add up to a large total over time. This is a smart view to take when you consider that **our lives are a sum of the small activities that we do repeatedly** - whether that be sleep, eat, socialise, work, play, our thoughts, the environment we are in, or our daily habits. I'll label all of these recurring experiences as "habits", as they are repeated emotional responses.
+
+What this additional criteria suggests is that one way to improve your happiness is to find ways in which you can make repeatable small gains in pleasure and the removal of pain, which add up over time. I think why a lot of happiness stories get this premise wrong is because hmans have a tendency to think globally in the timespan of a whole life and spotlight large events, rather think linearly and acknowledge that life is a secession of discrete events. This reminds me of an interesting point brought up in the movie Before Sunset where the main actor mentionns how crazy it is that we are **living** our life right now.
+
+> “Tomorrow will be like today. Life wastes itself whilst we are preparing to live.” - Ralph Waldo Emerson
 
 
 
@@ -196,30 +218,21 @@ I buy this definition and I will argue why throughout, but the main reason is th
 
 
 
-and benthams principles here
 
-- Pleasure and pain are not merely physical sensations, but mental states taken about physical sensations, events in the world, beliefs, and memories also. (See
-
+---
 - the pleasure response isnt a sinewave! 1 or 0! its a function. Eg see alcohol chart. (time x axis, hedonic tone y axis. peaks shortly and later drops) (or university where you have the oscillating pleasure of a novel environment and socialising with friends, with a big drop after 4 yr  bachelors and financial debt recovery )
   - a very basic example is the sexual response cycle where your intensity of arousal goes from baseline to high, and then peaks in an orgasm before dropping back down.
 Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. X axis= pain/pleasure. Y axis = time.
 
-success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
--- eg rephrase to something along the lines of "some could view success as being aworld class performer"
 
 
 
-### Habits
-habits (in comparison to swb single retro judgement): > Habits optimize for recursive emotional responses. Habits of thoughts (memories and forecasts) and behaviours
 
-CONCLUSION >> So the best way to live is to find ways in which you can improve your circumstances (like working) that are combined with escapism (like flow) so when you experience inter-flow rumination, you feel less bad and have the means (like money) to experience more pleasure? >> Thus, still chase pleasures and minimise pains, but not at the expense of improved circumstances which is most important. Also, seek flow as much as possible.
 
-Our life is a sum of the small activities that we do repeatedly. (13.07.17: aka habits)
->> I think why all of my other theories got this premise wrong is because humans have a tendency to think globally in the whole scale of life, and not linearly that life is a secession of discrete events. (This point was raised in before sunset that he mentions how crazy it is that this is our life that we are living right now.) (“Tomorrow will be like today. Life wastes itself whilst we are preparing to live. - Ralph Waldo Emerson”)
-
-- After all my hedonism theorism, ive concluded that even accounting for jouissance and nietzsche, the most important thing is habit.  [24/08/16 I think what I meant by this was what tim ferris said: life is the sum of small activities done repeatedly] / circumstantial goals
 ---
 
+
+// wrap it up and say we want to work out what causes the maximum pleasure and minimum pain to increase the hedonic total
 
 
 ---
@@ -400,6 +413,10 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 ## MAXIMISE PSYCHOLOGICAL PLEASURES
 - A circumstantial improvement of ones life would mean curating circumstances which make pleasures (psych and sens) most likely to occur, pains least likely, maximise flow if necessary and minimise inter-flow states of rumination. A sort of self-help/self-sufficiency theory of happiness.
 - Some people have good circumstances naturally (rich and attractive) while others have to work hard towards them.
+
+
+success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
+-- eg rephrase to something along the lines of "some could view success as being aworld class performer" (ie results in large sum of psychological pleasures)
 
 ## JOUISSANCE
 - We get jouissance obtained in place of the full satisfaction of jouissance expected (relating to psych desires). So attaining our desire is never as great as we expect nor are psych pleasures.
