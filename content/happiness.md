@@ -574,3 +574,5 @@ http://www.startofhappiness.com/power-delayed-gratification/
 
 # References
 1. All of my information directed here about Epicureanism is derived from his two most prominent writings: Letter to Menoceceus, and Leading Doctrines, along with the two secondary sources David E Cooper (1998) Epicurus’ two letters in Oxford Ethics: The Classic Readings, and Abbreviations used in text by Sharples on The Stoics.
+
+```All of my information directed here about Epicureanism is derived from his two most prominent writings: Letter to Menoceceus, and Leading Doctrines, along with the two secondary sources David E Cooper (1998) Epicurus’ two letters in Oxford Ethics: The Classic Readings, and Abbreviations used in text by Sharples on The Stoics.```
