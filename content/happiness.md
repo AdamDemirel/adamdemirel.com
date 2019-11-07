@@ -12,6 +12,8 @@
   - remove the triggers: eg omegle, kageshi, tinder
   -  https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/ #
 
+ I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
+
 ---
 
 # Intro
@@ -81,9 +83,9 @@ The ancient Greeks had a bit to say on this question, but unfortunately, their a
 
 > "The acquisition of riches has been for many men, not an end, but a change, of troubles." -Epicurus
 
-Epicureanism (3) is the school of thought founded on the writings of the individual Epicurus. Epicurus is considered a **Hedonist**, an important term which this essay could also be labelled arguing for. The popular culture usage of the word hedonism usually referrs to *decadent hedonism*, which is more related to the indulgence of Cyrenaicism as you will see. A lot of scholars effortfully defend Epicureanism from falling under this same label.
+Epicureanism (3) is the school of thought founded on the writings of the individual Epicurus. Epicurus is considered a **Hedonist**, an important term which this essay could also be labelled arguing for. The popular culture usage of the word hedonism usually refers to *decadent hedonism*, which is more related to the indulgence of Cyrenaicism as you will see. A lot of scholars effortfully defend Epicureanism from falling under this same label.
 
-There are two principles to Epicureanism: the first is that the *removal* of basic physical needs and desires would result in the happiest state possible. That small list of needs are simple needs required for survival, what he called "basal desires", and include the need to sleep, to eat, to drink, to avoid physical pains. He believed that once you remove the pain that comes with those basic needs (resulting in what he calls *static pleasures*) you have reached what he calls an [ataraxic](https://en.wikipedia.org/wiki/Ataraxia) state — meaning *freedom from desire and discomfort*, a neutral state without pains or pleasures which is the peak of happiness. In his view, "barely bread and water could yield the peak of pleasure". In his view, **happiness is freedom from pain**.
+There are two principles to Epicureanism: the first is that the *removal* of basic physical needs and desires results in the happiest state possible. That small list of needs are simple needs required for survival, what he called "basal desires", and include the need to sleep, to eat, to drink, and to avoid physical pains. He believed that once you removed the pain that comes with those basic needs (resulting in what he calls *static pleasures*), you have reached what he calls an [ataraxic](https://en.wikipedia.org/wiki/Ataraxia) state — meaning *freedom from desire and discomfort*, a neutral state without pains or pleasures which is the peak of happiness. In his view, "barely bread and water could yield the peak of pleasure". Summarised simply, **happiness is freedom from pain and pleasure**.
 
 The second principle is the importance of friendship to happiness. Although not a purely physical need, he deemed it necessary and thought that it is only through close friends that freedom from anxiety and "peace of mind" is possible.
 
@@ -94,33 +96,35 @@ Epicureanism in its summarised for is that there are natural desires which are n
 This reasoning is quite simple, also quite sophisticated. His argument is that the removal of mental and physical pains is the goal of life, because once we remove them, we no longer desire pleasure or the removal of pain. Everything we are motivated to do is to achieve freedom from psychological pain (like fear) and physical pain (like hunger), and once we do this we don't feel the need to continue seeking something which is absent to add to our lives. In concrete terms: **We only have the need for pleasure when we feel a pain, but whenever we do not feel pain then we no longer need pleasure**.
 
 ### The problems with Epicureanism
+There are two issues with epicureanism, one minor and one major.
+
+#### Duration Neglect
+The less severe first problem is that he didn't believe that longer pleasures were superior to shorter ones. If you accept that pleasure is good and pain is bad, obviously the more pleasure and the less pain you experience the better. Failing to acknowledge this is what psychologists call [duration neglect](https://en.wikipedia.org/wiki/Duration_neglect), which is actually a common bias but is experientially naive. Obviously the duration is important.
+
+#### Neglecting Psychological Pleasures & Pains
+The major problematic aspect of Epicureanism is that although he acknowledges pleasure being the result of removing physical pains and desires, he doesn't give any weight at all to psychological pains and desires, or pleasure (beyond friendship).
+
+As we saw, he argued that once you remove the physical pains, you are in a state of neutrality and contentness, but this is clearly incorrect as the absence of physical pains doesn't imply the absence of psychological pains. I agree that the removal of physical pains is relatively simple, but not so simple to eradicate all psychological pains such as sadness, anger, boredom, fear, etc, which can still be present in the absence of physical pains. Time needs to be filled with something, and it can't be completely filled with removing physical needs, because such needs are finite. What will result is boredom or psychological pains.
+
+You can satisfy all of your basal desires but still live an unhappy life due to the many psychological pains that could be present. So the crux of the issue is that he is excluding a list of mental pains that have the ability to affect our happiness.
+
+Additionally, he acknowledges the importance of friendship to removing psychological pains but ignores all other psychological pains and pleasures. This leads him into a contradictory position: on the one hand he emphasis a value system only of physical pains and pleasures, yet makes a single except for friendship. If he admits that there exists such things as psychological pains (like anxiety) which are distinct from physical pains, which friendship can remove, then he must leave open the possibility for all sorts of other psychological pains and pleasures. Then in doing so acknowledge that the removal of these is just as important as removing physical.
+
+We saw that his reason for ignoring pleasures unecessary for survival was due to their riskiness of attainment, but the desire for non basic needs to be satisfied also have the ability to provide pleasure and is potentially pleasure missed. He is also making the assumption that the pain associated with not attaining the future pleasures outweighs the pleasure gained from partaking in them minus the pain of not attaining them.
+
+These are the reasons that although epicureanism provides some important take aways regarding happiness which I will summarise shortly, cannot be relied upon entirely and warrants further research.
 
 
 
 
-The first problematic aspect of Epicureanism is that he acknowledges that pleasure results from removing desires, but due to the risk involve as mentioned in the last paragraph, he doesn't give any weight to the pleasure resulting from removing non basic desires. But the desire for non basic needs to be satisfied also have the ability to provide pleasure and is potentially pleasure missed. He is also making the assumption that the pain associated with not attaining the future pleasures outweighs the pleasure gained from partaking in them minus the pain of not attaining them.
 
 
 
-// up to here, rm pleasure principle shite
-I believe that these two principles are in strong opposition and thus make his view contradictory. The reason being that his first principle is a value system which emphasises only physical pains and pleasures, and yet his second principle argues that the way to remove anxiety and desire (both psychological states and attitudes) is through socialising.
-Now this may not look contradictory at first, and it can be conceded that perhaps socialising is a biological need just like eating. But what cannot be ignored is that if he admits that there exist such things as psychological pains (like anxiety) which are distinct from physical pains, then he must leave open the possibility for all sorts of things having the ability to cause psychological pains besides biological needs. And in doing so he must also admit that the removal of these psychological pains as a method for achieving pleasure (psychological pleasure) may be just as legitimate as his first principle.
-
-
-// below from odt//
-  I believe that Epicurus had raised some important points which will later be extrapolated on, but what was problematic is that a restricted account focusing solely on sensory experiences doesn't take into account attitudinal experiences of pain such as boredom which may occur between periods of sensory satiation. The reason being that boredom has no sensory equivalent, and physical sensations are the focus of his doctrine. This miscalibrates that the absence of mental or sensory pleasures is satiating, when one may satiate their physical desires and yet still live an unhappy life due to the attitudinal pain of boredom outweighing the negative pleasures.
-	The other main proponents of the negative school of thought were also the Stoics, which were principally very similar to Buddhist philosophy (this is wrong. Explain that the stoics are talking about errors in judgement whereas the buddhists are escetics like alcoholics – and perhaps include alcoholics as a third school of drug users). They both aimed for a life of peace which was free of tribulation, or troubled emotions, or ataraxia as they called it -a state which equates to Epicurus’ notion of static pleasure o. They believed that pains as well as pleasures would disrupt this state of tranquility. This lead them to withdraw from the world and engage in tranquil meditation – a sort of voluntary negation of mental rumination.
->> But as seen by the includance of attitudinal p/p, it isn't clear that an untroubled life is a happy life, if one takes boredom (an attitude taken at a possible lack of events or sensations occurring) to be an attitudinal pain, thus making life progressively worse in accordance with how much it's experienced.
-> me: so basiaclly make a counter argument that they are excluding a large list of mental pains.
-// above from odt
-
-The Problem with Epicureanism is although his theory seems valid, there is one crucial detail which undermines the whole enterprise. I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain). But I think he is deeply wrong in assuming that it is simple to come about freedom from psychological pains. I agree that the removal of physical pains is relatively simple – supplying food, water, etc, and even the presence of friends. But I by no means think that doing this subsequently causes a complete freedom of psychological pains – like anxiety, fear, etc, that he describes. What results when you have satisfied your basic desires? You will eventually experience all sorts of psychological pains, but most important is boredom. Boredom is a psychological pain which results when one is aimless – which is exactly what results by doing what Epicurus suggests. Time needs to be filled with something – and it can't be completely filled with removing physical needs – because such basic needs are finite. Even socialising, though important, is easy to satisfy and dulls eventually.
-
-
-I believe Epicurus had a lot correct but was flawed in his reasoning about boredom. He doesn't acknowledge boredom as an attitudinal pain (because it has no sensory equivalent – and physical sensations are the focus of his doctrine), and so miscalibrates that the absence of mental and sensory pleasures is satiating, when in fact one may satiate their basal desires but live an unhappy life due to boredom. So this special praise for 'static pleasures' (pleasure taken in the removal of pain), of simple pleasures being preferable to 'extravagant' (pleasures beyond satiation of desire, such as gorging food) lead him to believe the best actions to take were the ones guided by the avoidance of pain and once the goal was removed, this ataraxic state would be the peak of pleasure. He also didn't believe longer pleasures weren't superior to shorter which is concerning to say the least – but I'll suspend my judgement on whether you believe temporality to be necessary. It's clear to me at least that the more pleasure, the more good, the better the life is.
 
 
 
+
+// upto
 
 ## Cyrenaicism
 
@@ -131,6 +135,8 @@ the two diametric historical schools of thought on hedonism are positive hedonis
 Cyrenaicism is a school of thought lead by Aristippus. Cyrenaicism is conceptually one level farther than Epicureanism, because it *considers* mental pleasures and pains. But Aristippus considers that mental pleasures and pains are essentially of low value, and that sensory pleasures are of more importance due to them being more *intense* (as they are visceral) and easier/more certain of being acquired than far off ones which most people spend their time pursuing. Aristippus thus believed that happiness consisted in gorging oneself with as many physical pleasures as one could — sex, eating, drinking, and doing so in maximum quantity. These pleasures are what I will call **pleasures of the senses**. These writings are understandable once placed in context — written at a time of war and short life expectancy. Cyrenaicism is the typical view of *hedonism* that most people associate the pursuit of pleasure with, and why the term has a negative connotation. But note that this is only one form of hedonism, or more aptly called *positive hedonism* (as per the *addition* of pleasures) as opposed to *negative hedonism* (as per the *removal* of pains, such as in Epicureanism).
 
 ## Stoicism
+	<!-- The other main proponents of the negative school of thought were also the Stoics, which were principally very similar to Buddhist philosophy (this is wrong. Explain that the stoics are talking about errors in judgement whereas the buddhists are escetics like alcoholics – and perhaps include alcoholics as a third school of drug users). They both aimed for a life of peace which was free of tribulation, or troubled emotions, or ataraxia as they called it -a state which equates to Epicurus’ notion of static pleasure o. They believed that pains as well as pleasures would disrupt this state of tranquility. This lead them to withdraw from the world and engage in tranquil meditation – a sort of voluntary negation of mental rumination. -->
+
 Stoicism is the third form of hedonism — another negative hedonism. The Stoics wanted to live a life of peace and quiet, similar to the Epicureans. The idea is that the addition of any sensory pains or necessary sensory pleasures would disrupt their mental tranquillity. But Epicureanism has little theory developed in way of mental pains like the Stoics do, and the Stoic form of *Ataraxia* includes mental pleasures or pains, and thereby becomes more encompassing if one considers mental pains such as *desire, boredom, hatred, guilt*, or any of the other multitude of negative mental states or emotions. To counterpoint — take an ataraxic state in Epicureanism: all physical pains have been removed, but now the subject is theoretically existing in a state of boredom. Would it make sense to say that a whole life lived in boredom but with the absence of pain is a happy life? Ofcourse not. But it wasn’t completely commonsense for the Greeks to think of the mind as producing pains back then, usually only the environment. So the Stoics have the added advantage of realising that our mind itself may be a source of pleasure or pain, and this is aptly emphasised in the quote —
 
 > “We are not troubled by things but the opinion which we have of things.” — Epictetus
