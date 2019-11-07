@@ -1,17 +1,15 @@
 
-- history (epicurus+stoics+aristotle, bentham, mill, hume)
-- maximizing pleasure and minimising pain =-- see my pains list
-
-- maximizing pleasure (cyrenaics) - see my pleasures list
+- history: (aristotle, mill, hume)?
+- maximizing pleasure - see my pleasures list
 - maximizing pain
-- minimising pain (Epicureans for physical pains, stoics for mental)
+- minimising pain - see my pains list
   - minimising desires
   - minimising desire / downshifting
 - environmental triggers
   - remove the triggers: eg omegle, kageshi, tinder
   -  https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/ #
 
- I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
+I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
 
 ---
 
