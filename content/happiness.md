@@ -29,7 +29,7 @@ What is Happiness? This is probably one of the most important questions of this 
 
 The methods of measuring happiness will differ depending on the area of study, but they all share the same common theme of trying to find an optimal set of outcomes.
 
-> There was a wonderful paper that asked what happiness means at different points in history and in different cultures. And oddly enough, historically, happiness means **good fortune**. It doesn't mean the emotional response to having good fortune, it means good fortune itself. A happy person is a lucky person. It's not that a happy person is a lucky person, what it means to be happy is that you're lucky. This was the dominant definition pretty much everywhere and in modern cultures this definition has been replaced. ([1](https://youtu.be/hjACfaEh9BM?t=1378), [2](https://www.ncbi.nlm.nih.gov/pubmed/23599280))
+> There was a wonderful paper that asked what happiness means at different points in history and in different cultures. And oddly enough, historically, happiness means **good fortune**. It doesn't mean the emotional response to having good fortune, it means good fortune itself. A happy person is a lucky person. It's not that a happy person is a lucky person, what it means to be happy is that you're lucky. This was the dominant definition pretty much everywhere and in modern cultures this definition has been replaced. (`[1](https://youtu.be/hjACfaEh9BM?t=1378)`, [2](https://www.ncbi.nlm.nih.gov/pubmed/23599280))
 
 But although this linguistic definition was used, it is not of much use to us because it is not actionable and if anything it is passive. The importance of this analysis and the modern happiness research is uncovering things that empower our decisions and alter our lives in large and small ways. So beyond good fortune, happiness must mean something else, and that something else is best defined and introduced by the ancient greek hedonists, which I will cover below.
 
@@ -574,5 +574,3 @@ http://www.startofhappiness.com/power-delayed-gratification/
 
 # References
 1. All of my information directed here about Epicureanism is derived from his two most prominent writings: Letter to Menoceceus, and Leading Doctrines, along with the two secondary sources David E Cooper (1998) Epicurus’ two letters in Oxford Ethics: The Classic Readings, and Abbreviations used in text by Sharples on The Stoics.
-
-```All of my information directed here about Epicureanism is derived from his two most prominent writings: Letter to Menoceceus, and Leading Doctrines, along with the two secondary sources David E Cooper (1998) Epicurus’ two letters in Oxford Ethics: The Classic Readings, and Abbreviations used in text by Sharples on The Stoics.```
