@@ -24,9 +24,9 @@ export default props => {
           </p>
           <p>
             I usually write as a means of research and discovery, and/or to get the ideas out of my head and give them some structure.
-    </p>
+        </p>
           <p>
-            I don't aim for my writing to my 100% easy to read or approachable, but rather comprehensive and act an end-point.
+            I don't aim for my writing to be 100% easy to read or approachable, but rather comprehensive and act as an end-point.
 </p><p>
             My old posts can be
             found on my <a href="https://medium.com/@adxm">Medium</a>. My newer writing can be found below. More to come.
