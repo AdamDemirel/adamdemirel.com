@@ -216,7 +216,7 @@ What this additional criteria suggests is that one way to improve your happiness
 
 Another interesting point which is obvious to most people, is whether or not the pleasure will be followed by pain, or vice versa. Bentham referred to this as *Purity*. Most of us have an intuitive grasp on purity of experience and is one of the biggest objections we have against decadent hedonism - because we infer that gorging ourselves with physical pleasures or hard drugs is followed by pains, therefore lacking purity.
 
-![a](/images/happiness/purity.png)
+![a](/images/happiness/purity.jpg)
 
 This acknowledges an important fact about the pain and pleasure response: it isn't a sinewave or binary, it's a function. The value of the experience changes over time depending on what it is and the inputs. This gives us an interesting metric by which to judge various pleasures and pains - by averaging them out over time.
 
@@ -224,7 +224,7 @@ For example, if you take out a loan to go travelling, you might experience a chu
 
 ![Climax](/images/happiness/climax.png)
 
-
+- 30.12.16 nozick criticism: instead of nozicks pleasure machine. what about pain avoidance machine
 
 
 
@@ -403,7 +403,7 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 - Savoring / "life being an acquired taste, like coffee? (tc)"
 - how can i apply supercompensation exercise methodology to life?
 - https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
-- 30.12.16 nozick criticism: instead of nozicks pleasure machine. what about pain avoidance machine
+
 
 ## MAXIMISE SENSORY PLEASURES
 - Aka Cyrenaicism, Aristippus, positive hedonism
