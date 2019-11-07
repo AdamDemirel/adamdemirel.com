@@ -210,21 +210,19 @@ We've already seen how intensity and duration are important (as intensity x dura
 
 Repeatability is interesting because doing a small thing enough times can compound to have large effects. So even if there are a few events which result in the largest pleasure gains and pain removals, perhaps there are activities that we can do repeatedly which can improve our lives in small ways which add up to a large total over time. This is a smart view to take when you consider that **our lives are a sum of the small activities that we do repeatedly** - whether that be sleep, eat, socialise, work, play, our thoughts, the environment we are in, or our daily habits. I'll label all of these recurring experiences as "habits", as they are repeated emotional responses.
 
-What this additional criteria suggests is that one way to improve your happiness is to find ways in which you can make repeatable small gains in pleasure and the removal of pain, which add up over time. I think why a lot of happiness stories get this premise wrong is because hmans have a tendency to think globally in the timespan of a whole life and spotlight large events, rather think linearly and acknowledge that life is a secession of discrete events. This reminds me of an interesting point brought up in the movie Before Sunset where the main actor mentionns how crazy it is that we are **living** our life right now.
+What this additional criteria suggests is that one way to improve your happiness is to find ways in which you can make repeatable small gains in pleasure and the removal of pain, which add up over time. I think why a lot of happiness stories get this premise wrong is because humans have a tendency to think globally in the timespan of a whole life and spotlight large events, rather think linearly and acknowledge that life is a secession of discrete events. This reminds me of an interesting point brought up in the movie [Before Sunset](https://en.wikipedia.org/wiki/Before_Sunset) where the main actor mentionns how crazy it is that we are **living** our life right now.
 
 > “Tomorrow will be like today. Life wastes itself whilst we are preparing to live.” - Ralph Waldo Emerson
 
+Another interesting point which is obvious to most people, is whether or not the pleasure will be followed by pain, or vice versa. Bentham referred to this as *Purity*. Most of us have an intuitive grasp on purity of experience and is one of the biggest objections we have against decadent hedonism - because we infer that gorging ourselves with physical pleasures or hard drugs is followed by pains, therefore lacking purity.
 
+![a](/images/happiness/purity.png)
 
+This acknowledges an important fact about the pain and pleasure response: it isn't a sinewave or binary, it's a function. The value of the experience changes over time depending on what it is and the inputs. This gives us an interesting metric by which to judge various pleasures and pains - by averaging them out over time.
 
+For example, if you take out a loan to go travelling, you might experience a chunk of pleasure upfront but you will suffer for it afterwards. Another very basic example is the sexual response cycle which is quite standard: an intensity of arousal/pleasure build from baseline to high, and then peaks at a climax before dropping back down to near neutral or just below.
 
-
-
-
----
-- the pleasure response isnt a sinewave! 1 or 0! its a function. Eg see alcohol chart. (time x axis, hedonic tone y axis. peaks shortly and later drops) (or university where you have the oscillating pleasure of a novel environment and socialising with friends, with a big drop after 4 yr  bachelors and financial debt recovery )
-  - a very basic example is the sexual response cycle where your intensity of arousal goes from baseline to high, and then peaks in an orgasm before dropping back down.
-Or fapping = peak pleasure cumming, then post = low energy, fatigue, no libido. X axis= pain/pleasure. Y axis = time.
+![Climax](/images/happiness/climax.png)
 
 
 
