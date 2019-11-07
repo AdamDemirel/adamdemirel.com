@@ -221,7 +221,7 @@ For example, if you take out a loan to go travelling, you might experience a chu
 
 ![Climax](/images/happiness/climax.png)
 
-In summary of everything above, we've concluded that **a happy life can be evaluated by how much pleasure and pain it contains, due to them being the only intrinsic values. The more pleasure and the less pain, the better the life. Those pleasures/pains can be physical or psychological. And pleasures/pains differ in their intensity, duration, certainty, repeatability, and purity.** This means that to model how to improve happiness, we need to know out how best to maximise pleasure and minimise pain.
+In summary of everything above, we've concluded that **a happy life can be evaluated by how much pleasure and pain it contains, due to them being the only intrinsic values. The more pleasure and the less pain, the better the life. Those pleasures/pains can be physical or psychological. And pleasures/pains differ in their intensity, duration, certainty, repeatability, and purity.** This means that to model how to improve happiness, we need to know how best to maximise pleasure and minimise pain.
 
 The pattern that unfolded from studying the greeks is that there are four principle ways of categorising research methodologies for improving happiness, and behaviors for doing so:
 1. Minimising pleasures
@@ -238,30 +238,53 @@ Beyond the reasons given by the greeks about how seeking physical pleasures that
 
 ![minimise pleasure chart](/images/happiness/min-pleasure.jpg)
 
+
+
+
+
+
 ----
-----
 
-# MAXIMIZING PAINS
+# Maximising Pains
+Although for the same reasons as above it makes no sense to try to optimize happiness by directly maximising pains as much as possible (especially not severe negative emotions) such as:
 
-// mention hormesis
+![a](/images/happiness/max-pains.jpg)
 
-## specifically psychological pains
-- Nietzsche thought happiness didn't come from escaping pains but cultivating them because pains are flagposts which draw our attention to what needs to be done (so don't escape them but curate them). Life affirmative philosophy – attempts to embrace consciousness. No pain no gain.
-- If improving your circumstances (like working) is painful, that means they are still flagposts to change your behaviour (ie find a more fulfilling job).
+What some figures did note is that the individual experiences of pain are not necessarily always overall bad, even if immediately bad in the short term. What I mean by bad is that just like we acknowledged that some pleasures are impure, so may pains be. Some pains have the possibility of being followed by pleasures and thus can potentially result in a greater pleasure total.
+
+![a](/images/happiness/pain-minus-pleasure-total.jpg)
+
+At the end of the day, positive emotions are still what's intrinsically valuable, and negative emotions are still what's intrinsically undesirable, but we've just acknowledged that small negative emotions can sometimes be followed by greater positive emotions. This plays into what we mentioned in the Hedonism section - that pleasures/pains are not sinewave but functions which change over time.
+
+![a](/images/happiness/impurity.jpg)
+
+The main figure that represents this school of thought was Friedrich Nietzsche, which is attributed with the famous quote we have all heard that aptly summarises this:
+
+> "No pain, no gain"
+
+Obviously pain isn't a necessary condition for all pleasure, but it is for some. This applies to both physical and psychological pains. Not every pleasure has a pain that motivates you to seek it, for example you can seredipitously stumble upon the aesthetic pleasure of a flower without planning to do so.
+
+Nietzsche thought that happiness didn't come from escaping every pain we have, but instead cultivating them/using them to gain pleasure, because pains are "flagposts" which draw our attention to what needs to be done. If something is causing you pain, even though that pain is bad, that is a hint that you should change your behavior or otherwise in order to remove it. It is a very life affirmative philosophy which attempts to embrace consciousness and all of its constituents.
+
+This makes sense when you think about the function of hunger, thirst, heat, and tiredness have on motivation: trying to return back to homeostasis by eating, drinking, etc. But rather than the pains just being signals we can use to remove them and get back to neutral, like the Epicureans thought, Nietzsche believed that **the greatest pleasures** came about as a result of not avoiding pains but using them as guides to what needs to be solved. In this way he thinks they are trails to large positive experiences.
 
 
- (Nietzsche believed that the greatest pleasures came about as a result of not avoiding pains but using them as guides towards what needs your attention to solve.) [put it under hormesis title. Great idea.]
-  - this makes sense when you think about what hungers, thirsts, temperature, tiredness etc motivation ( ... trying to achieve homeostasis by eating, fluid, etc. also see my descriptive motives list.) plays into 'darwinian happiness' book?
-  - as chaos pointed out, not every pleasure has a pain that motivates you to seek it (2015) - aesthetic ones like the pleasure of a flower
+// mention the org book emotions her
+
+plays into 'darwinian happiness' book?
   - hormesis: 19.11.17: https://en.wikipedia.org/wiki/Eustress seems like a
   - better term than antifragility. | 19.05.18: or hormesis.
   - - https://gettingstronger.org/about-this-blog/ # hormetism
   - - https://www.scientificamerican.com/article/negative-emotions-key-well-being/ #
 
--> you wouldnt want to deliberately maximize negative emotions (at least not the severe ones)
-- The lesson is that the bellcurve of emotion is a tricky one and sometimes you might want to expose yourself to pains before you get a peak in pleasure following
 
-But at the end of the day positive emotons are still the desirable emotional state that is being used as the metric of goodness here, we've just acknowledge that negative emotions are sometimes useful.
+
+
+- The lesson is that the bellcurve of emotion is a tricky one and sometimes you might want to expose yourself to pains before you get a peak in pleasure following
+- take away is that maximising the right negative emotions can lead to greater pleasure, but just make sure youre not doing so to the exclusion of pleasure
+
+
+
 
 
 
