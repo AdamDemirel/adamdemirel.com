@@ -1,6 +1,5 @@
 
 - history: (aristotle, mill, hume)?
-- maximizing pleasure - see my pleasures list
 - maximizing pain
 - minimising pain - see my pains list
   - minimising desires
@@ -323,10 +322,63 @@ But I'm going to add two more:
 
 I'm going to focus on repeatability and savoring first due to their brevity.
 
+## Repeatable Pleasures
 ## Situation Selection
 We have already noted how behavioral habits can be important because they can act as looping experiences which compound. Another thing you could do is modify your **environmental triggers** so you aren't exposed to triggers of bad emotional states, and are exposed to good ones. For example, if you found that going on certain apps or websites made you unhappy, it would be wise to stop doing so. In fact, some cool research suggests that **[situation selection](https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/)** - doing activities and being places that make you feel good, and avoiding people who make you feel bad, is an effective intervention for reducing negative emotions. But we can also use it to increase the positive.
 
 ![situation selection](/images/happiness/selection.jpg)
+
+## Pleasure Events
+Although it seems like human experience is infinitely diverse, due to the basic universal biology and evolution we all share, there is a finite list of less than 50 *types* of pleasure events, or positive experiences that we can engage in. Anything we can think of as pleasurable can be captured under this list. If you can think of any others [let me know](https://adamdemirel.com):
+* Physical Pleasures
+  * Sensory
+    * Eating good food
+    * Smelling / olfactory pleasures
+    * Drinking / hydrating
+    * Auditory / sound pleasures (eg music)
+    * Visual pleasures / art / vivid colors
+  * Biological
+    * Itching a scratch
+    * Sexual stimulation
+    * Thermal comfort
+      * Cool weather / body during heat
+      * Physical warmth during cool
+    * Tactile pleasures / receiving a Massage
+    * Tactile Comfort, eg soft fabrics
+    * Urination
+    * Defecation
+    * Approaching sleep during tiredness
+  * Physiological Pleasures
+    * Feeling energetic / vigilant
+    * Exercise high (endorphins)
+    * Stimulants (eg caffeine)
+
+* Psychological Pleasures
+  * Learning
+    * Reading
+    * Watching movies / media
+  * Love
+  * Social pleasures
+    * Socialising with people you like
+    * Accomplishment / Mastery / Recognition
+    * Social approval
+    * Laughter / humor
+    * Games / Competition / Sports
+  * Cleanliness / order
+  * Novelty
+    * Travelling to new locations
+    * Trying new things
+    * Browsing the web
+  * Financial security
+  * Experience of cuteness
+  * Being in nature
+
+
+
+
+ (downloading novel data. "solutions" according to alex vermeer) `6`
+financial security = food money / shelter
+
 
 ## Savoring
 Secondly, one method that we can use to prolong individual experiences, that is, take them from an experience smaller in intensity and time and make them more intense and longer is a technique called [savoring](https://en.wikipedia.org/wiki/Savoring).
