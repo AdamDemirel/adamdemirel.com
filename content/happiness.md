@@ -341,8 +341,8 @@ Although it seems like human experience is infinitely diverse, due to the basic 
       * Itching a scratch
       * Sexual stimulation
       * Thermal comfort
-        * Cool weather / body during heat
-        * Physical warmth during cool
+          * Cool weather / body during heat
+          * Physical warmth during cool
       * Tactile pleasures / receiving a Massage
       * Tactile Comfort, eg soft fabrics
       * Urination
