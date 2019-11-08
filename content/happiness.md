@@ -11,6 +11,10 @@
 
 I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
 
+
+plays into 'darwinian happiness' book?
+https://en.wikipedia.org/wiki/Darwinian_Happiness
+https://www.goodreads.com/book/show/2729725-darwinian-happiness
 ---
 
 # Intro
@@ -284,29 +288,21 @@ Some more general [examples](https://gettingstronger.org/about-this-blog/) of ho
 
 These are just a few interesting examples that highlight how initially stressful / painful events can result in net gains. Actually the examples above of hormesis are related to biochemical stress, the more general term which captures psychological, and others is [Eustress](https://en.wikipedia.org/wiki/Eustress) - meaning "good stress", or for our purposes "good pain". In exercise terminology, the positive response to exercise is called [Supercompensation](https://en.wikipedia.org/wiki/Supercompensation). Recently, the popular author Nassim Taleb came up with the term [Antifragility](https://en.wikipedia.org/wiki/Antifragility) which also attempts to describe the same phenomena unknowingly.
 
+In support of Nietzsche's idea about pains being functional, leading emotion psychologists such as Edwin Locke also agree (2). Edwins research is that *emotions are the form of taking automatic, subconscious value appraisals*. He thinks that every emotion involves a specific type of value appraisal, few being:
+* Fear is experienced during a perceived threat to one's life or well-being (or that of a loved one)
+* Anxiety is experienced during a perceived threat involves one's self-esteem, and involves more uncertainty over the threat
+* Sadness is experienced at the loss of a value
+* Depression is a more intense form of sadness involving self-deprecation and a sense of hopelessness
+* Anger is experienced when a goal is blocked
+* Guilt is experienced when one violates their moral values
+* Pleasure is experienced when one has gained or possessed a value
+* Pride is experienced during an achievement due to one's own efforts
+* Admiration is experienced during the appraisal of another person's positive achievements
+* Happiness is the state of non-contradictory joy, and more intense than pleasure
 
+He thinks every emotion has the same pattern (excluding biological imbalances): an object in the world (a thing, person, action, event, idea, memory, or previous emotion) -> cognition (percetion of the object and associations) -> value appraisal (measuring the object by whether some value is being fulfilled or threatened in some way) -> resulting subconscious emotion (which is either a positive or negative state). He even acknowledges that emotions differ in intensity, eg: hate is stronger than disliking. He says the middle stages (cognition -> value appraisal) are automatic and subconscious so what is consciously experienced is object -> emotion. He makes the interesting point that a mood is an enduring emotional state, and it endures because the object (eg a bad boss) is always present, or because causes endure based on memory (eg losing a good job) or rumination (replaying triggering thoughts).
 
-
-// mention the org book emotions her
-
-
-  - - https://www.scientificamerican.com/article/negative-emotions-key-well-being/ #
-
-
-
-
-
-
-
-- The lesson is that the bellcurve of emotion is a tricky one and sometimes you might want to expose yourself to pains before you get a peak in pleasure following
-- take away is that maximising the right negative emotions can lead to greater pleasure, but just make sure youre not doing so to the exclusion of pleasure
-
-
-
-
-
-
-
+There aren't any extremely actionable takeaways from this section, what we was learnt is that the bellcurve of emotions is a tricky one and sometimes you might want to expose yourself to pains to receive following pleasures (commonsensically: delay gratification). Not all short term pains are bad, and pains are usually a signal to a problem that needs to be solved which can remove the pain, but just make sure you're not doing so at the full exclusion of pleasure. Or even better, the result in removing the pains may result in pleasure gains, and if you get it right, maximising the right negative emotions can lead to much greater pleasure.
 
 
 
@@ -372,9 +368,7 @@ Your behaviours of what rewards you seek and punishes avoid, are not based on so
 
 
 
-plays into 'darwinian happiness' book?
-https://en.wikipedia.org/wiki/Darwinian_Happiness
-https://www.goodreads.com/book/show/2729725-darwinian-happiness
+
 
 
 
@@ -507,6 +501,10 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 - Some people have good circumstances naturally (rich and attractive) while others have to work hard towards them.
 
 
+mastery, knowledge, meaning, love
+
+
+
 success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
 -- eg rephrase to something along the lines of "some could view success as being aworld class performer" (ie results in large sum of psychological pleasures)
 
@@ -529,6 +527,9 @@ success 29.07.17: - Had the idea that one form that 'success' can take is being 
 - Stoicism idea: “psych pain is inevitable, psych suffering is optional”. Then what do we do or desire, bc desire is basically synonymous with pain and if we don't desire then there's no reason to even eat or live. Needs to demarcate its limits. Also, as long as suffering is in your mind, you suffer regardless of opinion, there's no illusion of choice. To say it's optional is to say you can choose not to have those thoughts, which you cannot choose to force out of your head – but you can enter non self reflective consciousness via flow. So stoicism amounts to escapism.
 - Flow is focusing attention in a consistent manner. The perk of it is that it is infinitely renewable (like movies, chess, pool, socialising, internet etc) and also easily obtained, as opposed to improving circumstances which require more effort and pain.
 - The problem with flow/escapism is that it is also fleeting, there are inter-flow gaps where you realise your poor circumstances and experience psychological pain. And we can't constantly be in flow.
+
+
+[This](https://www.scientificamerican.com/article/negative-emotions-key-well-being/) interesting article points out various interesting research on how attempts to suppress negative thoughts actually make them more present, and so the key is to accept them. This is interesting but this does not support the idea that we should endure negative thoughts, they are still intriscally bad, what it acknowledges is perhaps a better way to mitigate their affect is indirect - by accepting them.
 
 
 ## MINIMISE SENSORY PAINS
