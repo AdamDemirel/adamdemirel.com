@@ -332,43 +332,43 @@ We have already noted how behavioral habits can be important because they can ac
 Although it seems like human experience is infinitely diverse, due to the basic universal biology and evolution we all share, there is a finite list of less than 50 *types* of pleasure events, or positive experiences that we can engage in. Anything we can think of as pleasurable can be captured under this list. If you can think of any others [let me know](https://adamdemirel.com):
 * Physical Pleasures
   * Sensory
-    * Eating good food
-    * Smelling / olfactory pleasures
-    * Drinking / hydrating
-    * Auditory / sound pleasures (eg music)
-    * Visual pleasures / art / vivid colors
+      * Eating good food
+      * Smelling / olfactory pleasures
+      * Drinking / hydrating
+      * Auditory / sound pleasures (eg music)
+      * Visual pleasures / art / vivid colors
   * Biological
-    * Itching a scratch
-    * Sexual stimulation
-    * Thermal comfort
-      * Cool weather / body during heat
-      * Physical warmth during cool
-    * Tactile pleasures / receiving a Massage
-    * Tactile Comfort, eg soft fabrics
-    * Urination
-    * Defecation
-    * Approaching sleep during tiredness
+      * Itching a scratch
+      * Sexual stimulation
+      * Thermal comfort
+        * Cool weather / body during heat
+        * Physical warmth during cool
+      * Tactile pleasures / receiving a Massage
+      * Tactile Comfort, eg soft fabrics
+      * Urination
+      * Defecation
+      * Approaching sleep during tiredness
   * Physiological Pleasures
-    * Feeling energetic / vigilant
-    * Exercise high (endorphins)
-    * Stimulants (eg caffeine)
+      * Feeling energetic / vigilant
+      * Exercise high (endorphins)
+      * Stimulants (eg caffeine)
 
 * Psychological Pleasures
   * Learning
-    * Reading
-    * Watching movies / media
+      * Reading
+      * Watching movies / media
   * Love
   * Social pleasures
-    * Socialising with people you like
-    * Accomplishment / Mastery / Recognition
-    * Social approval
-    * Laughter / humor
-    * Games / Competition / Sports
+      * Socialising with people you like
+      * Accomplishment / Mastery / Recognition
+      * Social approval
+      * Laughter / humor
+      * Games / Competition / Sports
   * Cleanliness / order
   * Novelty
-    * Travelling to new locations
-    * Trying new things
-    * Browsing the web
+      * Travelling to new locations
+      * Trying new things
+      * Browsing the web
   * Financial security
   * Experience of cuteness
   * Being in nature
