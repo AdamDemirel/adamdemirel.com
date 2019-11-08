@@ -391,7 +391,7 @@ Savoring can be achieved by:
 * Anticipating your positive experiences in advance
 * Reminscing on positive memories
 * Avoiding dampening / "killjoy" thinking about positive experiences, and
-* Communicating your positive experiences to others with positive facial experiences. The effect can be bolstered by sharing your positive emotions with others while you have them.
+* Communicating your positive experiences to others with positive facial expressions. The effect can be bolstered by sharing your positive emotions with others while you have them.
 
 It's also shown that not only does savoring improve positive experiences directly, but also has a bunch of other positive effects: helps build stronger relationships with others, improves mental and physical health, reduce hopelessness, and increases creative problem solving.
 
