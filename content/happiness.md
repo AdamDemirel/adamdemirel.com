@@ -8,10 +8,6 @@
 
 I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
 
-
-plays into 'darwinian happiness' book?
-https://en.wikipedia.org/wiki/Darwinian_Happiness
-https://www.goodreads.com/book/show/2729725-darwinian-happiness
 ---
 
 # Intro
@@ -374,12 +370,10 @@ Although it seems like human experience is infinitely diverse, due to the basic 
   * Experience of cuteness
   * Being in nature
 
+### The Purpose of Pleasure
+When you look over this list, you can see how most if not all serve an evolutionary purpose, even if not immediately evident. I'm not going to explain them all, but just a handful to highlight. The biological needs are obviously important as they reward us for returning to homeostasis. Physiological pleasures are either a hack we have found into a brain chemistry, or endogenous (produced by us) to offset pain. Learning of various sorts is how we acquired solutions to potential survival and reproduction problems by observing what others have done. Love is an emotion that bonds us so that we invest resources in offspring. Social pleasures are complex which form group cohesion so we can take care of eachother and have better odds. Cuteness is experienced so we care for the baby/animal/thing. We are attraacted to novelty and change because of the potential for new rewards in the environment.
 
-
-
- (downloading novel data. "solutions" according to alex vermeer) `6`
-financial security = food money / shelter
-
+This gives us an interesting model to think about pleasures, which makes sense. We evolved to experienced pleasure because it serves an evolutionary function: to motivate and reward us for experiences that increase our odds at survival and reproduction. The same fundamental motivation for nearly everything else. In fact, a norwegian biologist Bjørn Grinde wrote a whole book about trying to use evolution as a guide for living, called [Darwinian Happiness](https://en.wikipedia.org/wiki/Darwinian_Happiness).
 
 ## Savoring
 Secondly, one method that we can use to prolong individual experiences, that is, take them from an experience smaller in intensity and time and make them more intense and longer is a technique called [savoring](https://en.wikipedia.org/wiki/Savoring).
