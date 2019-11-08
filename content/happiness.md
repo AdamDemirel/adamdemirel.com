@@ -268,20 +268,44 @@ Nietzsche thought that happiness didn't come from escaping every pain we have, b
 
 This makes sense when you think about the function of hunger, thirst, heat, and tiredness have on motivation: trying to return back to homeostasis by eating, drinking, etc. But rather than the pains just being signals we can use to remove them and get back to neutral, like the Epicureans thought, Nietzsche believed that **the greatest pleasures** came about as a result of not avoiding pains but using them as guides to what needs to be solved. In this way he thinks they are trails to large positive experiences.
 
+Interesting and related to this is the concept in biology called [Hormesis](https://en.wikipedia.org/wiki/Hormesis). Hormesis is when an organism gains a net positive response to a short term stressor. Examples include:
+* Exercising causes physiological stress in the short term but larger breathing capacity and improved cardiovascular system function as a result
+* Extreme heat/cold stress (ie Saunas/Cryotherapy) are stressful in the short term but have net benefits
+* Alcohol/Fermentation potentially has a role here, by being mildly toxic in the short term but beneficial in the long
+* Even vegetables are believed to exert their positive effects via hormesis. Plants contain phytonutrients which are toxic to small insects, but are present in such small amounts that humans are able to fight them off and develop a various of beneficial systems to offset the periodic consumption
+
+Some more general [examples](https://gettingstronger.org/about-this-blog/) of hormetism are:
+* Attempting to improve eyesight without glasses
+* Overcoming psychological challenges
+* Improving immune system
+* Allergen immunotherapy
+* The positive effects of radiation
+* Improving [addictions](https://gettingstronger.org/2010/04/overcoming-addictions/)
+
+These are just a few interesting examples that highlight how initially stressful / painful events can result in net gains. Actually the examples above of hormesis are related to biochemical stress, the more general term which captures psychological, and others is [Eustress](https://en.wikipedia.org/wiki/Eustress) - meaning "good stress", or for our purposes "good pain". In exercise terminology, the positive response to exercise is called [Supercompensation](https://en.wikipedia.org/wiki/Supercompensation). Recently, the popular author Nassim Taleb came up with the term [Antifragility](https://en.wikipedia.org/wiki/Antifragility) which also attempts to describe the same phenomena unknowingly.
+
+
+
 
 // mention the org book emotions her
 
-plays into 'darwinian happiness' book?
-  - hormesis: 19.11.17: https://en.wikipedia.org/wiki/Eustress seems like a
-  - better term than antifragility. | 19.05.18: or hormesis.
-  - - https://gettingstronger.org/about-this-blog/ # hormetism
+
   - - https://www.scientificamerican.com/article/negative-emotions-key-well-being/ #
+
+
+
 
 
 
 
 - The lesson is that the bellcurve of emotion is a tricky one and sometimes you might want to expose yourself to pains before you get a peak in pleasure following
 - take away is that maximising the right negative emotions can lead to greater pleasure, but just make sure youre not doing so to the exclusion of pleasure
+
+
+
+
+
+
 
 
 
@@ -343,6 +367,19 @@ emotional response -> behavioral response (or extinguishment of) -> feedback loo
 
 
 Your behaviours of what rewards you seek and punishes avoid, are not based on some complex forms of reasoning and analysis, but mere intuition shortly preceding each behaviour in time.
+
+
+
+
+
+plays into 'darwinian happiness' book?
+https://en.wikipedia.org/wiki/Darwinian_Happiness
+https://www.goodreads.com/book/show/2729725-darwinian-happiness
+
+
+
+
+
 
 --- ---
 ===---
