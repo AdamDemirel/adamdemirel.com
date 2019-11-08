@@ -353,6 +353,7 @@ Although it seems like human experience is infinitely diverse, due to the basic 
       * Exercise high (endorphins)
       * Stimulants (eg caffeine)
 
+
 * Psychological Pleasures
   * Learning
       * Reading
