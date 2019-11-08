@@ -5,9 +5,7 @@
 - minimising pain - see my pains list
   - minimising desires
   - minimising desire / downshifting
-- environmental triggers
-  - remove the triggers: eg omegle, kageshi, tinder
-  -  https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/ #
+
 
 I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
 
@@ -242,11 +240,6 @@ Beyond the reasons given by the greeks about how seeking physical pleasures that
 
 ![minimise pleasure chart](/images/happiness/min-pleasure.jpg)
 
-
-
-
-
-
 ----
 
 # Maximising Pains
@@ -305,6 +298,100 @@ He thinks every emotion has the same pattern (excluding biological imbalances): 
 There aren't any extremely actionable takeaways from this section, what we was learnt is that the bellcurve of emotions is a tricky one and sometimes you might want to expose yourself to pains to receive following pleasures (commonsensically: delay gratification). Not all short term pains are bad, and pains are usually a signal to a problem that needs to be solved which can remove the pain, but just make sure you're not doing so at the full exclusion of pleasure. Or even better, the result in removing the pains may result in pleasure gains, and if you get it right, maximising the right negative emotions can lead to much greater pleasure.
 
 
+
+
+
+
+
+
+
+
+
+----
+
+
+# Maximising pleasure
+So we've seen that two potential methods for increasing our happiness sum is by minimising pleasure (which fails), and maximising pain (which can indirectly work in particular ways). But the most obvious method we can use and the one which most of us focus all of our efforts on is maximising pleasures / positive experiences.
+
+We've acknowledged that there's a handful of methods we can use to improve our positive experiences:
+- Repeat small pleasurable events often
+- Focus on large impactful events
+
+But I'm going to add two more:
+- Shape our global judgements about our life
+- Savoring / Prolonging individual experiences
+
+## Situation Selection
+Firstly, we have already noted how behavioral habits can be important because they can act as looping experiences which compound. Another thing you could do is modify your **environmental triggers** so you aren't exposed to triggers of bad emotional states, and are exposed to good ones. For example, if you found that going on certain apps or websites made you unhappy, it would be wise to stop doing so. In fact, some cool research suggests that **[situation selection](https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/)** - doing activities and being places that make you feel good, and avoiding people who make you feel bad, is an effective intervention for reducing negative emotions. But we can also use it to increase the positive.
+
+## Savoring
+Secondly, one method that we can use to prolong individual experiences, that is, take them from an experience smaller in intensity and time and make them more intense and longer is a technique called [savoring](https://en.wikipedia.org/wiki/Savoring).
+
+![savoring](/images/happiness/savoring.jpg)
+
+Savoring can be achieved by:
+* Being mindful/present/attentive to your current positive experiences
+* Anticipating your positive experiences in advance
+* Reminscing on positive memories
+* Avoiding dampening / "killjoy" thinking about positive experiences, and
+* Communicating your positive experiences to others with positive facial experiences. The effect can be bolstered by sharing your positive emotions with others while you have them.
+
+It's also shown that not only does savoring improve positive experiences directly, but also has a bunch of other positive effects: helps build stronger relationships with others, improves mental and physical health, reduce hopelessness, and increases creative problem solving.
+
+Some researchers believe that savoring can be state based (ie about a particular experience) or trait based - a disposition for all experiences. What this suggests is that cultivating trait savoring can have large effects long term. Interestingly, there is also an opposing phenomena to savoring called dampening where you reduce the intensity and duration of positive emotions, which some believed is a personality trait. Research also supports that one of the reasons wealthier people are less happy is due to lower savoring ability ([ref](https://www.ncbi.nlm.nih.gov/pubmed/20483819)). People with lower self esteem also savor less and are more likely to dampen. And Easterners tend to savor less than westerners ([ref](https://www.ncbi.nlm.nih.gov/pubmed/21910543)).
+
+
+
+-
+
+
+
+
+- SWB reports
+  - 06.05.17 Realised that happiness must be operationalised and have certain metrics to improve upon (inspired by research methodology chapter in psych textbook)
+- "Rewards"
+- PERMA / 'flourish psychology' (see /perma/)
+- Maximizing Psychology pleasure & PHysical pleasure (top 2 categories?)
+- Life satisfaction reports
+  - life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from perma book)
+- Remembered Utility vs experienced utility
+- Seligman explanatory style / optimism
+- Where does goal setting fit?
+- Hedonic treadmill problem
+- Habits, for frequency
+- Impact-bias, peak-end effect, dan gilbert
+- Sociality, rat world addiction when deprived - addiction video
+  - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
+  - – How much social contact one experiences (http://www.ncbi.nlm.nih.gov/pubmed/23646128?log$=activity), and one's self esteem as a result of social feedback (athenes epinephrine thing, find reference)
+- Self experimentation, eric ries iteration
+- https://plato.stanford.edu/entries/neuroethics/ ?
+- "Life is a series of the small things that we do repeatedly" - my critique: the gross amount of pleasure doesnt matter at all because if your memory was wiped it wouldnt affect your future?
+- https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
+
+
+## MAXIMISE SENSORY PLEASURES
+- Aka Cyrenaicism, Aristippus, positive hedonism
+- Imprudent, fleeting. Memories of sensory pleasures and weak and our future may end up bleak with no recourse or help from the past.
+- Doesn't account for psychological pains (enduring) such as memories or expectations, psychological desires for girlfriend/compassion/friends/job, boredom etc.
+
+## MAXIMISE PSYCHOLOGICAL PLEASURES
+- A circumstantial improvement of ones life would mean curating circumstances which make pleasures (psych and sens) most likely to occur, pains least likely, maximise flow if necessary and minimise inter-flow states of rumination. A sort of self-help/self-sufficiency theory of happiness.
+- Some people have good circumstances naturally (rich and attractive) while others have to work hard towards them.
+
+
+mastery, knowledge, meaning, love
+
+
+
+success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
+-- eg rephrase to something along the lines of "some could view success as being aworld class performer" (ie results in large sum of psychological pleasures)
+
+## JOUISSANCE
+- We get jouissance obtained in place of the full satisfaction of jouissance expected (relating to psych desires). So attaining our desire is never as great as we expect nor are psych pleasures.
+- You don't solve desires to be complete, because you can no longer want it, you only want the fantasy of it. Plus others take their place.  JRE noted this when he said at 40 he realised theres no moment of full happiness or satisfaction you reach – the ride just continues on.
+- How to account for this in the previous historical and conceptual analysis?
+
+25/08/16: Although there is some plausability to lacans jouissance theory, it is one of those woopy spoopy philosophical ideas, because the idea of pain and pleasure do clearly still exist as reward and punishment mechanisms. Provide someone with a painful and rewarding experience side by side and see which one they prefer. This simple state of preference is what i am after, not some grand cognitive satisfaction that is illusory.
 
 
 
@@ -436,6 +523,34 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 
 
 
+
+
+
+---
+---
+
+# MINIMIZING PAINS
+## MINIMISE PSYCHOLOGICAL PAINS
+- Minimise psychological pains by losing self-reflective consciousness.
+- Psychological pains are not only taken at the present, but also past and future – thus more enduring. And more important to people who are more reflective and live inside their mind like myself. Accounts for sadism, memories, expectations, psych desires.
+  - Forms: escapism, stoicism, buddhism, alcohol, flow, zapffe, schopenhauer sublimation, terror management theory
+  - Therefore, escapism, nietzsche, pleasureseeking arent all opposed but linked in a metamodernist perspective of oscillation, but the problem is ive been sacrificing circumstances at the expense of pleasure/flow.
+- Stoicism idea: “psych pain is inevitable, psych suffering is optional”. Then what do we do or desire, bc desire is basically synonymous with pain and if we don't desire then there's no reason to even eat or live. Needs to demarcate its limits. Also, as long as suffering is in your mind, you suffer regardless of opinion, there's no illusion of choice. To say it's optional is to say you can choose not to have those thoughts, which you cannot choose to force out of your head – but you can enter non self reflective consciousness via flow. So stoicism amounts to escapism.
+- Flow is focusing attention in a consistent manner. The perk of it is that it is infinitely renewable (like movies, chess, pool, socialising, internet etc) and also easily obtained, as opposed to improving circumstances which require more effort and pain.
+- The problem with flow/escapism is that it is also fleeting, there are inter-flow gaps where you realise your poor circumstances and experience psychological pain. And we can't constantly be in flow.
+
+
+[This](https://www.scientificamerican.com/article/negative-emotions-key-well-being/) interesting article points out various interesting research on how attempts to suppress negative thoughts actually make them more present, and so the key is to accept them. This is interesting but this does not support the idea that we should endure negative thoughts, they are still intriscally bad, what it acknowledges is perhaps a better way to mitigate their affect is indirect - by accepting them.
+
+
+## MINIMISE SENSORY PAINS
+- Aka negative hedonism, epicureanism
+- Sensory means relates to organs: tacticle (massage/sex/itch), visual (film/art), auditory (music), gustatory (food), olfactory (scent). Not robust enough, see 1.2. Taken only at the present – fleeting.
+- This would be sufficient (and we could live completely in the present, but thats not the case) if humans didn't experience psychological pains (enduring) such as memories or expectations, psychological desires for girlfriend/compassion/friends/job, boredom etc.
+
+
+
+
 # Eliminating Pains
 - Flow theory / flow psychology
 - "problems"
@@ -461,81 +576,11 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 
 - 30.12.16 nozick criticism: instead of nozicks pleasure machine. what about pain avoidance machine
 
-# Maximizing pleasure
-- environmental triggers/expectations (subjective measures of wellbeing)
-- SWB reports
-  - 06.05.17 Realised that happiness must be operationalised and have certain metrics to improve upon (inspired by research methodology chapter in psych textbook)
-- "Rewards"
-- PERMA / 'flourish psychology' (see /perma/)
-- Maximizing Psychology pleasure & PHysical pleasure (top 2 categories?)
-- Life satisfaction reports
-  - life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from perma book)
-- Remembered Utility vs experienced utility
-- Seligman explanatory style / optimism
-- Where does goal setting fit?
-- Neurohedonism / neurochemistry
-  - Ritalin
-  - NDRI
-  - https://www.reddit.com/user/karl_popper/
-- Hedonic treadmill problem
-- Habits, for frequency
-- Impact-bias, peak-end effect, dan gilbert
-- Sociality, rat world addiction when deprived - addiction video
-  - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
-  - – How much social contact one experiences (http://www.ncbi.nlm.nih.gov/pubmed/23646128?log$=activity), and one's self esteem as a result of social feedback (athenes epinephrine thing, find reference)
-- Self experimentation, eric ries iteration
-- https://plato.stanford.edu/entries/neuroethics/ ?
-- "Life is a series of the small things that we do repeatedly" - my critique: the gross amount of pleasure doesnt matter at all because if your memory was wiped it wouldnt affect your future?
-- Savoring / "life being an acquired taste, like coffee? (tc)"
-- how can i apply supercompensation exercise methodology to life?
-- https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
-
-
-## MAXIMISE SENSORY PLEASURES
-- Aka Cyrenaicism, Aristippus, positive hedonism
-- Imprudent, fleeting. Memories of sensory pleasures and weak and our future may end up bleak with no recourse or help from the past.
-- Doesn't account for psychological pains (enduring) such as memories or expectations, psychological desires for girlfriend/compassion/friends/job, boredom etc.
-
-## MAXIMISE PSYCHOLOGICAL PLEASURES
-- A circumstantial improvement of ones life would mean curating circumstances which make pleasures (psych and sens) most likely to occur, pains least likely, maximise flow if necessary and minimise inter-flow states of rumination. A sort of self-help/self-sufficiency theory of happiness.
-- Some people have good circumstances naturally (rich and attractive) while others have to work hard towards them.
-
-
-mastery, knowledge, meaning, love
 
 
 
-success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
--- eg rephrase to something along the lines of "some could view success as being aworld class performer" (ie results in large sum of psychological pleasures)
-
-## JOUISSANCE
-- We get jouissance obtained in place of the full satisfaction of jouissance expected (relating to psych desires). So attaining our desire is never as great as we expect nor are psych pleasures.
-- You don't solve desires to be complete, because you can no longer want it, you only want the fantasy of it. Plus others take their place.  JRE noted this when he said at 40 he realised theres no moment of full happiness or satisfaction you reach – the ride just continues on.
-- How to account for this in the previous historical and conceptual analysis?
-
-25/08/16: Although there is some plausability to lacans jouissance theory, it is one of those woopy spoopy philosophical ideas, because the idea of pain and pleasure do clearly still exist as reward and punishment mechanisms. Provide someone with a painful and rewarding experience side by side and see which one they prefer. This simple state of preference is what i am after, not some grand cognitive satisfaction that is illusory.
-
----
----
-
-# MINIMIZING PAINS
-## MINIMISE PSYCHOLOGICAL PAINS
-- Minimise psychological pains by losing self-reflective consciousness.
-- Psychological pains are not only taken at the present, but also past and future – thus more enduring. And more important to people who are more reflective and live inside their mind like myself. Accounts for sadism, memories, expectations, psych desires.
-  - Forms: escapism, stoicism, buddhism, alcohol, flow, zapffe, schopenhauer sublimation, terror management theory
-  - Therefore, escapism, nietzsche, pleasureseeking arent all opposed but linked in a metamodernist perspective of oscillation, but the problem is ive been sacrificing circumstances at the expense of pleasure/flow.
-- Stoicism idea: “psych pain is inevitable, psych suffering is optional”. Then what do we do or desire, bc desire is basically synonymous with pain and if we don't desire then there's no reason to even eat or live. Needs to demarcate its limits. Also, as long as suffering is in your mind, you suffer regardless of opinion, there's no illusion of choice. To say it's optional is to say you can choose not to have those thoughts, which you cannot choose to force out of your head – but you can enter non self reflective consciousness via flow. So stoicism amounts to escapism.
-- Flow is focusing attention in a consistent manner. The perk of it is that it is infinitely renewable (like movies, chess, pool, socialising, internet etc) and also easily obtained, as opposed to improving circumstances which require more effort and pain.
-- The problem with flow/escapism is that it is also fleeting, there are inter-flow gaps where you realise your poor circumstances and experience psychological pain. And we can't constantly be in flow.
 
 
-[This](https://www.scientificamerican.com/article/negative-emotions-key-well-being/) interesting article points out various interesting research on how attempts to suppress negative thoughts actually make them more present, and so the key is to accept them. This is interesting but this does not support the idea that we should endure negative thoughts, they are still intriscally bad, what it acknowledges is perhaps a better way to mitigate their affect is indirect - by accepting them.
-
-
-## MINIMISE SENSORY PAINS
-- Aka negative hedonism, epicureanism
-- Sensory means relates to organs: tacticle (massage/sex/itch), visual (film/art), auditory (music), gustatory (food), olfactory (scent). Not robust enough, see 1.2. Taken only at the present – fleeting.
-- This would be sufficient (and we could live completely in the present, but thats not the case) if humans didn't experience psychological pains (enduring) such as memories or expectations, psychological desires for girlfriend/compassion/friends/job, boredom etc.
 
 
 
@@ -568,6 +613,12 @@ I'd like to title this theory neurohedonism, and as it stands, I dont think the 
 
 explaining the pessimist/optimism bias: https://en.wikipedia.org/wiki/Anhedonia#Neurobiological_correlates ?
 
+
+
+- Neurohedonism / neurochemistry
+  - Ritalin
+  - NDRI
+  - https://www.reddit.com/user/karl_popper/
 ---
 ---
 
@@ -609,6 +660,7 @@ on the other end of the stick if this is all overwhelming one possible way to li
 # neurohedonism
 maximise adrenaline, oxytocin and dopamine
 -- exercise, socially bond, and take wellbutrin?
+--- https://digest.bps.org.uk/2016/10/21/walking-lifts-your-mood-even-when-you-dont-expect-it-to/
 -- quit movies and computer (lowers dopamine, seeking system)
 -- quit porn (lowers dopamine, seeking system)
 -- hug people daily
@@ -664,6 +716,17 @@ https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
 https://www.psychologytoday.com/blog/happiness-in-world/201207/the-power-delaying-gratification
 http://www.startofhappiness.com/power-delayed-gratification/
 
+
+# Summary
+handful of strategies to go about improving our happiness:
+- minimise as many physical pains as possible
+- selectively add many physical and psychological pains that are *impure*, to increase the total pleasure
+- maximise as many physical pleasures as possible: (list)
+- maximise as many psychological pleasures as possible: swb and experienced self, socialise as much as possible
+- try to maximimise single large events that causing looming psychological pleasures
+- minimise as many pains as possible: meditation, and flow state, eliminate rumination
+- make life meaningful? by x:
+- increase your hedonic tone / resting happiness level by experimenting with various NeuroCosmetics
 
 # References
 1. All of my information directed here about Epicureanism is derived from his two most prominent writings: Letter to Menoceceus, and Leading Doctrines, along with the two secondary sources David E Cooper (1998) Epicurus’ two letters in Oxford Ethics: The Classic Readings, and Abbreviations used in text by Sharples on The Stoics.
