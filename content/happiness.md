@@ -321,8 +321,10 @@ But I'm going to add two more:
 - Shape our global judgements about our life
 - Savoring / Prolonging individual experiences
 
+I'm going to focus on repeatability and savoring first due to their brevity.
+
 ## Situation Selection
-Firstly, we have already noted how behavioral habits can be important because they can act as looping experiences which compound. Another thing you could do is modify your **environmental triggers** so you aren't exposed to triggers of bad emotional states, and are exposed to good ones. For example, if you found that going on certain apps or websites made you unhappy, it would be wise to stop doing so. In fact, some cool research suggests that **[situation selection](https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/)** - doing activities and being places that make you feel good, and avoiding people who make you feel bad, is an effective intervention for reducing negative emotions. But we can also use it to increase the positive.
+We have already noted how behavioral habits can be important because they can act as looping experiences which compound. Another thing you could do is modify your **environmental triggers** so you aren't exposed to triggers of bad emotional states, and are exposed to good ones. For example, if you found that going on certain apps or websites made you unhappy, it would be wise to stop doing so. In fact, some cool research suggests that **[situation selection](https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/)** - doing activities and being places that make you feel good, and avoiding people who make you feel bad, is an effective intervention for reducing negative emotions. But we can also use it to increase the positive.
 
 ## Savoring
 Secondly, one method that we can use to prolong individual experiences, that is, take them from an experience smaller in intensity and time and make them more intense and longer is a technique called [savoring](https://en.wikipedia.org/wiki/Savoring).
