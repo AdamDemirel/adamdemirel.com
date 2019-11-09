@@ -415,13 +415,13 @@ What the chart above demonstrated was the odd fact that a lot of us have heard o
 
 ![diminishing returns](/images/happiness/diminishing.jpg)
 
-This is one of the sad facts about human experience and pleasure. The first bite of a meal is great, the last is not great. Or in more general terms, the more we do of something pleasurable, the less enjoyable it becomes. Most of us have experienced this personally in the form of dreaming for something: a product or experience, and once attaining it moving on with life.
+This is one of the sad facts about human experience and pleasure. The first bite of a meal is great, the last is not great. Or in more general terms, the more we do of something pleasurable, the less enjoyable it becomes. Most of us have experienced this personally in the form of dreaming for something: a product or experience, and once attaining it moving on with life. In this form of diminishing returns, it is what Economists call [Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility).
 
 This makes sense evolutionary as remember that pleasures are rewards for attaining a need, and obviously we cannot be in a constant state of bliss because (a) the need gets satisfied quickly, and (b) if we were constantly experiencing pleasure we wouldn't seek out our needs. This is one of the big critiques of most utopian societies (as [Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) wrote about).
 
 This returning to baseline after experiencing pleasure (or pain), whether big or small, is what's known as the [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill) where like a treadmill you're gaining pleasure but keep returning to the same level of happiness. Obviously this doesn't make pleasures completely pointless to chase, as we mentioned you're still experiencing an increase in happiness before returning to the baseline.
 
-Other research calls this return to baseline the Hedonic Adaptation Prevention Model, which leads us into looking at any ways that it can be prevented. The psychologist [Sonja Lyubomirsky](https://en.wikipedia.org/wiki/Sonja_Lyubomirsky) is the leading researcher in this area and covered a lot of it in her book [The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness). One of the main ideas is that we can prevent adapting to positive experiences by (1) continuing to savor them, and (2) having continuied variety of experiences ([ref](https://journals.sagepub.com/doi/abs/10.1177/0146167212436400)). Novelty is one of the pleasure events that we mentioned in our list, and it turns out one of the reasons it is so great is that it is the solution to adaptation.
+Other research calls this return to baseline the Hedonic Adaptation Prevention Model, which leads us into looking at any ways that it can be prevented. The psychologist [Sonja Lyubomirsky](https://en.wikipedia.org/wiki/Sonja_Lyubomirsky) is the leading researcher in this area and covered a lot of it in her book [The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness). One of the main ideas is that we can prevent adapting to positive experiences by (1) continuing to savor them, and (2) having continuied variety of experiences ([ref](https://www.ncbi.nlm.nih.gov/pubmed/22361725)). Novelty is one of the pleasure events that we mentioned in our list, and it turns out one of the reasons it is so great is that it is the solution to adaptation.
 
 A third solution can be found in the great book with a bad name [Happy Money](https://www.goodreads.com/book/show/15803098-happy-money), which is simply to partake in the pleasurable experiences less frequently - this is another mode for preventing adaptation.
 
@@ -434,6 +434,23 @@ On a more macro scale, this reminds me of when you read stories of traditionally
 
 ---
 
+## Subjective Wellbeing
+As mentioned, one of the four methods to maximise our happiness is to "shape our global judgements about life". What I was referring to their were self-reports of happiness/wellbeing. Measuring happiness in the Psychology literature has often gone by the title 'subjective wellbeing (SWB)' due to the negative connotation the term happiness has.
+
+And just as you would expect, psychologists have tried [operationalizing](https://en.wikipedia.org/wiki/Operationalization) happiness - making it as measurable as possible. This is useful for any construct because it means we can standardise it and try to find practical applications for the research. The way they have done this is simply by *asking* people how happy they are. There are two key phenomena they have measured:
+1. **Life Satisfaction Reports** - These are the most common type of self-report studied, and the question is almost always verbatim: "On a scale of 1-10, how do you feel about your life as as whole?"
+2. **Affective Balance Reports** - these are also self-reports, but rather than trying to capture one's happiness in a single measurement, tries to capture the presence of positive emotions and absence of negative emotions
+
+There are three main ways methods these have phenomena have been measured:
+1. Global judgements - used by life satisfaction reports, where a single question tries to summarise one's whole life
+2. The Day Reconstruction Method - where the participant fills out a diary of the previous days activities and moods
+3. Experience Sampling Method - where participants are messaged at random intervals of the day to record their activity and mood
+
+
+
+The validity of these various methods and drawbacks will discussed later. First let's get out of the way what the research says.
+
+How this is important to us is that if we believe that life satisfaction reports are accurate, for instance, one way that we could try to maximise positive emotions is to do the things that make people rate the highest and eliminate the ones that people rate the lowest.
 
 
 
@@ -442,11 +459,13 @@ On a more macro scale, this reminds me of when you read stories of traditionally
 
 
 
+### Issues with SWB
+> Happiness is a single retrospective judgement based on memory/emotional state at ONE point in time (aka a meme!).
 
 
 - SWB reports
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
-  - 06.05.17 Realised that happiness must be operationalised and have certain metrics to improve upon (inspired by research methodology chapter in psych textbook)
+
 - "Rewards"
 - PERMA / 'flourish psychology' (see /perma/)
 - Maximizing Psychology pleasure & PHysical pleasure (top 2 categories?)
@@ -481,8 +500,9 @@ swb
 https://www.google.com.au/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=off&q=subjective+wellbeing+wikipedia
 https://www.google.com.au/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=subjective%20wellbeing%20pdf
 https://en.wikipedia.org/wiki/Subjective_well-being
+https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule
 
-> Happiness is a single retrospective judgement based on memory/emotional state at ONE point in time (aka a meme!).
+
 
 SWB RESOURCES
 - EXPLORING THE INGREDIENTS OF HAPPINESS (p422-425 Psychology Textbook)
@@ -723,6 +743,11 @@ on the other end of the stick if this is all overwhelming one possible way to li
 ---
 
 # neurohedonism
+all about hedonic setpoints
+https://www.ncbi.nlm.nih.gov/pubmed/16719675
+https://en.wikipedia.org/wiki/Hedonic_treadmill
+
+
 maximise adrenaline, oxytocin and dopamine
 -- exercise, socially bond, and take wellbutrin?
 --- https://digest.bps.org.uk/2016/10/21/walking-lifts-your-mood-even-when-you-dont-expect-it-to/
