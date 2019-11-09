@@ -412,14 +412,20 @@ What is shows is that people tend to get a substantial drop in happiness after e
 
 Other research suggests big positive changes for: starting a new relationship (highest) and gaining employment, starting pregnancy, starting a new educational course, and buying a new house ([ref](https://www.ncbi.nlm.nih.gov/pubmed/17905809)). The events that had the highest negative impacts were ending of relationships, and death of a parent. And other papers echo that the large events are related to marriage, divorce, bereavement, deaths, work, ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289759/)).
 
-It also demonstrate the odd fact that a lot of us have heard of, that whether it is a large positive event (such as winning the lottery), or large negative event (like an injury), our reports about our happiness tend to return to a relatively stable baseline after ~5years. People tend to adapt to common large life events by returning to a baseline. But that doesn't discount their effects on our total happiness while they are occuring.
+
+
+### Diminishing Returns
+What the chart above demonstrated was the odd fact that a lot of us have heard of, that whether it is a large positive event (such as winning the lottery), or large negative event (like an injury), our reports about our happiness tend to return to a relatively stable baseline after ~5years. People tend to adapt to common large life events by returning to a baseline. But that doesn't discount their effects on our total happiness while they are occurring.
+
+![diminishing returns](/images/happiness/diminishing.jpg)
+
+This is one of the sad facts about human experience and pleasure. The first bite of a meal is great, the last is not great. Or in more general terms, the more we do of something pleasurable, the less enjoyable it becomes.
 
 
 
+mention novelty and spacing as 2 solutions
 
-
-
-
+// chart w diminishing return waves => large waves
 
 
 ### Jouissance, Hedonic treadmill
