@@ -22,15 +22,19 @@ Given the time I've spent researching this field, there seems to be three method
 
 ## Happiness Stories
 
-The first and default method that most people rely upon in attempting to form a happiness model about the world is to observe and talk to other people. This can take the form of reading narratives, watching narratives, or simply talking to others.
+The first and default method that most people rely upon in attempting to form a happiness model about the world is to observe and talk to other people about their beliefs. This can take the form of reading narratives, watching narratives, or simply talking to others.
 
-Whether or not this is a reliable method is questionable, but what is useful is that these folk theories may give us hints about which areas to look further into or new ideas to test (via the scientific method and our own self experimentation).
+There is wisdom in the crowd, in history, and in endless quotes which resonate with us personally. I personally believe quotes are quite underrated as a method of communicating value.
+
+The problem with believing to be true merely what others believe to be true is that logically you can inverse their beliefs to be the opposite of what they are and make them false. Take for instance the belief that fruits give you an upset stomach. If everybody believes that this is true, but then you eat fruit and it turns out that this isn't true for you, what good is it to believe what others do? People have also believed a lot of things throughout history that have turned out to be outright false.
+
+So this isn't really a reliable method of discovery, albeit common, but what is useful is that these [folk theories](https://en.wikipedia.org/wiki/Folk_psychology) may give us hints about which areas to look further into or new ideas to test (via the scientific method and our own self experimentation).
 
 ## The Scientific Method
 
 The second method that we can use is the scientific method. That means using a systematic set of observations as an attempt to quantify and arrive at answers which go beyond a single person, and in a more standardised manner. Such tools are valuable because they can overcome biases / blind spots individuals may have by using [larger datasets of information](https://en.wikipedia.org/wiki/Law_of_large_numbers). There are a handful of scientific tools that can be used - questionnaires, brain scans, facial expressions, and others. As you will see, the simple questionnaire has dominated a lot of the happiness research.
 
-We are lucky that we now no longer need to rely on introspecting or making conjectures about happiness, but have the ability to peruse the large body of literature on the subject.
+We are lucky that we now no longer need to rely on introspecting or making conjectures about happiness, but have the ability to peruse the large body of literature on the subject. This will predominantly be covered in the Maximising Pleasure -> Subjective Wellbeing section.
 
 ## Self Experimentation & Self Awareness
 
@@ -38,7 +42,11 @@ The third method is what people use informally, which is relying on their own pe
 
 The main drawback of this is that we often [lack awareness](https://en.wikipedia.org/wiki/Introspection_illusion) into what makes us feel good and bad, and even if we know we don't usually crystallize in language which is helpful for deciding we want more or less of it.
 
-But again, obviously this is helpful as an imperfect but valuable tool and is also the final metric we use. Who cares what the research says if our individual exprience is the opposite? I agree, but what's useful is that science and happiness stories might provide us with ideas to self experiment with to get our own first-hand data.
+Even if you knew with certainty which happiness stories were accurate, and you replicated the behaviors of beliefs you viewed as happy - there is going to be another subset of people that don't have the same effect. Let's say that you admire and respect the Buddhists and ascetics and lead yourself to believe that what they say is true and that dedicating your life to meditation is the single behaviour which will make you happy, there is going to be a large part of that population which is still "working towards nirvana" and is still unhappy.
+
+This individuality and uniqueness of opinions and preferences is one of the big reasons we can't just base our lives on the opinions and advice of others, non-systematically. If we go about it systematically using the scientific method though, we might be able to give some rigor to the opinions of others.
+
+But again, obviously this is helpful as an imperfect but valuable tool and is also the final metric we use. Who cares what the research says if our individual experience is the opposite? I agree, but what's useful is that science and happiness stories might provide us with ideas to self experiment with to get our own first-hand data.
 
 ---
 
@@ -435,10 +443,10 @@ On a more macro scale, this reminds me of when you read stories of traditionally
 ---
 
 ## Subjective Wellbeing
-As mentioned, one of the four methods to maximise our happiness is to "shape our global judgements about life". What I was referring to their were self-reports of happiness/wellbeing. Measuring happiness in the Psychology literature has often gone by the title 'subjective wellbeing (SWB)' due to the negative connotation the term happiness has.
+As mentioned, one of the four methods to maximise our happiness is to "shape our global judgements about life". What I was referring to their were self-reports of happiness/wellbeing. Measuring happiness in the Psychology literature has often gone by the title '**Subjective Wellbeing** (SWB)' due to the negative connotation the term happiness has.
 
 And just as you would expect, psychologists have tried [operationalizing](https://en.wikipedia.org/wiki/Operationalization) happiness - making it as measurable as possible. This is useful for any construct because it means we can standardise it and try to find practical applications for the research. The way they have done this is simply by *asking* people how happy they are. There are two key phenomena they have measured:
-1. **Life Satisfaction Reports** - These are the most common type of self-report studied, and the question is almost always verbatim: "On a scale of 1-10, how do you feel about your life as as whole?"
+1. **Life Satisfaction Reports** - These are the most common type of self-report studied, and the question is almost always verbatim: *"all things considered, how happy are you with your life at the moment on a scale of 1–10?"*
 2. **Affective Balance Reports** - these are also self-reports, but rather than trying to capture one's happiness in a single measurement, tries to capture the presence of positive emotions and absence of negative emotions
 
 There are three main ways methods these have phenomena have been measured:
@@ -446,18 +454,55 @@ There are three main ways methods these have phenomena have been measured:
 2. The Day Reconstruction Method - where the participant fills out a diary of the previous days activities and moods
 3. Experience Sampling Method - where participants are messaged at random intervals of the day to record their activity and mood
 
-
-
 The validity of these various methods and drawbacks will discussed later. First let's get out of the way what the research says.
 
-How this is important to us is that if we believe that life satisfaction reports are accurate, for instance, one way that we could try to maximise positive emotions is to do the things that make people rate the highest and eliminate the ones that people rate the lowest.
+How this is important to us is that if we believe that life satisfaction reports are accurate, for instance, one way that we could try to maximise positive emotions is to do the things that make people rate the highest and eliminate the ones that people rate the lowest. This was the benefit of the scientific method that we mentioned at the start - by using large datasets and the scientific method, we can discover the behaviors, beliefs, environments, or variables that lead to happiness.
+
+Thanks in part to the positive psychology movement, recent years have brought a surge of interest in the correlates of subjective well-being. *Self Reporting* is a technical way of saying 'the measurement of asking people'. It is purported to measure subjective well-being, which is the technical name for self-reported happiness.
+
+If you ask people how happy they are on a scale of 1–10, they can self-report a 7 for instance, and this can give a somewhat accurate picture of the state of affairs if you assume that people know how they feel (have the self awareness) and have the ability to attach a number to it. There's no reason to think that we can't do this since we can do a thing called *intensity matching*. Intensity matching is converting between different unrelated mediums. For example, if I ask you "If John 6'2 and Peter is 5'2, and John is as angry as he is tall, how angry is Peter?", you're likely to answer "less angry than John" or something of the sort. It turns out that humans can and do utilise this for all sorts of thinking. People can do a similar thing with happiness.
+
+This has largely been the method of scientists over the last 50 years with life satisfaction research. This has been the fruit of the new science of happiness starting in the 90s (ie positive psychology). What happens is that you ask enough people this question and correlate it with other questions such as how much money they make, whether they are happy with their relationships, how much they sleep, etc. You then find items that correlate highly with people saying they are satisfied with their life and you assume there is some link between the two when there are enough people, via statistical analysis. The factor may not cause happiness, but some sort of association is usually enough to suggest that there is a real relationship we are measuring. If we find out that two things correlate highly, then we can do randomised studies where we compare the two groups and find out whether the thing causes the happiness or whether happiness causes the thing. eg do people who smoke become unhappier or do unhappier people smoke?
+
+### Life Satisfaction
+There have been a lot of findings in this field of research. The findings of these studies are quite interesting, and many commonsense notions about happiness appear to be inaccurate. Here is a list of things that do or don't correlate with happiness / unhappiness:
+
+#### Strong Predictors
+* An **Optimistic mindset** in explaining negative setbacks predicts happiness ([ref](https://www.goodreads.com/book/show/26123.Learned_Optimism))
+* The **absence of smoking** cigarettes/quitting smoking improves happiness *significantly* ([ref](https://tobaccocontrol.bmj.com/content/26/2/195.abstract))
+* There is a strong link between **love and marriage** and happiness ([ref](https://journals.sagepub.com/doi/abs/10.1177/0022022100031004001)). Romantic relationships can be stressful. Nevertheless, people consistently rate being in love as one of the most critical ingredients of happiness. Married people are happier than people who are single or divorced. However, the casual relations are unclear - it may be that happiness causes marital satisfaction more than martial satisfaction promotes happiness. Perhaps people who are happy tend to have better intimate relationships and more stable marriages, while people who are unhappy have more difficulty finding and keeping mates.
+* There is a strong link between **[job satisfaction](https://adamdemirel.com/job-satisfaction)** and happiness ([ref](https://psycnet.apa.org/record/2008-00541-019)). People often complain about their work. Therefore, one might not expect work to be a key source of happiness. But it is. It's not as critical as love or marriage, but job satisfaction has a substantial association with general happiness. Studies also show that **unemployment** has strong negative effects on SWB ([ref](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf)). It's difficult to sort out whether job satisfaction causes happiness or vice versa, but evidence suggests that causation flows both ways.
+* There is a strong link between **genetics** and happiness ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16219116)) - accounts for about 50% variance (which is a *lot* in happiness research - more than anything else). The best predictor of individuals future happiness is their past happiness. Some people seem destined to be happy and others unhappy, regardless of their triumphs or setbacks. The limited influence of life events is demonstrated with the hedonic treadmill (which I'll talk about further below).
+* There is a *strong* link between **personality** and happiness ([ref](https://psycnet.apa.org/record/2008-11667-032), [ref](http://www.subjectpool.com/ed_teach/y4person/3_happiness/Steel2008_5FM_and_happiness_psych_bull.pdf)) - with the largest effect being due to *extroversion*, with agreeableness, conscientiousness, self-esteem, and optimism also being strongly related. ([ref](https://psycnet.apa.org/record/2008-00541-009)) Peoples genetic predispositions account for a substantial portion of the variance in happiness. How? By shaping one's personality and temperament, which are known to be heritable.
+* Being **sick/disabled** highly correlates with unhappiness (ibid)
+* There is a strong link between **debt** and unhappiness ([ref1](https://www.ncbi.nlm.nih.gov/pubmed/16649863), [ref2](https://www.sciencedirect.com/science/article/abs/pii/S0167487005000103))
+
+The list of factors that turn out to have fairly strong associations with happiness is surprisingly short. The key ingredients of happiness appear to involve love, work, and genetic predisposition expressed through personality.
+
+#### Moderate Predictors
+* There is a *moderate* link between **health** and happiness (~.32) ([ref](https://psycnet.apa.org/record/1999-02842-018)). Good health, may not by itself produce happiness because people tend to take good health for granted. May explain why researchers only find a moderate positive correlation between health status and SWB.
+* Another *moderate* link between **religion** and happiness ([ref](https://psycnet.apa.org/record/1999-02842-019)), though this may be due to religious attendance and not religious belief ([ref](https://www.ncbi.nlm.nih.gov/pubmed/19142047))
+* There is a *moderate* link between **social activity** and happiness ([ref](https://journals.sagepub.com/doi/10.1111/j.0963-7214.2004.00501001.x)). Humans are social animals. As such, interpersonal relations *do* appear to contribute to people's happiness. Those who are satisfied with their social support and friendship networks and those who are socially active report above-average levels of happiness. Furthermore, people who are exceptionally happy tend to report greater satisfaction with their social relations than those who are average or low in SWB. People who had deep, substantive convos were happier than those who mostly engaged in small talk.
+
+#### Weak Predictors
+* There is a positive correlation between **income** and SWB, but its weak (between .12 and .20) ([ref](https://journals.sagepub.com/doi/10.1111/j.0963-7214.2004.00501001.x)). Though it's high between very low income and unhappiness. In other words, money doesn't make you happier unless you're below the poverty line (can't pay for food, shelter, clothing, and sanitation). For a full exploration see [here](https://adamdemirel.com/job-satisfaction/#section-50).
+* **Video game** use in young people improves well being slightly ([ref](https://mindfulnessinschools.org/wp-content/uploads/2013/09/video-games-and-wellbeing.pdf))
+* **Part-time workers** are very slightly happier than full-time (ibid)
+* **Home Ownership** is positively correlated with life satisfaction ([ref](https://www.jstor.org/stable/24719087)) (but more important for females than males) - however, its effect on well-being seems to depend on *income level* (less important for lower income), potentially due to aspiration preferences ([ref](https://www.researchgate.net/publication/254420231_Homeownership_and_subjective_well-being)). Some seemingly better research suggests that homeownership improves *housing satisfaction* but not life satisfaction ([ref](https://link.springer.com/article/10.1007%2Fs11205-010-9607-6)) and that they might actually not be happier at all due to spending their time in worse ways ([ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1877163)). Also having a **home loan** has a negative effect on life satisfaction ([ref](https://www.jstor.org/stable/24719087)).
+
+#### Neutral Predictors
+* **Physical Attractiveness** is unrelated to happiness ([ref](https://psycnet.apa.org/record/1995-40426-001))
+* **Intelligence** is unrelated to happiness ([ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2143374))
+* **Parenthood** is unrelated to happiness ([ref](https://psycnet.apa.org/record/2002-00473-000)). Compared to childless couples, parents worry more and experience more marital problems. Apparently, the good and bad aspects of parenthood balance each other out. The evidence indicates that people who have children are neither more nor less happy than people without children (Argyle, 2001).
+* **Gender** does not correlate with happiness ([ref](https://www.tandfonline.com/doi/abs/10.1207/s15327582ijpr0403_7?journalCode=hjpr20)) - men and women are equally happy. (this is a separate measurement from depression incidence)
+* **Age** is not correlated with happiness ([ref](https://journals.sagepub.com/doi/abs/10.1177/1745691618765171)) (less than 1% of the variance) and has been found to be consistently unrelated.
+
+As you can see, quite a number of factors that you might expect to be influential appear to bear little or no relationship to general happiness.
 
 
+https://forum.effectivealtruism.org/posts/zAPWr9eGtWkc8nuyH/what-we-talk-about-when-we-talk-about-life-satisfaction
 
-
-
-
-
+https://www.clearerthinking.org/single-post/2019/01/08/Is-self-reporting-happiness-reliable
 
 ### Issues with SWB
 > Happiness is a single retrospective judgement based on memory/emotional state at ONE point in time (aka a meme!).
@@ -545,7 +590,7 @@ Happiness produced is 70k
 --- ---
 ===---
  experienced self / esm:
-
+We can study how people feel about their lives from moment to moment.
 
 
 Your life does not exist in some sort of capsule where you can experience your Total pleasures and pains at each point, and trying to maximise pleasures completely or minimise pains completely is a futile endeavour, as you can do neither.
@@ -590,6 +635,9 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 
 - see the 3-4 pdfs in /experiencing/
 
+
+
+Facebook use predicts decline in happiness ([ref](https://www.ncbi.nlm.nih.gov/pubmed/23967061))
 ---
 ---
 
@@ -738,6 +786,8 @@ on the other end of the stick if this is all overwhelming one possible way to li
 
 - see experiencing/datavis
 
+
+(4) We can do experiments on ourselves by trying out a lot of things and trying to discern what does and doesn't work.
 
 
 ---
