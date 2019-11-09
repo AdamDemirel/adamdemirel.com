@@ -489,6 +489,9 @@ The list of factors that turn out to have fairly strong associations with happin
 * **Video game** use in young people improves well being slightly ([ref](https://mindfulnessinschools.org/wp-content/uploads/2013/09/video-games-and-wellbeing.pdf))
 * **Part-time workers** are very slightly happier than full-time (ibid)
 * **Home Ownership** is positively correlated with life satisfaction ([ref](https://www.jstor.org/stable/24719087)) (but more important for females than males) - however, its effect on well-being seems to depend on *income level* (less important for lower income), potentially due to aspiration preferences ([ref](https://www.researchgate.net/publication/254420231_Homeownership_and_subjective_well-being)). Some seemingly better research suggests that homeownership improves *housing satisfaction* but not life satisfaction ([ref](https://link.springer.com/article/10.1007%2Fs11205-010-9607-6)) and that they might actually not be happier at all due to spending their time in worse ways ([ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1877163)). Also having a **home loan** has a negative effect on life satisfaction ([ref](https://www.jstor.org/stable/24719087)).
+* Your country weakly predicts happiness (<.10) - ranging from 6.5 (for brazil) - 7.5/10 (for finland) ([ref](https://worldhappiness.report/ed/2018/)).
+
+![a](/images/happiness/swbbycountry.png)
 
 #### Neutral Predictors
 * **Physical Attractiveness** is unrelated to happiness ([ref](https://psycnet.apa.org/record/1995-40426-001))
@@ -504,8 +507,21 @@ https://forum.effectivealtruism.org/posts/zAPWr9eGtWkc8nuyH/what-we-talk-about-w
 
 https://www.clearerthinking.org/single-post/2019/01/08/Is-self-reporting-happiness-reliable
 
-### Issues with SWB
+### Issues with SWB / Conclusions about SWB
 > Happiness is a single retrospective judgement based on memory/emotional state at ONE point in time (aka a meme!).
+
+We must be cautious about drawing inferences about the causes of happiness. The available data are correlational, not causal. I don't think the causal direction is the main offender for this field of research though.
+
+The first minor takedown comes from **hedonic adaptation**. Research on SWB indicates that people often adapt to their circumstances. Hedonic adaption occurs when the mental scale that people use to judge the pleasantness-unpleasantness of their experiences shifts so that their neutral point, or baseline for comparison, changes. Evidence suggests people adapt more slowly to negative events than to positive events. The idea is that the effect of big events on wellbeing is quite fleeting as humans are adaptable, suggesting that we have to depend on the non-event correlates like genes, relationships, etc, mentioned above.
+
+I think the major takedown of the research is the following.
+
+Two types of measures: *global evaluations* ("all things considered, how do you feel about your life?"), and *local evaluations ("have you experienced specific positive or negative emotions the previous day?")* are used to measure happiness, based on self report. In both situations, the person being questioned is making a **single, retrospective judgement/report about the past** (whether it's a day ago, year, or life). This essentially depends on the individual to firstly accurately remember, remember in sufficient detail, and then calculate their experiences accurately to make a correct summary - what's called **remembered utility**. Psychology has shown that there are a lot of quirks in humans ability to do this, and we are terrible at framing. These are called F*raming Effects* (see dan gilbert's research for all the issues).
+
+The idea that you can make a single retrospective judgement from a single point in time, and do it accurately, is obviously faulty. A much better alternative would be if we could tell how people actually feel moment to moment, and then we can see whether what they report is truly how they felt. This was (3) mentioned at the start of this article - **We can study how people feel about their lives moment to moment. This is called experienced utility**. This will be the subject of part 3 of this series.
+
+
+
 
 
 - SWB reports
