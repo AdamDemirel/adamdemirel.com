@@ -1,11 +1,3 @@
-
-- history: (aristotle, mill, hume)?
-- maximizing pain
-- minimising pain - see my pains list
-  - minimising desires
-  - minimising desire / downshifting
-
-
 I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
 
 ---
@@ -184,7 +176,9 @@ In summary, the tenants of hedonism and thus happiness are as follows:
 
 So in conclusion, the hedonsitic view of happiness is that **pleasure is the only intrinsic good, pain is the only intrinsic bad. The more pleasure a life contains, and the less pain, the better the life is.**.
 
-I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
+I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. There are many important figures throughout history who have held this same view, from the greeks above, to [Artistotle](https://plato.stanford.edu/entries/aristotle-ethics/#Plea), to Jeremy Bentham (discussed below), to [John Stuart Mill](https://plato.stanford.edu/entries/mill/#MillConcHapp), to [David Hume](https://plato.stanford.edu/entries/hume-moral/#inmo)'s informal account.
+
+So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
 
 
 ## Pleasure/Pain Criteria
@@ -292,18 +286,7 @@ He thinks every emotion has the same pattern (excluding biological imbalances): 
 
 There aren't any extremely actionable takeaways from this section, what we was learnt is that the bellcurve of emotions is a tricky one and sometimes you might want to expose yourself to pains to receive following pleasures (commonsensically: delay gratification). Not all short term pains are bad, and pains are usually a signal to a problem that needs to be solved which can remove the pain, but just make sure you're not doing so at the full exclusion of pleasure. Or even better, the result in removing the pains may result in pleasure gains, and if you get it right, maximising the right negative emotions can lead to much greater pleasure.
 
-
-
-
-
-
-
-
-
-
-
 ----
-
 
 # Maximising pleasure
 So we've seen that two potential methods for increasing our happiness sum is by minimising pleasure (which fails), and maximising pain (which can indirectly work in particular ways). But the most obvious method we can use and the one which most of us focus all of our efforts on is maximising pleasures / positive experiences.
@@ -318,8 +301,7 @@ But I'm going to add two more:
 
 I'm going to focus on repeatability and savoring first due to their brevity.
 
-## Repeatable Pleasures
-## Situation Selection
+### Situation Selection
 We have already noted how behavioral habits can be important because they can act as looping experiences which compound. Another thing you could do is modify your **environmental triggers** so you aren't exposed to triggers of bad emotional states, and are exposed to good ones. For example, if you found that going on certain apps or websites made you unhappy, it would be wise to stop doing so. In fact, some cool research suggests that **[situation selection](https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/)** - doing activities and being places that make you feel good, and avoiding people who make you feel bad, is an effective intervention for reducing negative emotions. But we can also use it to increase the positive.
 
 ![situation selection](/images/happiness/selection.jpg)
@@ -370,13 +352,37 @@ Although it seems like human experience is infinitely diverse, due to the basic 
   * Experience of cuteness
   * Being in nature
 
+![pleasure list](/images/happiness/pleasures.jpg)
+
 ### The Purpose of Pleasure
 When you look over this list, you can see how most if not all serve an evolutionary purpose, even if not immediately evident. I'm not going to explain them all, but just a handful to highlight. The biological needs are obviously important as they reward us for returning to homeostasis. Physiological pleasures are either a hack we have found into a brain chemistry, or endogenous (produced by us) to offset pain. Learning of various sorts is how we acquired solutions to potential survival and reproduction problems by observing what others have done. Love is an emotion that bonds us so that we invest resources in offspring. Social pleasures are complex which form group cohesion so we can take care of eachother and have better odds. Cuteness is experienced so we care for the baby/animal/thing. We are attraacted to novelty and change because of the potential for new rewards in the environment.
 
 This gives us an interesting model to think about pleasures, which makes sense. We evolved to experienced pleasure because it serves an evolutionary function: to motivate and reward us for experiences that increase our odds at survival and reproduction. The same fundamental motivation for nearly everything else. In fact, a norwegian biologist Bjørn Grinde wrote a whole book about trying to use evolution as a guide for living, called [Darwinian Happiness](https://en.wikipedia.org/wiki/Darwinian_Happiness).
 
+
+
+<!-- ### purpose of thoughts
+- memory -> then emotional response
+- affective forecast /prediction / visualisation -> emotional response
+in comparison to environmental triggers/cues -> self talk -> emotional response
+
+emotional response -> behavioral response (or extinguishment of) -> feedback loop into A
+-- this whole model has a biological substrate,
+-- emotional responses may be rewarding or punishing
+-- a might operate subconsciously
+
+
+Your behaviours of what rewards you seek and punishes avoid, are not based on some complex forms of reasoning and analysis, but mere intuition shortly preceding each behaviour in time. -->
+
+
+
+## Repeatable Pleasures
+So the first method we can use to increase happiness is to increase as many of these pleasures as possible. That can either be by maximising the sensory pleasures as per the Cyrenaics, or we can increase as many psychological pleasures as possible - by socialising, learning, loving, being in nature, and engaging in novel activities.
+
+![a](/images/happiness/repeats.jpg)
+
 ## Savoring
-Secondly, one method that we can use to prolong individual experiences, that is, take them from an experience smaller in intensity and time and make them more intense and longer is a technique called [savoring](https://en.wikipedia.org/wiki/Savoring).
+The second method that we can use to increase happiness is to prolong individual experiences, that is, take them from an experience smaller in intensity and time and make them more intense and longer is a technique called [savoring](https://en.wikipedia.org/wiki/Savoring).
 
 ![savoring](/images/happiness/savoring.jpg)
 
@@ -391,14 +397,51 @@ It's also shown that not only does savoring improve positive experiences directl
 
 Some researchers believe that savoring can be state based (ie about a particular experience) or trait based - a disposition for all experiences. What this suggests is that cultivating trait savoring can have large effects long term. Interestingly, there is also an opposing phenomena to savoring called dampening where you reduce the intensity and duration of positive emotions, which some believed is a personality trait. Research also supports that one of the reasons wealthier people are less happy is due to lower savoring ability ([ref](https://www.ncbi.nlm.nih.gov/pubmed/20483819)). People with lower self esteem also savor less and are more likely to dampen. And Easterners tend to savor less than westerners ([ref](https://www.ncbi.nlm.nih.gov/pubmed/21910543)).
 
+## Big Events
+The third method we can use to increase happiness is to focus on big life events. This is an appealing approach because increasing a lot of small pleasures in life doesn't intuitively feel too impactful, and thus most of us are actually drawn away from that in the hopes of attaining some large big pleasure later, as Nietzsche suggested.
+
+![a](/images/happiness/bigpleasure.jpg)
+
+So how do we figure out which pleasure events have the largest effect? One way is that we could observe others/look at happiness narratives, but obviously this would be crude. If we looked over the list and used our intuition - we would probably guess that travelling, gaining wealth, gaining a romantic partner, and accomplishment would have disproportionate effects. I find the idea of success being defined as *the best in world* to be interesting for this reason. Even for something trivial like a video game (as previewed in the great documentary [The King of Kong](https://en.wikipedia.org/wiki/The_King_of_Kong)), you would expect this would cause a great amount of joy /a large sum of psychological pleasure.
+
+Unfortunately there is not any perfect research measuring the curve or experience of all the different pleasures we laid out, but there is some self-report data on how unemployment, marriage, divorse, widowhood, childbirth, and layoff affect happiness [here](https://appen.com/blog/promoting-diversity-and-inclusion-in-the-workplace-appen-hires-over-50-persons-with-disabilities-pwds-lifeatappen/).
+
+![a](/images/happiness/lifeevents.png)
+
+What is shows is that people tend to get a substantial drop in happiness after employment, approaching widowhood, marriage, and after the birth of a child, and a substantial boost in happiness after divorce and layoff.
+
+Other research suggests big positive changes for: starting a new relationship (highest) and gaining employment, starting pregnancy, starting a new educational course, and buying a new house ([ref](https://www.ncbi.nlm.nih.gov/pubmed/17905809)). The events that had the highest negative impacts were ending of relationships, and death of a parent. And other papers echo that the large events are related to marriage, divorce, bereavement, deaths, work, ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289759/)).
+
+It also demonstrate the odd fact that a lot of us have heard of, that whether it is a large positive event (such as winning the lottery), or large negative event (like an injury), our reports about our happiness tend to return to a relatively stable baseline after ~5years. People tend to adapt to common large life events by returning to a baseline. But that doesn't discount their effects on our total happiness while they are occuring.
 
 
--
+
+
+
+
+
+
+
+### Jouissance, Hedonic treadmill
+## JOUISSANCE
+- We get jouissance obtained in place of the full satisfaction of jouissance expected (relating to psych desires). So attaining our desire is never as great as we expect nor are psych pleasures.
+- You don't solve desires to be complete, because you can no longer want it, you only want the fantasy of it. Plus others take their place.  JRE noted this when he said at 40 he realised theres no moment of full happiness or satisfaction you reach – the ride just continues on.
+- How to account for this in the previous historical and conceptual analysis?
+
+25/08/16: Although there is some plausability to lacans jouissance theory, it is one of those woopy spoopy philosophical ideas, because the idea of pain and pleasure do clearly still exist as reward and punishment mechanisms. Provide someone with a painful and rewarding experience side by side and see which one they prefer. This simple state of preference is what i am after, not some grand cognitive satisfaction that is illusory.
+
+
+
+
+
+
+
 
 
 
 
 - SWB reports
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
   - 06.05.17 Realised that happiness must be operationalised and have certain metrics to improve upon (inspired by research methodology chapter in psych textbook)
 - "Rewards"
 - PERMA / 'flourish psychology' (see /perma/)
@@ -420,29 +463,9 @@ Some researchers believe that savoring can be state based (ie about a particular
 - https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
 
 
-## MAXIMISE SENSORY PLEASURES
-- Aka Cyrenaicism, Aristippus, positive hedonism
-- Imprudent, fleeting. Memories of sensory pleasures and weak and our future may end up bleak with no recourse or help from the past.
-- Doesn't account for psychological pains (enduring) such as memories or expectations, psychological desires for girlfriend/compassion/friends/job, boredom etc.
-
-## MAXIMISE PSYCHOLOGICAL PLEASURES
-- A circumstantial improvement of ones life would mean curating circumstances which make pleasures (psych and sens) most likely to occur, pains least likely, maximise flow if necessary and minimise inter-flow states of rumination. A sort of self-help/self-sufficiency theory of happiness.
-- Some people have good circumstances naturally (rich and attractive) while others have to work hard towards them.
-
-
-mastery, knowledge, meaning, love
 
 
 
-success 29.07.17: - Had the idea that one form that 'success' can take is being *the best in the world* at something. I got the idea from watching the king of kong documentary. This form of success also seems to be reflected in a lot of other things which I have observed. Like world barista championships. Sports chamionships.. Etc.
--- eg rephrase to something along the lines of "some could view success as being aworld class performer" (ie results in large sum of psychological pleasures)
-
-## JOUISSANCE
-- We get jouissance obtained in place of the full satisfaction of jouissance expected (relating to psych desires). So attaining our desire is never as great as we expect nor are psych pleasures.
-- You don't solve desires to be complete, because you can no longer want it, you only want the fantasy of it. Plus others take their place.  JRE noted this when he said at 40 he realised theres no moment of full happiness or satisfaction you reach – the ride just continues on.
-- How to account for this in the previous historical and conceptual analysis?
-
-25/08/16: Although there is some plausability to lacans jouissance theory, it is one of those woopy spoopy philosophical ideas, because the idea of pain and pleasure do clearly still exist as reward and punishment mechanisms. Provide someone with a painful and rewarding experience side by side and see which one they prefer. This simple state of preference is what i am after, not some grand cognitive satisfaction that is illusory.
 
 
 
@@ -485,23 +508,6 @@ https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-ma
 - Participating in a **group sport** can contribute to the self esteem benefits that result as a part of **identifying with a group** (http://www.sciencedirect.com/science/article/pii/S0167487012000402), as well as providing feedback for exercise. / see "anomie"
 – There is a correlation between being poor and unhappiness ( http://link.springer.com/article/10.1023/A:1021381616824). But not being rich and happiness. Well-being rises steeply from dire poverty to income of about 20k pa, and then from there to 50k pa there is a slow trend upwards, followed by the rise slowning beyond 50k pa. (http://www.mysmu.edu/faculty/williamtov/pubs/2009_DienerKahnemanEtAl.pdf)
 Happiness produced is 70k
-
-
-
----
-### purpose of thoughts
-- memory -> then emotional response
-- affective forecast /prediction / visualisation -> emotional response
-in comparison to environmental triggers/cues -> self talk -> emotional response
-
-emotional response -> behavioral response (or extinguishment of) -> feedback loop into A
--- this whole model has a biological substrate,
--- emotional responses may be rewarding or punishing
--- a might operate subconsciously
-
-
-Your behaviours of what rewards you seek and punishes avoid, are not based on some complex forms of reasoning and analysis, but mere intuition shortly preceding each behaviour in time.
-
 
 
 
@@ -581,6 +587,11 @@ https://en.wikipedia.org/wiki/Experience_sampling_method
 ---
 
 # MINIMIZING PAINS
+- minimising pain - see my pains list
+  - minimising desires
+  - minimising desire / downshifting
+
+
 ## MINIMISE PSYCHOLOGICAL PAINS
 - Minimise psychological pains by losing self-reflective consciousness.
 - Psychological pains are not only taken at the present, but also past and future – thus more enduring. And more important to people who are more reflective and live inside their mind like myself. Accounts for sadism, memories, expectations, psych desires.
@@ -778,6 +789,11 @@ handful of strategies to go about improving our happiness:
 - minimise as many pains as possible: meditation, and flow state, eliminate rumination
 - make life meaningful? by x:
 - increase your hedonic tone / resting happiness level by experimenting with various NeuroCosmetics
+
+
+
+- A circumstantial improvement of ones life would mean curating circumstances which make pleasures (psych and sens) most likely to occur, pains least likely, maximise flow if necessary and minimise inter-flow states of rumination. A sort of self-help/self-sufficiency theory of happiness.
+- Some people have good circumstances naturally (rich and attractive) while others have to work hard towards them.
 
 # References
 1. All of my information directed here about Epicureanism is derived from his two most prominent writings: Letter to Menoceceus, and Leading Doctrines, along with the two secondary sources David E Cooper (1998) Epicurus’ two letters in Oxford Ethics: The Classic Readings, and Abbreviations used in text by Sharples on The Stoics.
