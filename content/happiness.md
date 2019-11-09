@@ -468,12 +468,15 @@ This has largely been the method of scientists over the last 50 years with life 
 There have been a lot of findings in this field of research. The findings of these studies are quite interesting, and many commonsense notions about happiness appear to be inaccurate. Here is a list of things that do or don't correlate with happiness / unhappiness:
 
 #### Strong Predictors
+* [Sleep Quality](https://adamdemirel.com/sleep) ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index))
 * An **Optimistic mindset** in explaining negative setbacks ([ref](https://www.goodreads.com/book/show/26123.Learned_Optimism))
 * The **absence of smoking** cigarettes/quitting smoking improves happiness *significantly* ([ref](https://tobaccocontrol.bmj.com/content/26/2/195.abstract))
 * **Love and marriage** and happiness ([ref](https://journals.sagepub.com/doi/abs/10.1177/0022022100031004001)). Romantic relationships can be stressful. Nevertheless, people consistently rate being in love as one of the most critical ingredients of happiness. Married people are happier than people who are single or divorced. However, the casual relations are unclear - it may be that happiness causes marital satisfaction more than martial satisfaction promotes happiness. Perhaps people who are happy tend to have better intimate relationships and more stable marriages, while people who are unhappy have more difficulty finding and keeping mates.
 * **[Job satisfaction](https://adamdemirel.com/job-satisfaction)** ([ref](https://psycnet.apa.org/record/2008-00541-019)). People often complain about their work. Therefore, one might not expect work to be a key source of happiness. But it is. It's not as critical as love or marriage, but job satisfaction has a substantial association with general happiness. Studies also show that **unemployment** has strong negative effects on SWB ([ref](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf)). It's difficult to sort out whether job satisfaction causes happiness or vice versa, but evidence suggests that causation flows both ways.
+* Sex life ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index))
 * **Genetics** ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16219116)) - account for about 50% variance (which is a *lot* in happiness research - more than anything else). The best predictor of individuals future happiness is their past happiness. Some people seem destined to be happy and others unhappy, regardless of their triumphs or setbacks. The limited influence of life events is demonstrated with the hedonic treadmill (which I'll talk about further below).
 * **Personality** and happiness ([ref](https://psycnet.apa.org/record/2008-11667-032), [ref](http://www.subjectpool.com/ed_teach/y4person/3_happiness/Steel2008_5FM_and_happiness_psych_bull.pdf)) - with the largest effect being due to *extroversion*, with agreeableness, conscientiousness, self-esteem, and optimism also being strongly related. ([ref](https://psycnet.apa.org/record/2008-00541-009)) Peoples genetic predispositions account for a substantial portion of the variance in happiness. How? By shaping one's personality and temperament, which are known to be heritable.
+* Health of close relatives ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index))
 * Being **sick/disabled** highly correlates with unhappiness (ibid)
 * **Debt** and unhappiness ([ref1](https://www.ncbi.nlm.nih.gov/pubmed/16649863), [ref2](https://www.sciencedirect.com/science/article/abs/pii/S0167487005000103))
 
@@ -489,7 +492,7 @@ The list of factors that turn out to have fairly strong associations with happin
 * **Video game** use in young people improves well being slightly ([ref](https://mindfulnessinschools.org/wp-content/uploads/2013/09/video-games-and-wellbeing.pdf))
 * **Part-time workers** are very slightly happier than full-time (ibid)
 * **Home Ownership** is positively correlated with life satisfaction ([ref](https://www.jstor.org/stable/24719087)) (but more important for females than males) - however, its effect on well-being seems to depend on *income level* (less important for lower income), potentially due to aspiration preferences ([ref](https://www.researchgate.net/publication/254420231_Homeownership_and_subjective_well-being)). Some seemingly better research suggests that homeownership improves *housing satisfaction* but not life satisfaction ([ref](https://link.springer.com/article/10.1007%2Fs11205-010-9607-6)) and that they might actually not be happier at all due to spending their time in worse ways ([ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1877163)). Also having a **home loan** has a negative effect on life satisfaction ([ref](https://www.jstor.org/stable/24719087)).
-* Your country weakly predicts happiness (<.10) - ranging from 6.5 (for brazil) - 7.5/10 (for finland) ([ref](https://worldhappiness.report/ed/2018/)).
+* Your **country** weakly predicts happiness (<.10) - ranging from 6.5 (for brazil) - 7.5/10 (for finland) ([ref](https://worldhappiness.report/ed/2018/)).
 
 ![a](/images/happiness/swbbycountry.png)
 
@@ -522,50 +525,16 @@ The idea that you can make a single retrospective judgement from a single point 
 
 
 
-
-
-- SWB reports
+swbresearch:
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
-
-- "Rewards"
-- PERMA / 'flourish psychology' (see /perma/)
-- Maximizing Psychology pleasure & PHysical pleasure (top 2 categories?)
 - Life satisfaction reports
   - life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from perma book)
-- Remembered Utility vs experienced utility
-- Seligman explanatory style / optimism
-- Where does goal setting fit?
-- Habits, for frequency
-- Impact-bias, peak-end effect, dan gilbert
-- Sociality, rat world addiction when deprived - addiction video
-  - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
-  - – How much social contact one experiences (http://www.ncbi.nlm.nih.gov/pubmed/23646128?log$=activity), and one's self esteem as a result of social feedback (athenes epinephrine thing, find reference)
-- Self experimentation, eric ries iteration
-- https://plato.stanford.edu/entries/neuroethics/ ?
-- "Life is a series of the small things that we do repeatedly" - my critique: the gross amount of pleasure doesnt matter at all because if your memory was wiped it wouldnt affect your future?
 - https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
-
-
-
-
-
-
-
-
----
----
-swb
 - figure out when I was happiest in the past and try to recreate it? (this has a cap, as there was a limit to how happy I was in the past, and I will only be able to reattain that state)
 - figure out what other people are the happiest and try to recreate it (measures of subjective wellbeing)
-
-https://www.google.com.au/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=off&q=subjective+wellbeing+wikipedia
-https://www.google.com.au/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=subjective%20wellbeing%20pdf
+https://en.wikipedia.org/wiki/Life_satisfaction
 https://en.wikipedia.org/wiki/Subjective_well-being
 https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule
-
-
-
-SWB RESOURCES
 - EXPLORING THE INGREDIENTS OF HAPPINESS (p422-425 Psychology Textbook)
 - http://lesswrong.com/lw/4su/how_to_be_happy/ *
 - https://blogs.psychcentral.com/positive-psychology/2012/04/zest-savoring-and-happiness/ *
@@ -582,13 +551,11 @@ https://en.wikipedia.org/wiki/Well-being
 https://en.wikipedia.org/wiki/Well-being_contributing_factors
 https://en.wikipedia.org/wiki/Subjective_well-being
 https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-make-you-happier *
-
 - sleep
 - diet?
 – One's **psychological beliefs** about themselves, others, and the world (and cognitive distortions relating (absence of cognitive distortions). And whether or not they have **learned helpessness**.
 – The **novelty** of one's environment, including their social relationships (See 'Rat Park' experiments)
 – **Limiting one's internet use.** There's a moderate to severe correlation between overusing the internet and depression (http://www.ncbi.nlm.nih.gov/pubmed/20110764, http://netaddiction.com/articles/cyberpsychology.pdf, http://www.ncbi.nlm.nih.gov/pubmed/17709972). Overuse can have significant effects socially, psychologically, and occupationally.
-
 - Participating in a **group sport** can contribute to the self esteem benefits that result as a part of **identifying with a group** (http://www.sciencedirect.com/science/article/pii/S0167487012000402), as well as providing feedback for exercise. / see "anomie"
 – There is a correlation between being poor and unhappiness ( http://link.springer.com/article/10.1023/A:1021381616824). But not being rich and happiness. Well-being rises steeply from dire poverty to income of about 20k pa, and then from there to 50k pa there is a slow trend upwards, followed by the rise slowning beyond 50k pa. (http://www.mysmu.edu/faculty/williamtov/pubs/2009_DienerKahnemanEtAl.pdf)
 Happiness produced is 70k
@@ -600,6 +567,21 @@ Happiness produced is 70k
 
 
 
+
+
+- "Rewards"
+- PERMA / 'flourish psychology' (see /perma/)
+- Maximizing Psychology pleasure & PHysical pleasure (top 2 categories?)
+
+- Remembered Utility vs experienced utility
+- Seligman explanatory style / optimism
+- Where does goal setting fit?
+- Impact-bias, peak-end effect, dan gilbert
+- Sociality, rat world addiction when deprived - addiction video
+  - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
+  - – How much social contact one experiences (http://www.ncbi.nlm.nih.gov/pubmed/23646128?log$=activity), and one's self esteem as a result of social feedback (athenes epinephrine thing, find reference)
+- https://plato.stanford.edu/entries/neuroethics/ ?
+- "Life is a series of the small things that we do repeatedly" - my critique: the gross amount of pleasure doesnt matter at all because if your memory was wiped it wouldnt affect your future?
 
 
 
