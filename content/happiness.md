@@ -1,10 +1,6 @@
-I wholly agree that by observing human behaviour, you can accurately arrive at the **pleasure principle**: that most or all of human behaviour can be explained by their need to avoid pain, and to seek pleasure (which is motivated by pain).
-
----
+> If you don't get what you want, you suffer; If you get what you don't want, you suffer; Even when you get exactly what you want, you still suffer because you can't hold on to it forever. Your ind is your predicament. It wants to be free of change. Free of pain, free of the obligations of life and death. But change is law and no amount of pretending will alter that reality. - Socrates
 
 # Intro
-> If you don't get what you want, you suffer; If you get what you don't want, you suffer; Even when you get exactly what you want, you still suffer because you can't hold on to it forever. Your mind is your predicament. It wants to be free of change. Free of pain, free of the obligations of life and death. But change is law and no amount of pretending will alter that reality. - Socrates
-
 The purpose of this essay is to attempt to unravel and answer the age old ethical question "what is happiness?" and in doing so converge on an accurate model of what the desirable life looks like.
 
 Each of us has roughly 36,000 days to do something worthwhile with our limited time and use it in ways which make us feel good rather than bad. An hour read here could hopefully nudge how you spend a portion of those days.
@@ -176,7 +172,7 @@ In summary, the tenants of hedonism and thus happiness are as follows:
 
 So in conclusion, the hedonsitic view of happiness is that **pleasure is the only intrinsic good, pain is the only intrinsic bad. The more pleasure a life contains, and the less pain, the better the life is.**.
 
-I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. There are many important figures throughout history who have held this same view, from the greeks above, to [Artistotle](https://plato.stanford.edu/entries/aristotle-ethics/#Plea), to Jeremy Bentham (discussed below), to [John Stuart Mill](https://plato.stanford.edu/entries/mill/#MillConcHapp), to [David Hume](https://plato.stanford.edu/entries/hume-moral/#inmo)'s informal account.
+I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. There are many important figures throughout history who have held this same view, from the greeks above, to [Artistotle](https://plato.stanford.edu/entries/aristotle-ethics/#Plea), to Jeremy Bentham (discussed below), to [John Stuart Mill](https://plato.stanford.edu/entries/mill/#MillConcHapp), to Sigmund Freud's [pleasure principle](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology)), to [David Hume](https://plato.stanford.edu/entries/hume-moral/#inmo)'s informal account.
 
 So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
 
@@ -419,22 +415,24 @@ What the chart above demonstrated was the odd fact that a lot of us have heard o
 
 ![diminishing returns](/images/happiness/diminishing.jpg)
 
-This is one of the sad facts about human experience and pleasure. The first bite of a meal is great, the last is not great. Or in more general terms, the more we do of something pleasurable, the less enjoyable it becomes.
+This is one of the sad facts about human experience and pleasure. The first bite of a meal is great, the last is not great. Or in more general terms, the more we do of something pleasurable, the less enjoyable it becomes. Most of us have experienced this personally in the form of dreaming for something: a product or experience, and once attaining it moving on with life.
 
+This makes sense evolutionary as remember that pleasures are rewards for attaining a need, and obviously we cannot be in a constant state of bliss because (a) the need gets satisfied quickly, and (b) if we were constantly experiencing pleasure we wouldn't seek out our needs. This is one of the big critiques of most utopian societies (as [Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) wrote about).
 
+This returning to baseline after experiencing pleasure (or pain), whether big or small, is what's known as the [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill) where like a treadmill you're gaining pleasure but keep returning to the same level of happiness. Obviously this doesn't make pleasures completely pointless to chase, as we mentioned you're still experiencing an increase in happiness before returning to the baseline.
 
-mention novelty and spacing as 2 solutions
+Other research calls this return to baseline the Hedonic Adaptation Prevention Model, which leads us into looking at any ways that it can be prevented. The psychologist [Sonja Lyubomirsky](https://en.wikipedia.org/wiki/Sonja_Lyubomirsky) is the leading researcher in this area and covered a lot of it in her book [The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness). One of the main ideas is that we can prevent adapting to positive experiences by (1) continuing to savor them, and (2) having continuied variety of experiences ([ref](https://journals.sagepub.com/doi/abs/10.1177/0146167212436400)). Novelty is one of the pleasure events that we mentioned in our list, and it turns out one of the reasons it is so great is that it is the solution to adaptation.
 
-// chart w diminishing return waves => large waves
+A third solution can be found in the great book with a bad name [Happy Money](https://www.goodreads.com/book/show/15803098-happy-money), which is simply to partake in the pleasurable experiences less frequently - this is another mode for preventing adaptation.
 
+![fighting adaptation](/images/happiness/fightingadaptation.jpg)
 
-### Jouissance, Hedonic treadmill
-## JOUISSANCE
-- We get jouissance obtained in place of the full satisfaction of jouissance expected (relating to psych desires). So attaining our desire is never as great as we expect nor are psych pleasures.
-- You don't solve desires to be complete, because you can no longer want it, you only want the fantasy of it. Plus others take their place.  JRE noted this when he said at 40 he realised theres no moment of full happiness or satisfaction you reach – the ride just continues on.
-- How to account for this in the previous historical and conceptual analysis?
+### Impact Bias
+Another sad fact of reality and related bias is the tendency for humans to overestimate the intensity and duration of pleasures (fortunately and pains), what's caleed the [impact bias](https://en.wikipedia.org/wiki/Impact_bias). This is related to the psychoanalyst Lacan's concept of [Jouissance](https://www.lacan.com/forced.htm) - wher we get a milder "jouissance obtained" in place of the full satisfaction of a "jouissance expected" - so attaining pleasures or fulfilling our desire is never as great as we expect.
 
-25/08/16: Although there is some plausability to lacans jouissance theory, it is one of those woopy spoopy philosophical ideas, because the idea of pain and pleasure do clearly still exist as reward and punishment mechanisms. Provide someone with a painful and rewarding experience side by side and see which one they prefer. This simple state of preference is what i am after, not some grand cognitive satisfaction that is illusory.
+On a more macro scale, this reminds me of when you read stories of traditionally successful figures and they often remark at ages 40-50 that they realised that there's no moment of "complete happiness/satisfaction" that you reach, like they expected before they were successful, the ride just continues on. This is both terrifying and enlightening - it doesn't really matter what big events we do or don't get, and the smaller events are within our control. Also, again it doesn't matter if we return to baseline, the pains/pleasure preceding that drop to baseline are still valid experiences, regardless of experiencing some *grand cognitive satisfaction*.
+
+---
 
 
 
@@ -457,7 +455,6 @@ mention novelty and spacing as 2 solutions
 - Remembered Utility vs experienced utility
 - Seligman explanatory style / optimism
 - Where does goal setting fit?
-- Hedonic treadmill problem
 - Habits, for frequency
 - Impact-bias, peak-end effect, dan gilbert
 - Sociality, rat world addiction when deprived - addiction video
