@@ -482,6 +482,8 @@ There have been a lot of findings in this field of research. The findings of the
 
 The list of factors that turn out to have fairly strong associations with happiness is surprisingly short. The key ingredients of happiness appear to involve love, work, and genetic predisposition expressed through personality.
 
+![variables](/images/happiness/variables.jpg)
+
 #### Moderate Predictors
 * **Health** and happiness (~.32) ([ref](https://psycnet.apa.org/record/1999-02842-018)). Good health, may not by itself produce happiness because people tend to take good health for granted. May explain why researchers only find a moderate positive correlation between health status and SWB.
 * **Religion** and happiness ([ref](https://psycnet.apa.org/record/1999-02842-019)), though this may be due to religious attendance and not religious belief ([ref](https://www.ncbi.nlm.nih.gov/pubmed/19142047))
