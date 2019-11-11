@@ -557,7 +557,7 @@ Firstly, a lot of pay satisfaction comes down to it being Pay That You Think Is 
 
 Both of these moderate whether you think a pay is fair or not `44` which influences your satisfaction with it.
 
-A fantastic and comprehensive review of the effect on income on happiness and JS was done by 80000hours [here](https://80000hours.org/articles/money-and-happiness/) and a quick summary [here](https://80000hours.org/2012/09/does-money-make-you-happy/). Though here is an overview:
+A fantastic and comprehensive review of the effect on income on happiness and JS was done by 80000hours [here](https://80000hours.org/articles/money-and-happiness/) and a quick summary [here](https://80000hours.org/2012/09/does-money-make-you-happy/). More data [here](https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-make-you-happier). Though here is an overview:
 * As you've probably heard, research shows diminishing returns to increased income levels.
 * As the income level increases, its effect on happiness flattens out.
 * The effect of income on an individuals happiness (maximizing positive emotions, minimizing negative emotions, and minimizing stress) starts to flatten out at:
