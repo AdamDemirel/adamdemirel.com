@@ -180,7 +180,7 @@ In summary, the tenants of hedonism and thus happiness are as follows:
 
 So in conclusion, the hedonsitic view of happiness is that **pleasure is the only intrinsic good, pain is the only intrinsic bad. The more pleasure a life contains, and the less pain, the better the life is.**.
 
-I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. There are many important figures throughout history who have held this same view, from the greeks above, to [Artistotle](https://plato.stanford.edu/entries/aristotle-ethics/#Plea), to Jeremy Bentham (discussed below), to [John Stuart Mill](https://plato.stanford.edu/entries/mill/#MillConcHapp), to Sigmund Freud's [pleasure principle](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology)), to [David Hume](https://plato.stanford.edu/entries/hume-moral/#inmo)'s informal account.
+I buy this definition and I will argue why throughout, but the main reason is that if you define pleasure and pain broadly enough, eg in the sense that pleasure is "positive emotions" and pain is "negative emotions", then there is no other value that a life can contain that would be comparable. These states by definition are desirable and aversive, and even if people sacrifice these states in the short term (eg in the case of delaying gratification), they are doing so for better states later in time. There are many important figures throughout history who have held this same view, from the greeks above, to [Artistotle](https://plato.stanford.edu/entries/aristotle-ethics/#Plea) (and his [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)), to Jeremy Bentham (discussed below), to [John Stuart Mill](https://plato.stanford.edu/entries/mill/#MillConcHapp), to Sigmund Freud's [pleasure principle](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology)), to [David Hume](https://plato.stanford.edu/entries/hume-moral/#inmo)'s informal account.
 
 So given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility).
 
@@ -446,20 +446,9 @@ On a more macro scale, this reminds me of when you read stories of traditionally
 As mentioned, one of the four methods to maximise our happiness is to "shape our global judgements about life". What I was referring to their were self-reports of happiness/wellbeing. Measuring happiness in the Psychology literature has often gone by the title '**Subjective Wellbeing** (SWB)' due to the negative connotation the term happiness has.
 
 And just as you would expect, psychologists have tried [operationalizing](https://en.wikipedia.org/wiki/Operationalization) happiness - making it as measurable as possible. This is useful for any construct because it means we can standardise it and try to find practical applications for the research. The way they have done this is simply by *asking* people how happy they are. There are two key phenomena they have measured:
-1. **Life Satisfaction Reports** - These are the most common type of self-report studied, and the question is almost always verbatim: *"all things considered, how happy are you with your life at the moment on a scale of 1–10?"*
+1. **[Life Satisfaction](https://en.wikipedia.org/wiki/Life_satisfaction) Reports** - These are the most common type of self-report studied, and the question is almost always verbatim: *"all things considered, how happy are you with your life at the moment on a scale of 1–10?"*
 2. **Affective Balance Reports** - these are also self-reports, but rather than trying to capture one's happiness in a single measurement, tries to capture the presence of positive emotions and absence of negative emotions
 
-
-//
-or "emotional wellbeing" ?
-https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-make-you-happier
-Emotional well-being (sometimes called hedonic well-being or experienced happiness) refers to the emotional quality of an individual's everyday experience – the frequency and intensity of experiences of joy, fascination, anxiety, sadness, anger, and affection that make one's life pleasant or unpleasant. Life evaluation refers to a person's thoughts about his or her life. Surveys of subjective well-being have traditionally emphasized life evaluation. The most commonly asked question in these surveys is the life satisfaction question: “How satisfied are you with your life as a whole these days?” ... Emotional well-being is assessed by questions about the presence of various emotions in the experience of yesterday (e.g., enjoyment, happiness, anger, sadness, stress, worry).
-
-'positive affect vs negative affect'
-https://flightfromperfection.com/files/post_attachments/jebb_et_al_2018.pdf
-https://www.pnas.org/content/107/38/16489
-
-//
 
 There are three main ways methods these have phenomena have been measured:
 1. Global judgements - used by life satisfaction reports, where a single question tries to summarise one's whole life
@@ -481,7 +470,7 @@ There have been a lot of findings in this field of research. The findings of the
 
 #### Strong Predictors
 * [Sleep Quality](https://adamdemirel.com/sleep) ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index))
-* An **Optimistic mindset** in explaining negative setbacks ([ref](https://www.goodreads.com/book/show/26123.Learned_Optimism))
+* An **Optimistic mindset** in explaining negative setbacks ([ref](https://www.goodreads.com/book/show/26123.Learned_Optimism)) - ie ones beliefs about themselves, others, and the world, and the absence of cognitive distortions/learned helplessness.
 * The **absence of smoking** cigarettes/quitting smoking improves happiness *significantly* ([ref](https://tobaccocontrol.bmj.com/content/26/2/195.abstract))
 * **Love and marriage** and happiness ([ref](https://journals.sagepub.com/doi/abs/10.1177/0022022100031004001)). Romantic relationships can be stressful. Nevertheless, people consistently rate being in love as one of the most critical ingredients of happiness. Married people are happier than people who are single or divorced. However, the casual relations are unclear - it may be that happiness causes marital satisfaction more than martial satisfaction promotes happiness. Perhaps people who are happy tend to have better intimate relationships and more stable marriages, while people who are unhappy have more difficulty finding and keeping mates.
 * **[Job satisfaction](https://adamdemirel.com/job-satisfaction)** ([ref](https://psycnet.apa.org/record/2008-00541-019)). People often complain about their work. Therefore, one might not expect work to be a key source of happiness. But it is. It's not as critical as love or marriage, but job satisfaction has a substantial association with general happiness. Studies also show that **unemployment** has strong negative effects on SWB ([ref](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf)). It's difficult to sort out whether job satisfaction causes happiness or vice versa, but evidence suggests that causation flows both ways.
@@ -501,10 +490,15 @@ The list of factors that turn out to have fairly strong associations with happin
 * **Smiling frequency / [duchenne](https://en.wikipedia.org/wiki/Smile#Duchenne_smile) smiling** ([ref](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf))
 * **Religion** and happiness ([ref](https://psycnet.apa.org/record/1999-02842-019)), though this may be due to religious attendance and not religious belief ([ref](https://www.ncbi.nlm.nih.gov/pubmed/19142047))
 * **Social Activity/Sociability** and happiness ([ref](https://journals.sagepub.com/doi/10.1111/j.0963-7214.2004.00501001.x)). Humans are social animals. As such, interpersonal relations *do* appear to contribute to people's happiness. Those who are satisfied with their social support and friendship networks and those who are socially active report above-average levels of happiness. Furthermore, people who are exceptionally happy tend to report greater satisfaction with their social relations than those who are average or low in SWB. People who had deep, substantive convos were happier than those who mostly engaged in small talk.
+* Participating in a **group sport** - partly by identifying with a group ([ref](http://www.sciencedirect.com/science/article/pii/S0167487012000402))
 * **[Ratings of one's happiness made by friends](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf)**
 * Above includes whether you **live alone** and **eat alone** often ([ref](https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/Sainsburys%20Living%20Well%20Index%20Wave%204%20Jun%202019%20FV.pdf))
 * **Sex life** ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index))
 * **Frequent verbal expressions of positive emotions** ([ref](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf))
+* **Internet users** are more satisfied with their lives than non internet users ([ref](https://www.researchgate.net/publication/297721767_Life_Satisfaction_Of_The_Internet_And_Non-Internet_Users_In_Thailand))
+* **Chronotype**: Morning Larks have higher LS than Night Owls ([ref](https://www.tandfonline.com/doi/abs/10.3109/07420528.2012.685671), [ref](https://www.tandfonline.com/doi/abs/10.3109/07420528.2013.840786))
+* **Being able to regulate negative emotions** ([ref](https://link.springer.com/article/10.1007/s10902-011-9312-4))
+* **Appreciation** which includes being present, self/social comaparison, gratitude, and interpersonal appreciation ([ref](https://www.sciencedirect.com/science/article/abs/pii/S0191886912000888))
 
 #### Weak Predictors
 * There is a positive correlation between **income** and SWB, but its weak (between .12 and .20) ([ref](https://journals.sagepub.com/doi/10.1111/j.0963-7214.2004.00501001.x)). Though it's high between very low income and unhappiness. In other words, money doesn't make you happier unless you're below the poverty line (can't pay for food, shelter, clothing, and sanitation). For a full exploration see [here](https://adamdemirel.com/job-satisfaction/#section-50).
@@ -513,6 +507,8 @@ The list of factors that turn out to have fairly strong associations with happin
 * **Home Ownership** is positively correlated with life satisfaction ([ref](https://www.jstor.org/stable/24719087)) (but more important for females than males) - however, its effect on well-being seems to depend on *income level* (less important for lower income), potentially due to aspiration preferences ([ref](https://www.researchgate.net/publication/254420231_Homeownership_and_subjective_well-being)). Some seemingly better research suggests that homeownership improves *housing satisfaction* but not life satisfaction ([ref](https://link.springer.com/article/10.1007%2Fs11205-010-9607-6)) and that they might actually not be happier at all due to spending their time in worse ways ([ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1877163)). Also having a **home loan** has a negative effect on life satisfaction ([ref](https://www.jstor.org/stable/24719087)).
 * Mild effects for donating to charity ([ref](https://80000hours.org/articles/money-and-happiness/#if-you-gave-money-to-charity-would-it-make-you-more-satisfied-or-less), [ref](https://www.givingwhatwecan.org/get-involved/giving-and-happiness/))
 * Your **country** weakly predicts happiness (<.10) - ranging from 6.5 (for brazil) - 7.5/10 (for finland) ([ref](https://worldhappiness.report/ed/2018/)).
+* **Working 4 days > 5** days increases life satisfaction by 5% ([ref](https://www.theguardian.com/world/2018/jul/19/work-less-get-more-new-zealand-firms-four-day-week-an-unmitigated-success))
+* The personality trait **Zest** due to living in the present ([ref](https://en.wikipedia.org/wiki/Zest_(positive_psychology)#Life_satisfaction_and_Zest))
 
 ![a](/images/happiness/swbbycountry.png)
 
@@ -549,41 +545,33 @@ The idea that you can make a single retrospective judgement from a single point 
 
 
 swbresearch:
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
-- Life satisfaction reports
-  - life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from perma book)
-- https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
-- figure out when I was happiest in the past and try to recreate it? (this has a cap, as there was a limit to how happy I was in the past, and I will only be able to reattain that state)
-- figure out what other people are the happiest and try to recreate it (measures of subjective wellbeing)
-https://en.wikipedia.org/wiki/Life_satisfaction
-https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule
-- EXPLORING THE INGREDIENTS OF HAPPINESS (p422-425 Psychology Textbook)
-- http://lesswrong.com/lw/4su/how_to_be_happy/ *
-- https://blogs.psychcentral.com/positive-psychology/2012/04/zest-savoring-and-happiness/ *
-- https://en.wikipedia.org/wiki/Zest_(positive_psychology) *
-- https://en.wikipedia.org/wiki/Regret *
-- https://www.youtube.com/watch?v=9FBxfd7DL3E&t=943s #
-- 06.02.18 https://examine.com/topics/subjective-well-being/ *
-- 27.05.18 - https://www.lesswrong.com/posts/33KewgYhNSxFpbpXg/scientific-self-help-the-state-of-our-knowledge
-- 29.06.18-  https://www.ncbi.nlm.nih.gov/pubmed – search 'subjective wellbeing' 'subective well-being' and 'subjective wellbeing[Title] '
--https://www.reddit.com/r/science/comments/90ci5t/work_less_get_more_new_zealand_firms_fourday_week/ *
-https://en.wikipedia.org/wiki/Life_satisfaction
-https://en.wikipedia.org/wiki/Positive_psychology
 https://en.wikipedia.org/wiki/Well-being
 https://en.wikipedia.org/wiki/Well-being_contributing_factors
 https://en.wikipedia.org/wiki/Subjective_well-being
 
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
+  - life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from perma book)
+- https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
+
+
+
+
+- EXPLORING THE INGREDIENTS OF HAPPINESS (p422-425 Psychology Textbook)
+-
+- http://lesswrong.com/lw/4su/how_to_be_happy/ *
+
+- https://www.youtube.com/watch?v=9FBxfd7DL3E&t=943s #
+- 27.05.18 - https://www.lesswrong.com/posts/33KewgYhNSxFpbpXg/scientific-self-help-the-state-of-our-knowledge
+- 29.06.18-  https://www.ncbi.nlm.nih.gov/pubmed – search 'subjective wellbeing' 'subective well-being' and 'subjective wellbeing[Title] '
+
+https://en.wikipedia.org/wiki/Positive_psychology
+
+
+https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions
+
 https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf
 
 - diet?
-– One's **psychological beliefs** about themselves, others, and the world (and cognitive distortions relating (absence of cognitive distortions). And whether or not they have **learned helpessness**.
-– The **novelty** of one's environment, including their social relationships (See 'Rat Park' experiments)
-– **Limiting one's internet use.** There's a moderate to severe correlation between overusing the internet and depression (http://www.ncbi.nlm.nih.gov/pubmed/20110764, http://netaddiction.com/articles/cyberpsychology.pdf, http://www.ncbi.nlm.nih.gov/pubmed/17709972). Overuse can have significant effects socially, psychologically, and occupationally.
-- Participating in a **group sport** can contribute to the self esteem benefits that result as a part of **identifying with a group** (http://www.sciencedirect.com/science/article/pii/S0167487012000402), as well as providing feedback for exercise. / see "anomie"
-
-
-
-
 
 
 
@@ -593,22 +581,34 @@ https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%2
 
 
 - PERMA / 'flourish psychology' (see /perma/)
-- Maximizing Psychology pleasure & PHysical pleasure (top 2 categories?)
-
 - Remembered Utility vs experienced utility
 - Seligman explanatory style / optimism
 - Where does goal setting fit?
 - Impact-bias, peak-end effect, dan gilbert
 - Sociality, rat world addiction when deprived - addiction video
+  - – The **novelty** of one's environment, including their social relationships (See 'Rat Park' experiments)
   - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
-  - – How much social contact one experiences (http://www.ncbi.nlm.nih.gov/pubmed/23646128?log$=activity), and one's self esteem as a result of social feedback (athenes epinephrine thing, find reference)
-- https://plato.stanford.edu/entries/neuroethics/ ?
-- "Life is a series of the small things that we do repeatedly" - my critique: the gross amount of pleasure doesnt matter at all because if your memory was wiped it wouldnt affect your future?
+
 
 
 
 --- ---
 ===---
+// change affective balance to
+or "emotional wellbeing" ?
+https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-make-you-happier
+Emotional well-being (sometimes called hedonic well-being or experienced happiness) refers to the emotional quality of an individual's everyday experience – the frequency and intensity of experiences of joy, fascination, anxiety, sadness, anger, and affection that make one's life pleasant or unpleasant. Life evaluation refers to a person's thoughts about his or her life. Surveys of subjective well-being have traditionally emphasized life evaluation. The most commonly asked question in these surveys is the life satisfaction question: “How satisfied are you with your life as a whole these days?” ... Emotional well-being is assessed by questions about the presence of various emotions in the experience of yesterday (e.g., enjoyment, happiness, anger, sadness, stress, worry).
+
+'positive affect vs negative affect'
+https://flightfromperfection.com/files/post_attachments/jebb_et_al_2018.pdf
+https://www.pnas.org/content/107/38/16489
+
+//
+https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule
+
+
+
+
  experienced self / esm:
 We can study how people feel about their lives from moment to moment.
 
@@ -618,6 +618,8 @@ developments paper <see p3 for lever etc of developments of swb> <see p4 for mor
 problem with ESM: kahnemans research about the needle
 
 
+https://www.haaretz.com/israel-news/.premium.MAGAZINE-why-nobel-prize-winner-daniel-kahneman-gave-up-on-happiness-1.6528513
+https://qz.com/1503207/a-nobel-prize-winning-psychologist-defines-happiness-versus-satisfaction/
 
 
 Your life does not exist in some sort of capsule where you can experience your Total pleasures and pains at each point, and trying to maximise pleasures completely or minimise pains completely is a futile endeavour, as you can do neither.
@@ -817,12 +819,17 @@ on the other end of the stick if this is all overwhelming one possible way to li
 (4) We can do experiments on ourselves by trying out a lot of things and trying to discern what does and doesn't work.
 
 
+- figure out when I was happiest in the past and try to recreate it? (this has a cap, as there was a limit to how happy I was in the past, and I will only be able to reattain that state)
+-
+- figure out what other people are the happiest and try to recreate it (measures of subjective wellbeing)
+
 ---
 
 # neurohedonism
 all about hedonic setpoints
 https://www.ncbi.nlm.nih.gov/pubmed/16719675
 https://en.wikipedia.org/wiki/Hedonic_treadmill
+- 06.02.18 https://examine.com/topics/subjective-well-being/ *
 
 
 maximise adrenaline, oxytocin and dopamine
