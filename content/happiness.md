@@ -459,7 +459,7 @@ The validity of these various methods and drawbacks will discussed later. First 
 
 How this is important to us is that if we believe that life satisfaction reports are accurate, for instance, one way that we could try to maximise positive emotions is to do the things that make people rate the highest and eliminate the ones that people rate the lowest. This was the benefit of the scientific method that we mentioned at the start - by using large datasets and the scientific method, we can discover the behaviors, beliefs, environments, or variables that lead to happiness.
 
-Thanks in part to the positive psychology movement, recent years have brought a surge of interest in the correlates of subjective well-being. *Self Reporting* is a technical way of saying 'the measurement of asking people'. It is purported to measure subjective well-being, which is the technical name for self-reported happiness.
+Thanks in part to the [Positive Psychology](https://en.wikipedia.org/wiki/Positive_psychology) movement, recent years have brought a surge of interest in the correlates of subjective well-being. *Self Reporting* is a technical way of saying 'the measurement of asking people'. It is purported to measure subjective well-being, which is the technical name for self-reported happiness.
 
 If you ask people how happy they are on a scale of 1–10, they can self-report a 7 for instance, and this can give a somewhat accurate picture of the state of affairs if you assume that people know how they feel (have the self awareness) and have the ability to attach a number to it. There's no reason to think that we can't do this since we can do a thing called *intensity matching*. Intensity matching is converting between different unrelated mediums. For example, if I ask you "If John 6'2 and Peter is 5'2, and John is as angry as he is tall, how angry is Peter?", you're likely to answer "less angry than John" or something of the sort. It turns out that humans can and do utilise this for all sorts of thinking. People can do a similar thing with happiness.
 
@@ -509,6 +509,7 @@ The list of factors that turn out to have fairly strong associations with happin
 * Your **country** weakly predicts happiness (<.10) - ranging from 6.5 (for brazil) - 7.5/10 (for finland) ([ref](https://worldhappiness.report/ed/2018/)).
 * **Working 4 days > 5** days increases life satisfaction by 5% ([ref](https://www.theguardian.com/world/2018/jul/19/work-less-get-more-new-zealand-firms-four-day-week-an-unmitigated-success))
 * The personality trait **Zest** due to living in the present ([ref](https://en.wikipedia.org/wiki/Zest_(positive_psychology)#Life_satisfaction_and_Zest))
+* **Healthy eating** ([ref](http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1021&context=econ_workingpapers), [ref](https://www.sciencedirect.com/science/article/pii/S019566631630931X), [ref](https://link.springer.com/article/10.1007/s11482-019-09748-7))
 
 ![a](/images/happiness/swbbycountry.png)
 
@@ -548,30 +549,23 @@ swbresearch:
 https://en.wikipedia.org/wiki/Well-being
 https://en.wikipedia.org/wiki/Well-being_contributing_factors
 https://en.wikipedia.org/wiki/Subjective_well-being
-
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
-  - life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from perma book)
-- https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
-
-
-
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
+https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
 
 - EXPLORING THE INGREDIENTS OF HAPPINESS (p422-425 Psychology Textbook)
 -
 - http://lesswrong.com/lw/4su/how_to_be_happy/ *
 
-- https://www.youtube.com/watch?v=9FBxfd7DL3E&t=943s #
 - 27.05.18 - https://www.lesswrong.com/posts/33KewgYhNSxFpbpXg/scientific-self-help-the-state-of-our-knowledge
-- 29.06.18-  https://www.ncbi.nlm.nih.gov/pubmed – search 'subjective wellbeing' 'subective well-being' and 'subjective wellbeing[Title] '
 
-https://en.wikipedia.org/wiki/Positive_psychology
 
+- https://www.ncbi.nlm.nih.gov/pubmed/?term=%22subjective+wellbeing%22%5BTitle%5D (110 results)
+- https://www.ncbi.nlm.nih.gov/pubmed/?term=%22subjective+well-being%22%5BTitle%5D (1100 results)
 
 https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions
 
 https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf
 
-- diet?
 
 
 
@@ -580,9 +574,29 @@ https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%2
 
 
 
-- PERMA / 'flourish psychology' (see /perma/)
-- Remembered Utility vs experienced utility
-- Seligman explanatory style / optimism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- PERMA / 'flourish psychology' (see /perma/) https://en.wikipedia.org/wiki/Positive_psychology https://www.youtube.com/watch?v=9FBxfd7DL3E&t=943s # "life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from flourish book)"
+
 - Where does goal setting fit?
 - Impact-bias, peak-end effect, dan gilbert
 - Sociality, rat world addiction when deprived - addiction video
@@ -594,6 +608,10 @@ https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%2
 
 --- ---
 ===---
+
+- Remembered Utility vs experienced utility
+
+
 // change affective balance to
 or "emotional wellbeing" ?
 https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-make-you-happier
