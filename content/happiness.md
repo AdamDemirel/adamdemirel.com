@@ -476,7 +476,7 @@ There have been a lot of findings in this field of research. The findings of the
 * **Mental Health** is the strongest individual predictor of LS ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5511887/))
 * **Love and marriage** and happiness ([ref](https://psycnet.apa.org/record/1999-02842-019), [ref](https://journals.sagepub.com/doi/abs/10.1177/0022022100031004001)). Romantic relationships can be stressful. Nevertheless, people consistently rate being in love as one of the most critical ingredients of happiness. Married people are happier than people who are single or divorced. However, the casual relations are unclear - it may be that happiness causes marital satisfaction more than martial satisfaction promotes happiness. Perhaps people who are happy tend to have better intimate relationships and more stable marriages, while people who are unhappy have more difficulty finding and keeping mates.
 * **[Job satisfaction](https://adamdemirel.com/job-satisfaction)** ([ref](https://psycnet.apa.org/record/2008-00541-019)). People often complain about their work. Therefore, one might not expect work to be a key source of happiness. But it is. It's not as critical as love or marriage, but job satisfaction has a substantial association with general happiness. Studies also show that **unemployment** has strong negative effects on SWB ([ref](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf)). It's difficult to sort out whether job satisfaction causes happiness or vice versa, but evidence suggests that causation flows both ways.
-* **Genetics** ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16219116)) - account for about 50% variance (which is a *lot* in happiness research - more than anything else). The best predictor of individuals future happiness is their past happiness. Some people seem destined to be happy and others unhappy, regardless of their triumphs or setbacks. The limited influence of life events is demonstrated with the hedonic treadmill (which I'll talk about further below).
+* **Genetics** ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16219116), [ref](https://www.webarchive.org.uk/wayback/archive/20150926115101/http://cep.lse.ac.uk/_new/research/wellbeing/causes_and_effects_of_wellbeing.asp)) - account for about 50% variance (which is a *lot* in happiness research - more than anything else). The best predictor of individuals future happiness is their past happiness. Some people seem destined to be happy and others unhappy, regardless of their triumphs or setbacks. The limited influence of life events is demonstrated with the hedonic treadmill (which I'll talk about further below).
   * [Sleep Quality](https://adamdemirel.com/sleep) ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index))
 * An **Optimistic mindset** in explaining negative setbacks ([ref](https://www.goodreads.com/book/show/26123.Learned_Optimism)) - ie ones beliefs about themselves, others, and the world, and the absence of cognitive distortions/learned helplessness.
 * The **absence of smoking** cigarettes/quitting smoking improves happiness *significantly* ([ref](https://tobaccocontrol.bmj.com/content/26/2/195.abstract))
@@ -506,6 +506,7 @@ The list of factors that turn out to have fairly strong associations with happin
 * **Being able to regulate negative emotions** ([ref](https://link.springer.com/article/10.1007/s10902-011-9312-4))
 * **Height** ([ref](https://www.ncbi.nlm.nih.gov/pubmed/31693261))
 * **Appreciation** which includes being present, self/social comaparison, gratitude, and interpersonal appreciation ([ref](https://www.sciencedirect.com/science/article/abs/pii/S0191886912000888))
+* **Living with your partner** ([ref](https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions))
 
 #### Weak Predictors
 * **Leisure Satisfaction**: Being satisfied with how you spend your leisure time ([ref](https://www.tandfonline.com/doi/abs/10.1080/11745398.2010.9686871))
@@ -526,9 +527,9 @@ The list of factors that turn out to have fairly strong associations with happin
 #### Neutral Predictors
 * **Physical Attractiveness** is unrelated to happiness ([ref](https://psycnet.apa.org/record/1995-40426-001))
 * **Intelligence** is unrelated to happiness ([ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2143374))
-* **Parenthood** is unrelated to happiness ([ref](https://psycnet.apa.org/record/2002-00473-000)). Compared to childless couples, parents worry more and experience more marital problems. Apparently, the good and bad aspects of parenthood balance each other out. The evidence indicates that people who have children are neither more nor less happy than people without children (Argyle, 2001).
+* **Parenthood** is unrelated to happiness ([ref](https://psycnet.apa.org/record/2002-00473-000)). Compared to childless couples, parents worry more and experience more marital problems. Apparently, the good and bad aspects of parenthood balance each other out. The evidence indicates that people who have children are neither more nor less happy than people without children (Argyle, 2001). Other research shows a sharp drop in happiness post birth ([ref](https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions)).
 * **Gender** does not correlate with happiness ([ref](https://www.tandfonline.com/doi/abs/10.1207/s15327582ijpr0403_7?journalCode=hjpr20)) - men and women are equally happy. (this is a separate measurement from depression incidence)
-* **Age** is not correlated with happiness ([ref](https://psycnet.apa.org/record/2000-03362-000), [ref](https://journals.sagepub.com/doi/abs/10.1177/1745691618765171)) (less than 1% of the variance) and has been found to be consistently unrelated.
+* **Age** doesn't correlate at all according to some research (<1% variance>) ([ref](https://psycnet.apa.org/record/2000-03362-000), [ref](https://journals.sagepub.com/doi/abs/10.1177/1745691618765171)). Other research demonstrates a U curve, meaning a drop in happiness mid life before a raise in late life ([ref](https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions)).
 
 As you can see, quite a number of factors that you might expect to be influential appear to bear little or no relationship to general happiness. And you can find study correlations between all sorts of things ([ref](https://www.lesswrong.com/posts/33KewgYhNSxFpbpXg/scientific-self-help-the-state-of-our-knowledge), [ref](http://lesswrong.com/lw/4su/how_to_be_happy/)) - [OurWorldInData](https://ourworldindata.org/happiness-and-life-satisfaction) did a great writeup.
 
@@ -544,13 +545,20 @@ https://en.wikipedia.org/wiki/Ed_Diener
 https://sci-hub.se/10.1038/s41562-018-0307-6
 https://sci-hub.se/10.1037/cap0000063
 
-https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
 
-https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions
 
-https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf
 
-https://www.webarchive.org.uk/wayback/archive/20150926115101/http://cep.lse.ac.uk/_new/research/wellbeing/causes_and_effects_of_wellbeing.asp
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -628,6 +636,11 @@ The idea that you can make a single retrospective judgement from a single point 
 
 --- ---
 ===---
+https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf
+
+https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/8656337 only events during the prev 3mo matter to affect
 
 https://www.ncbi.nlm.nih.gov/pubmed/17451017 being a business student
