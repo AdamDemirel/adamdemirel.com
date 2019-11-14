@@ -453,7 +453,7 @@ As mentioned, one of the four methods to maximise our happiness is to "shape our
 
 And just as you would expect, psychologists have tried [operationalizing](https://en.wikipedia.org/wiki/Operationalization) happiness - making it as measurable as possible. This is useful for any construct because it means we can standardise it and try to find practical applications for the research. The way they have done this is simply by *asking* people how happy they are.
 
-Psychologists have done just this. Measuring happiness in the Psychology literature has often gone by the title '**[Subjective Wellbeing](https://en.wikipedia.org/wiki/Subjective_well-being)** (SWB)', rather than 'happiness'. The field began in 1984 and was developed by Ed Diener which has done a lot of work in the area.
+Psychologists have done just this. Measuring happiness in the Psychology literature has often gone by the title '**[Subjective Wellbeing](https://en.wikipedia.org/wiki/Subjective_well-being)** (SWB)', rather than 'happiness'. The reason is because the word happiness is a single construct, whereas subjective wellbeing captures two constructs - cognitive and emotional as shown below. The field began in 1984 and was developed by [Ed Diener](https://en.wikipedia.org/wiki/Ed_Diener) which has done a lot of work in the area.
 
 There are two primary ways of measuring happiness by this model:
 1. **The Cognitive Account** of happiness relies on a measurement called **[Life Satisfaction](https://en.wikipedia.org/wiki/Life_satisfaction) Reports** which is a 1-5 question self-report survey, with the question almost always verbatim *"all things considered, how happy are you with your life at the moment on a scale of 1–10?"*
@@ -475,8 +475,9 @@ There have been a lot of findings in this field of research. The findings of the
 #### Strong Predictors
 * **Mental Health** is the strongest individual predictor of LS ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5511887/))
 * **Love and marriage** and happiness ([ref](https://psycnet.apa.org/record/1999-02842-019), [ref](https://journals.sagepub.com/doi/abs/10.1177/0022022100031004001)). Romantic relationships can be stressful. Nevertheless, people consistently rate being in love as one of the most critical ingredients of happiness. Married people are happier than people who are single or divorced. However, the casual relations are unclear - it may be that happiness causes marital satisfaction more than martial satisfaction promotes happiness. Perhaps people who are happy tend to have better intimate relationships and more stable marriages, while people who are unhappy have more difficulty finding and keeping mates.
+* The **fulfillment of basics** needs such as food and shelter ([ref](https://www.nature.com/articles/s41562-018-0307-6))
 * **[Job satisfaction](https://adamdemirel.com/job-satisfaction)** ([ref](https://psycnet.apa.org/record/2008-00541-019)). People often complain about their work. Therefore, one might not expect work to be a key source of happiness. But it is. It's not as critical as love or marriage, but job satisfaction has a substantial association with general happiness. Studies also show that **unemployment** has strong negative effects on SWB ([ref](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/225510/subjective_wellbeing_employment.pdf)). It's difficult to sort out whether job satisfaction causes happiness or vice versa, but evidence suggests that causation flows both ways.
-* **Genetics** ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16219116), [ref](https://www.webarchive.org.uk/wayback/archive/20150926115101/http://cep.lse.ac.uk/_new/research/wellbeing/causes_and_effects_of_wellbeing.asp)) - account for about 50% variance (which is a *lot* in happiness research - more than anything else). The best predictor of individuals future happiness is their past happiness. Some people seem destined to be happy and others unhappy, regardless of their triumphs or setbacks. The limited influence of life events is demonstrated with the hedonic treadmill (which I'll talk about further below).
+* **Genetics** ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16219116), [ref](https://www.webarchive.org.uk/wayback/archive/20150926115101/http://cep.lse.ac.uk/_new/research/wellbeing/causes_and_effects_of_wellbeing.asp)) - account for about 30-40% variance ([ref](https://www.nature.com/articles/s41562-018-0307-6)) (which is a *lot* in happiness research - more than anything else). The best predictor of individuals future happiness is their past happiness. Some people seem destined to be happy and others unhappy, regardless of their triumphs or setbacks. The limited influence of life events is demonstrated with the hedonic treadmill (which I'll talk about further below).
   * [Sleep Quality](https://adamdemirel.com/sleep) ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index))
 * An **Optimistic mindset** in explaining negative setbacks ([ref](https://www.goodreads.com/book/show/26123.Learned_Optimism)) - ie ones beliefs about themselves, others, and the world, and the absence of cognitive distortions/learned helplessness.
 * The **absence of smoking** cigarettes/quitting smoking improves happiness *significantly* ([ref](https://tobaccocontrol.bmj.com/content/26/2/195.abstract))
@@ -495,7 +496,7 @@ The list of factors that turn out to have fairly strong associations with happin
 * **Health & Happiness of close relatives** ([ref](https://www.about.sainsburys.co.uk/about-us/live-well-for-less/living-well-index)) ([ref](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf))
 * **Smiling frequency / [duchenne](https://en.wikipedia.org/wiki/Smile#Duchenne_smile) smiling** ([ref](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf))
 * **Religion** and happiness ([ref](https://psycnet.apa.org/record/1999-02842-019)), though this may be due to religious attendance and not religious belief ([ref](https://www.ncbi.nlm.nih.gov/pubmed/19142047))
-
+* **Mindfulness** ([ref](https://selfdeterminationtheory.org/SDT/documents/2003_BrownRyan.pdf))
 * Participating in a **group sport** - partly by identifying with a group ([ref](http://www.sciencedirect.com/science/article/pii/S0167487012000402))
 * **[Ratings of one's happiness made by friends](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf)**
 * Above includes whether you **live alone** and **eat alone** often ([ref](https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/Sainsburys%20Living%20Well%20Index%20Wave%204%20Jun%202019%20FV.pdf))
@@ -533,26 +534,19 @@ The list of factors that turn out to have fairly strong associations with happin
 
 As you can see, quite a number of factors that you might expect to be influential appear to bear little or no relationship to general happiness. And you can find study correlations between all sorts of things ([ref](https://www.lesswrong.com/posts/33KewgYhNSxFpbpXg/scientific-self-help-the-state-of-our-knowledge), [ref](http://lesswrong.com/lw/4su/how_to_be_happy/)) - [OurWorldInData](https://ourworldindata.org/happiness-and-life-satisfaction) did a great writeup.
 
-[Ed Diener](https://eddiener.com/articles#2019)'s main findings in the field are summarised as the following. Life Satisfaction reports tend to be stable over time. External events in our life are relatively unimportant in comparison to personality, and we mostly return to a neutral **hedonic setpoint** (as mentioned in the hedonic treadmill section) regardless of what happens. Humans adapt very quickly to some events like imprisonment, slowly to the death of loves ones, and not at all to the pain of noise and the pleasure of sex. So external events move people away from their life satisfaction baseline but they return back. This setpoint is probably caused by our personality, which is in turn a genetically inherited predisposition to be happy/unhappy (genetics explain 20-50% of personality ([ref](https://www.ncbi.nlm.nih.gov/pubmed/11699599))). Trait neuroticism is significantly bad, whereas extraversion is significantly good, and openness, agreeableness, and conscientousnes are less significant.
+#### Summary of the Life Satisfaction Research
+As mentioned, [Ed Diener](https://eddiener.com/articles#2019) pioneered and did a lot of the important work in the field. Three great reviews are [here](https://www.nature.com/articles/s41562-018-0307-6), [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title), and [here](https://eddiener.com/articles/925). His main findings are that life satisfaction reports tend to be stable over time. Genetics account for 30-40% of the variance in happiness ratings, caused by having a happy/unhappy personality - specifically extraversion being good, and neuroticism being bad. The cause of genes and personality on wellbeing are perhaps the only major long term causes. But 60-70% is also environmental and within our control. Those environmental variables are fulfilling our basic needs (food and shelter), psychological needs (eg autonomy), social needs, and experiencing respect from others. Income is important up until a point, because it helps us fulfill our basic needs.
+
+Beyond basic needs, life circumstances also affect our Life Satisfaction ratings. People are happier one year before marriage and stay happy for ~2yr after before returning to baseline. Having children does not improve life satifaction. Widowhood, unemployment, and disability all have strong negative effects on life satisfaction.
 
 
 
+main findings in the field are summarised as the following. Life Satisfaction reports tend to be stable over time. External events in our life are relatively unimportant in comparison to personality, and we mostly return to a neutral **hedonic setpoint** (as mentioned in the hedonic treadmill section) regardless of what happens. Humans adapt very quickly to some events like imprisonment, slowly to the death of loves ones, and not at all to the pain of noise and the pleasure of sex. So external events move people away from their life satisfaction baseline but they return back. This setpoint is probably caused by our personality, which is in turn a genetically inherited predisposition to be happy/unhappy (genetics explain 20-50% of personality ([ref](https://www.ncbi.nlm.nih.gov/pubmed/11699599))). Trait neuroticism is significantly bad, whereas extraversion is significantly good, and openness, agreeableness, and conscientousnes are less significant.
+
+This returning to baseline happens with most life events, and is called *set point theory*. It is believed to be biologically determined. But some serious negative events such as unemployment, divorce, and widhood do not return to baseline.
 
 
-swbresearch:
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/#S7title
-https://en.wikipedia.org/wiki/Ed_Diener
-https://sci-hub.se/10.1038/s41562-018-0307-6
-https://sci-hub.se/10.1037/cap0000063
-
-
-
-
-
-
-
-
-
+// todo: rwerite all of above with clarity, now that research is fresh in my mind
 
 
 
@@ -573,7 +567,16 @@ https://sci-hub.se/10.1037/cap0000063
 
 
 ### Issues with SWB / Conclusions about SWB
-According to Diener and Suh, subjective well-being is "...based on the idea that how each person thinks and feels about his or her life is important".[11]https://psycnet.apa.org/record/2000-16279-000
+So Diener said that they continue to study life satisfaction reports based on the idea that "how each person thinks and feels about his or her life is important" ([ref](https://psycnet.apa.org/record/2000-16279-000)). Indeed, life satisfaction reports tend to correlate around .7 with reports of emotions over time ([ref](https://psycnet.apa.org/record/1991-00334-001)).
+
+But prima facie, there does seem to be some obvious deficits with measuring happiness like this. People may be dishonest about their reports, people may be inaccurate with their reports, subjects can be primed prior to the question, and current mood was thought to influence life satisfaction rating (but shown to not have a large effect ([ref](https://www.ncbi.nlm.nih.gov/pubmed/30936533))).
+
+
+
+* see phone screenshots
+
+
+
 
 it is a cognitive based account rather than emotional/affective
 
@@ -625,10 +628,9 @@ The idea that you can make a single retrospective judgement from a single point 
 
 - PERMA / 'flourish psychology' (see /perma/) https://en.wikipedia.org/wiki/Positive_psychology https://www.youtube.com/watch?v=9FBxfd7DL3E&t=943s # "life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from flourish book)"  https://en.wikipedia.org/wiki/Well-being#PERMA-theory https://en.wikipedia.org/wiki/Flourishing
 
-- Where does goal setting fit?
+- Where does goal setting fit? -> dieners paper about goal setting important for moods? or just that our goals should be based on the conclusions of this paper?
 - Impact-bias, peak-end effect, dan gilbert
-- Sociality, rat world addiction when deprived - addiction video
-  - – The **novelty** of one's environment, including their social relationships (See 'Rat Park' experiments)
+- Sociality, 'rat park' addiction video
   - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
 
 
@@ -636,6 +638,23 @@ The idea that you can make a single retrospective judgement from a single point 
 
 --- ---
 ===---
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/
+see 'Alternatives to Global Self-Reports: Experiential Measures'
+
+https://www.ncbi.nlm.nih.gov/pubmed/20565185
+Across the world, income appears to be more
+strongly associated with life evaluation than with positive/negative
+feelings44. W
+
+https://www.ncbi.nlm.nih.gov/pubmed/15576620
+
+* Positive emotions tend to reach peak around noon and evening (https://sci-hub.se/10.1038/s41562-018-0307-6)
+* People are slightly happier on Saturday than on a Monday ([ref](https://sci-hub.se/10.1038/s41562-018-0307-6))
+* "Real time estimates" to increase fidelity of actual experiences
+* "momentary assessment"
+* Self reports of SWB are highly correlated with experiences of momentary reports
+* Positive affect strongly associated with having social needs met .29 ([ref](https://www.nature.com/articles/s41562-018-0307-6)) and experiencing respect from others .36
+
 https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Kahneman_2006_Measurement.pdf
 
 https://www.gsb.stanford.edu/insights/if-money-doesnt-make-you-happy-consider-time https://www.sciencedirect.com/science/article/abs/pii/S1057740811000192
@@ -763,6 +782,8 @@ https://plato.stanford.edu/archives/fall2011/entries/happiness/
   - minimising desires
   - minimising desire / downshifting
 
+
+individuals actually display a positivity bias (ref https://sci-hub.se/10.1038/s41562-018-0307-6) rather than negativity bias
 
 ## MINIMISE PSYCHOLOGICAL PAINS
 - Minimise psychological pains by losing self-reflective consciousness.
@@ -899,6 +920,9 @@ on the other end of the stick if this is all overwhelming one possible way to li
 ---
 
 # neurohedonism
+https://sci-hub.se/10.1038/s41562-018-0307-6
+see 'theoretical processes associated with swb' section https://www.nature.com/articles/s41562-018-0307-6
+
 https://en.wikipedia.org/wiki/Well-being_contributing_factors#Biological_factors
 
 all about hedonic setpoints
