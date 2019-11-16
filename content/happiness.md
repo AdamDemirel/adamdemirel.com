@@ -539,15 +539,32 @@ As mentioned, [Ed Diener](https://eddiener.com/articles#2019) pioneered and did 
 
 Beyond basic needs, life circumstances also affect our Life Satisfaction ratings. People are happier one year before marriage and stay happy for ~2yr after before returning to baseline. Having children does not improve life satifaction. Widowhood, unemployment, and disability all have strong negative effects on life satisfaction.
 
-
-
-main findings in the field are summarised as the following. Life Satisfaction reports tend to be stable over time. External events in our life are relatively unimportant in comparison to personality, and we mostly return to a neutral **hedonic setpoint** (as mentioned in the hedonic treadmill section) regardless of what happens. Humans adapt very quickly to some events like imprisonment, slowly to the death of loves ones, and not at all to the pain of noise and the pleasure of sex. So external events move people away from their life satisfaction baseline but they return back. This setpoint is probably caused by our personality, which is in turn a genetically inherited predisposition to be happy/unhappy (genetics explain 20-50% of personality ([ref](https://www.ncbi.nlm.nih.gov/pubmed/11699599))). Trait neuroticism is significantly bad, whereas extraversion is significantly good, and openness, agreeableness, and conscientousnes are less significant.
-
 This returning to baseline happens with most life events, and is called *set point theory*. It is believed to be biologically determined. But some serious negative events such as unemployment, divorce, and widhood do not return to baseline.
 
 
 // todo: rwerite all of above with clarity, now that research is fresh in my mind
 
+#### Issues with SWB / Conclusions about SWB
+So Diener said that they continue to study life satisfaction reports based on the idea that "how each person thinks and feels about his or her life is important" ([ref](https://psycnet.apa.org/record/2000-16279-000)). Indeed, life satisfaction reports tend to correlate around .7 with reports of emotions over time ([ref](https://psycnet.apa.org/record/1991-00334-001)) - at least in this short 3 week study.
+
+But prima facie, there does seem to be some obvious deficits with measuring happiness like this ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/)). Subjects may:
+* Be dishonest in their reports
+* Be innacurate in their reports
+* Decieve themselves about their own wellbeing
+* Be primed prior to the question, eg by the weather.
+* Have their life satisfaction reports influenced by their current mood. (shown to not have a large effect ([ref](https://www.ncbi.nlm.nih.gov/pubmed/30936533))
+* Unwilling to provide an honest answer to researchers
+* Interpret the meaning of the question differently
+
+But the biggest issue in the whole life satisfaction rating area of research is the accuracy of the measurement. Due to it being a cognitive rather than emotional account - meaning participants reflect and then rate, there is no reason to believe it's very accurate or that humans are able to do this well.
+
+If you ask somebody to rate their life on a scale of 1-10, this is a single retrospective judgement at one moment in time and it is impossible that participants are able to accurately remember every single emotion they have ever experienced, and sum them up in their head, do a calculation on them, and output an accurate reflection of their life. Or even over a shorter timespan, eg for a day. It is infeasible we are able to conduct a comprehensive search of the relevant memories and aggregate them into a meaningful report ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/)). And research shows people make judgements too quickly for it to even be feasible that they are searching their memory ([ref](https://www.ncbi.nlm.nih.gov/pubmed/12405138)) - people make the judgements almost instantenously.
+
+It's been suggested that perhaps people are recalling a life satisfaction judgement stored in memory, or using quick heuristics that enable fast but still potentially accurate reports, but it's still unlikely they are very accurate ([ref](http://www.economics-ejournal.org/economics/journalarticles/2012-28/references/Schwarz1999)).
+
+What's more likely happening is that the participants current mood is influencing their well-being judgement, as research has demonstrated is the case ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/)). Unfortunately the sample sizes of the current studies demonstrating this are quite small but it is the most likely explanation. Also some later research suggested that the effects of current mood on life satisfaction judgements are small ([ref](https://link.springer.com/article/10.1023/B:SOCI.0000003801.89195.bc)). But again, small sample sizes.
+
+So it is not clear according to the *research* whether life satisfaction measures can be completely relied upon. In fact, that's why the subjective wellbeing research is split into life satisfaction and affective balance measures, which I'll cover below. But as I mentioned, to me it seems extremely unlikely that we are accurately refecting our emotional life in our cognitive judgements due to the complexity and difficulty of doing so, so the life satisfaction research to me seems completely useless regardless of how widely it's used and studied.
 
 
 
@@ -556,43 +573,9 @@ This returning to baseline happens with most life events, and is called *set poi
 
 
 
+### Affective Balance
 
 
-
-
-
-
-
-
-
-
-### Issues with SWB / Conclusions about SWB
-So Diener said that they continue to study life satisfaction reports based on the idea that "how each person thinks and feels about his or her life is important" ([ref](https://psycnet.apa.org/record/2000-16279-000)). Indeed, life satisfaction reports tend to correlate around .7 with reports of emotions over time ([ref](https://psycnet.apa.org/record/1991-00334-001)).
-
-But prima facie, there does seem to be some obvious deficits with measuring happiness like this. People may be dishonest about their reports, people may be inaccurate with their reports, subjects can be primed prior to the question, and current mood was thought to influence life satisfaction rating (but shown to not have a large effect ([ref](https://www.ncbi.nlm.nih.gov/pubmed/30936533))).
-
-
-
-* see phone screenshots
-
-
-
-
-it is a cognitive based account rather than emotional/affective
-
-There are weaknesses to the self-report method of elicitation for happiness: The lay conception of emotions (affect) is that they are discrete. It is typical, in everyday language, just as in research, to use research protocols that accept answers such as: "I am happy or I am sad, but not both simultaneously", or "I am 7 on a 1-10 scale of happiness (likert)".
-
-https://www.clearerthinking.org/single-post/2019/01/08/Is-self-reporting-happiness-reliable
-
-> Happiness is a single retrospective judgement based on memory/emotional state at ONE point in time (aka a meme!).
-
-We must be cautious about drawing inferences about the causes of happiness. The available data are correlational, not causal. I don't think the causal direction is the main offender for this field of research though.
-
-The first minor takedown comes from **hedonic adaptation**. Research on SWB indicates that people often adapt to their circumstances. Hedonic adaption occurs when the mental scale that people use to judge the pleasantness-unpleasantness of their experiences shifts so that their neutral point, or baseline for comparison, changes. Evidence suggests people adapt more slowly to negative events than to positive events. The idea is that the effect of big events on wellbeing is quite fleeting as humans are adaptable, suggesting that we have to depend on the non-event correlates like genes, relationships, etc, mentioned above.
-
-I think the major takedown of the research is the following.
-
-Two types of measures: *global evaluations* ("all things considered, how do you feel about your life?"), and *local evaluations ("have you experienced specific positive or negative emotions the previous day?")* are used to measure happiness, based on self report. In both situations, the person being questioned is making a **single, retrospective judgement/report about the past** (whether it's a day ago, year, or life). This essentially depends on the individual to firstly accurately remember, remember in sufficient detail, and then calculate their experiences accurately to make a correct summary - what's called **remembered utility**. Psychology has shown that there are a lot of quirks in humans ability to do this, and we are terrible at framing. These are called F*raming Effects* (see dan gilbert's research for all the issues).
 
 The idea that you can make a single retrospective judgement from a single point in time, and do it accurately, is obviously faulty. A much better alternative would be if we could tell how people actually feel moment to moment, and then we can see whether what they report is truly how they felt. This was (3) mentioned at the start of this article - **We can study how people feel about their lives moment to moment. This is called experienced utility**. This will be the subject of part 3 of this series.
 
@@ -600,6 +583,7 @@ The idea that you can make a single retrospective judgement from a single point 
 
 
 
+https://www.clearerthinking.org/single-post/2019/01/08/Is-self-reporting-happiness-reliable
 
 
 
@@ -612,32 +596,9 @@ The idea that you can make a single retrospective judgement from a single point 
 
 
 
+"experiential vs evaluative" measures of SWB
+the latter evaluating ones life as a whole or aggregating over emotional experiences from a long time period, may be difficult for respondents to do which may make these evlauations prone to biases that affect their reliability
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-- PERMA / 'flourish psychology' (see /perma/) https://en.wikipedia.org/wiki/Positive_psychology https://www.youtube.com/watch?v=9FBxfd7DL3E&t=943s # "life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from flourish book)"  https://en.wikipedia.org/wiki/Well-being#PERMA-theory https://en.wikipedia.org/wiki/Flourishing
-
-- Where does goal setting fit? -> dieners paper about goal setting important for moods? or just that our goals should be based on the conclusions of this paper?
-- Impact-bias, peak-end effect, dan gilbert
-- Sociality, 'rat park' addiction video
-  - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
-
-
-
-
---- ---
-===---
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329388/
 see 'Alternatives to Global Self-Reports: Experiential Measures'
 
@@ -762,18 +723,36 @@ The affective and life-satisfaction views of happiness differ meaningfully when 
 https://plato.stanford.edu/archives/fall2011/entries/happiness/
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ---
 
 
 
 
+- PERMA / 'flourish psychology' (see /perma/) https://en.wikipedia.org/wiki/Positive_psychology https://www.youtube.com/watch?v=9FBxfd7DL3E&t=943s # "life satisfaction = hugely predicted by the pursuit of meaning, and engagement, and not at all by positive emotions. once you have meaning and engagement though, positive emotions are the cream on the top. (from flourish book)"  https://en.wikipedia.org/wiki/Well-being#PERMA-theory https://en.wikipedia.org/wiki/Flourishing
 
-
-
-
-
-
+- Where does goal setting fit? -> dieners paper about goal setting important for moods? or just that our goals should be based on the conclusions of this paper?
+- Impact-bias, peak-end effect, dan gilbert
+- Sociality, 'rat park' addiction video
+  - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
 ---
 ---
 
