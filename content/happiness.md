@@ -574,10 +574,57 @@ So it is not clear according to the *research* whether life satisfaction measure
 
 
 ### Affective Balance
+The experience of a moment or an episode is not easily represented by a single happiness value.  as we saw above. But there is another and potentially more accurate way to measure emotions over time, and researchers have attempted to do just that by measuring what they call 'positive affect' and 'negative affect' - equivalent to positive and negative emotions.
 
+And they try to measure affect in a way that allows us to see how people feel about their lives **moment to moment**, rather than retrospectively. This is obviously a *much* superior method because rather than relying on a single report, we can take many reports throughout the day, where the participant is extremely closer in time and space to the events being measured, and see how people feel about it.
 
+It still depends on self-reports similar to life satisfaction, so will still have a few flaws eg dishonest reports. But the much bigger benefit of the reports are that they measure: "**right now, not later; and right there; not elsewhere**.
 
-The idea that you can make a single retrospective judgement from a single point in time, and do it accurately, is obviously faulty. A much better alternative would be if we could tell how people actually feel moment to moment, and then we can see whether what they report is truly how they felt. This was (3) mentioned at the start of this article - **We can study how people feel about their lives moment to moment. This is called experienced utility**. This will be the subject of part 3 of this series.
+Daniel Kahneman did a lot of the work in this area after discovering the flaws of life satisfaction reports in the paper X. In chapter 37 "Experiencinged Well-Being" of his popular book Thinking Fast and Slow, he referred to life satisfaction reports as **remembered utility** (utility being a measurement of happiness), and these moment to moment reports as **experienced utility**. Due to it being able to measure experiences as they are being had, or shortly after, it is granted to give a more accurate judgement of experience. More clearly: If I were to ask you how currently feeling rather than how you felt a week ago, you'd give me a more accurate answer. That's what this research aims to get at.
+
+This gives some interesting results - as what you would expect is that how people feel moment to moment would be the same as how people remember feeling, but this is not the case. I will give an extreme example of that at the end of this article, but for now, I'm going to cover the relevant findings from using this methodology.
+
+To measure experienced utility, a continuous recording of experience is unfortunately impossible - a person cannot live normally while constantly reporting their experiences. The closest alternative is the **Experience Sampling Method**, which Mihaly Csikszentmihalyi (the dude that also created the theory of *flow states*) invented. What he did was give people a bunch of diaries or pagers and then pinged them at random times during the day (or more recently vibrated peoples phones). When he pinged them, they would report what they were currently doing when they were interrupted, who they were with, and how they felt (using a rating scale of various feelings - happiness, tension, anger, worry, pain, engagement, and more). Using this ingenious method we could get a direct measure of how people were *currently* feeling whilst doing various activities. With large enough datasets which can begin to find correlations which give support to the conclusion that certain activities are associated with pleasurable and painful states.
+
+You can see how this is similar to the remembered utility measurements but it is far more accurate as you are no longer depending on the quality of the subject's memory to accurately report their experience and it overcomes most of the issues bound up in framing effects.
+
+The following data shows what experiences are correlated with positive and negative emotions. The Net Affect column is the average of positive emotions minus the average of negative emotions. The last column is the **U-index** - a misery index of sorts, which measures the proportion of time that people spend in an unpleasant state. It is a proportion of time (aggregated over respondents) in which the highest rated feeling was a negative feeling. In other words the higher the U-index number, the more that people report feeling unhappy whilst doing the activity. For the morning commute, individuals spent on average 28% of the time in an unpleasant state, whereas only 4% for sex. The biggest surprise was the emotional experience of the time spent with one's children, which for American women was slightly less enjoyable than doing housework.
+
+![uindex](/images/happiness/uindex.png)
+
+>Overall, the results in Table 2 indicate that net affect is highest, on average, when individuals are engaged in leisure activities (such as socializing after work) and lowest when they are engaged in market work and investment or personal maintenance activities (such as housecleaning). Commuting in the morning appears particularly unpleasant. Social contact during an episode is associated with high positive emotions, as emphasized by Helliwell and Putnam (2005). Interestingly, in our data the average net affect experienced during episodes of commuting rises to that of the overall average level if the commuter is accompanied by someone, indicating the influence of social contact.
+
+> A striking observation was the extent of inequality in the distribution of emotional pain. About half our participants reported going through an entire day without experiencing an unpleasant episode. On the other hand, a significant minority of the population experienced considerable emotional distress for much of the day. It appears that a small fraction of the population does most of the suffering - whether because of physical or mental illness, an unhappy temperament, or the misfortunes and personal tragedies in their life.
+
+Not surprisingly, a headache will make a person miserable, and the second best predictor of the feelings of a day is whether a person did or did not have contacts with friends or relatives. **It is only a slight exaggeration to say that happiness is the experience of spending time with people you love and who love you.**
+
+Some other findings are:
+
+![experiencingself](/images/happiness/experiencing.png)
+
+While net affect and reported life satisfaction are positively correlated, differences between them are worth emphasizing. Personality variables - including factors such as sleep, depression, and religiosity - predict life satisfaction and net affect about equally well. Demographic factors, including ethnicity, income, education, and marital status, predict life satisfaction more strongly than they predict affect. Time use predicts net affect more than it predicts life satisfaction. These contrasts suggest that net affect provides a window on people's experience that is distinct from that captured by standard life satisfaction measures.
+
+Some aspects of life have more effect on the evaluation of one's life than on the experience of living. Educational attainment is an example. More education is associated with a higher evaluation of one's life, but not with greater experienced well-being. On the other hand, ill health has a much stronger adverse effect on experienced well-being than on life evaluation. Living with children also imposes a significant cost in the currency of daily feelings - reports of stress and anger are common among parents, but the adverse effects on life evaluation are smaller.
+
+* An analysis of more than 450,000 responses to the Gallup-Healthways Well-Being Index, a daily survey of 1,000 Americans, provides a surprisingly definite answer to the most frequently asked question in well-being research: **Can money buy happiness?** The conclusion is that being poor makes one miserable and that being rich may enhance one's life satisfaction, but does not (on average) improve experienced well-being.
+* The beneficial effects of the weekend on experienced well-being are significantly smaller for the very poor than for most everyone else.
+* The satiation level beyond which experienced well-being no longer increases was a household income of about $75,000 in high-cost areas (it could be less in areas where the cost of living is lower). The average increase of experienced well-being associated with incomes beyond that level was precisely zero.
+
+Another interesting study looked at data from millions of public twitter messages and codified the feeling of their tweets, looking at how happiness is affected by time of day. Individuals awaken in a good mood that deteriorates as the day progresses, and people are happier on weekends ([ref](https://science.sciencemag.org/content/333/6051/1878)).
+
+Lastly, a recent study was done showing that although people think repeating experiences such a visiting a museum or restaurant will be less enjoyable than the first time, that's not the case ([ref](https://www.gwern.net/docs/culture/2019-obrien.pdf)).
+
+#### Summary of Affective Balance
+So we have two popular types of measurement used so far - we've got data on how people evaluate their lives to be, and what variables correlate with that life satisfaction. And we have data on how people actually report feeling moment to moment. Commonsensically I think people are referring something similar to life satisfaction reports when they talk about pleasure/pain not being happiness/happiness - that is, they think evaluating ones life gives a more accurate picture of happiness than pleasure/pain. On the other hand experienced utility captures a measurement of pleasure and pain in quite an accurate way - rather than people just verbally reporting on their memories, they are telling us what emotions they are actually feeling - positive or negative, pleasurable or painful. So hopefully this article made clear that **there are two main types of happiness - the wellbeing that people experience as they live their lives, and the judgment they make when they evaluate their life.**
+
+> The general conclusion is as clear for well-being as it was for colonoscopies: people's evaluations of their lives and their actual experience may be related, but they are also different. Life satisfaction is not a flawed measure of their experienced well-being, as I thought some years ago. It is something else entirely. - Kahneman
+
+And his conclusion to draw from this is "The easiest way to increase happiness is to control your use of time. Can you find more time to do the things you enjoy doing?" Conditions such as paraplegia or marriage are not full-time states, they are only things experienced when cognitive attention is brought to them.
+
+And most interestingly of all this, when people were asked to choose between experienced happiness and remembered happiness, **most people choose experienced happiness for longer timeframes, but not for shorter timeframes** (eg one's lifetime vs next hour). Since people typically live hour-to-hour, these findings imply that **people may end up living a different version of happiness than what they believe is a happy life** ([ref](https://www.tandfonline.com/doi/abs/10.1080/17439760.2018.1460688?journalCode=rpos20)).
+
+Kahneman's conception of experiencing utility is that experience is a continuous flow of pleasure and pain, and that the happiness of an individual during a period of time is the sum of the momentary utilities over that time period. Several methods have been developed to measure the flow of that utility from moment to moment, and it raises some interesting quirks that make us wonder if we can even trust the Experience Sampling Method.
+
 
 
 
@@ -593,7 +640,7 @@ https://www.clearerthinking.org/single-post/2019/01/08/Is-self-reporting-happine
 
 
 
-
+Kahneman, Krueger (2006) Developments in The Measurement of Subjective Well-Being
 
 
 "experiential vs evaluative" measures of SWB
