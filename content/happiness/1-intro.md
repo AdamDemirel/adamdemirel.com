@@ -1,0 +1,16 @@
+<!-- http://ruby-for-beginners.rubymonstas.org/built_in_classes.html -->
+
+> If you don't get what you want, you suffer; If you get what you don't want, you suffer; Even when you get exactly what you want, you still suffer because you can't hold on to it forever. Your mind is your predicament. It wants to be free of change. Free of pain, free of the obligations of life and death. But change is law and no amount of pretending will alter that reality. - Socrates
+
+# Intro
+The purpose of this essay is to explore and attempt to discover what happiness is and form a model of what a life well spent looks like. Each of us has on average 36,000 days of life to do something worthwhile, and it is important that we spend that limited time in ways which we value. I've done my best to explore the many angles that can be taken to answer this question here, and hopefully an hour read can change how you spend some of your time.
+
+![sadf](/images/happiness/timemonths.png)
+
+Happiness means something different to different people, at different times, and in different places. This isn't helpful because to be able to improve something, you need an invariable definition of what it is. What I'm referring to by the term happiness will become clear throughout but at it's core it is simply a [value system](https://en.wikipedia.org/wiki/Axiology) - a system of preferences about the past, the present, and the future.
+
+Historically, through different points and different cultures, happiness actually means **good fortune** ([1](https://youtu.be/hjACfaEh9BM?t=1378), [2](https://www.ncbi.nlm.nih.gov/pubmed/23599280)). It didn't mean the emotional response to good fortune, but literally meant good fortune itself. It didn't mean that a happy person is also a lucky person, it meant that a happy person is somebody who *is* lucky. This previously dominant definition has been displaced by modern culture and for an obvious reason - it's not very applicable.
+
+The importance of this analysis and modern happiness research is uncovering variables that we can modify to empower our decisions which can alter our lives in large and small ways. To back trace the history a bit - some of the first figures to attempt to deviate from this good fortune viewpoint and take happiness within their control were some of the Ancient Greeks.
+
+I'll begin by covering what three schools of Ancient Greek thought had to say about happiness: the Epicureans, the Cyrenaics, and the Stoics. I'll follow by categorizing what I think are the common themes extracted from the Greek thought - which I'll use to define 4 main theoretical models which we can go about improving our happiness: Minimizing Pleasure, Maximizing Pain, Maximizing Pleasure, and Minimizing Pain. I'll also give my definition of happiness here. I'll give a quick summary of whether Minimizing Pleasure is conducive to our goal, followed by an in depth discussion of the research on maximizing happiness - from some techniques like savoring, to covering the three temporal models we use to measure happiness: remembering it, experiencing it, and predicting it, and the potential problems with each. I'll follow by covering potential methods we can use to minimize pain. And finally I'll conclude with how we can potentially modify our base level happiness as a potential countermeasure to the problem of adaptation.
