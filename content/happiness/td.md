@@ -5,9 +5,3 @@
 - Sociality, 'rat park' addiction video
   - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
 ---
-
-
-# Learning theory
-- does it even matter that i wrote this? learning theory dicates you will keep forming responses to your environment
-- also no free will (wegner)
-- David hume inference?

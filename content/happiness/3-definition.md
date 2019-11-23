@@ -5,6 +5,8 @@ You can see how through unfolding what the basic principles of these three Greek
 3. Minimising Pains
 4. Maximising Pleasures
 
+There is a fifth way to improve it not highlighted by the Greeks, and that is by modify our resting setpoint of happiness, which I will come back to later.
+
 But before we fully take the assumption for granted that pleasures are good, and pains are bad, and we should be maximizing and minimizing them, let's explore that.
 
 The question of how to be "happy" or live a happy life has been a question plaguing humans since time immemorial.
@@ -17,62 +19,100 @@ Throughout most of animal history, animals would use their immediate environment
 
 But at an unbeknown point, early humans developed enough sentience to begin asking *how they could be better* and *what they should do with the finite amount of time they're endowed*?
 
-When you look at how people today actually behave, the rewards they seek and punishments they avoid are not based on some complex forms of reasoning and analysis like here, but are usually based on mere emotional response shortly preceding each behavior in time - which is predicted by [learning theory](https://en.wikipedia.org/wiki/Operant_conditioning). That is - people have conditioned responses to increase or decrease certain behaviors which have been previously associated with rewards or punishments.
+When you look at how people today actually behave, the rewards they seek and punishments they avoid are not based on some complex forms of reasoning and analysis like here, but are usually based on mere emotional response shortly preceding each behavior in time - which is predicted by [learning theory](https://en.wikipedia.org/wiki/Operant_conditioning). That is - people have conditioned responses to increase or decrease certain behaviors which have been previously associated with rewards or punishments. Some would even [strongly](https://scholar.harvard.edu/files/dwegner/files/minds_best_trick.pdf) argue that they have no free will.
 
 Although it seems like human experience is infinitely diverse, due to the basic universal biology and evolution we all share, there is a finite list of less than 50 *types* of pleasure or pain episodes/experiences that we can all have. Anything we can think of as pleasurable or painful can be captured under this list. If you can find any others [let me know](https://adamdemirel.com):
 
-## Pleasure Episodes
-* Mental Pleasures
-  * Learning
-      * Reading
-      * Watching movies / media
-  * Social pleasures
-      * Laughter / humor
-  * Cleanliness / order
-  * Novelty
-      * Travelling to new locations
-      * Trying new things
-      * Browsing the web
-  * Financial security
-  * Experience of cuteness
-  * Being in nature
+## Physical
+| Type       | Pain Episodes                                                                                                                                           | Pleasure Episodes                                                                |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Sensory    | Hunger / Thirst / Eating Bad Food / [Food Aversion](https://en.wikipedia.org/wiki/Conditioned_taste_aversion)                                           | Eating Good Food / Hydrating                                                     |
+|            | Olfactory: Bad / Noxious Smells                                                                                                                         | Pleasurable Smells                                                               |
+|            | Auditory: Loud / Annoying Sounds                                                                                                                        | Sound Pleasures (eg Music)                                                       |
+|            | Visual Grotesquesness                                                                                                                                   | Visual Pleasures / Art / Vivid Colors                                            |
+|            | Negation of a sensory organ - eg blind, blocked ears, blocked nose, burnt tongue                                                                        |                                                                                  |
+|            |                                                                                                                                                         |                                                                                  |
+| Biological | [Ailments](https://icd.who.int/browse10/2016/en) of the Body - [eg](https://en.wikipedia.org/wiki/Lists_of_diseases) vomiting nausea headache diarrhoea | Health                                                                           |
+|            | Sexual Frustration                                                                                                                                      | Sexual Stimulation                                                               |
+|            | Thermal discomfort - extreme hot / cold                                                                                                                 | Thermal Comfort - Cool weather/body during heat, and physical warmth during cool |
+|            | The need to urinate / defecate                                                                                                                          | Urination / Defecation                                                           |
+|            | Tiredness / Exhaustion                                                                                                                                  | Approaching Sleep during tiredness / Rest / Feeling Energetic                    |
+|            | Itchiness                                                                                                                                               | Itching a scratch                                                                |
+|            | Tactile pains - eg damaged tissue, insect bites, clothing discomfort                                                                                    | Tactile Pleasures/Comfort - eg receiving a massage, soft fabrics                 |
+|            | Shortness of breath / Inhaling Toxic Fumes                                                                                                              | Inhaling fresh air                                                               |
+|            | Internal bone aches or lactic acid burns                                                                                                                |                                                                                  |
+|            | Chemical Pains - Depressants (like alcohol), Chemical Imbalances                                                                                        | Chemical Pleasures - eg runner's high, stimulants (like caffeine), drugs         |
+
+
+## Mental
+| Type          | Pain Episodes                                                                                           | Pleasure Episodes                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Social        | Socializing with people you dislike / [outgroups](https://en.wikipedia.org/wiki/Ingroups_and_outgroups) | Socializing with people that you like                                     |
+|               | Social rejection, embarrassment                                                                         | Social approval / (Accomplishment/Mastery/Recognition)                    |
+|               | Social Aggression / Relational Aggression / Being Verbally Attacked                                     | Games / Competition / Sports                                              |
+|               | Loneliness, Social Isolation                                                                            | Love, Companionship                                                       |
+|               | Lack of personal space / proxemics                                                                      |                                                                           |
+|               | Missing somebody                                                                                        |                                                                           |
+|               | Guilt and shame                                                                                         |                                                                           |
+|               | Self Loathing                                                                                           |                                                                           |
+|               |                                                                                                         | Laughter / Humor                                                          |
+|               |                                                                                                         | Experience of cuteness                                                    |
+|               |                                                                                                         |                                                                           |
+| Psychological |                                                                                                         | Learning - reading, watching movies, consuming media                      |
+|               | Repetition, boredom                                                                                     | Novelty - traveling to new locations, trying new things, browsing the web |
+|               | Financial Insecurity - debt, buyers remorse, lack of money, loss of property                            | Financial security                                                        |
+|               | Feeling dirty                                                                                           | Feeling clean                                                             |
+|               | Death anxiety                                                                                           |                                                                           |
+|               | Lack of meaning                                                                                         | Presence of meaning                                                       |
+|               | Anger / Goal frustration, or sadness/misery/despair/helplessness/hopelessness                           | Joy / Getting what you want                                               |
+|               |                                                                                                         | Being in nature                                                           |
+|               | Anxiety, fear                                                                                           |                                                                           |
+|               | Regret                                                                                                  |                                                                           |
+|               |                                                                                                         |                                                                           |
+| Control       | Dirtiness / Environmental disorder                                                                      | Cleanliness / order                                                       |
+|               | [Job dissatisfaction](https://adamdemirel.com/job-satisfaction)                                         | Freedom to work on what you like                                          |
+|               | Altered states of consciousness - eg drug consumption                                                   |                                                                           |
+|               | Authority / Oppression                                                                                  |                                                                           |
+|               | Forgetting                                                                                              |                                                                           |
+|               | Inundation / Time Pressure                                                                              | Freedom                                                                   |
+|               | Distraction                                                                                             | Focus                                                                     |
 
 ![pleasure list](/images/happiness/pleasures.jpg)
 
-## Pain Episodes
-* Mental Pains
-  * Financial Pains
-    * Debt
-    * Buyers remorse
-    * Lack of money
-    * Loss of property
-  * Psychological Pains
-    * Feeling dirty
-    * Death anxiety
-    * Lack of Meaning
-    * Anger / Goal frustration
-    * Anxiety
-    * Inundation / Time Pressure
-    * Regret
-    * Repetition
-    * Boredom
-    * Distraction
-    * Sadness, Misery, Despair
-    * Helplessness and Hopelessness
-    * Loss of Control
-      * [Job Dissatisfaction](https://adamdemirel.com/job-satisfaction/)
-      * Altered states of consciousness - eg drug consumption
-      * Authority / Oppression
-      * Environmental disorder
-      * Forgetting
+## The Purpose of Pleasures and Pains
+So given this list and our perspective on the pleasures and pains available, we can look over this list and see a trend. Even if not immediately evident, most if not all of these serve an evolutionary purpose - as Epicurus hinted at.
+
+I'm not going to run through the whole list for the sake of brevity, but you can see how the obvious physical pleasures and pains serve our immediate biological needs for homeostasis: hydration, food, sleep, a stable temperature, cleanliness, freedom from physical pains of various sorts, indicating threats with visual disgust, loudness, and fear. The pain motivates us to avoid some situation and the pleasure is the reward when get for removing that pain.
+
+Beyond the physical needs, the mental needs also fall into a handful of categories - we have a lot of needs for social cohesion and approval which serves at the [group selection](https://en.wikipedia.org/wiki/Group_selection) level - namely we have benefited from being in social groups for our survival. Love and cuteness are also bonding emotions - cuteness makes us care for babies, and love [bonds partners](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199783267.001.0001/oxfordhb-9780199783267) to stick around long enough to raise offspring.
+
+We are attracted to novelty and change because of the potential for discovering new rewards in the environment. Similarly, we are attracted to learning of various sorts because it allows us to [observe others](https://en.wikipedia.org/wiki/Observational_learning) and acquire solutions to potential survival and reproduction problems without trying it first hand.
+
+In regards to control, it has been shown that humans have a strong innate need for control, over themselves and their environment ([ref](https://www.ncbi.nlm.nih.gov/pubmed/11554650), [ref](https://en.wikipedia.org/wiki/Self-determination_theory)). Meaning is an interesting one that we will come back to later. Chemical pleasures are man made hacks we have into our biology which don't really fit with the rest of the model, besides endogenously produced which usually offset pain - like runners high.
+
+This gives us an interesting and intuitive model to think about individual episodes of pleasures and pains. The model is that we evolved to experienced pleasure because it serves an evolutionary function: to motivate and reward us for experiences that increase our odds at survival and reproduction. The same fundamental motivation for nearly everything else. In fact, a Norwegian biologist Bjørn Grinde wrote a whole book about trying to use evolution as a guide for living, called [Darwinian Happiness](https://en.wikipedia.org/wiki/Darwinian_Happiness).
+
+In regards to basic emotions like anger at the frustration of a goal, or joy at the attainment of one, leading emotion psychologists such as Edwin Locke also support this ([ref](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199928309.001.0001/oxfordhb-9780199928309)). Modern emotion researchers think that *emotions are the form of taking automatic, subconscious value appraisals*, with a specific value appraisal serving specific functions, some being:
+* Fear is experienced during a perceived threat to one's life or well-being (or that of a loved one)
+* Anxiety is experienced during a perceived threat involves one's self-esteem, and involves more uncertainty over the threat
+* Sadness is experienced at the loss of a value
+* Depression is a more intense form of sadness involving self-deprecation and a sense of hopelessness
+* Anger is experienced when a goal is blocked
+* Guilt is experienced when one violates their moral values
+* Pleasure is experienced when one has gained or possessed a value
+* Pride is experienced during an achievement due to one's own efforts
+* Admiration is experienced during the appraisal of another person's positive achievements
+* Happiness is the state of non-contradictory joy, and more intense than pleasure
+
+He thinks every emotion has the same pattern (excluding chemical imbalances): an object in the world (a thing, person, action, event, idea, memory, or previous emotion) -> cognition (perception of the object and associations) -> value appraisal (measuring the object by whether some value is being fulfilled or threatened in some way) -> resulting subconscious emotion (which is either a positive or negative state). He even acknowledges that emotions differ in intensity, eg: hate is stronger than disliking. He says the middle stages (cognition -> value appraisal) are automatic and subconscious so what is consciously experienced is object -> emotion. He makes the interesting point that a mood is an enduring emotional state, and it endures because the object (eg a bad boss) is always present, or because causes endure based on memory (eg losing a good job) or rumination (replaying triggering thoughts).
+
+## Again, What is Happiness?
+So what we know is that we evolved, and that so did our basic emotions as well as our experiences of pleasure and pain. Those pleasure and pains most likely evolved to serve our evolutionary needs, which are finite. So we have a finite amount of pleasures and pains, some mental and some physical. Pleasures are subjectively experienced as good, rewarding, and something we should approach and seek more of. Pains are subjectively experienced as bad, punishing, and something which we should avoid.
+
+At it's core, pleasures are intrinsically good, and pains are intrinsically bad. These are [fundamental dimensions](https://en.wikipedia.org/wiki/Valence_(psychology)) that all human experience can be evaluated on. Anything else we can think of as valuable can be compared with pleasure and pain and seen to be measured by it, and inferior than it.
 
 
-## The Purpose of Pleasure
-When you look over this list, you can see how most if not all serve an evolutionary purpose, even if not immediately evident. I'm not going to explain them all, but just a handful to highlight. The biological needs are obviously important as they **reward** us for returning to homeostasis. Physiological pleasures are either a hack we have found into a brain chemistry, or endogenous (produced by us) to offset pain. Learning of various sorts is how we acquired solutions to potential survival and reproduction problems by observing what others have done. Love is an emotion that bonds us so that we invest resources in offspring. Social pleasures are complex which form group cohesion so we can take care of eachother and have better odds. Cuteness is experienced so we care for the baby/animal/thing. We are attraacted to novelty and change because of the potential for new rewards in the environment.
-
-This gives us an interesting model to think about pleasures, which makes sense. We evolved to experienced pleasure because it serves an evolutionary function: to motivate and reward us for experiences that increase our odds at survival and reproduction. The same fundamental motivation for nearly everything else. In fact, a norwegian biologist Bjørn Grinde wrote a whole book about trying to use evolution as a guide for living, called [Darwinian Happiness](https://en.wikipedia.org/wiki/Darwinian_Happiness).
-
-
+In summary of everything above, we've concluded that **a happy life can be evaluated by how much pleasure and pain it contains, due to them being the only intrinsic values. The more pleasure and the less pain, the better the life. Those pleasures/pains can be physical or psychological. And pleasures/pains differ in their intensity, duration, certainty, repeatability, and purity.** This means that to model how to improve happiness, we need to know how best to maximize pleasure and minimize pain.
 
 <!-- ### purpose of thoughts
 - memory -> then emotional response
@@ -119,15 +159,6 @@ This acknowledges an important fact about the pain and pleasure response: it isn
 For example, if you take out a loan to go travelling, you might experience a chunk of pleasure upfront but you will suffer for it afterwards. Another very basic example is the sexual response cycle which is quite standard: an intensity of arousal/pleasure build from baseline to high, and then peaks at a climax before dropping back down to near neutral or just below.
 
 ![Climax](/images/happiness/climax.png)
-
-In summary of everything above, we've concluded that **a happy life can be evaluated by how much pleasure and pain it contains, due to them being the only intrinsic values. The more pleasure and the less pain, the better the life. Those pleasures/pains can be physical or psychological. And pleasures/pains differ in their intensity, duration, certainty, repeatability, and purity.** This means that to model how to improve happiness, we need to know how best to maximise pleasure and minimise pain.
-
-
-There is a left-wing fifth but I will save it for last.
-
-
-
-
 
 
 
