@@ -1,3 +1,6 @@
+
+Conducted either via the '**Day Reconstruction Method**' where the participant fills out a diary of the previous days activities and moods, or the
+
 2. **The Affective / Emotional account** - this measure of 'affective balance' is also self-reported but rather than trying to capture one's happiness in a single retrospective measurement, tries to capture the presence of positive emotions and negative emotions over time. Conducted either via the '**Day Reconstruction Method**' where the participant fills out a diary of the previous days activities and moods, or the **Experience Sampling Method** where participants are mesaged at nrandom itnervals of the day to record their activities and mood.
 
 

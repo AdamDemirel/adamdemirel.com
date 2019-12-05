@@ -1,3 +1,8 @@
+### Situation Selection
+We have already noted how behavioral habits can be important because they can act as looping experiences which compound. Another thing you could do is modify your **environmental triggers** so you aren't exposed to triggers of bad emotional states, and are exposed to good ones. For example, if you found that going on certain apps or websites made you unhappy, it would be wise to stop doing so. In fact, some cool research suggests that **[situation selection](https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/)** - doing activities and being places that make you feel good, and avoiding people who make you feel bad, is an effective intervention for reducing negative emotions. But we can also use it to increase the positive.
+
+![situation selection](/images/happiness/selection.jpg)
+
 # MINIMIZING PAINS
 - minimising pain - see my pains list
   - minimising desires

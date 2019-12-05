@@ -19,6 +19,8 @@ Throughout most of animal history, animals would use their immediate environment
 
 But at an unbeknown point, early humans developed enough sentience to begin asking *how they could be better* and *what they should do with the finite amount of time they're endowed*?
 
+// small circle big circle -->
+
 When you look at how people today actually behave, the rewards they seek and punishments they avoid are not based on some complex forms of reasoning and analysis like here, but are usually based on mere emotional response shortly preceding each behavior in time - which is predicted by [learning theory](https://en.wikipedia.org/wiki/Operant_conditioning). That is - people have conditioned responses to increase or decrease certain behaviors which have been previously associated with rewards or punishments. Some would even [strongly](https://scholar.harvard.edu/files/dwegner/files/minds_best_trick.pdf) argue that they have no free will.
 
 Although it seems like human experience is infinitely diverse, due to the basic universal biology and evolution we all share, there is a finite list of less than 50 *types* of pleasure or pain episodes/experiences that we can all have. Anything we can think of as pleasurable or painful can be captured under this list. If you can find any others [let me know](https://adamdemirel.com):
@@ -106,68 +108,75 @@ In regards to basic emotions like anger at the frustration of a goal, or joy at 
 
 He thinks every emotion has the same pattern (excluding chemical imbalances): an object in the world (a thing, person, action, event, idea, memory, or previous emotion) -> cognition (perception of the object and associations) -> value appraisal (measuring the object by whether some value is being fulfilled or threatened in some way) -> resulting subconscious emotion (which is either a positive or negative state). He even acknowledges that emotions differ in intensity, eg: hate is stronger than disliking. He says the middle stages (cognition -> value appraisal) are automatic and subconscious so what is consciously experienced is object -> emotion. He makes the interesting point that a mood is an enduring emotional state, and it endures because the object (eg a bad boss) is always present, or because causes endure based on memory (eg losing a good job) or rumination (replaying triggering thoughts).
 
+The modern [Broaden-and-build](https://en.wikipedia.org/wiki/Broaden-and-build) theory is a more general theory on the behavioral function of positive emotions developed recently. It argues that positive emotions such as happiness, interest, and anticipation broaden ones psychological awareness and encourages novel, varied, and exploratory thoughts and behaviors. Eg curiosity about a new area becomes valuable navigational knowledge; pleasant interactions with strangers become supportive friendships; aimless physical play becomes exercise. In contrast are negative emotions which prompt narrow and survival-oriented behaviors. Eg anxiety leads to the fight or flight response for immediate survival.
+
 ## Again, What is Happiness?
-So what we know is that we evolved, and that so did our basic emotions as well as our experiences of pleasure and pain. Those pleasure and pains most likely evolved to serve our evolutionary needs, which are finite. So we have a finite amount of pleasures and pains, some mental and some physical. Pleasures are subjectively experienced as good, rewarding, and something we should approach and seek more of. Pains are subjectively experienced as bad, punishing, and something which we should avoid.
+So what we know is that we evolved, and that so did our basic emotions as well as our experiences of pleasure and pain. Those pleasure and pains most likely evolved to serve our evolutionary needs, which are finite. So we have a finite amount of pleasures and pains, some mental and some physical. Pleasures are subjectively experienced as good, rewarding, desirable, positive, and something we should approach and seek more of. Pains are subjectively experienced as bad, punishing, aversive, negative, and something which we should avoid.
 
-At it's core, pleasures are intrinsically good, and pains are intrinsically bad. These are [fundamental dimensions](https://en.wikipedia.org/wiki/Valence_(psychology)) that all human experience can be evaluated on. Anything else we can think of as valuable can be compared with pleasure and pain and seen to be measured by it, and inferior than it.
+In the sense, I am arguing for a form of **hedonism** with different premises.
 
+The first premise is that **pleasure is the only intrinsic values, and pain the only intrinsic disvalue**. These are the [fundamental dimensions](https://en.wikipedia.org/wiki/Valence_(psychology)) that all human experience can be evaluated on. Anything else we can think of as valuable can be compared with pleasure and pain and seen to be measured by it, and inferior than it - they are the only intrinsic values. You can have other values such as knowledge, but consider a life full of knowledge without mental pleasure or pain - it's neutral and not preferable over anything. Preference is essentially what value is! And value is pleasure and pain!
 
-In summary of everything above, we've concluded that **a happy life can be evaluated by how much pleasure and pain it contains, due to them being the only intrinsic values. The more pleasure and the less pain, the better the life. Those pleasures/pains can be physical or psychological. And pleasures/pains differ in their intensity, duration, certainty, repeatability, and purity.** This means that to model how to improve happiness, we need to know how best to maximize pleasure and minimize pain.
+In fact, hedonistic philosopher Fred Feldman wrote a [great book](https://www.oxfordscholarship.com/view/10.1093/019926516X.001.0001/acprof-9780199265169) which does an extremely good job defending this view of hedonism against every counter argument that you can think of. He refers to mental pleasures/pains as *attitudinal pleasures/pains* because they are attitudes you have about the world - a very philosopher way to describe things (they often talk about '[propositional attitudes](https://en.wikipedia.org/wiki/Propositional_attitude)'). Besides that, he shows that any alternative to hedonism you can think of is simply nonsense when compared with it. Anything you describe as valuable, whether that be knowledge, love, aesthetics, etc, can be captured under the idea of positive and negative experiences and therefore it is only rational to be a hedonist, in the sense of wanting to maximize good and bad emotions. To demonstrate the positivity or negativity of a stimuli, all that is required is to do is to compare them side by side and choose which is more preferable, which will always be the positive.
 
-<!-- ### purpose of thoughts
-- memory -> then emotional response
-- affective forecast /prediction / visualisation -> emotional response
-in comparison to environmental triggers/cues -> self talk -> emotional response
+Feldman makes an interesting note that all physical pains and pleasures are psychological also, but not vice versa. For example, the positive experience of eating or the painful experience of being injured both have a physical nature and a psychological nature - if they didn't have a psychological nature you wouldn't experience them. It is only because an attitude is taken about a sensation of pleasure or pain that it is so. But that's not the case for psychological pleasures and pains where it is possible to experience them without a corresponding physical sensation. This makes them interesting because we can have psychological pleasures or pains about a set of events in the past (via memory or the future (via mental forecasting, or even about a set of events perceived in the present — such as the pleasure taken at the perception of an artwork. Thus all physical pleasures and pains are based in the present but not so for psychological. This opens up a whole new avenue of pleasures such as masochism, social pleasures, romantic pleasures, of accomplishment, recognition, service, and fame.
 
-emotional response -> behavioral response (or extinguishment of) -> feedback loop into A
--- this whole model has a biological substrate,
--- emotional responses may be rewarding or punishing
--- a might operate subconsciously
+![green up arrow red down arrow](/images/happiness/updown.png)
 
+The second premise of hedonism is that **pleasure is positive** and **pain is negative**, as demonstrated above. This premise was reached by the Ancient Greeks paving way for later developments in happiness research - Although they disagree with each other in different ways, what they do agree on is this first premise. What they disagree on is the importance of physical vs psychological pleasures/pains, and whether duration is important.
 
+![sadf](/images/happiness/maxmin.jpg)
 
+So we've established clearly that both physical and psychological pleasures/pains are important. This still falls short one glaring point, which is obvious to anybody living in the 21st century: **pleasure is not happiness, and pain is not unhappiness**. The reason this is so is mostly to do with **duration**. If you are eating an enjoyable meal and experiencing pleasure, you may say you are happy, but that is merely a *report of your current experience*. If you said this and then lived the rest of your life in pain, it would be silly to state that you lived a happy life. We will come back to this more in the section on **remembered utility**.
 
+What duration highlights is the importance of **quantity** of pleasures/pains over time. As we've hinted, a life with **more** (intensity x duration) of pleasurable experiences, subtracting painful experiences, the better and happier the life.
 
+So pleasures and pains are still key, the problem is that are short and not intense. What would potentially be more impactful is important life events like marriage, achievement, parenting, or avoiding injury. But note that this is still compatible with the premises of hedonism which I'll summarize below. These events are just theoretically composed of a lot of small episodes of please and pain which result in a larger quantities of please and less pain, which is acknowledged by hedonism.
 
+In summary, I argue that **happiness is hedonism**. The premises of hedonism are:
+1. Pleasures are the only intrinsic good
+2. Pains are the only intrinsic bad
+3. Pleasures and pains can be physical or mental
+4. Pleasures and pains by themselves don't result in happiness/unhappiness
+5. Total happiness/unhappiness is over a lifetime by summing the (intensity x duration) of pleasures minus the (intensity x duration) of pains
+6. Minimizing physical and mental pains improves total happiness
+7. Maximizing physical and mental pleasures improves total happiness
 
+Given this outline, the mathematically best way to live a better life is to increase the total amount of pleasures and reduce the total amount of pains. There are many important figures throughout history who have held a similar sam view, from the Greeks above, to [Artistotle](https://plato.stanford.edu/entries/aristotle-ethics/#Plea) (and his [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)), to Jeremy Bentham (discussed below), to [John Stuart Mill](https://plato.stanford.edu/entries/mill/#MillConcHapp), to Sigmund Freud's [pleasure principle](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology)), to [David Hume](https://plato.stanford.edu/entries/hume-moral/#inmo)'s informal account.
 
+Philosophers call the atomic unit of pleasure a [hedon](https://en.wikipedia.org/wiki/Felicific_calculus) and economists call them [utils](https://en.wikipedia.org/wiki/Utility). I prefer using the utility version in particular in the tradition of [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) who iheavily influenced this essay.
 
+I will be referring to the arbitrary time blocks that contain pleasures/pains as **episodes** which can vary from 3 seconds to a lifetime. Psychologists have shown the subjective experience of one slice of the "present moment" lasts approximately 3 seconds ([ref](https://philpapers.org/rec/KAHLAT)). An individuals life could be described as a string of these 3 second moments - with approximately 20k moments in a day, or 500m in a 70-year life. Most of these moments simply disappear. But while these moments last, they are rich and multidimensional, and they have a quality of pleasure and pain which is important to us.
 
-
-
-// small circle big circle -->
-
-
+## Methods of Improving Episodes
 ![Jeremy Bentham](/images/happiness/bentham.png)
 
-We've already seen how intensity and duration are important (as intensity x duration = total hedonic sum). And the greeks already discussed the certainty/uncertainty, and the distance somewhat. What they didn't really mention was the repeatability and whether it was followed by pain which are two interesting criteria to introduce.
+Extending on the view above, old mate [Jeremy Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham) here came along in the 18th century and developed what he called [Hedonic Calculus](https://en.wikipedia.org/wiki/Felicific_calculus) was a method for attempting to measure pleasure and pain. The criteria he used to judge pleasures and pains were similar to some we've already discussed, but added a few more:
+1. Intensity
+2. Duration
+3. Certainty/Uncertainty (of attainment)
+4. Proximity: How soon it will occur
+5. Repeatability
+6. Purity: Whether the pleasure is followed by a pain, or the pain by a pleasure
 
-> Humans don´t live in territories but in habits. — Peter Sloterdijk
+We've already seen the importance of intensity and duration - it is a crucial feature of our happiness calculation. The Cyrenaics already hinted at the importance of uncertainty and proximity. But repeatability and purity adds two new interesting aspects to our model of how we can improve happiness. I'll cover purity below and come back to repeatability in the maximizing pleasure section.
 
-Repeatability is interesting because doing a small thing enough times can compound to have large effects. So even if there are a few events which result in the largest pleasure gains and pain removals, perhaps there are activities that we can do repeatedly which can improve our lives in small ways which add up to a large total over time. This is a smart view to take when you consider that **our lives are a sum of the small activities that we do repeatedly** - whether that be sleep, eat, socialise, work, play, our thoughts, the environment we are in, or our daily habits. I'll label all of these recurring experiences as "habits", as they are repeated emotional responses.
-
-What this additional criteria suggests is that one way to improve your happiness is to find ways in which you can make repeatable small gains in pleasure and the removal of pain, which add up over time. I think why a lot of happiness stories get this premise wrong is because humans have a tendency to think globally in the timespan of a whole life and spotlight large events, rather think linearly and acknowledge that life is a secession of discrete events. This reminds me of an interesting point brought up in the movie [Before Sunset](https://en.wikipedia.org/wiki/Before_Sunset) where the main actor mentionns how crazy it is that we are **living** our life right now.
-
-> “Tomorrow will be like today. Life wastes itself whilst we are preparing to live.” - Ralph Waldo Emerson
-
+### Purity
 Another interesting point which is obvious to most people, is whether or not the pleasure will be followed by pain, or vice versa. Bentham referred to this as *Purity*. Most of us have an intuitive grasp on purity of experience and is one of the biggest objections we have against decadent hedonism - because we infer that gorging ourselves with physical pleasures or hard drugs is followed by pains, therefore lacking purity.
 
 ![a](/images/happiness/purity.jpg)
 
 This acknowledges an important fact about the pain and pleasure response: it isn't a sinewave or binary, it's a function. The value of the experience changes over time depending on what it is and the inputs. This gives us an interesting metric by which to judge various pleasures and pains - by averaging them out over time.
 
-For example, if you take out a loan to go travelling, you might experience a chunk of pleasure upfront but you will suffer for it afterwards. Another very basic example is the sexual response cycle which is quite standard: an intensity of arousal/pleasure build from baseline to high, and then peaks at a climax before dropping back down to near neutral or just below.
+For example, if you take out a loan to go traveling, you might experience a chunk of pleasure upfront but you will suffer for it afterwards. Another very basic example is the sexual response cycle which is quite standard: an intensity of arousal/pleasure build from baseline to high, and then peaks at a climax before dropping back down to near neutral or just below.
 
 ![Climax](/images/happiness/climax.png)
 
+I'll be covering purity more in the section on maximizing pain.
 
+## Summary of Happiness Defined
+So in summary, pleasures are intrinsically good, and pains are intrinsically bad. The greater the pleasure sum, and the lower the pain sum, the happier the life. Pleasures and pains primarily serve evolutionary functions and reward seeking/pain avoiding goes back to the beginning of evolution. There is a finite list of pleasures and pains in humans. Basic emotions also serve adaptive functions.
 
+Episodes of time are composed of a mix of pleasures/pains. These quantity of pleasures/pains in these episodes is calculated by multiplying the duration by the intensity. Episodes also differ in the certainty/uncertainty of attainment, the proximity, the repeatability (which compounds into greater totals over time), and the purity.
 
-
-
-
-
-
-
-<!-- https://en.wikipedia.org/wiki/Well-being_contributing_factors
-The broaden-and-build theory of positive emotions suggests positive emotions (e.g. happiness, interest, anticipation)[76] broaden one's awareness and encourage novel, varied, and exploratory thoughts and actions. Over time, this broadened behavioral repertoire builds skills and resources. For example, curiosity about a landscape becomes valuable navigational knowledge; pleasant interactions with a stranger become a supportive friendship; aimless physical play becomes exercise and physical excellence. Positive emotions are contrasted with negative emotions, which prompt narrow survival-oriented behaviors. For example, the negative emotion of anxiety leads to the specific fight-or-flight response for immediate survival.[76] -->
+All of this gives us a framework to improve our happiness - maximize the finite list of pleasures, and minimize the finite list of pains.

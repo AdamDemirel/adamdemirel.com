@@ -1,0 +1,7 @@
+### Impact Bias
+// move this to predicted utility
+
+
+Another sad fact of reality and related bias is the tendency for humans to overestimate the intensity and duration of pleasures (fortunately and pains), what's caleed the [impact bias](https://en.wikipedia.org/wiki/Impact_bias). This is related to the psychoanalyst Lacan's concept of [Jouissance](https://www.lacan.com/forced.htm) - wher we get a milder "jouissance obtained" in place of the full satisfaction of a "jouissance expected" - so attaining pleasures or fulfilling our desire is never as great as we expect.
+
+On a more macro scale, this reminds me of when you read stories of traditionally successful figures and they often remark at ages 40-50 that they realised that there's no moment of "complete happiness/satisfaction" that you reach, like they expected before they were successful, the ride just continues on. This is both terrifying and enlightening - it doesn't really matter what big events we do or don't get, and the smaller events are within our control. Also, again it doesn't matter if we return to baseline, the pains/pleasure preceding that drop to baseline are still valid experiences, regardless of experiencing some *grand cognitive satisfaction*.

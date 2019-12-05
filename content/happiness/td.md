@@ -5,3 +5,14 @@
 - Sociality, 'rat park' addiction video
   - bolsters our self esteem being a part of a group https://secure.understandingprejudice.org/apa/english/page8.htm "social identity theory"
 ---
+
+
+<!-- ### purpose of thoughts
+- memory -> then emotional response
+- affective forecast /prediction / visualisation -> emotional response
+in comparison to environmental triggers/cues -> self talk -> emotional response
+
+emotional response -> behavioral response (or extinguishment of) -> feedback loop into A
+-- this whole model has a biological substrate,
+-- emotional responses may be rewarding or punishing
+-- a might operate subconsciously -->
