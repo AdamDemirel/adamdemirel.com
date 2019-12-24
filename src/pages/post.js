@@ -313,7 +313,7 @@ const Card = styled.div`
     width: 30%;
     height: 4px;
     border: 0;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 `;
