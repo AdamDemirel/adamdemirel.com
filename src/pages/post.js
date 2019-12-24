@@ -3,7 +3,14 @@ import { withRouteData } from "react-static";
 import Nav from "../components/Nav";
 import { Name } from "../pages/home";
 import styled from "styled-components";
-import { top, left, space, fontFamily, fontSize, lineHeight } from "../backend/StyledSystem";
+import {
+  top,
+  left,
+  space,
+  fontFamily,
+  fontSize,
+  lineHeight
+} from "../backend/StyledSystem";
 import Scrollspy from "react-scrollspy";
 import SEO from "../components/SEO";
 
@@ -22,7 +29,7 @@ export default withRouteData(({ title, content, path }) => {
         <Name>{title}</Name>
         <ScrollspyOuterWrapper>
           <ScrollspyStickyWrapper>
-            {title === "Sleep" ?
+            {title === "Sleep" ? (
               <Scrollspy
                 items={[
                   "section-0",
@@ -34,7 +41,7 @@ export default withRouteData(({ title, content, path }) => {
                   "section-13",
                   "section-14",
                   "section-15",
-                  "section-17",
+                  "section-17"
                 ]}
                 currentClassName="activeScrollspy"
               >
@@ -69,7 +76,7 @@ export default withRouteData(({ title, content, path }) => {
                   <a href="#section-17">Other Alternative Interventions</a>
                 </li>
               </Scrollspy>
-              :
+            ) : (
               <Scrollspy
                 items={[
                   "section-0",
@@ -156,7 +163,7 @@ export default withRouteData(({ title, content, path }) => {
                   <a href="#section-73">13. Resources & References</a>
                 </Li>
               </Scrollspy>
-            }
+            )}
           </ScrollspyStickyWrapper>
         </ScrollspyOuterWrapper>
         <TextWrapper>
@@ -174,7 +181,7 @@ const Text = styled.div`
 
   ${fontFamily({ fontFamily: "karla" })}
   ${fontSize({ fontSize: ["20px", "20px", "20px"] })}
-  ${lineHeight({ lineHeight: ["24px", "30px", "30px"] })}
+  /* ${lineHeight({ lineHeight: ["24px", "30px", "30px"] })} */
 
   @media (max-width: 960px) {
     width: 100%;

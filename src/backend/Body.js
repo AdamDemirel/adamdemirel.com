@@ -21,6 +21,15 @@ export default createGlobalStyle`
       url("/fonts/karla-regular.woff") format("woff");
   }
 
+  @font-face {
+    font-family: hello;
+    font-style: normal;
+    font-weight: 400;
+    font-display: fallback;
+    src:
+      url("/fonts/hello.woff2") format("woff2");
+  }
+
   body {
     margin: 0;
   }

@@ -94,7 +94,7 @@ const theme = {
     lg: "@media (min-width: 961px)"
   },
   fonts: {
-    karla: "Karla, sans-serif",
+    karla: "Karla, sans-serif"
   }
 };
 
