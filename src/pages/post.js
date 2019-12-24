@@ -307,4 +307,8 @@ const Card = styled.div`
     right: unset;
     position: static;
   }
+
+  hr {
+    background-image: url(/images/hr.svg);
+  }
 `;
