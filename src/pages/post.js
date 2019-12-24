@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { withRouteData } from "react-static";
 import Nav from "../components/Nav";
 import { Name } from "../pages/home";
@@ -16,6 +16,7 @@ import SEO from "../components/SEO";
 
 export default withRouteData(({ title, content, path }) => {
   // console.log("post props", props);
+  const [open, setOpen] = useState(false);
 
   return (
     <>
@@ -24,12 +25,12 @@ export default withRouteData(({ title, content, path }) => {
         description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
         path={`/${path}`}
       />
-      <Nav />
+      <Nav open={open} setOpen={setOpen} title={title} />
       <Card>
         <Name>{title}</Name>
-        <ScrollspyOuterWrapper>
+        <ScrollspyOuterWrapper open={open}>
           <ScrollspyStickyWrapper>
-            {title === "Sleep" && (
+            {title === "Sleep." && (
               <Scrollspy
                 items={[
                   "section-0",
@@ -77,7 +78,7 @@ export default withRouteData(({ title, content, path }) => {
                 </li>
               </Scrollspy>
             )}
-            {title === "Job Satisfaction" && (
+            {title === "Job Satisfaction." && (
               <Scrollspy
                 items={[
                   "section-0",
@@ -165,17 +166,11 @@ export default withRouteData(({ title, content, path }) => {
                 </Li>
               </Scrollspy>
             )}
-            {title === "Happiness" && (
+            {title === "Happiness." && (
               <Scrollspy
                 items={[
                   "section-0",
                   "section-1",
-                  "section-2",
-                  "section-3",
-                  "section-4",
-                  "section-5",
-                  "section-6",
-                  "section-7",
                   "section-8",
                   "section-16",
                   "section-17",
@@ -257,6 +252,7 @@ const Text = styled.div`
   margin: 0 auto;
   box-sizing: border-box;
 
+
   ${fontFamily({ fontFamily: "karla" })}
   ${fontSize({ fontSize: ["20px", "20px", "20px"] })}
   /* ${lineHeight({ lineHeight: ["24px", "30px", "30px"] })} */
@@ -306,9 +302,21 @@ const ScrollspyOuterWrapper = styled.div`
   position: absolute;
   height: 100%;
 
+  @media (max-width: 600px) {
+    display: none;
+    display: ${({ open }) => (open ? "block" : "none")};
+  }
+
   @media (max-width: 960px) {
     height: auto;
     position: static;
+  }
+
+  @media (max-width: 600px) {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    top: 45px;
   }
 `;
 
@@ -316,8 +324,12 @@ const ScrollspyStickyWrapper = styled.div`
   ${fontFamily({ fontFamily: "karla" })}
   ${fontSize({ fontSize: ["16px", "20px", "14px"] })}
   font-weight: 500;
-  position: sticky;
-  top: 25px;
+  padding-top: 8px;
+
+  @media (min-width: 601px) {
+    position: sticky;
+    top: 25px;
+  }
 
   @media (max-height: 670px) {
     position: static;
@@ -352,6 +364,8 @@ const ScrollspyStickyWrapper = styled.div`
     text-decoration: underline;
     font-weight: 700;
   }
+
+
 `;
 
 const Li = styled.li`

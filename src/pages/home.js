@@ -1,6 +1,16 @@
 import React from "react";
 import styled from "styled-components";
-import { fontFamily, fontWeight, fontSize, width, left, top, space, lineHeight, letterSpacing } from "../backend/StyledSystem";
+import {
+  fontFamily,
+  fontWeight,
+  fontSize,
+  width,
+  left,
+  top,
+  space,
+  lineHeight,
+  letterSpacing
+} from "../backend/StyledSystem";
 import SEO from "../components/SEO";
 import Nav from "../components/Nav";
 
@@ -21,7 +31,8 @@ export default class Home extends React.Component {
           <Name>Adam Demirel.</Name>
           <Text>
             <Span>
-              I'm a <Yellow>Software Developer</Yellow> from Sydney, working with the Web and{" "}
+              I'm a <Yellow>Software Developer</Yellow> from Sydney, working
+              with the Web and{" "}
               <A to="https://en.wikipedia.org/wiki/Internet_of_things" iot>
                 Internet Of Things
               </A>{" "}
@@ -32,15 +43,19 @@ export default class Home extends React.Component {
               .
             </Span>
             <Span>
-              I'm passionate about the power of computers and technology to improve the world, with a particular{" "}
+              I'm passionate about the power of computers and technology to
+              improve the world, with a particular{" "}
               <Blue> interest in biotech and health</Blue>.
             </Span>
             <Span>
-              I've got a <Purple>background in neuroscience and philosophy</Purple>, and a curiosity about everything.
+              I've got a{" "}
+              <Purple>background in neuroscience and philosophy</Purple>, and a
+              curiosity about everything.
             </Span>
 
             <Span>
-              Outside of work, I spend my time <Hl4>rock-climbing</Hl4>, with my loved ones, or <Hl5>learning</Hl5> about whatever my current
+              Outside of work, I spend my time <Hl4>rock-climbing</Hl4>, with my
+              loved ones, or <Hl5>learning</Hl5> about whatever my current
               fascination is.
             </Span>
           </Text>
@@ -103,6 +118,10 @@ export const Name = styled.h1`
   ${space({ mt: "15px", ml: 0, mr: 0, mb: ["30px", "35px", "40px"], p: 0 })}
   ${letterSpacing({ letterSpacing: ["-2px", "-2px", "-5px"] })}
   vertical-align: text-top;
+
+  @media (max-width: 600px) {
+    padding-top: 30px;
+  }
 `;
 
 export const Text = styled.div`
@@ -212,7 +231,12 @@ const StyledA = styled.a`
 `;
 
 const A = props => (
-  <StyledA href={props.to} target="_blank" rel="noopener noreferrer" iot={props.iot}>
+  <StyledA
+    href={props.to}
+    target="_blank"
+    rel="noopener noreferrer"
+    iot={props.iot}
+  >
     {props.children}
   </StyledA>
 );

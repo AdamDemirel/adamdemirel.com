@@ -56,7 +56,7 @@ export default {
         const post = await getPost("sleep");
 
         return {
-          title: "Sleep",
+          title: "Sleep.",
           content: post,
           path: "sleep"
         };
@@ -69,7 +69,7 @@ export default {
         const post = await getPost("job-satisfaction");
 
         return {
-          title: "Job Satisfaction",
+          title: "Job Satisfaction.",
           content: post,
           path: "job-satisfaction" // for GA
         };
@@ -82,7 +82,7 @@ export default {
         const post = await getPost("happiness");
 
         return {
-          title: "Happiness",
+          title: "Happiness.",
           content: post,
           path: "happiness"
         };
