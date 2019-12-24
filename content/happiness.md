@@ -2,21 +2,23 @@
 
 # Intro
 
-The purpose of this essay is to explore and attempt to discover what happiness is and form a model of what a life well spent looks like. It's established that the reason we are here is to survive and reproduce. But humans managed to outsmart their evolutionary imperative and are now aware of their mortality. Each of us has on average 36,000 days of life to do something worthwhile, and it is important that we spend that limited time in ways which we value. I've done my best to explore the many angles that can be taken to answer this question here - covering the history and science of happiness research, with some conceptualization and thoughts of my own. Hopefully an hour read can change how you spend some of your time.
+The purpose of this essay is to explore and attempt to discover what happiness is, and form a model of what a life well spent looks like. It's established that the reason we are here is to survive and reproduce. But humans managed to outsmart their evolutionary imperative and are now aware of our own mortality. Each of us has on average 36,000 days of life to do something worthwhile, and it is important that we spend this limited time in ways we value. I've done my best to explore the many angles that can be taken to answer this question - covering the history and science of happiness research, with some conceptualization and thoughts of my own. Hopefully an hour read can change how you spend some of your time.
 
 ![sadf](/images/happiness/timemonths.png)
 
-Happiness means something different to different people, at different times, and in different places. This isn't helpful because to be able to improve something, you need an invariable definition of what it is. What I'm referring to by the term happiness will become clear throughout but at it's core it is simply a [value system](https://en.wikipedia.org/wiki/Axiology) - a system of preferences about the past, the present, and the future.
+Happiness means something different to different people, at different times, and in different places. This isn't helpful because to be able to improve something, you need an invariable definition of what it is. What I'm referring to by the term happiness will become clear throughout but at its core it is simply a [value system](https://en.wikipedia.org/wiki/Axiology) - a system of preferences about the past, the present, and the future.
 
-Historically, through different points and different cultures, happiness actually meant **good fortune** ([1](https://youtu.be/hjACfaEh9BM?t=1378), [2](https://www.ncbi.nlm.nih.gov/pubmed/23599280)). It didn't mean the emotional response to good fortune, but literally meant good fortune itself. It didn't mean that a happy person is also a lucky person, it meant that a happy person is somebody who _is_ lucky. This previously dominant definition has been displaced by modern culture and for an obvious reason - it's not very applicable.
+Historically, through different points in time and different cultures, happiness actually meant **good fortune** ([1](https://youtu.be/hjACfaEh9BM?t=1378), [2](https://www.ncbi.nlm.nih.gov/pubmed/23599280)). It didn't mean the emotional response to good fortune, but literally good fortune itself. It didn't mean that a happy person is also a lucky person, it meant that a happy person is somebody who _is_ lucky. This previously dominant definition has been displaced by modern culture and for an obvious reason - it's not very applicable.
 
-The importance of this analysis and modern happiness research is uncovering variables that we can modify to empower our decisions which can alter our lives in large and small ways. To back trace the history a bit - some of the first figures to attempt to deviate from this good fortune viewpoint and take happiness within their control were some of the Ancient Greeks.
+The importance of this analysis and modern happiness research is to uncover variables that we can modify, to empower our decisions which can alter our lives in large and small ways. To back trace through history a bit - some of the first figures to attempt to deviate from this good fortune viewpoint and take happiness within their control were some of the Ancient Greeks.
 
 I'll begin by covering what three schools of Ancient Greek thought had to say about happiness: the Epicureans, the Cyrenaics, and the Stoics. I'll follow by categorizing what I think are the common themes extracted from the Greek thought - which I'll use to define 4 main theoretical models which we can go about improving our happiness: Minimizing Pleasure, Maximizing Pain, Maximizing Pleasure, and Minimizing Pain. I'll also give my definition of happiness here. I'll give a quick summary of whether Minimizing Pleasure is conducive to our goal, followed by an in depth discussion of the research on maximizing happiness - from some techniques like savoring, to covering the three temporal models we use to measure happiness: remembering it, experiencing it, and predicting it, and the potential problems with each. I'll follow by covering potential methods we can use to minimize pain. And finally I'll conclude with how we can potentially modify our base level happiness as a potential countermeasure to the problem of adaptation.
 
 # Ancient Greek History
 
-There is other happiness historical data I could cover, but I think a lot of the patterns that an be captured are highlighted well by the Ancient Greeks - in particular three schools of thought. I think the three most influential are _Epicureanism, Cyrenaicism_, and _Stoicism_. The reason being that they were close in time to each other, and were in part responding to and opposing each other.
+Note: This section can be skipped if you do not care for the history.
+
+There is other happiness historical data I could cover, but I think a lot of the patterns that an be captured are highlighted well by the Ancient Greeks - in particular the three schools of thought. I think the three most influential are _Epicureanism, Cyrenaicism_, and _Stoicism_. The reason being that they were close in time to each other, and were in part responding to and opposing one another.
 
 Besides attempting to extract themes from reviewing these schools, I also don't think any account of happiness would be complete without covering them in basic detail.
 
@@ -30,7 +32,7 @@ Epicureanism ([ref](https://ebooks.adelaide.edu.au/e/epicurus/menoeceus/), [ref]
 
 There are two main principles to Epicureanism. The first principle is that the _removal_ of basic physical needs and desires results in the happiest state possible. The second principle is the necessity of friendship to happiness.
 
-In regards to the first principle, he noted that there is a small list of innate needs which are required for survival, and once you removed the pain that comes with those "basal desires", it results in what he calls _static pleasures_ (or what scholars call _negative pleasure_). This state of _freedom from desire and discomfort_ results in what he calls _ataraxia_. This ataraxic state is the absence of any physical pains, or physical pleasure, and is the peak of happiness in his view. This is opposed to adding pleasure on top of a neutral state, or doing something that doesn't remove an innate need (such as drinking alcohol), resulting in what he calls _kinetic pleasure_ (or what scholars call _positive pleasure_). The simple needs which are needed to be removed include the need to sleep, to eat, to drink, and to avoid physical pains.
+In regards to the first principle, he noted that there is a small list of innate needs which are required for survival, and once you remove the pain that comes with those "basal desires", it results in what he calls _static pleasures_ (or what scholars call _negative pleasure_). This state of _freedom from desire and discomfort_ results in what he calls _ataraxia_. This ataraxic state is the absence of any physical pains, or physical pleasure, and is the peak of happiness in his view. This is opposed to adding pleasure on top of a neutral state, or doing something that doesn't remove an innate need (such as drinking alcohol), resulting in what he calls _kinetic pleasure_ (or what scholars call _positive pleasure_). The simple needs which are needed to be removed include the need to sleep, to eat, to drink, and to avoid physical pains.
 
 Secondly, although not a physical pain like his others, he emphasized the necessity of friendship as it is only through them that freedom from anxiety and "peace of mind" is possible.
 
@@ -42,7 +44,7 @@ Whether or not this is true, what he understood is that desire only arises from 
 
 There are two major problems with Epicureanism: the first is that he fails to weight the duration and quantity of pleasure and pain in affecting our total happiness. The second is that he fails to acknowledge mental pleasures/pains.
 
-So firstly, he didn't believe that longer pleasures were superior to shorter ones. If you accept the premise that pleasure is good, and pain is bad (which I'll argue for shortly), mathematically the more pleasure and the less pain you experience, the better. Failing to weight the duration of an experience in assessing it is a common bias which psychologists call [duration neglect](https://en.wikipedia.org/wiki/Duration_neglect).
+So firstly, he didn't believe that longer pleasures were superior to shorter ones. If you accept the premise that pleasure is good, and pain is bad (which I'll argue for shortly), mathematically the more pleasure and the less pain you experience, the better. Failing to weigh the duration of an experience in assessing it, is a common bias which psychologists call [duration neglect](https://en.wikipedia.org/wiki/Duration_neglect).
 
 The other major problematic aspect is that he acknowledges physical pleasures and pains but neglects mental pleasures and pains. He actually does make an exception for friendship as you read, which is odd because if he admits that there exists mental pains such as anxiety which friendship can remove, then he must leave open the possibility for many other mental pains and that the removal of them is just as important as physical pains. More importantly, he argued that once you remove physical pains, then this is the peak of happiness. Obviously this is wrong because you can have the absence of physical pains but the presence of mental pains such as sadness, anger, boredom, fear, etc.
 
@@ -52,10 +54,7 @@ What he did highlight is that one potential way to improve our happiness is by m
 
 ## Cyrenaicism
 
-In contrast to the negative hedonism of Epicurus is the Positive Hedonism of the Cyrenaics.
-Cyrenaicism is a school of thought which focused on the addition of physical pleasures, making these two diametrically opposed.
-
-Cyrenaicism was a school of thought lead by the figure [Aristippus](https://en.wikipedia.org/wiki/Aristippus).
+In contrast to the negative hedonism of Epicurus is the Positive Hedonism of the Cyrenaics. Cyrenaicism is a school of thought which focused on the addition of physical pleasures, making these two diametrically opposed. It was a school of thought lead by the figure [Aristippus](https://en.wikipedia.org/wiki/Aristippus).
 
 ![aristippus](/images/happiness/aristippus.jpg)
 
@@ -63,11 +62,11 @@ He believed that happiness was achieved by maximizing physical pleasures beyond 
 
 Unlike Epicurus who failed to acknowledge that mental pleasures (such as 'knowledge') existed, the Cyrenaics did. But he thought that physical pleasures were of more importance than mental pleasures due to them being more visceral and greater in intensity, which is hard to deny.
 
-He also thought that physical pleasures should be more sought after due to their ease and certainty of attainment in comparison to the distance and difficult mental pleasures, caused by for example the mastery of a skill. This uncertainty is understandable once the writing is placed in his historical context - written at a time of war and short life expectancy, thus a perspective of scarcity. When life expectancy is relatively secured by a modern lifestyle, this is less uncertain.
+He also thought that physical pleasures should be more sought after due to their ease and certainty of attainment in comparison to the distance and difficult mental pleasures, caused by for example the mastery of a skill. This uncertainty is understandable once the writing is placed in his historical context - written at a time of war and short life expectancies, thus fostering a perspective of scarcity. When life expectancy is relatively secured by a modern lifestyle, this is less uncertain.
 
 ### The Problems With Cyrenaicism
 
-He commits a similar error to Epicurus which is that although he accurately acknowledges that physical pleasures are more intense than mental pleasures, he neglects the ability for mental pleasures to persist over time which could lead to a large pleasure total. Physical pleasures are only experienced in the present, whereas psychological ones are exist in the past, present, and future, even if less intense.
+He commits a similar error to Epicurus which is that although he accurately acknowledges that physical pleasures are more intense than mental pleasures, he neglects the ability for mental pleasures to persist over time which can lead to a large pleasure total. Physical pleasures are only experienced in the present, whereas psychological ones are exist in the past, present, and future, even if less intense.
 
 But what he did highlight is that one potential way to improve our happiness is to maximize physical pleasures, and we can also see that another way is to maximize mental pleasures.
 
