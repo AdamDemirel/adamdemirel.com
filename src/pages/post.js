@@ -310,5 +310,8 @@ const Card = styled.div`
 
   hr {
     background-image: url(/images/hr.svg);
+    width: 30%;
+    height: 4px;
+    border: 0;
   }
 `;

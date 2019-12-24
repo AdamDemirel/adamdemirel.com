@@ -14,6 +14,8 @@ The importance of this analysis and modern happiness research is to uncover vari
 
 I'll begin by covering what three schools of Ancient Greek thought had to say about happiness: the Epicureans, the Cyrenaics, and the Stoics. I'll follow by categorizing what I think are the common themes extracted from the Greek thought - which I'll use to define 4 main theoretical models which we can go about improving our happiness: Minimizing Pleasure, Maximizing Pain, Maximizing Pleasure, and Minimizing Pain. I'll also give my definition of happiness here. I'll give a quick summary of whether Minimizing Pleasure is conducive to our goal, followed by an in depth discussion of the research on maximizing happiness - from some techniques like savoring, to covering the three temporal models we use to measure happiness: remembering it, experiencing it, and predicting it, and the potential problems with each. I'll follow by covering potential methods we can use to minimize pain. And finally I'll conclude with how we can potentially modify our base level happiness as a potential countermeasure to the problem of adaptation.
 
+---
+
 # Ancient Greek History
 
 Note: This section can be skipped if you do not care for the history.
@@ -87,6 +89,8 @@ So the Stoics have the added advantage over the Epicureans of realizing that our
 The same issue occurs with Stoicism as the two other schools - that is they have recognized some improvements to wellbeing - namely minimizing physical pains and mental pains. But they have neglected the possibility of physical pleasures and mental pleasures in mathematically increasing our total amount of pleasures/pains.
 
 So just like the Epicureans neglected mental pleasures and pains, and just like the Cyrenaics neglected all mental pains while recognized physical pleasures, the Stoics recognize mental pains but fail to acknowledge physical pleasures.
+
+---
 
 # What is Happiness (Theoretically)?
 
@@ -288,6 +292,8 @@ Episodes of time are composed of a mix of pleasures/pains. These quantity of ple
 
 All of this gives us a framework to improve our happiness - maximize the finite list of pleasures, and minimize the finite list of pains.
 
+---
+
 # Minimizing Pleasures
 
 This section is here for theoretical completeness.
@@ -295,6 +301,8 @@ This section is here for theoretical completeness.
 But beyond the reasons given by the Greeks about how seeking physical pleasures not necessary for survival may lead to physical pain, which we discounted, there isn't really any strong reason to minimize pleasures, or schools of thought that advocate doing so. This is obviously going to be the least developed section of our 4 as it's difficult to imagine how a happy life could be arrived at by deliberately minimizing pleasures as much as possible.
 
 ![minimize pleasure chart](/images/happiness/min-pleasure.jpg)
+
+---
 
 # Maximizing Pains
 
@@ -337,6 +345,8 @@ There aren't any extremely actionable lessons from this section. What we highlig
 
 How you figure out what those pains are is the trickier question. Our list of pain episodes is probably a good place to start. To begin with, most of these are relatively minor intensity pleasures and pains, and are relatively pure. The best thing to do is to look at which _seem_ to be relatively large episodes, and then try to work out whether they are impure. Mastery and achievement seems like a likely candidate here - usually requiring upfront suffering with the potential for a [big payoff later](https://en.wikipedia.org/wiki/Expected_value). Obviously we are just predicting here and this is very imperfect, which we will come back to in the following section. Maybe the biggest take away is just that this allows us to update our model to include impure pains.
 
+---
+
 # Maximizing pleasure
 
 So we've seen that there are two potential methods for increasing our happiness total. The first was by minimizing pain, which fails. The second was by strategically maximizing pain in the short term, which can result in net happiness in the long term, but this isn't too effective. The two most obviously impactful methods are by directly maximizing pleasure and by minimizing pain. These are the two that most of us already focus all of our efforts on. We will come back to minimizing pains in a later section, but for now, let's look at how we can improve our happiness by maximizing positive states.
@@ -378,8 +388,6 @@ This is an appealing approach because increasing a lot of small pleasures in lif
 And I'm not denying that these large pleasure episodes actually are larger than the smaller pleasures. The research supports that, and when I watch something trivial like the documentary [The King of Kong](https://en.wikipedia.org/wiki/The_King_of_Kong)) and see the joy on being the best at something trivial like a video game, it supports that conclusion.
 
 I will come back to this more in the section on Subjective Wellbeing because before we can attempt to answer the theoretical question of which episodes actually result in the largest pleasures, first we need a method of measurement to answer it, which will we cover there.
-
----
 
 ## Savoring
 
@@ -433,6 +441,8 @@ Experienced Utility has an added benefit in accuracy over Remembered Utility as 
 Before we dig into that, the way this fits into our model is that if we can accurately measure what makes people happy - or what causes pleasures/pains over an episode, in a study of a [large sample](https://en.wikipedia.org/wiki/Law_of_large_numbers) of people, firstly it can overcome biases and blind spots that we as individuals may have in measuring our own individual happiness. But secondly, even though we have a table of pleasure and pain episodes, we don't know the hierarchy of importance. So this gives us a method we longed for in answering Nietzsche's question of figuring out which pleasure episodes are the most important.
 
 Unfortunately the research has not dug into all of the pleasure episodes we have laid out in our table, but it has covered a large surface area of what it considered to be the most important.
+
+---
 
 # Remembered Utility - Life Satisfaction (LS)
 
@@ -576,6 +586,8 @@ As a final demonstration of the above oddity, there are a lot of experiments tha
 
 This is terrible that an extra period of discomfort at the end can reduce the peak end average and make the remembered utility less bad, when the longer episode is experientially worse. What this demonstrates is that people are willing to endure more painful experiences if they remember them to be less painful. This is obviously not conducive to experienced happiness, which is what I'll cover next. So it's clear that evaluated and experienced well-being are two separate things, but as Kahneman has noted, evaluation is still important to measure because it plays a significant role in people's decisions and also because people deeply care about the narrative of their life ([ref](https://repository.upenn.edu/marketing_papers/405/)).
 
+---
+
 # Experienced Utility
 
 ![experienced utility](/images/happiness/experienced.jpg)
@@ -680,6 +692,8 @@ All of these points support Daniel Kahneman's conclusion that he drew from this 
 
 Although it _sort of_ makes sense that in spite of all this, people continue to pursue their life narratives by ignoring experienced wellbeing and chasing remembered wellbeing, because that's what they get to keep. What I find extremely interesting though, is that when people were asked to choose between experienced happiness and remembered happiness, **most people choose experienced happiness for longer time frames (eg one's lifetime), but not for shorter time frames (eg next hour)**. Since people typically live moment to moment, these findings imply that **people may end up living a different version of happiness than what they believe is a happy life** ([ref](https://www.tandfonline.com/doi/abs/10.1080/17439760.2018.1460688?journalCode=rpos20)).
 
+---
+
 # Predicted Utility
 
 ![predicted utility](/images/happiness/predicted.jpg)
@@ -745,6 +759,7 @@ Thankfully we've already covered a lot of how people feel when doing various act
 
 So in summary of predicted utility, there is a lot of evidence that shows how people overestimate the affective impact of future events - overestimating the intensity and duration of both pleasures and pains ([ref](https://www.ncbi.nlm.nih.gov/pubmed/24219785)). We imagine the future will be less similar to the present than it will be, we exclude relevant details and add in made up details to our forecasts. All in all, this research leads us to the conclusion that forecasts about how we will feel in the future are unreliable and we should instead rely on experienced utility reports.
 
+---
 
 # Minimizing Pains
 
@@ -794,7 +809,7 @@ So granted that we spend most of our day suffering mentally, and that is bad, it
 
 But before we get into all of those further, I want to mention that isolating as Zapffe puts it is not the way to go. Isolation in the direct sense of trying to voluntarily not think negative thoughts. Not only did this give happiness research a bad rep - ie the idea of choosing to feel happy. But there is also research on how attempts to suppress negative thoughts actually makes them more present ([ref](https://www.scientificamerican.com/article/negative-emotions-key-well-being/)). So rather than directly trying to suppress them, a better method is to accept them or mitigate them indirectly as per the methods below.
 
-### Situation Selection
+## Situation Selection
 
 We have already noted how behavioral habits can be important because they can act as looping experiences which compound. Another thing you could do is modify your **environmental triggers** so you aren't exposed to triggers of bad emotional states, and are exposed to good ones. For example, if you found that going on certain apps or websites made you unhappy, it would be wise to stop doing so. In fact, some cool research suggests that **[situation selection](https://digest.bps.org.uk/2018/03/20/preliminary-evidence-that-situation-selection-can-help-us-regulate-our-emotions/)** - doing activities and being places that make you feel good, and avoiding people who make you feel bad, is an effective intervention for reducing negative emotions. But we can also use it to increase the positive.
 
@@ -804,13 +819,13 @@ That is, we can reduce negative emotions by avoiding the environmental triggers 
 
 Unfortunately although this may work directly for environmental triggers of negative emotions, it isn't very helpful for solving the main issue laid out here - that we spent 47% of our day in thought.
 
-### Solving Problems
+## Solving Problems
 
 This one is quite obvious but worth mentioning. Again, it's not directly helpful for minimising negative thoughts, but if there are glaring problems in your life that are causing recurring negative emotional experiences - whether they be big or small, it's probably wise to figure out a way to remove those pains or solve those problems.
 
 In support of the deliberately focusing effort in removing pains from your life, research sgugests that daily hassles exert a remarkable downward force on our happiness. Psychological distress over a 9 month period was predicted less by major life events than by day-to-day hassles, franging from sexual problems to annoying neighbours, to filling out forms, to vacuuming ([ref](https://link.springer.com/article/10.1007/BF00844845)).
 
-### Challenging Negative Beliefs
+## Challenging Negative Beliefs
 
 > "Pain is inevitable, but suffering is optional" - Haruki Murakami
 
@@ -824,11 +839,11 @@ The idea of learned optimism is that recurring negative thought patterns are lea
 
 The main exercise to challenge the setbacks is that whenever they occur, you write them down on paper and do the ABCDE exercise - this is basically self-CBT. ABCDE stands for Adversity, Beliefs, Consequences, Disputing, and Effects. For Adversity, you write down the event that triggered the negative emotional response - not how you reacted to it but the event itself. For Beliefs, you write down your beliefs about the event - what you thought happened. For Consequences, you write down the behavioral and emotional responses to those beliefs. Disputing is the key step, and for disputing you actively challenge the accuracy of the thought - does it fit with reality? what is the evidence for your belief? is it possible that there's another explanation? It turns out that most of the time the extremely negative thoughts are not actually based in physical reality but made up in our beliefs. And then observe the effects once disputed - the negative emotions should be dampened.
 
-### Journaling
+## Journaling
 
 As argued in the book Learned Optimism, journaling your negative thoughts is an effective way to prevent them from recurring. It won't obliterate the 47% rumination figure, but it should help somewhat. The argument is that the reason negative thoughts (especially recurring ones) continually insert themselves into our consciousness is because they are reminders to us. But by simply writing them down on paper - we have for all intents and purposes "acted" on them and 'told our brain' that we have saved that information for later, and that there is no longer any need to remind us.
 
-### Mindfulness
+## Mindfulness
 
 As we know, a wondering mind is not a happy mind ([ref](https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/)). Being present in the moment has been argued to be the solution to this conundrum for a long time, across many cultures and individuals. But telling people to be present probably does close to nothing.
 
@@ -838,7 +853,7 @@ It's been confirmed that meditation is effective at reducing the intensity of pa
 
 Mindfulness and Flow (below) are what I consider to be the 2 most effective methods of minimizing mental pains.
 
-### Flow
+## Flow
 
 [Flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>) (what some research calls Engagement) is the process of being so absorbed in a task that we lose self-reflective consciousness ([ref](https://web.archive.org/web/20150225201519/http://www.psy-flow.com/sites/psy-flow/files/docs/flow.pdf)). It is when we have intense and focused concentration on the present moment where we are intrinsically rewarded, and lose track of space and time ([ref](https://psycnet.apa.org/record/2009-23653-008)). It is being one with the music, with the interaction, with the activity, with the game. It is where time flows like water. It is where you are challenged and enjoy it ([ref](https://signalvnoise.com/posts/104-all-about-flow)).
 
@@ -860,6 +875,7 @@ One big perk of flow is that it is infinitely renewable. As opposed to a physica
 
 For a full exploration of flow, I highly recommend the short (~150pg) book by Mihaly called [Finding Flow](https://www.goodreads.com/book/show/66321.Finding_Flow), where he covers every nuance of it and an interesting categorisation of time-use amongst humans.
 
+---
 
 # Improving Hedonic Setpoint
 
@@ -912,6 +928,8 @@ Unfortunately most of these structures aren't easily modified as you would imagi
 Other potential factors are: working memory has been shown to play an important role in emotional processing ([ref](https://www.ncbi.nlm.nih.gov/pubmed/23122635)) and low 'hedonic tone' ([ref](https://www.ncbi.nlm.nih.gov/pubmed/27601909)).
 
 One other potential improvement to the brain structures and neurotransmitter systems is by electrically stimulating certain parts of the brain ("deep brain stimulation") ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16963590)). Obviously this is quite extreme and not applicable to most.
+
+---
 
 # Summary
 
@@ -1008,6 +1026,8 @@ Thoughts aside for a second, the ways that we can go about minimizing pains in o
 We can go about minimizing our thoughts in 2 primary ways: via mindfulness and flow. Mindfulness is is the intention to be present in each moment, which can be trained via daily meditation. And flow is being so challenged by the activities we are doing that we lose the capacity for thought. We can make sure the conditions for flow are right by always making sure that we are challenged by whatever task that we are doing.
 
 And lastly, when we are not thinking, our happiness in each moment beyond the choice of activity is also controlled by our baseline happiness. We return back to this baseline regardless of most life events - and it's genetically determined. We know that drugs or supplements could shift us a bit here, but it's not sustainable long-term. And zapping our brains could work, but we're not willing to do that. There is one notable thing we can control here which is our grey matter volume, that's associated with wellbeing, and has been confirmed to increase with meditation.
+
+---
 
 # Compressed Summary
 
