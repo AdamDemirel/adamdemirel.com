@@ -1,4 +1,4 @@
-> If you don't get what you want, you suffer; If you get what you don't want, you suffer; Even when you get exactly what you want, you still suffer because you can't hold on to it forever. Your mind is your predicament. It wants to be free of change. Free of pain, free of the obligations of life and death. But change is law and no amount of pretending will alter that reality. - Socrates
+> "If you don't get what you want, you suffer; If you get what you don't want, you suffer; Even when you get exactly what you want, you still suffer because you can't hold on to it forever. Your mind is your predicament. It wants to be free of change. Free of pain, free of the obligations of life and death. But change is law and no amount of pretending will alter that reality." - Socrates
 
 # Intro
 
