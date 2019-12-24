@@ -97,17 +97,17 @@ You can see how through unfolding what the basic principles of these three Greek
 3. Minimising Pains
 4. Maximising Pleasures
 
-There is a fifth way to improve it not highlighted by the Greeks, and that is by modify our resting setpoint of happiness, which I will come back to later.
+There is a fifth way to improve happiness not highlighted by the Greeks, and that is by modifying our resting setpoint of happiness, which I will come back to later.
 
-But before we fully take the assumption for granted that pleasures are good, and pains are bad, and we should be maximizing and minimizing them, let's explore that.
+Before we take the assumption that pleasures are good, and pains are bad, for granted - let's first explore that.
 
 The question of how to be "happy" or live a happy life has been a question plaguing humans since time immemorial.
 
-Interestingly, even the most simple of organisms, the _Amoeba_, seems to display a "pain-like" and "pleasure-like" response, moving closer and feeding off of nearby foods and light, and avoiding noxious chemicals and other objects ([4](https://www.britannica.com/science/nervous-system)). All that and the amoeba is believed to be related to the earliest forms of life 800 million years ago! So the motivation of organisms to be pleasure seekers and pain avoiders it not a new phenomena.
+Interestingly, even the most simple of organisms, the _Amoeba_, seems to display a "pain-like" and "pleasure-like" response, moving closer and feeding off of nearby foods and light, and avoiding noxious chemicals and other objects ([4](https://www.britannica.com/science/nervous-system)). All that and the amoeba is believed to be related to the earliest forms of life 800 million years ago! So the motivation of organisms to be pleasure seekers and pain avoiders is not a new phenomena.
 
 // place drawing of aemoeba
 
-Throughout most of animal history, animals would use their immediate environment as a guide to their behavior - they would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to spread their genes.
+Throughout most of animal history, animals would use their immediate environment as a guide for their behavior. They would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to spread their genes.
 
 But at an unbeknown point, early humans developed enough sentience to begin asking _how they could be better_ and _what they should do with the finite amount of time they're endowed_?
 
@@ -176,7 +176,7 @@ Although it seems like human experience is infinitely diverse, due to the basic 
 
 ## The Purpose of Pleasures and Pains
 
-So basically there are sets of events which are rewards and give you pleasure, and sets of events which are threats and give you pain. This is true for both at the moment to moment level, but there is no hierachy here and it is slightly more complex because some events last longer than others, have more intensity, suffer diminishing returns, or change from pleasure to pain (or pain to pleasure) over time.
+So basically there are sets of events which are rewards and give you pleasure, and sets of events which are threats and give you pain. But  there is no hierachy here and it is slightly more complex because some events last longer than others, have more intensity, suffer diminishing returns, or change from pleasure to pain (or pain to pleasure) over time.
 
 But given this list and our perspective on the pleasures and pains available, we can look over this list and see a trend. Even if not immediately evident, most if not all of these serve an evolutionary purpose - as Epicurus hinted at.
 
@@ -186,26 +186,26 @@ Beyond the physical needs, the mental needs also fall into a handful of categori
 
 We are attracted to novelty and change because of the potential for discovering new rewards in the environment. Similarly, we are attracted to learning of various sorts because it allows us to [observe others](https://en.wikipedia.org/wiki/Observational_learning) and acquire solutions to potential survival and reproduction problems without trying it first hand.
 
-In regards to control, it has been shown that humans have a strong innate need for control, over themselves and their environment ([ref](https://www.ncbi.nlm.nih.gov/pubmed/11554650), [ref](https://en.wikipedia.org/wiki/Self-determination_theory)). Meaning is an interesting one that we will come back to later. Chemical pleasures are man made hacks we have into our biology which don't really fit with the rest of the model, besides endogenously produced which usually offset pain - like runners high.
+In regards to control, it has been shown that humans have a strong innate need for control, over themselves and their environment ([ref](https://www.ncbi.nlm.nih.gov/pubmed/11554650), [ref](https://en.wikipedia.org/wiki/Self-determination_theory)). Chemical pleasures are man made hacks we have into our biology which don't really fit with the rest of the model, besides endogenously produced which usually offset pain - like runners high.
 
 This gives us an interesting and intuitive model to think about individual episodes of pleasures and pains. The model is that we evolved to experienced pleasure because it serves an evolutionary function: to motivate and reward us for experiences that increase our odds at survival and reproduction. The same fundamental motivation for nearly everything else. In fact, a Norwegian biologist Bjørn Grinde wrote a whole book about trying to use evolution as a guide for living, called [Darwinian Happiness](https://en.wikipedia.org/wiki/Darwinian_Happiness).
 
 In regards to basic emotions like anger at the frustration of a goal, or joy at the attainment of one, leading emotion psychologists such as Edwin Locke also support this ([ref](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199928309.001.0001/oxfordhb-9780199928309)). Modern emotion researchers think that _emotions are the form of taking automatic, subconscious value appraisals_, with a specific value appraisal serving specific functions, some being:
 
 - Fear is experienced during a perceived threat to one's life or well-being (or that of a loved one)
-- Anxiety is experienced during a perceived threat involves one's self-esteem, and involves more uncertainty over the threat
+- Anxiety is experienced during a perceived threat involving one's self-esteem, and involves more uncertainty over the threat
 - Sadness is experienced at the loss of a value
 - Depression is a more intense form of sadness involving self-deprecation and a sense of hopelessness
 - Anger is experienced when a goal is blocked
 - Guilt is experienced when one violates their moral values
-- Pleasure is experienced when one has gained or possessed a value
+- Pleasure is experienced when one has gained or possessed something of value
 - Pride is experienced during an achievement due to one's own efforts
 - Admiration is experienced during the appraisal of another person's positive achievements
 - Happiness is the state of non-contradictory joy, and more intense than pleasure
 
 He thinks every emotion has the same pattern (excluding chemical imbalances): an object in the world (a thing, person, action, event, idea, memory, or previous emotion) -> cognition (perception of the object and associations) -> value appraisal (measuring the object by whether some value is being fulfilled or threatened in some way) -> resulting subconscious emotion (which is either a positive or negative state). He even acknowledges that emotions differ in intensity, eg: hate is stronger than disliking. He says the middle stages (cognition -> value appraisal) are automatic and subconscious so what is consciously experienced is object -> emotion. He makes the interesting point that a mood is an enduring emotional state, and it endures because the object (eg a bad boss) is always present, or because causes endure based on memory (eg losing a good job) or rumination (replaying triggering thoughts).
 
-The modern [Broaden-and-build](https://en.wikipedia.org/wiki/Broaden-and-build) theory is a more general theory on the behavioral function of positive emotions developed recently. It argues that positive emotions such as happiness, interest, and anticipation broaden ones psychological awareness and encourages novel, varied, and exploratory thoughts and behaviors. Eg curiosity about a new area becomes valuable navigational knowledge; pleasant interactions with strangers become supportive friendships; aimless physical play becomes exercise. In contrast are negative emotions which prompt narrow and survival-oriented behaviors. Eg anxiety leads to the fight or flight response for immediate survival.
+The modern [Broaden-and-build](https://en.wikipedia.org/wiki/Broaden-and-build) theory is a more general theory on the behavioral function of positive emotions developed recently. It argues that positive emotions such as happiness, interest, and anticipation broaden one's psychological awareness and encourages novel, varied, and exploratory thoughts and behaviors. E.g. curiosity about a new area becomes valuable navigational knowledge; pleasant interactions with strangers become supportive friendships; aimless physical play becomes exercise. In contrast, negative emotions prompt narrow and survival-oriented behaviors. E.g. anxiety leads to the fight or flight response for immediate survival.
 
 ## Again, What is Happiness?
 
@@ -355,7 +355,7 @@ After that is where we get into the real meat of the modern research on happines
 
 ## Repeatable Pleasures
 
-> Humans don´t live in territories but in habits. — Peter Sloterdijk
+> "Humans don´t live in territories but in habits." — Peter Sloterdijk
 
 So the first theoretical method that we can use to increase pleasures is to increase the frequency of them - as per the Cyrenaics did for physical pleasures. They consumed as many of them as possible. We can also do that for the mental pleasures - by socializing, learning, loving, engaging in novel activities, being in nature, or whatever else is on our pleasure episodes list.
 
@@ -556,7 +556,7 @@ So what are they doing then? It's been suggested that perhaps people are recalli
 
 The best argument I've found for what LS reports are doing is the following ([ref](https://www.jstor.org/stable/2951240)). As we've established, pleasure and pain are approach/avoid signals. This makes a lot of sense in the context of experienced utility where our behavior is being changed in real-time by those signals. The core purpose of pleasure and pain is regulate our response to the current situation, immediately. But LS and remembered utility are different - they are not experienced real-time, they are retrospective. But like experienced utilities, remembered utilities share an evolutionary function: they determine whether an episode in the past should now be approached or avoided. So remembered utilities are also controlling our current and future behavior, but it is based on events from the past, rather than the present. Our brain is summarizing an episode of experience, with all of its pleasure and pain, and outputting a single rating which reflects whether _overall_ it was something good which we should approach in the future, or avoid. This is what all of our evaluations of the past are doing. And our LS reports are very likely just an odd new construction that takes advantage of the human ability to do this cognitive evaluation of the past, with the researchers thinking that it was accurately doing so.
 
-> The general conclusion is as clear for well-being as it was for colonoscopies: people's evaluations of their lives and their actual experience may be related, but they are also different. Life satisfaction is not a flawed measure of their experienced well-being, as I thought some years ago. It is something else entirely. - Kahneman
+> "The general conclusion is as clear for well-being as it was for colonoscopies: people's evaluations of their lives and their actual experience may be related, but they are also different. Life satisfaction is not a flawed measure of their experienced well-being, as I thought some years ago. It is something else entirely." - Kahneman
 
 But besides the reasons mentioned earlier about the unlikelihood of it being accurate, there are real demonstrations which highlight the errors of remembered utility.
 
@@ -582,7 +582,7 @@ So by now you should know that the goal of both Remembered Utility and Experienc
 
 We now also known that _instant utility_ is the gold measure of instant well-being, it is when someone immediately reports their emotional state - which is difficult to doubt. Remember that a moment of the "present" lasts around 3 seconds psychologically. The advantage of real-time measures of instant utility is that they avoid the biases of memory and evaluation that affect retrospective judgments of wellbeing. But instant utility don't give us anything, what we want is instant utilities over time which lead us to experienced utility. Experienced Utility captures a series of instant utilities over an episode of time - for example once per minute for an hour, or once per hour for a day, or every 3 seconds for a minute. Obviously this is much more granular and trustworthy data than remembered utility due to it being immediate in space and time, and also by taking many reports.
 
-Researchers have also used more psychological terms to describe this, rather than the more economic term utility: measuring experienced utility has been measured under the terms _[positive affect](https://en.wikipedia.org/wiki/Positive_affectivity)_, _[negative affect](https://en.wikipedia.org/wiki/Negative_affectivity)_ (respectively meaning positive and negative emotions) and thus _affective balance_ (the balance of positive to negative emotions) - or _net affect_ / _emotional wellbeing_ ([ref](https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-make-you-happier)).
+Researchers have also used more psychological terms to describe this, rather than the more economic term utility: measuring experienced utility has been measured under the terms *[positive affect](https://en.wikipedia.org/wiki/Positive_affectivity)*, *[negative affect](https://en.wikipedia.org/wiki/Negative_affectivity)* (respectively meaning positive and negative emotions) and thus _affective balance_ (the balance of positive to negative emotions) - or _net affect_ / _emotional wellbeing_ ([ref](https://forum.effectivealtruism.org/posts/dvHpzesXtZAMFSTk3/giving-more-won-t-make-you-happier)).
 
 So we know that the experience of a moment or episode is not easily The experience of a moment or an episode is not easily represented by a single happiness value as we saw in the flaws of the Life Satisfaction research. The experienced utility research aims to solve that by measuring emotions over time and _moment to moment_, rather than retrospectively. It's often said that this form of measurement is "**right now, not later; and right there; not elsewhere**. More clearly: If I were to ask you how you are currently feeling rather than how you felt a week ago, you'd give me a more accurate answer. That's what this research aims to get at.
 
@@ -808,7 +808,7 @@ In support of the deliberately focusing effort in removing pains from your life,
 
 ### Challenging Negative Beliefs
 
-> 'Pain is inevitable, but suffering is optional' - Haruki Murakami
+> "Pain is inevitable, but suffering is optional" - Haruki Murakami
 
 Challenging negative beliefs won't help us reduce _all_ of the negative affect that results from 47% of our day spent ruminating - because remember that it makes us unhappy even when it is about positive things. But it does make us more unhappy when we are thinking about negative things.
 
@@ -1021,4 +1021,4 @@ The two most effective ways to minimize thoughts are by practicing mindfulness a
 
 # Ultra Compressed summary
 
-To be happy: focus less on the 'big pleasures' in life, and more on the small frequent pleasures. Savor each moment. Spend less time working, commuting, and computing, and more time socializing, and being active. Practice meditation and mindfulness, and aim to be challenged as much as you can by each moment.
+To be happy: focus less on the 'big pleasures' in life, and more on the small frequent pleasures. Savor each moment. Spend less time working, commuting, and computing, and more time socializing, and being active. Practice meditation and mindfulness, and aim to be challenged as much as you can by each moment to get into flow.
