@@ -109,6 +109,8 @@ Interestingly, even the most simple of organisms, the _Amoeba_, seems to display
 
 Throughout most of animal history, animals would use their immediate environment as a guide for their behavior. They would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to spread their genes.
 
+![a](/images/happiness/pain-minus-pleasure-total.jpg)
+
 But at an unbeknown point, early humans developed enough sentience to begin asking _how they could be better_ and _what they should do with the finite amount of time they're endowed_?
 
 When you look at how people today actually behave, the rewards they seek and punishments they avoid are not based on some complex forms of reasoning and analysis like here, but are usually based on mere emotional response shortly preceding each behavior in time - which is predicted by [learning theory](https://en.wikipedia.org/wiki/Operant_conditioning). That is - people have conditioned responses to increase or decrease certain behaviors which have been previously associated with rewards or punishments. Some would even [strongly](https://scholar.harvard.edu/files/dwegner/files/minds_best_trick.pdf) argue that they have no free will.
@@ -302,8 +304,6 @@ Just like it is unproductive to try to improve happiness by minimizing pleasures
 
 Though there is one crucial difference between these two, and that is that pains are often impure. Remember that or purity or impurity is whether a pain/pleasure is followed by the opposite kind. Even if pain is immediately bad in the short term, they often have the possibility of being followed by pleasures which result in the episode being a net positive.
 
-![a](/images/happiness/pain-minus-pleasure-total.jpg)
-
 Granted, pleasures are still what is intrinsically good, and pains are still what's intrinsically bad. But we have just acknowledged that sometimes pains can be followed by greater pleasures. So you can see that pleasures/pains are not binary, in episodes, they are functions that change over time.
 
 ![a](/images/happiness/impurity.jpg)
@@ -435,6 +435,8 @@ Before we dig into that, the way this fits into our model is that if we can accu
 Unfortunately the research has not dug into all of the pleasure episodes we have laid out in our table, but it has covered a large surface area of what it considered to be the most important.
 
 # Remembered Utility - Life Satisfaction (LS)
+
+![remembered utility](/images/happiness/remembered.jpg)
 
 By asking people to rate their satisfaction with their life on a scale of 1-10, a lot of findings have been made in the field of happiness research.
 The findings of these studies are quite interesting, and many commonsense notions about happiness appear to be inaccurate.
@@ -576,6 +578,8 @@ This is terrible that an extra period of discomfort at the end can reduce the pe
 
 # Experienced Utility
 
+![experienced utility](/images/happiness/experienced.jpg)
+
 So by now you should know that the goal of both Remembered Utility and Experienced Utility is to accurately measure and capture the wavering of positive and negative emotions or utilities over an episode of time. We just saw how remembered utility is flawed due to it neglecting duration, and it being prone to biases like the peak-end effect which can make us do things like endure more experienced pain. Both of these are big errors which it difficult to trust as a measure. What we now know is that pain and pleasure **can** be measured in real time, and that life satisfaction reports are not a good measure of the sum total of the actual experience.
 
 We now also known that _instant utility_ is the gold measure of instant well-being, it is when someone immediately reports their emotional state - which is difficult to doubt. Remember that a moment of the "present" lasts around 3 seconds psychologically. The advantage of real-time measures of instant utility is that they avoid the biases of memory and evaluation that affect retrospective judgments of wellbeing. But instant utility don't give us anything, what we want is instant utilities over time which lead us to experienced utility. Experienced Utility captures a series of instant utilities over an episode of time - for example once per minute for an hour, or once per hour for a day, or every 3 seconds for a minute. Obviously this is much more granular and trustworthy data than remembered utility due to it being immediate in space and time, and also by taking many reports.
@@ -677,6 +681,8 @@ All of these points support Daniel Kahneman's conclusion that he drew from this 
 Although it _sort of_ makes sense that in spite of all this, people continue to pursue their life narratives by ignoring experienced wellbeing and chasing remembered wellbeing, because that's what they get to keep. What I find extremely interesting though, is that when people were asked to choose between experienced happiness and remembered happiness, **most people choose experienced happiness for longer time frames (eg one's lifetime), but not for shorter time frames (eg next hour)**. Since people typically live moment to moment, these findings imply that **people may end up living a different version of happiness than what they believe is a happy life** ([ref](https://www.tandfonline.com/doi/abs/10.1080/17439760.2018.1460688?journalCode=rpos20)).
 
 # Predicted Utility
+
+![predicted utility](/images/happiness/predicted.jpg)
 
 So we have covered the two primary methods that are used to try to capture the wavering of positive and negative emotions over a time period. The first method of measurement was remembered utility (or life satisfaction) where _after_ the episode we retrospectively and cognitively try to remember and summarize the episode into a single value. The second method of measurement was experienced utility where many measurements are taking _during_ the episode which give us a more accurate picture.
 
