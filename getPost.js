@@ -1,8 +1,8 @@
-// import { async } from "q";
-import fs from "fs";
+const fs = require("fs");
 const { create } = require("md-mdast");
 const toHast = require("mdast-util-to-hast");
 const toHtml = require("hast-util-to-html");
+
 const parser = create();
 
 // getPost("test").then(data => console.log("data", data));
@@ -96,9 +96,18 @@ export default async pageName => {
       let num = 0;
 
       hast.children.map(el => {
+        const { tagName, properties } = el;
+
         // console.log("el", el.children);
-        if (el.tagName === "h1" || el.tagName === "h2" || el.tagName === "h3" || el.tagName === "h4" || el.tagName === "h5" || el.tagName === "h6") {
-          el.properties.id = `section-${num}`;
+        if (
+          tagName === "h1" ||
+          tagName === "h2" ||
+          tagName === "h3" ||
+          tagName === "h4" ||
+          tagName === "h5" ||
+          tagName === "h6"
+        ) {
+          properties.id = `section-${num}`;
           num += 1;
           return el;
         }

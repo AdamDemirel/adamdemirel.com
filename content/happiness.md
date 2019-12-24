@@ -163,10 +163,10 @@ Although it seems like human experience is infinitely diverse, due to the basic 
 |               | Feeling dirty                                                                                           | Feeling clean                                                             |
 |               | Death anxiety                                                                                           |                                                                           |
 |               | Lack of meaning                                                                                         | Presence of meaning                                                       |
-|               | Anger / Goal frustration, or sadness/misery/despair/helplessness/hopelessness                           | Joy / Getting what you want                                               |
+| -             | Anger / Goal frustration, or sadness / misery / despair / helplessness / hopelessness                   | Joy / Getting what you want                                               |
 |               |                                                                                                         | Being in nature                                                           |
-|               | Anxiety, fear                                                                                           |                                                                           |
-|               | Regret                                                                                                  |                                                                           |
+| -             | Anxiety, fear                                                                                           |                                                                           |
+| -             | Regret                                                                                                  |                                                                           |
 |               |                                                                                                         |                                                                           |
 | Control       | Dirtiness / Environmental disorder                                                                      | Cleanliness / order                                                       |
 |               | [Job dissatisfaction](https://adamdemirel.com/job-satisfaction)                                         | Freedom to work on what you like                                          |
