@@ -600,7 +600,7 @@ Being overqualified for ones job affects JS with a -.20 correlation, and affects
 
 If the job that you are doing requires specialized education or training, it positively affects JS with a .20 correlation, and net emotional state on the job by 0.10 `21`.
 
-## organization Size
+## Organization Size
 
 organization size also impacts job satisfaction `48`.
 

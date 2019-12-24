@@ -1051,4 +1051,4 @@ The two most effective ways to minimize thoughts are by practicing mindfulness a
 
 # Ultra Compressed summary
 
-To be happy: focus less on the 'big pleasures' in life, and more on the small frequent pleasures. Savor each moment. Spend less time working, commuting, and computing, and more time socializing, and being active. Practice meditation and mindfulness, and aim to be challenged as much as you can by each moment to get into flow.
+To be happy: focus less on the 'big pleasures' in life, and more on the small frequent pleasures. Savor each moment. Spend less time working, commuting, and computing, and more time socializing, and being active. Get good [sleep](https://adamdemirel.com/sleep/). Practice meditation and mindfulness, and aim to be challenged as much as you can by each moment to get into flow.
