@@ -518,6 +518,8 @@ With this knowledge, we are now more equipped to answer the question of which pl
 
 ### Hedonic Adaptation
 
+![hedonic adaptation](/images/happiness/adaptation.jpg)
+
 Unfortunately there is not any perfect research measuring the curve or experience of all the different pleasures we laid out, but the LS research has given us data on which life events have the biggest effects.
 
 What the data shows is that people tend to get a substantial **drop** in LS after unemployment, while approaching widowhood, after marriage, after the birth of a child ([ref](https://ourworldindata.org/happiness-and-life-satisfaction#life-satisfaction-through-life-events)), at the ending of a relationship, or the death of a loved one or parent ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289759/)).
