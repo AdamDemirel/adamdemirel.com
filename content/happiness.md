@@ -1,5 +1,7 @@
 > "If you don't get what you want, you suffer; If you get what you don't want, you suffer; Even when you get exactly what you want, you still suffer because you can't hold on to it forever. Your mind is your predicament. It wants to be free of change. Free of pain, free of the obligations of life and death. But change is law and no amount of pretending will alter that reality." - Socrates
 
+---
+
 # Intro
 
 The purpose of this essay is to explore and attempt to discover what happiness is, and form a model of what a life well spent looks like. It's established that the reason we are here is to survive and reproduce. But humans managed to outsmart their evolutionary imperative and are now aware of our own mortality. Each of us has on average 36,000 days of life to do something worthwhile, and it is important that we spend this limited time in ways we value. I've done my best to explore the many angles that can be taken to answer this question - covering the history and science of happiness research, with some conceptualization and thoughts of my own. Hopefully an hour read can change how you spend some of your time.
