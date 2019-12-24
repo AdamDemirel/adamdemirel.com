@@ -347,7 +347,7 @@ How you figure out what those pains are is the trickier question. Our list of pa
 
 ---
 
-# Maximizing pleasure
+# Maximizing Pleasures
 
 So we've seen that there are two potential methods for increasing our happiness total. The first was by minimizing pain, which fails. The second was by strategically maximizing pain in the short term, which can result in net happiness in the long term, but this isn't too effective. The two most obviously impactful methods are by directly maximizing pleasure and by minimizing pain. These are the two that most of us already focus all of our efforts on. We will come back to minimizing pains in a later section, but for now, let's look at how we can improve our happiness by maximizing positive states.
 
@@ -1049,6 +1049,6 @@ The two most effective ways to minimize thoughts are by practicing mindfulness a
 
 ---
 
-# Ultra Compressed summary
+# Ultra Compressed Summary
 
 To be happy: focus less on the 'big pleasures' in life, and more on the small frequent pleasures. Savor each moment. Spend less time working, commuting, and computing, and more time socializing, and being active. Get good [sleep](https://adamdemirel.com/sleep/). Practice meditation and mindfulness, and aim to be challenged as much as you can by each moment to get into flow.

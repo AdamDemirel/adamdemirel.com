@@ -170,15 +170,16 @@ export default withRouteData(({ title, content, path }) => {
                 items={[
                   "section-0",
                   "section-1",
-                  "section-2",
-                  "section-9",
-                  "section-10",
-                  "section-15",
-                  "section-22",
-                  "section-29",
-                  "section-44",
-                  "section-49",
-                  "section-50",
+                  "section-8",
+                  "section-16",
+                  "section-17",
+                  "section-18",
+                  "section-23",
+                  "section-30",
+                  "section-37",
+                  "section-38",
+                  "section-45",
+
                   "section-64",
                   "section-65",
                   "section-66",
@@ -191,68 +192,50 @@ export default withRouteData(({ title, content, path }) => {
                 currentClassName="activeScrollspy"
               >
                 <li>
-                  <a href="#section-0">Job Satisfaction</a>
-                </li>
-                <Li>
-                  <a href="#section-1">1. Motivational Characteristics</a>
-                </Li>
-                <li>
-                  <a href="#section-2">1.1 Job Characteristics Model</a>
+                  <a href="#section-0">Intro</a>
                 </li>
                 <li>
-                  <a href="#section-9">1.2 Growth Needs Strength</a>
+                  <a href="#section-1">Ancient Greek History</a>
                 </li>
                 <li>
-                  <a href="#section-10">1.3 Extending the JCM</a>
+                  <a href="#section-8">What is Happiness?</a>
+                </li>
+                <li>
+                  <a href="#section-16">Minimizing Pleasures</a>
+                </li>
+                <li>
+                  <a href="#section-17">Maximizing Pains</a>
+                </li>
+                <li>
+                  <a href="#section-18">Maximizing Pleasure</a>
+                </li>
+                <li>
+                  <a href="#section-23">Remembered Utility</a>
+                </li>
+                <li>
+                  <a href="#section-30">Experienced Utility</a>
                 </li>
 
-                <Li>
-                  <a href="#section-15 ">2. Social Characteristics</a>
-                </Li>
-                <Li>
-                  <a href="#section-22">3. Environment Characteristics</a>
-                </Li>
-                <Li>
-                  <a href="#section-29">4. Worker Characteristics</a>
-                </Li>
-
-                <Li>
-                  <a href="#section-44">5. Person-Environment Fit</a>
-                </Li>
-
-                <Li>
-                  <a href="#section-49">6. Other</a>
-                </Li>
                 <li>
-                  <a href="#section-50">6.1 Income</a>
-                </li>
-                <Li>
-                  <a href="#section-64">7. Experience Sampling</a>
-                </Li>
-                <li>
-                  <a href="#section-65">8. Research Summary</a>
-                </li>
-                <li>
-                  <a href="#section-66">8.1. Correlation Summary</a>
-                </li>
-                <li>
-                  <a href="#section-67">9. Application</a>
-                </li>
-                <li>
-                  <a href="#section-69">10. Conclusion</a>
-                </li>
-                <li>
-                  <a href="#section-70">11. Compressed Conclusion</a>
+                  <a href="#section-37">Predicted Utility</a>
                 </li>
 
-                <Li>
-                  <a href="#section-71">12. Recommended Reading</a>
-                </Li>
-                <Li>
-                  <a href="#section-73">13. Resources & References</a>
-                </Li>
+                <li>
+                  <a href="#section-38">Minimizing Pains</a>
+                </li>
+                <li>
+                  <a href="#section-45">Improving Hedonic Setpoint</a>
+                </li>
+                <li>
+                  <a href="#section-46">Summary</a>
+                </li>
+                <li>
+                  <a href="#section-47">Compressed Summary</a>
+                </li>
+                <li>
+                  <a href="#section-48">Ultra Compressed Summary</a>
+                </li>
               </Scrollspy>
-            )}
             )}
           </ScrollspyStickyWrapper>
         </ScrollspyOuterWrapper>
