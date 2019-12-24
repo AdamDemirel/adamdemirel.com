@@ -170,6 +170,12 @@ export default withRouteData(({ title, content, path }) => {
                 items={[
                   "section-0",
                   "section-1",
+                  "section-2",
+                  "section-3",
+                  "section-4",
+                  "section-5",
+                  "section-6",
+                  "section-7",
                   "section-8",
                   "section-16",
                   "section-17",
@@ -179,7 +185,6 @@ export default withRouteData(({ title, content, path }) => {
                   "section-37",
                   "section-38",
                   "section-45",
-
                   "section-64",
                   "section-65",
                   "section-66",
