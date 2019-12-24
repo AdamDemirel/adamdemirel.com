@@ -763,6 +763,8 @@ So in summary of predicted utility, there is a lot of evidence that shows how pe
 
 # Minimizing Pains
 
+![minimizing pains](/images/happiness/min-pains.jpg)
+
 So up until this point, the primary focus has been on the various ways that we can go about maximizing pleasure and positive emotions in our life. The two primary ways we can do so are by improving our cognitive reports of life satisfaction, or our lived experienced of emotions. Fortunately, a lot of that research also implicitly gives us a way to minimize pain. By maximizing net affect we will also be lowering negative affect. But I'll cover a few other methods here that I think are particularly relevant for minimizing pains.
 
 As we know, pains can either be physical or mental in nature. Fortunately, the ways in which to minimize physical pains (the pains listed in the chart earlier) are quite obvious, so I'm not going to beat a dead horse. And remember that Epicurus had a focus on minimizing physical pains as well. Most of the pains which are physical are usually about maintaining physical homeostasis - by removing hunger, thirst, tiredness, and avoiding tissue damage. What's _nicer_ about these pains than the mental is that although they can be more intense, they are usually only experienced in the present and are fleeting, resulting in a less cumulative effect on our happiness.
