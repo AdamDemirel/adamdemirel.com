@@ -106,6 +106,7 @@ The question of how to be "happy" or live a happy life has been a question plagu
 Interestingly, even the most simple of organisms, the _Amoeba_, seems to display a "pain-like" and "pleasure-like" response, moving closer and feeding off of nearby foods and light, and avoiding noxious chemicals and other objects ([4](https://www.britannica.com/science/nervous-system)). All that and the amoeba is believed to be related to the earliest forms of life 800 million years ago! So the motivation of organisms to be pleasure seekers and pain avoiders is not a new phenomena.
 
 // place drawing of aemoeba
+![aomeba](/images/happiness/aomeba.jpg)
 
 Throughout most of animal history, animals would use their immediate environment as a guide for their behavior. They would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to spread their genes.
 
