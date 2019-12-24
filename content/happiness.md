@@ -1017,6 +1017,8 @@ To minimize pain, you should select your situations carefully, solve any glaring
 
 The two most effective ways to minimize thoughts are by practicing mindfulness and being in flow. You can improve your ability to be mindful by meditating daily, and you can maximize your odds of being in flow by making sure you're being challenged by your environment at all times.
 
+---
+
 # Ultra Compressed summary
 
 To be happy: focus less on the 'big pleasures' in life, and more on the small frequent pleasures. Savor each moment. Spend less time working, commuting, and computing, and more time socializing, and being active. Practice meditation and mindfulness, and aim to be challenged as much as you can by each moment to get into flow.
