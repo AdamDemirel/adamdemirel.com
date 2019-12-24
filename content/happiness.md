@@ -162,7 +162,7 @@ Although it seems like human experience is infinitely diverse, due to the basic 
 |               | Financial Insecurity - debt, buyers remorse, lack of money, loss of property                            | Financial security                                                        |
 |               | Feeling dirty                                                                                           | Feeling clean                                                             |
 |               | Death anxiety                                                                                           |                                                                           |
-|               | Lack of meaning                                                                                         | Presence of meaning                                                       |
+| -             | Lack of meaning                                                                                         | Presence of meaning                                                       |
 | -             | Anger / Goal frustration, or sadness / misery / despair / helplessness / hopelessness                   | Joy / Getting what you want                                               |
 |               |                                                                                                         | Being in nature                                                           |
 | -             | Anxiety, fear                                                                                           |                                                                           |

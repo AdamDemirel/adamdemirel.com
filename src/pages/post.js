@@ -316,4 +316,13 @@ const Card = styled.div`
     margin-top: 50px;
     margin-bottom: 50px;
   }
+
+  td {
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+
+  table {
+    border-spacing: 0;
+  }
 `;
