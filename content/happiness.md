@@ -105,14 +105,11 @@ The question of how to be "happy" or live a happy life has been a question plagu
 
 Interestingly, even the most simple of organisms, the _Amoeba_, seems to display a "pain-like" and "pleasure-like" response, moving closer and feeding off of nearby foods and light, and avoiding noxious chemicals and other objects ([4](https://www.britannica.com/science/nervous-system)). All that and the amoeba is believed to be related to the earliest forms of life 800 million years ago! So the motivation of organisms to be pleasure seekers and pain avoiders is not a new phenomena.
 
-// place drawing of aemoeba
 ![aomeba](/images/happiness/aomeba.jpg)
 
 Throughout most of animal history, animals would use their immediate environment as a guide for their behavior. They would live their life completely immersed in each moment, responding to threats of danger and seeking food to keep themselves alive long enough to spread their genes.
 
 But at an unbeknown point, early humans developed enough sentience to begin asking _how they could be better_ and _what they should do with the finite amount of time they're endowed_?
-
-// small circle big circle -->
 
 When you look at how people today actually behave, the rewards they seek and punishments they avoid are not based on some complex forms of reasoning and analysis like here, but are usually based on mere emotional response shortly preceding each behavior in time - which is predicted by [learning theory](https://en.wikipedia.org/wiki/Operant_conditioning). That is - people have conditioned responses to increase or decrease certain behaviors which have been previously associated with rewards or punishments. Some would even [strongly](https://scholar.harvard.edu/files/dwegner/files/minds_best_trick.pdf) argue that they have no free will.
 
@@ -437,14 +434,14 @@ Before we dig into that, the way this fits into our model is that if we can accu
 
 Unfortunately the research has not dug into all of the pleasure episodes we have laid out in our table, but it has covered a large surface area of what it considered to be the most important.
 
-### Remembered Utility - Life Satisfaction (LS)
+# Remembered Utility - Life Satisfaction (LS)
 
 By asking people to rate their satisfaction with their life on a scale of 1-10, a lot of findings have been made in the field of happiness research.
 The findings of these studies are quite interesting, and many commonsense notions about happiness appear to be inaccurate.
 
 Here is a list of things that do and don't correlate with Life Satisfaction:
 
-#### Variables That Strongly Predict LS
+## Variables That Strongly Predict LS
 
 - **Genetics** ([ref](https://www.ncbi.nlm.nih.gov/pubmed/16219116), [ref](https://www.webarchive.org.uk/wayback/archive/20150926115101/http://cep.lse.ac.uk/_new/research/wellbeing/causes_and_effects_of_wellbeing.asp)) unfortunately account for about 30-40% of variance of LS ([ref](https://www.nature.com/articles/s41562-018-0307-6)), which is a _lot_ - more than anything else. How? By shaping one's personality and temperament, which are known to be heritable. The best predictor of individuals future happiness is their past happiness. Some people seem destined to be happy and others unhappy, regardless of their triumphs or setbacks. The limited influence of life events is demonstrated with the hedonic treadmill (which I'll talk about further below).
 - **Personality** ([ref](https://psycnet.apa.org/record/2008-11667-032), [ref](http://www.subjectpool.com/ed_teach/y4person/3_happiness/Steel2008_5FM_and_happiness_psych_bull.pdf), [ref](https://www.ncbi.nlm.nih.gov/pubmed/23075216)) - with the largest effect being due to **extroversion**, with agreeableness, conscientiousness, self-esteem, and optimism also being strongly related. ([ref](https://psycnet.apa.org/record/2008-00541-009)) **An Optimistic mindset** in explaining negative setbacks is also important ([ref](https://www.goodreads.com/book/show/26123.Learned_Optimism)) - ie ones beliefs about themselves, others, and the world, and the absence of cognitive distortions/learned helplessness.
@@ -458,7 +455,7 @@ Here is a list of things that do and don't correlate with Life Satisfaction:
 
 ![variables](/images/happiness/variables.jpg)
 
-#### Variables That Moderately Predict LS
+## Variables That Moderately Predict LS
 
 - **Self Reported Health** (~.32) ([ref](https://psycnet.apa.org/record/1999-02842-018), [ref](https://www.aeaweb.org/articles?id=10.1257/089533006776526030)). Good health status by itself is only moderately correlated with LS, as many people tend to take good health for granted. Being sick on the other hand has a larger effect.
 - **Social Activity / Sociability** ([ref](https://journals.sagepub.com/doi/10.1111/j.0963-7214.2004.00501001.x)). Humans are social animals, as as such interpersonal relations do appear to contribute to LS. Those who are socially active and are satisfied with their social support and friendship networks report above average levels of LS. Also, people who had deep and substantive conversations have higher LS than those who mostly engage in small talk ([ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861779/)).
@@ -477,7 +474,7 @@ Here is a list of things that do and don't correlate with Life Satisfaction:
 - **Living With Your Partner** rather than alone ([ref](https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions), [ref](https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/Sainsburys%20Living%20Well%20Index%20Wave%204%20Jun%202019%20FV.pdf))
 - The satisfaction of key needs, desires, and goals give rise to high life satisfaction, and the dissatisfaction of them gives rise to lower life satisfaction ([ref](https://www.nature.com/articles/s41562-018-0307-6)).
 
-#### Variables That Weakly Predict LS
+## Variables That Weakly Predict LS
 
 - **Leisure Satisfaction**: Being satisfied with how you spend your leisure time ([ref](https://www.tandfonline.com/doi/abs/10.1080/11745398.2010.9686871))
 - **Income**: There is a positive correlation, but it's weak: but its weak (between .12 and .20) ([ref](https://journals.sagepub.com/doi/10.1111/j.0963-7214.2004.00501001.x), [ref](https://adamdemirel.com/job-satisfaction/#section-50)). Though it's high between poverty and low LS as we saw.
@@ -493,7 +490,7 @@ Here is a list of things that do and don't correlate with Life Satisfaction:
 
 ![a](/images/happiness/swbbycountry.png)
 
-#### Variables Unrelated to LS
+## Variables Unrelated to LS
 
 - **Physical Attractiveness** ([ref](https://psycnet.apa.org/record/1995-40426-001))
 - **Intelligence** ([ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2143374))
@@ -539,7 +536,7 @@ A third solution can be found in the great book with a bad name [Happy Money](ht
 
 ![fighting adaptation](/images/happiness/fightingadaptation.jpg)
 
-#### Issues with SWB / Remembered Utility
+### Issues with SWB / Remembered Utility
 
 Bringing all of the above life satisfaction research into perspective, remember that this is one method that we use in researching happiness, and what this method relies upon is an individual trying to summarize an experience after the fact, into a single rating. This is equivalent to us having a memory (of an experience), which is then followed by an emotional response. And then we base our evaluation of that whole experience based on that emotional response.
 
