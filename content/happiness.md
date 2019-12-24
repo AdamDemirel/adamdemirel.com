@@ -147,7 +147,7 @@ Although it seems like human experience is infinitely diverse, due to the basic 
 | Type          | Pain Episodes                                                                                           | Pleasure Episodes                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Social        | Socializing with people you dislike / [outgroups](https://en.wikipedia.org/wiki/Ingroups_and_outgroups) | Socializing with people that you like                                     |
-| -             | Social rejection, embarrassment                                                                         | Social approval / (Accomplishment/Mastery/Recognition)                    |
+| -             | Social rejection, embarrassment                                                                         | Social approval / (Accomplishment / Mastery / Recognition)                    |
 | -             | Social Aggression / Relational Aggression / Being Verbally Attacked                                     | Games / Competition / Sports                                              |
 | -             | Loneliness, Social Isolation                                                                            | Love, Companionship                                                       |
 | -             | Lack of personal space / proxemics                                                                      |                                                                           |
