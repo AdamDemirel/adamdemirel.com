@@ -829,7 +829,7 @@ Unfortunately although this may work directly for environmental triggers of nega
 
 This one is quite obvious but worth mentioning. Again, it's not directly helpful for minimising negative thoughts, but if there are glaring problems in your life that are causing recurring negative emotional experiences - whether they be big or small, it's probably wise to figure out a way to remove those pains or solve those problems.
 
-In support of the deliberately focusing effort in removing pains from your life, research sgugests that daily hassles exert a remarkable downward force on our happiness. Psychological distress over a 9 month period was predicted less by major life events than by day-to-day hassles, franging from sexual problems to annoying neighbours, to filling out forms, to vacuuming ([ref](https://link.springer.com/article/10.1007/BF00844845)).
+In support of the deliberately focusing effort in removing pains from your life, research suggests that daily hassles exert a remarkable downward force on our happiness. Psychological distress over a 9 month period was predicted less by major life events than by day-to-day hassles, ranging from sexual problems to annoying neighbours, to filling out forms, to vacuuming ([ref](https://link.springer.com/article/10.1007/BF00844845)).
 
 ## Challenging Negative Beliefs
 
