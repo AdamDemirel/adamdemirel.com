@@ -839,7 +839,7 @@ Challenging negative beliefs won't help us reduce _all_ of the negative affect t
 
 And there is an abundant amount of research supporting Cognitive Behavioral Therapy as a method of reducing the intensity and frequency of negative thoughts - and how they effect our sense of efficacy in fixing a problem. In fact, it's one of the most used and well supported forms of therapy for depression.
 
-I'm sure you've all heard of _[learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)_ at this point, well it turns out that there is also a thing called _learned optimism_ where you can train yourself to overcome setbacks. And it works basically the same as CBT.
+I'm sure you've all heard of *[learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)* at this point, well it turns out that there is also a thing called _learned optimism_ where you can train yourself to overcome setbacks. And it works basically the same as CBT.
 
 The idea of learned optimism is that recurring negative thought patterns are learned responses to the environment, and those learnings can be undone. It can be undone by deliberately challenging the accuracy of the thoughts, and how the subject feels about themselves, about others, and the future. It turns out that the main feature of helpless thoughts is that when a negative setback in our life occurs, it's explained as Permanent, Pervasive, and Personal - ie forever, everywhere, and your fault. In opposition, the feature of hopeful explanations to these setbacks is that they are Temporary, Local, and External - ie short lived, to this one particular instance, and not your fault.
 
