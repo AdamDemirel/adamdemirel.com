@@ -63,8 +63,8 @@ export default () => (
             <Ul>
               <Li>Raspberry Pi •••◦◦</Li>
               <Li>Arduino •••◦◦</Li>
-              {/* <Li>Sensors: Color, Distance, Push</Li> */}
-              {/* <Li>NeoPixel LEDs</Li> */}
+              <Li>Sensors: Color, Distance, Push •••◦◦</Li>
+              <Li>NeoPixel LEDs •••◦◦</Li>
             </Ul>
           </Section>
           {/* <Section>
@@ -158,6 +158,7 @@ export default () => (
               {/* <Li>Rails Multitenancy ••••◦</Li> */}
               {/* <Li>Rubygems (Utilization & Creation) ••••◦</Li> */}
               <Li>Sockets.IO •••◦◦</Li>
+              <Li>NFC •••◦◦</Li>
             </Ul>
           </Section>
           <Section>
