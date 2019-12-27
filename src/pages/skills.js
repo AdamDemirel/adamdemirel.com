@@ -63,8 +63,8 @@ export default () => (
             <Ul>
               <Li>Raspberry Pi •••◦◦</Li>
               <Li>Arduino •••◦◦</Li>
-              <Li>Sensors: Color, Distance, Push •••◦◦</Li>
-              <Li>NeoPixel LEDs •••◦◦</Li>
+              {/* <Li>Sensors: Color, Distance, Push •••◦◦</Li> */}
+              {/* <Li>NeoPixel LEDs •••◦◦</Li> */}
             </Ul>
           </Section>
           {/* <Section>
