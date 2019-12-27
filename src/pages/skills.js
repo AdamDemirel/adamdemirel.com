@@ -21,82 +21,81 @@ export default () => (
             <H2>Languages</H2>
             <Ul>
               <Li>
-                <Yellow>Javascript</Yellow> ••••◦
+                <Yellow>Javascript</Yellow> •••••
               </Li>
-              <Li>Ruby •••◦◦</Li>
+              <Li>Node.js ••••◦</Li>
+              {/* <Li>Ruby •••◦◦</Li> */}
             </Ul>
           </Section>
           <Section>
             <H2>Web Frameworks</H2>
             <Ul>
               <Li>
-                <Yellow>React</Yellow> •••◦◦
+                <Yellow>React</Yellow> ••••◦
               </Li>
-              <Li>Ruby on Rails ••◦◦◦</Li>
+              {/* <Li>Ruby on Rails ••◦◦◦</Li> */}
             </Ul>
           </Section>
           <Section>
             <H2>Markup</H2>
             <Ul>
               <Li>
-                <Yellow>HTML5</Yellow> ••••◦
+                <Yellow>HTML5</Yellow> •••••
               </Li>
-              <Li>HAML •••◦◦</Li>
+              {/* <Li>HAML •••◦◦</Li> */}
               <Li>Markdown ••••◦</Li>
             </Ul>
           </Section>
           <Section>
             <H2>Styling</H2>
             <Ul>
-              <Li>CSS3 ••••◦</Li>
               <Li>
-                <Yellow>Styled Components</Yellow> •••◦◦
+                <Yellow>CSS3</Yellow> ••••◦
               </Li>
-              <Li>Flexbox ••••◦</Li>
-              <Li>CSS Grid ••••◦</Li>
-              <Li>SASS / SCSS ••••◦</Li>
+              <Li>Styled Components •••••</Li>
+              {/* <Li>Flexbox ••••◦</Li> */}
+              {/* <Li>CSS Grid ••••◦</Li> */}
+              {/* <Li>SASS / SCSS ••••◦</Li> */}
             </Ul>
           </Section>
           <Section>
-            <H2>
-              <Yellow>Microcontrollers</Yellow>
-            </H2>
+            <H2>Microcontrollers</H2>
             <Ul>
               <Li>Raspberry Pi •••◦◦</Li>
               <Li>Arduino •••◦◦</Li>
-              <Li>Sensors: Color, Distance, Push</Li>
-              <Li>NeoPixel LEDs</Li>
+              {/* <Li>Sensors: Color, Distance, Push</Li> */}
+              {/* <Li>NeoPixel LEDs</Li> */}
             </Ul>
           </Section>
-          <Section>
+          {/* <Section>
             <H2>CSS Frameworks</H2>
             <Ul>
               <Li>Bootstrap ••••◦</Li>
               <Li>Materialize •••◦◦</Li>
               <Li>Semantic UI •••◦◦</Li>
             </Ul>
-          </Section>
+          </Section> */}
           <Section>
             <H2>Backend</H2>
             <Ul>
               <Li>ExpressJS ••••◦</Li>
-              <Li>Node.js •••◦◦</Li>
+              {/* <Li>Node.js •••◦◦</Li> */}
               <Li>NetlifyCMS ••••◦</Li>
-              <Li>Sidekiq ••◦◦◦</Li>
+              {/* <Li>Sidekiq ••◦◦◦</Li> */}
             </Ul>
           </Section>
           <Section>
             <H2>Serialization</H2>
             <Ul>
-              <Li>JSON ••••◦</Li>
-              <Li>YAML •••◦◦</Li>
-              <Li>XML •••◦◦</Li>
+              <Li>JSON •••••</Li>
+              <Li>YAML ••••◦</Li>
+              <Li>XML ••••◦</Li>
             </Ul>
           </Section>
           <Section>
             <H2>Databases</H2>
             <Ul>
-              <Li>SQL & PostgreSQL •••◦◦</Li>
+              {/* <Li>SQL & PostgreSQL •••◦◦</Li> */}
               <Li>MongoDB & Mongoose •••◦◦</Li>
               <Li>AWS S3 •••◦◦</Li>
             </Ul>
@@ -106,29 +105,28 @@ export default () => (
             <Ul>
               <Li>Git & Github ••••◦</Li>
               <Li>Agile & Trello •••◦◦</Li>
-              <Li>Jira & Confluence ••◦◦◦</Li>
+              {/* <Li>Jira & Confluence ••◦◦◦</Li> */}
             </Ul>
           </Section>
           <Section>
             <H2>Deployment</H2>
             <Ul>
               <Li>
-                <Yellow>Netlify</Yellow> •••◦◦
+                <Yellow>Netlify</Yellow> •••••
               </Li>
-              <Li>Heroku •••◦◦</Li>
-              <Li>Github Pages •••••</Li>
-              <Li>Firebase •••◦◦</Li>
+              {/* <Li>Heroku •••◦◦</Li> */}
+              {/* <Li>Github Pages •••••</Li> */}
+              {/* <Li>Firebase •••◦◦</Li> */}
+              <Li>AWS S3 •••◦◦</Li>
             </Ul>
           </Section>
           <Section>
             <H2>Design</H2>
             <Ul>
-              <Li>
-                <Yellow>Modern UI Theory</Yellow> ••••◦
-              </Li>
+              <Li>Modern UI Theory ••••◦</Li>
               <Li>Utilizing XD Designs ••••◦</Li>
-              <Li>Moodboarding ••••◦</Li>
-              <Li>Wireframing (Balsamiq) ••••◦</Li>
+              {/* <Li>Moodboarding ••••◦</Li> */}
+              {/* <Li>Wireframing (Balsamiq) ••••◦</Li> */}
               <Li>Typography & Fonts •••◦◦</Li>
               <Li>GIMP •••◦◦</Li>
             </Ul>
@@ -145,7 +143,7 @@ export default () => (
           <Section>
             <H2>Analytics</H2>
             <Ul>
-              <Li>Google Analytics •••◦◦</Li>
+              <Li>Google Analytics ••••◦</Li>
               <Li>HotJar •••◦◦</Li>
               <Li>DataDog API ••••◦</Li>
             </Ul>
@@ -153,11 +151,20 @@ export default () => (
           <Section>
             <H2>Other</H2>
             <Ul>
-              <Li>Web Responsiveness ••••◦</Li>
-              <Li>Jekyll •••◦◦</Li>
-              <Li>Rails Multitenancy ••••◦</Li>
-              <Li>Rubygems (Utilization & Creation) ••••◦</Li>
+              <Li>Responsive Web Design ••••◦</Li>
+              <Li>Web Performance ••••◦</Li>
+              <Li>SEO •••◦◦</Li>
+              {/* <Li>Jekyll •••◦◦</Li> */}
+              {/* <Li>Rails Multitenancy ••••◦</Li> */}
+              {/* <Li>Rubygems (Utilization & Creation) ••••◦</Li> */}
               <Li>Sockets.IO •••◦◦</Li>
+            </Ul>
+          </Section>
+          <Section>
+            <H2>Currently Learning</H2>
+            <Ul>
+              <Li>TensorFlow •◦◦◦◦</Li>
+              <Li>Computer Science ••◦◦◦</Li>
             </Ul>
           </Section>
         </Wrapper>
