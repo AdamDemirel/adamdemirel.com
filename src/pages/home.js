@@ -60,10 +60,10 @@ export default class Home extends React.Component {
             </Span>
           </Text>
           <Links>
-            <Li>
+            {/* <Li>
               <A to="mailto:adxm@msn.com">Email</A>
             </Li>{" "}
-            /{" "}
+            /{" "} */}
             <Li>
               <A to="https://twitter.com/AdamDemirel">Twitter</A>
             </Li>{" "}
@@ -75,10 +75,10 @@ export default class Home extends React.Component {
             <Li>
               <A to="https://github.com/AdamDemirel">Github</A>
             </Li>{" "}
-            /{" "}
+            {/* /{" "}
             <Li>
               <A to="https://medium.com/@adxm">Medium</A>
-            </Li>
+            </Li> */}
           </Links>
         </Card>
       </>
@@ -93,7 +93,7 @@ export default class Home extends React.Component {
 //             </Span> */
 // }
 
-const Div = styled.div``;
+// const Div = styled.div``;
 
 export const Card = styled.div`
   width: auto;
