@@ -25,7 +25,7 @@ export default props => {
           </p>
           <p>
             I usually write as a means of research and discovery, and/or to get
-            the ideas out of my head and give them some structure.
+            the ideas out of my head and give them some structure. I also enjoy deconstructing complex systems.
           </p>
           <p>
             I don't aim for my writing to be 100% easy to read or approachable,

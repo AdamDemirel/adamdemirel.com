@@ -203,6 +203,7 @@ https://patrickcollison.com/links
 # Parenting
 
 - https://web.archive.org/web/20150317070602/http://squid314.livejournal.com/346391.html (https://www.lesswrong.com/posts/PAYMMgPi2L3MPP967/experiences-in-applying-the-biodeterminist-s-guide-to)
+- https://pursuit.unimelb.edu.au/articles/the-value-of-strength-based-parenting
 
 # Environment
 - https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce
