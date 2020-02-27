@@ -39,6 +39,11 @@ https://patrickcollison.com/links
 - https://bratheory.com/what-we-learned-and-whats-next/
 - https://www.julian.com/guide/growth/intro
 
+# Physics
+- http://pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_rel_sim/
+- https://en.wikipedia.org/wiki/Double-slit_experiment
+- http://stars.chromeexperiments.com/
+
 # Problem Solving
 
 - https://www.lesswrong.com/posts/Pmfk7ruhWaHj9diyv/the-first-step-is-to-admit-that-you-have-a-problem
@@ -55,6 +60,12 @@ https://patrickcollison.com/links
 - https://fs.blog/mental-models/
 - https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
 
+# Sports Performance
+- news.stanford.edu/news/2012/august/cooling-glove-research-082912.html
+
+# Critical Thinking
+- http://en.wikipedia.org/wiki/Inductive_reasoning
+
 # Happiness
 
 - https://adamdemirel.com/happiness/
@@ -67,6 +78,38 @@ https://patrickcollison.com/links
 - http://foxcodex.html.xdomain.jp/index.html
 - https://wikkelhouse.com
 - http://www.weehouse.com/weemodels-2/
+- https://dcurt.is/the-best
+- https://en.wikipedia.org/wiki/Eden_Project
+- http://www.chairigami.com/
+- http://hellorhei.com/
+- https://www.teamlab.art/e/
+- https://www.mckameymanor.com/
+- https://snuffpuppets.com/what-we-do/everybody/
+- https://brewstersociety.com/kaleidoscope-university/kaleidoscopic-image/
+
+# Morality
+- http://content.apa.org/journals/rev/108/4/814
+- https://en.wikipedia.org/wiki/Emotivism
+
+# Philosophy
+- https://www.reddit.com/r/philosophy/wiki/readinglist
+- https://www.edge.org/conversation/joshua_d_greene-deep-pragmatism
+- https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem
+- https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction
+- https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem
+- https://en.wikipedia.org/wiki/Jaegwon_Kim#Philosophy_of_mind
+- https://en.wikipedia.org/wiki/Causal_closure 
+- https://en.wikipedia.org/wiki/Ontology / https://en.wikipedia.org/wiki/Metaphysics (ie "Subject-Object problem")
+- https://en.wikipedia.org/wiki/Social_epistemology
+- https://en.wikipedia.org/wiki/Gettier_problem
+- https://en.wikipedia.org/wiki/Private_language_argument 
+- https://en.wikipedia.org/wiki/Ordinary_language_philosophy
+- https://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism
+- https://www.youtube.com/playlist?list=PLFF9E7ADD88FBA144
+- https://en.wikipedia.org/wiki/Heterophenomenology
+- https://en.wikipedia.org/wiki/Anthropic_principle
+- https://en.wikipedia.org/wiki/Object_permanence
+- https://en.wikipedia.org/wiki/Causal_reasoning#Development_in_humans
 
 # Income
 
@@ -80,6 +123,11 @@ https://patrickcollison.com/links
 - https://slatestarcodex.com/2019/02/06/survey-results-on-ssris/
 - https://slatestarcodex.com/2017/10/10/ssc-journal-club-serotonin-receptors/
 - https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/
+
+# Writing
+- https://guzey.com/personal/why-have-a-blog/
+- https://www.julian.com/blog/punctuation
+
 
 # Productivity
 
@@ -106,6 +154,20 @@ https://patrickcollison.com/links
 - https://medium.com/@joeljean/im-living-in-a-carbon-bubble-literally-b7c391e8ab6
 - https://slatestarcodex.com/2018/08/23/carbon-dioxide-an-open-door-policy/
 - https://www.gwern.net/zeo/CO2
+
+# Science
+- Human genome project
+- Human connectome project  http://www.openconnectomeproject.org/ *
+-  https://en.wikipedia.org/wiki/Human_Speechome_Project 
+- https://en.wikipedia.org/wiki/Overdetermination
+- https://en.wikipedia.org/wiki/Underdetermination
+- https://en.wikipedia.org/wiki/Explanatory_power 
+- https://en.wikipedia.org/wiki/Predictive_power
+- http://en.wikipedia.org/wiki/Critical_rationalism
+- http://htwins.net/scale2/
+
+# Math
+- www.wolframalpha.com
 
 # Nutrition
 
@@ -147,6 +209,10 @@ https://patrickcollison.com/links
 - https://www.youtube.com/watch?v=eDxzlwEriAw (peter jackson's AR demo)
 - https://infoproc.blogspot.com/2018/08/assassination-by-drone.html
 - https://maxhawkins.me/work/randomized_living.html
+- https://phonebloks.com/en/goals
+- https://www.giken.com/en/products/automated-parking-facilities/eco-cycle/
+- http://ankc.org.au/Breed/Index
+- http://thephilosophersmeme.com/2016/01/18/glossary-1-dot-0/
 
 
 # Writing
@@ -158,7 +224,7 @@ https://patrickcollison.com/links
 - https://theoutline.com/post/5495/how-to-beat-linked-in-the-game
 - https://xkcd.com/2057/
 
-# Nootropics
+# Nootropics & Supplements
 
 - https://www.gwern.net/Nootropics
 - https://www.reddit.com/r/Nootropics/wiki/beginners
@@ -166,6 +232,18 @@ https://patrickcollison.com/links
 - http://www.thinkinginanutshell.com/nootropics
 - https://www.lesswrong.com/posts/NYPmCBfrDfXfhwBog/a-rationalist-s-guide-to-psychoactive-drugs
 - https://www.lesswrong.com/posts/SmgMiErTGSTWm7CRW/rationality-drugs
+- https://darktka.github.io/
+- examine.com 
+
+# Chemistry
+- https://www.khanacademy.org/science/chemistry
+
+# Pharmacology
+- https://www.youtube.com/user/UHMauiMath/playlists
+
+# Animals & Behavior
+- http://ankc.org.au/Breed/Index
+- https://www.youtube.com/playlist?list=PLqeYp3nxIYpF7dW7qK8OvLsVomHrnYNjD
 
 # Urban Planning
 
@@ -196,6 +274,9 @@ https://patrickcollison.com/links
 - https://baristahustle.com/blog/
 - https://worldcoffeeresearch.org/work/sensory-lexicon/
 
+# Music
+- https://www.scaruffi.com/music.html
+
 # Spirituality
 
 - https://digest.bps.org.uk/2019/02/22/massive-comparison-of-thousands-of-narrative-accounts-finds-ketamine-trips-are-remarkably-similar-to-near-death-experiences/
@@ -207,3 +288,45 @@ https://patrickcollison.com/links
 
 # Environment
 - https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce
+
+# Personality
+- http://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless
+- www.reddit.com/r/askscience/comments/1p2cki/how_scientifically_valid_is_the_myers_briggs/
+- https://www.understandmyself.com/ / big5
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2612120/ anger = high dopamine, low serotonin
+- https://www.nature.com/articles/ncomms15361 
+
+# Prejudice
+- https://secure.understandingprejudice.org/apa/english/
+
+# Journals
+- https://browzine.com/
+- libgen
+- scihub
+
+# Biology
+- https://www.sigmaaldrich.com/technical-documents/articles/biology/interactive-metabolic-pathways-map.html
+- http://book.bionumbers.org/
+- https://en.wikipedia.org/wiki/Punctuated_equilibrium
+
+# ReadingLists
+-https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World
+-https://alexvermeer.com/bookshelf/
+-http://www.rationality.org/resources/reading-list
+-http://fourhourworkweek.com/2016/12/10/the-unusual-books-that-shaped-50-billionaires-mega-bestselling-authors-and-other-prodigies/
+-http://fourhourbook.club/
+-https://devonzuegel.com/post/cities-reading-list
+- https://sivers.org/book
+- https://www.scottadamssays.com/2018/01/24/persuasion-reading-list-updated-1-18/
+- http://marginalrevolution.com/marginalrevolution/2007/11/view-quake-read.html
+- https://blog.jessfraz.com/post/books/
+
+# Travel
+- https://www.google.com/flights/
+- https://www.airbnb.com.au/
+- https://twitter.com/devonzuegel/status/1060381939058728963
+- https://brianlui.dog/2018/12/27/thoughts-from-the-bay/
+- https://web.archive.org/web/20190221225624/http://quantifiedself.com/2018/07/psychogeography/
+- http://www.paulgraham.com/cities.html 
+- https://digest.bps.org.uk/2018/05/09/more-time-spent-abroad-increases-self-concept-clarity-confidence-in-and-clarity-about-who-you-are/
+- https://marginalrevolution.com/marginalrevolution/2017/01/organize-first-day-new-city-traveling.html

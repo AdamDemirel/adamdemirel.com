@@ -9,6 +9,7 @@ export default ({ title, description, path }) => (
   >
     <meta charSet="utf-8" />
     <title>{title}</title>
+    <meta name="google-site-verification" content="google-site-verification=bufd6_aUnQgj9s7Sq-nglW_yVDrdTpKYyOyMVIR3uZo"></meta>
     <link rel="canonical" href="https://adamdemirel.com" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
