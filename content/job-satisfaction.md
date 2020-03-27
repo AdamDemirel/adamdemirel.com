@@ -77,7 +77,7 @@ All of these factors together result in high work **engagement**. The more of th
 
 > The right job according to Mihaly C is a job that challenges us to an optimal level - one that's neither so hard that we give up, nor so easy that we get bored. Finding a job that engages your natural talents and give you constant feedback is a sure way to build happiness.
 
-What's the most interesting about the job characteristics model is that none of the criteria are uniquely related to the subject matter of any specific job, a failed bias we are typically drawn to. Instead, what the content job is, or is about, doesn't matter so much as what characteristics it has.
+What's the most interesting about the job characteristics model is that none of the criteria are uniquely related to the subject matter of any specific job, a failed bias we are typically drawn to. Instead, what the content job is, or is about, doesn' so much as what characteristics it has.
 
 ### Autonomy
 
@@ -454,7 +454,7 @@ There are a few main tests worth mentioning based on their popularity, and merit
 
 Although these are not perfect approaches, I think they are better than systematically going through an uncategorized [list of jobs](https://joboutlook.gov.au/A-Z) and trying to forecast what you would and wouldn't enjoy, as people have a [poor ability](https://80000hours.org/2012/09/do-you-really-know-what-job-will-make-you-happy/) at predicting what will make them happy.
 
-Although person-environment fit doesn't have the strongest predictive power, it could be potentially worth exploring in the chance of finding a career full of tasks that you love to do.
+Although person-environment fit doesn't have the strongest predictive power ([ref](https://80000hours.org/2013/08/does-your-personality-matter-in-picking-a-career/)), it could be potentially worth exploring in the chance of finding a career full of tasks that you love to do.
 
 ## Myers–Briggs Type Indicator
 
@@ -910,7 +910,6 @@ In conclusion, the final take away from all of this to keep it simple is to do t
 
 #### 80k Advice
 - https://80000hours.org/articles/job-satisfaction-research/
-- https://80000hours.org/2013/04/how-important-is-fitting-in-at-work/
 - https://80000hours.org/2012/08/how-to-find-a-job-you-ll-love/ \* see references here
 - https://80000hours.org/articles/comparative-advantage/ \*
 - https://80000hours.org/2014/09/update-dont-follow-your-passion/
