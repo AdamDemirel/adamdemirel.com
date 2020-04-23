@@ -330,3 +330,8 @@ https://patrickcollison.com/links
 - http://www.paulgraham.com/cities.html 
 - https://digest.bps.org.uk/2018/05/09/more-time-spent-abroad-increases-self-concept-clarity-confidence-in-and-clarity-about-who-you-are/
 - https://marginalrevolution.com/marginalrevolution/2017/01/organize-first-day-new-city-traveling.html
+
+
+
+work 
+https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf
