@@ -88,12 +88,6 @@ const Nav = styled.ul`
     padding-bottom: 15px;
     border-bottom: 1px solid black;
   }
-
-  /* @media (min-width: 960px) {
-    position: sticky !important;
-    top: 0px;
-    float: right;
-  } */
 `;
 
 const StyledLink = styled(Link)`

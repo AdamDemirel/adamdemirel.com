@@ -71,7 +71,7 @@ export default {
         return {
           title: "Job Satisfaction.",
           content: post,
-          path: "job-satisfaction" // for GA
+          path: "job-satisfaction"
         };
       }
     },

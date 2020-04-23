@@ -49,29 +49,23 @@ export default createGlobalStyle`
     ul li p {
       margin: 0;
     }
-
-    // border: 1px solid red;
-
     overflow-wrap: break-word;
     box-sizing: border-box;
-
   }
 
+  /* body::-webkit-scrollbar,
+  .skills::-webkit-scrollbar {
+    width: 10px; }
+  body::-webkit-scrollbar-thumb,
+  .skills::-webkit-scrollbar-thumb {
+    background: #666;
+    border-radius: 20px; }
+  body::-webkit-scrollbar-track,
+  .skills::-webkit-scrollbar-track {
+    background: #ddd;
+    border-radius: 20px; } */
 
-  // body::-webkit-scrollbar,
-  // .skills::-webkit-scrollbar {
-  //   width: 10px; }
-  // body::-webkit-scrollbar-thumb,
-  // .skills::-webkit-scrollbar-thumb {
-  //   background: #666;
-  //   border-radius: 20px; }
-  // body::-webkit-scrollbar-track,
-  // .skills::-webkit-scrollbar-track {
-  //   background: #ddd;
-  //   border-radius: 20px; }
-
-
-    aside {
-      position: relative;
-    }
+  aside {
+    position: relative;
+  }
 `;
