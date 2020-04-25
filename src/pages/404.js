@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Nav from "../components/Nav";
 
 const Container = styled.main`
   display: flex;
@@ -32,10 +33,13 @@ const Title = styled.h1`
 `;
 
 export default () => (
-  <Container>
-    <Child>
-      <img src="/images/404.png" alt="cartoon character holding a question mark sign" />
-      <Title>Sorry Amigo, this page doesn't exist.</Title>
-    </Child>
-  </Container>
+  <>
+    <Nav />
+    <Container>
+      <Child>
+        <img src="/images/404.png" alt="cartoon character holding a question mark sign" />
+        <Title>Sorry Amigo, this page doesn't exist.</Title>
+      </Child>
+    </Container>
+  </>
 );
