@@ -64,7 +64,7 @@ const skills = [{
         highlight: true
       },
       {
-        name: "Browser Targetting"
+        name: "Browser Support"
       },
       {
         name: "Web Security"

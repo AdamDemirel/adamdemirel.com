@@ -50,6 +50,10 @@ export default {
       template: "src/pages/writing"
     },
     {
+      path: "404",
+      template: "src/pages/404.js",
+    },
+    {
       path: "sleep",
       template: "src/pages/post.js",
       getData: async () => {
