@@ -4,12 +4,12 @@ import { ThemeProvider } from "styled-components"; // Provi
 import theme from "./backend/theme";
 import Body from "./backend/Body";
 import { Router } from "@reach/router";
-import { DotLoader } from "react-spinners";
+import { GridLoader } from "react-spinners";
 import styled from "styled-components";
 
 const Spinner = () => (
   <SpinnerWrapper>
-    <DotLoader sizeUnit={"px"} size={150} color="#2368A2" />
+    <GridLoader sizeUnit={"px"} size={20} color="#2368A2" />
   </SpinnerWrapper>
 );
 

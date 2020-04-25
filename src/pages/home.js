@@ -4,7 +4,6 @@ import {
   fontFamily,
   fontWeight,
   fontSize,
-  width,
   left,
   top,
   space,
@@ -13,9 +12,6 @@ import {
 } from "../backend/StyledSystem";
 import SEO from "../components/SEO";
 import Nav from "../components/Nav";
-
-// navbar in topright with About, Skills, Writing, Works
-// https://designmodo.com/wp-content/uploads/2017/10/neil-portfolio-image.jpg
 
 export default class Home extends React.Component {
   render() {
@@ -60,10 +56,6 @@ export default class Home extends React.Component {
             </Span>
           </Text>
           <Links>
-            {/* <Li>
-              <A to="mailto:adxm@msn.com">Email</A>
-            </Li>{" "}
-            /{" "} */}
             <Li>
               <A to="https://twitter.com/AdamDemirel">Twitter</A>
             </Li>{" "}
@@ -75,25 +67,12 @@ export default class Home extends React.Component {
             <Li>
               <A to="https://github.com/AdamDemirel">Github</A>
             </Li>{" "}
-            {/* /{" "}
-            <Li>
-              <A to="https://medium.com/@adxm">Medium</A>
-            </Li> */}
           </Links>
         </Card>
       </>
     );
   }
 }
-
-// {
-//   /* <Span>
-//               My preferred dev stack is Linux / JS / Node / HTML / CSS w. Styled Components / React, and Express / MongoDB for backend.
-//               <br />
-//             </Span> */
-// }
-
-// const Div = styled.div``;
 
 export const Card = styled.div`
   width: auto;
@@ -118,6 +97,7 @@ export const Name = styled.h1`
   ${space({ mt: "15px", ml: 0, mr: 0, mb: ["30px", "35px", "40px"], p: 0 })}
   ${letterSpacing({ letterSpacing: ["-2px", "-2px", "-5px"] })}
   vertical-align: text-top;
+  ${({ display }) => ({ display: display || "block" })}
 
   @media (max-width: 600px) {
     padding-top: 30px;

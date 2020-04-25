@@ -1,213 +1,90 @@
-import React from "react";
+import React, { useState } from "react";
 import Nav from "../components/Nav";
 import { Yellow, Card, Name, Text } from "./home";
 import styled from "styled-components";
 import { width, space, fontSize } from "../backend/StyledSystem";
 import SEO from "../components/SEO";
+import skills from "./skills-data";
 
-const skills = [
-  {
-    title: "Languages",
-    items: [
-      {
-        name: "JavaScript",
-        highlight: true
-      },
-      { name: "Node.js" }
-    ]
-  }
-]
+const UnfilteredSkills = () => {
+  return skills.map(({ title, items }) => (
+    <Section>
+      <H2>{title}</H2>
+      <Ul>
+        {items.map(({ name, highlight }) => (
+          <Li>
+            {highlight ?
+              <Yellow>{name}</Yellow> :
+              name
+            }
+          </Li>
+        ))}
+      </Ul>
+    </Section>
+  ))
+}
 
-export default () => (
-  <>
-    <SEO
-      title="Skills - Adam Demirel's Personal Website"
-      description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
-      path="/skills"
-    />
-    <Nav />
-    <Card>
-      <Name>Skills.</Name>
-      <Text>
-        <Wrapper>
+const FilteredSkills = () => {
+  return (
+    <>
+      <Section>
+        <Ul>
           {
-            skills.map(({ title, items }) => {
-              return (
-                <Section>
-                  <H2>{title}</H2>
-                  <Ul>
-                    {
-                      items.map(({ name, highlight }) => {
-                        return (
-                          <Li>
-                            highlight ?
-                            <Yellow>{name}</Yellow> :
-                            {name}
-                          </Li>
-                        )
-                      })
-                    }
-                  </Ul>
-                </Section>
-              )
-            })
+            skills.map(({ items }) => (
+              items.map(({ name, highlight }) => (
+                highlight && <Li><Yellow>{name}</Yellow></Li>
+              ))
+            ))
           }
-          <Section>
-            <H2>Languages</H2>
-            <Ul>
-              <Li>
-                <Yellow>Javascript</Yellow> •••••
-              </Li>
-              <Li>Node.js ••••◦</Li>
-              {/* <Li>Ruby •••◦◦</Li> */}
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Web Frameworks</H2>
-            <Ul>
-              <Li>
-                <Yellow>React</Yellow> ••••◦
-              </Li>
-              {/* <Li>Ruby on Rails ••◦◦◦</Li> */}
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Markup</H2>
-            <Ul>
-              <Li>
-                <Yellow>HTML5</Yellow> •••••
-              </Li>
-              {/* <Li>HAML •••◦◦</Li> */}
-              <Li>Markdown ••••◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Styling</H2>
-            <Ul>
-              <Li>
-                <Yellow>CSS3</Yellow> ••••◦
-              </Li>
-              <Li>Styled Components •••••</Li>
-              {/* <Li>Flexbox ••••◦</Li> */}
-              {/* <Li>CSS Grid ••••◦</Li> */}
-              {/* <Li>SASS / SCSS ••••◦</Li> */}
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Microcontrollers</H2>
-            <Ul>
-              <Li>Raspberry Pi •••◦◦</Li>
-              <Li>Arduino •••◦◦</Li>
-              {/* <Li>Sensors: Color, Distance, Push •••◦◦</Li> */}
-              {/* <Li>NeoPixel LEDs •••◦◦</Li> */}
-            </Ul>
-          </Section>
-          {/* <Section>
-            <H2>CSS Frameworks</H2>
-            <Ul>
-              <Li>Bootstrap ••••◦</Li>
-              <Li>Materialize •••◦◦</Li>
-              <Li>Semantic UI •••◦◦</Li>
-            </Ul>
-          </Section> */}
-          <Section>
-            <H2>Backend</H2>
-            <Ul>
-              <Li>ExpressJS ••••◦</Li>
-              {/* <Li>Node.js •••◦◦</Li> */}
-              <Li>NetlifyCMS ••••◦</Li>
-              {/* <Li>Sidekiq ••◦◦◦</Li> */}
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Serialization</H2>
-            <Ul>
-              <Li>JSON •••••</Li>
-              <Li>YAML ••••◦</Li>
-              <Li>XML ••••◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Databases</H2>
-            <Ul>
-              {/* <Li>SQL & PostgreSQL •••◦◦</Li> */}
-              <Li>MongoDB & Mongoose •••◦◦</Li>
-              <Li>AWS S3 •••◦◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Collaboration</H2>
-            <Ul>
-              <Li>Git & Github ••••◦</Li>
-              <Li>Agile & Trello •••◦◦</Li>
-              {/* <Li>Jira & Confluence ••◦◦◦</Li> */}
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Deployment</H2>
-            <Ul>
-              <Li>
-                <Yellow>Netlify</Yellow> •••••
-              </Li>
-              {/* <Li>Heroku •••◦◦</Li> */}
-              {/* <Li>Github Pages •••••</Li> */}
-              {/* <Li>Firebase •••◦◦</Li> */}
-              <Li>AWS S3 •••◦◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Design</H2>
-            <Ul>
-              <Li>Modern UI Theory ••••◦</Li>
-              <Li>Utilizing XD Designs ••••◦</Li>
-              {/* <Li>Moodboarding ••••◦</Li> */}
-              {/* <Li>Wireframing (Balsamiq) ••••◦</Li> */}
-              <Li>Typography & Fonts •••◦◦</Li>
-              <Li>GIMP •••◦◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Environment</H2>
-            <Ul>
-              <Li>
-                <Yellow>Arch Linux</Yellow> •••◦◦
-              </Li>
-              <Li>Bash & CLI •••◦◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Analytics</H2>
-            <Ul>
-              <Li>Google Analytics ••••◦</Li>
-              <Li>HotJar •••◦◦</Li>
-              <Li>DataDog API ••••◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Other</H2>
-            <Ul>
-              <Li>Responsive Web Design ••••◦</Li>
-              <Li>Web Performance ••••◦</Li>
-              <Li>SEO •••◦◦</Li>
-              {/* <Li>Jekyll •••◦◦</Li> */}
-              {/* <Li>Rails Multitenancy ••••◦</Li> */}
-              {/* <Li>Rubygems (Utilization & Creation) ••••◦</Li> */}
-              <Li>Sockets.IO •••◦◦</Li>
-              <Li>NFC •••◦◦</Li>
-            </Ul>
-          </Section>
-          <Section>
-            <H2>Currently Learning</H2>
-            <Ul>
-              <Li>TensorFlow •◦◦◦◦</Li>
-              <Li>Computer Science ••◦◦◦</Li>
-            </Ul>
-          </Section>
-        </Wrapper>
-      </Text>
-    </Card>
-  </>
-);
+        </Ul>
+      </Section>
+      <Section></Section>
+      <Section></Section>
+      <Section></Section>
+    </>
+  );
+}
+
+export default () => {
+  const [filtered, setFiltered] = useState(false);
+  console.log({ filtered })
+
+  return (
+    <>
+      <SEO
+        title="Skills - Adam Demirel's Personal Website"
+        description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
+        path="/skills"
+      />
+      <Nav />
+      <Card>
+        <Name display="inline-block">Skills.</Name>
+        <Filter onClick={() => setFiltered(!filtered)}>
+          <Yellow>
+            * filter key skills
+          </Yellow>
+        </Filter>
+        <Text>
+          <Wrapper>
+            {
+              filtered ?
+              <FilteredSkills /> :
+              <UnfilteredSkills />
+            }
+          </Wrapper>
+        </Text>
+      </Card>
+    </>
+  )
+};
+
+
+const Filter = styled.span`
+  vertical-align: top;
+  font-family: Karla;
+  font-weight: 700;
+  cursor: pointer;
+`;
 
 const Wrapper = styled.div`
   width: 100%;
@@ -215,6 +92,10 @@ const Wrapper = styled.div`
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+
+  @media (max-width: 960px) {
+    width: 80vw;
+  }
 `;
 
 const Ul = styled.ul`
