@@ -102,6 +102,11 @@ export const Name = styled.h1`
   @media (max-width: 600px) {
     padding-top: 30px;
   }
+
+  &::selection {
+    background: transparent;
+    color: inherit;
+  }
 `;
 
 export const Text = styled.div`

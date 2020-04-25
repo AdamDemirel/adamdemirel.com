@@ -84,6 +84,10 @@ const Filter = styled.span`
   font-family: Karla;
   font-weight: 700;
   cursor: pointer;
+
+  span::selection {
+    background: transparent;
+  }
 `;
 
 const Wrapper = styled.div`
