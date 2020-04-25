@@ -5,6 +5,19 @@ import styled from "styled-components";
 import { width, space, fontSize } from "../backend/StyledSystem";
 import SEO from "../components/SEO";
 
+const skills = [
+  {
+    title: "Languages",
+    items: [
+      {
+        name: "JavaScript",
+        highlight: true
+      },
+      { name: "Node.js" }
+    ]
+  }
+]
+
 export default () => (
   <>
     <SEO
@@ -17,6 +30,28 @@ export default () => (
       <Name>Skills.</Name>
       <Text>
         <Wrapper>
+          {
+            skills.map(({ title, items }) => {
+              return (
+                <Section>
+                  <H2>{title}</H2>
+                  <Ul>
+                    {
+                      items.map(({ name, highlight }) => {
+                        return (
+                          <Li>
+                            highlight ?
+                            <Yellow>{name}</Yellow> :
+                            {name}
+                          </Li>
+                        )
+                      })
+                    }
+                  </Ul>
+                </Section>
+              )
+            })
+          }
           <Section>
             <H2>Languages</H2>
             <Ul>
