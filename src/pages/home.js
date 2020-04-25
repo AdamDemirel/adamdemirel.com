@@ -121,6 +121,7 @@ const Span = styled.p`
 export const Yellow = styled.span`
   background-color: #fefecf;
   color: black;
+  font-family: inherit;
 
   &:hover {
     background-color: #191545;
