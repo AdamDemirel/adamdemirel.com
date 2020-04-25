@@ -19,7 +19,7 @@ export default class Home extends React.Component {
       <>
         <SEO
           title="Adam Demirel's Personal Website"
-          description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Learn more."
+          description="Adam Demirel is a Software Engineer from Sydney, working with the Web and Internet Of Things at Paper Moose. Learn more."
           path="/"
         />
         <Nav />
@@ -27,7 +27,7 @@ export default class Home extends React.Component {
           <Name>Adam Demirel.</Name>
           <Text>
             <Span>
-              I'm a <Yellow>Software Developer</Yellow> from Sydney, working
+              I'm a <Yellow>Software Engineer</Yellow> from Sydney, working
               with the Web and{" "}
               <A to="https://en.wikipedia.org/wiki/Internet_of_things" iot>
                 Internet Of Things
