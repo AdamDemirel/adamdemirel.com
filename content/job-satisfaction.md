@@ -1,3 +1,7 @@
+#### Reading Time: ~ 45min
+
+---
+
 For the average modern worker, their working week is around 40 hours per week. So assuming that you work for 40 hours per week, from ages 20-60 before you retire, the total amount of hours that you will work in your life is roughly 80,000 hours (50 weeks x 40 years x 40 hours). That's a lot of hours.
 
 If you're like the majority of humans, you will have no option but to work to generate income to provide yourself with food and shelter. Sure, you do have other options like being voluntarily homeless, opting for a life of extreme frugality - eg in a [van](https://en.wikipedia.org/wiki/Downshifting_(lifestyle))), living off of welfare or leeching from others, etc. But to most, these are not seductive alternatives to simply abiding by the system which gives them a regular paycheck.

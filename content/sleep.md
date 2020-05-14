@@ -1,3 +1,7 @@
+#### Reading Time: ~ 20min
+
+---
+
 ![Image of a bed](/images/sleep.jpeg)
 
 # The 8 Evidence-Based Principles to Optimize Your Sleep
