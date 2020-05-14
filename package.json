@@ -17,6 +17,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
+    "react-page-progress": "^1.1.1",
     "react-scrollspy": "^3.4.2",
     "react-static": "^7.2.3",
     "react-static-plugin-reach-router": "^7.2.3",

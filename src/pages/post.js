@@ -13,6 +13,7 @@ import {
 } from "../backend/StyledSystem";
 import Scrollspy from "react-scrollspy";
 import SEO from "../components/SEO";
+import PageProgress from "react-page-progress";
 
 export default withRouteData(({ title, content, path }) => {
   // console.log("post props", props);
@@ -240,6 +241,7 @@ export default withRouteData(({ title, content, path }) => {
           </ScrollspyStickyWrapper>
         </ScrollspyOuterWrapper>
         <TextWrapper>
+          <PageProgress color="#625cdf" height={5} />
           <Text dangerouslySetInnerHTML={{ __html: content }} />
         </TextWrapper>
       </Card>
