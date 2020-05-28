@@ -162,7 +162,7 @@ Although it seems like human experience is infinitely diverse, due to the basic 
 | -             | Self Loathing                                                                                           |                                                                           |
 | -             |                                                                                                         | Laughter / Humor                                                          |
 | -             |                                                                                                         | Experience of cuteness                                                    |
-| -             |                                                                                                         |                                                                           |
+| -             |                                                                                                         |       Nurturing / Protecting Others                                           |
 | Psychological |                                                                                                         | Learning - reading, watching movies, consuming media                      |
 | -             | Repetition, boredom                                                                                      | Novelty - traveling to new locations, trying new things, browsing the web |
 | -             | Financial Insecurity - debt, buyers remorse, lack of money, loss of property                            | Financial security                                                        |
