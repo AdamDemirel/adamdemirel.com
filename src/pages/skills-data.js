@@ -129,6 +129,9 @@ const skills = [{
       },
       {
         name: "Gatsby.js"
+      },
+      {
+        name: "Wordpress"
       }
     ]
   },
