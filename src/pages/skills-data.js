@@ -179,7 +179,7 @@ const skills = [{
         name: "Firebase"
       },
       {
-        name: "AWS"
+        name: "AWS EC2, S3, & Lambdas"
       },
       {
         name: "Docker"

@@ -33,6 +33,7 @@ https://patrickcollison.com/links
 - http://www.sixthtone.com/news/1000919/the-history-behind-chinas-obsession-with-hot-water
 - https://medium.com/@helentoner/14-assorted-impressions-from-beijing-15018c2d3a84
 - https://www.scmp.com/lifestyle/food-drink/article/3007657/history-pad-thai-how-stir-fried-noodle-dish-was-invented-thai
+- https://junyawt.com/
 
 # Product Creation
 
@@ -185,6 +186,7 @@ https://patrickcollison.com/links
 - https://adamdemirel.com/job-satisfaction/
 - http://www.thinkinginanutshell.com/when-does-hard-work-pay-
 - https://www.lesswrong.com/posts/jtedBLdducritm8y6/optimal-employment
+- https://ldeming.posthaven.com/advice-for-ambitious-teenagers
 
 # Effective Altruism
 
