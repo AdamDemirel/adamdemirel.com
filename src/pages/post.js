@@ -26,6 +26,7 @@ export default withRouteData(({ title, content, path }) => {
         description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
         path={`/${path}`}
       />
+      <PageProgress color="#625cdf" height={5} />
       <Nav open={open} setOpen={setOpen} title={title} />
       <Card>
         <Name>{title}</Name>
@@ -241,7 +242,6 @@ export default withRouteData(({ title, content, path }) => {
           </ScrollspyStickyWrapper>
         </ScrollspyOuterWrapper>
         <TextWrapper>
-          <PageProgress color="#625cdf" height={5} />
           <Text dangerouslySetInnerHTML={{ __html: content }} />
         </TextWrapper>
       </Card>
@@ -382,7 +382,8 @@ const Card = styled.div`
   right: 0;
   max-width: 1250px;
   font-weight: 900;
-  z-index: 999;
+  /* z-index: 998; */
+  z-index: -1;
   position: absolute;
   color: #191545;
   font-weight: 400;

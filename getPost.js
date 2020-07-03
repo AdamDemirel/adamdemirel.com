@@ -2,7 +2,6 @@ const fs = require("fs");
 const { create } = require("md-mdast");
 const toHast = require("mdast-util-to-hast");
 const toHtml = require("hast-util-to-html");
-
 const parser = create();
 
 export default async pageName => {
