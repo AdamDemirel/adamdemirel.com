@@ -24,7 +24,7 @@ export default class Home extends React.Component {
         />
         <Nav />
         <Card>
-          <Name>Adam Demirel2.</Name>
+          <Name>Adam Demirel.</Name>
           <Text>
             <Span>
               I'm a <Yellow>Software Engineer</Yellow> from Sydney, working
