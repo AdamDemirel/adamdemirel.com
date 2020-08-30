@@ -42,7 +42,7 @@ const skills = [{
         highlight: true
       },
       {
-        name: "Styling Components",
+        name: "Styled Components",
         highlight: true
       }
     ]
