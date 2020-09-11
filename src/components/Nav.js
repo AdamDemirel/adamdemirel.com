@@ -37,11 +37,11 @@ export default ({ open, setOpen, title }) => {
           Skills
         </NavLink>
       </Li>
-      <Li>
+      {/* <Li>
         <NavLink to="/writing" exact="true">
           Writing
         </NavLink>
-      </Li>
+      </Li> */}
       {title && (
         <MobileDiv>
           <Li>
