@@ -11,7 +11,7 @@ export default props => {
   return (
     <>
       <SEO
-        title="Writing - Adam Demirel's Personal Website"
+        title="Portfolio - Adam Demirel's Personal Website"
         description="Adam Demirel is a Software Developer from Sydney, working with the Web and Internet Of Things at Paper Moose. Some of his main skills are Javascript, React, HTML, Styled Components, Linux, Microcontrollers, and modern UI Theory. Learn more."
         path="/portfolio"
       />
