@@ -91,6 +91,15 @@ export default {
           path: "happiness"
         };
       }
+    },
+    {
+      path: 'portfolio',
+      template: "src/pages/portfolio.js",
+      return: {
+        title: "Portfolio.",
+        content: '',
+        path: 'portfolio',
+      }
     }
   ]
 };

@@ -403,15 +403,6 @@ const Card = styled.div`
     position: static;
   }
 
-  hr {
-    background-image: url(/images/hr.svg);
-    width: 30%;
-    height: 4px;
-    border: 0;
-    margin-top: 50px;
-    margin-bottom: 50px;
-  }
-
   td {
     border: 1px solid black;
     box-sizing: border-box;

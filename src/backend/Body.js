@@ -30,6 +30,15 @@ export default createGlobalStyle`
       url("/fonts/hello.woff2") format("woff2");
   }
 
+  hr {
+    background-image: url(/images/hr.svg);
+    width: 30%;
+    height: 4px;
+    border: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
   body {
     margin: 0;
   }
