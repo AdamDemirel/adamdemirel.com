@@ -30,7 +30,7 @@ export default props => {
           </p>
           <p>
             I've setup Content Management Systems (both headless like Strapi and headed like Wordpress), cloud services on AWS, small AI tools for image recognition, done User Experience testing, designing, a lot of UI development, SEO optimization, prototyped a chatbot, and played around with VR experiences.
-            I've also built interfaces using Rasperry Pi's and Arduino's using touch sensors, ultrasound sensors, LEDs, and NFCs. Here's a full <a href="http://localhost:3000/skills">list of my skills</a>.
+            I've also built interfaces using Rasperry Pi's and Arduino's using touch sensors, ultrasound sensors, LEDs, and NFCs. Here's a full <a href="/skills">list of my skills</a>.
           </p>
           <p>
             Some of my main web work can be seen below.
