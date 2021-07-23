@@ -132,6 +132,12 @@ const skills = [{
       },
       {
         name: "Wordpress"
+      },
+      {
+        name: "Strapi",
+      },
+      {
+        name: "SanityCMS"
       }
     ]
   },
