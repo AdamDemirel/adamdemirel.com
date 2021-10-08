@@ -492,6 +492,7 @@ Here is a list of things that do and don't correlate with Life Satisfaction:
 - **Appreciation** which includes being present, self/social comaparison, gratitude, and interpersonal appreciation ([ref](https://www.sciencedirect.com/science/article/abs/pii/S0191886912000888))
 - **Living With Your Partner** rather than alone ([ref](https://aifs.gov.au/publications/life-satisfaction-across-life-course-transitions), [ref](https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/living-well-index/Sainsburys%20Living%20Well%20Index%20Wave%204%20Jun%202019%20FV.pdf))
 - The satisfaction of key needs, desires, and goals give rise to high life satisfaction, and the dissatisfaction of them gives rise to lower life satisfaction ([ref](https://www.nature.com/articles/s41562-018-0307-6)).
+- **Childhood Maltreatment** https://pubmed.ncbi.nlm.nih.gov/32338529/
 
 ## Variables That Weakly Predict LS
 
