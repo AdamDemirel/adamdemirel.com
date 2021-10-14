@@ -39,6 +39,9 @@ export default props => {
 
           <ul>
             <li>
+              14-10-21: <StyledLink to="/property">Property Recommendations</StyledLink>
+            </li>
+            <li>
               23-12-19: <StyledLink to="/happiness">Happiness</StyledLink>
             </li>
             <li>

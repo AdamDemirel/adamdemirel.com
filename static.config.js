@@ -93,6 +93,19 @@ export default {
       }
     },
     {
+      path: "property",
+      template: "src/pages/post.js",
+      getData: async () => {
+        const post = await getPost("property");
+
+        return {
+          title: "Things I recommend you buy and use.",
+          content: post,
+          path: "property",
+        }
+      }
+    },
+    {
       path: 'portfolio',
       template: "src/pages/portfolio.js",
       return: {

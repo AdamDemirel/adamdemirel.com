@@ -44,6 +44,12 @@ const skills = [{
       {
         name: "Styled Components",
         highlight: true
+      },
+      {
+        name: "SASS/SCSS"
+      },
+      {
+        name: "postCSS"
       }
     ]
   },
@@ -54,7 +60,8 @@ const skills = [{
         highlight: true,
       },
       {
-        name: "Search Engine Optimization"
+        name: "Search Engine Optimization",
+        highlight: true
       },
       {
         name: "Web Accessibility"
@@ -74,7 +81,7 @@ const skills = [{
   {
     title: "Noteworthy JavaScript Libraries",
     items: [{
-        name: "NEXT.js",
+        name: "Next.js",
         highlight: true
       },
       {
@@ -124,7 +131,8 @@ const skills = [{
   },
   {
     title: "CMS's",
-    items: [{
+    items: [
+      {
         name: "netlifycms"
       },
       {
@@ -137,18 +145,12 @@ const skills = [{
         name: "Strapi",
       },
       {
-        name: "SanityCMS"
-      }
-    ]
-  },
-  {
-    title: "Data Serialization",
-    items: [{
-        name: "JSON"
+        name: "SanityCMS",
+        highlight: true,
       },
       {
-        name: "YAML"
-      },
+        name: "Shopify"
+      }
     ]
   },
   {
@@ -168,10 +170,13 @@ const skills = [{
         highlight: true
       },
       {
+        name: "Github & Gitlab",
+      },
+      {
         name: "Agile methodology"
       },
       {
-        name: "Consuming XD designs"
+        name: "Consuming designs (XD & Figma)"
       },
     ]
   },
@@ -206,9 +211,19 @@ const skills = [{
     ]
   },
   {
+    title: "Data Serialization",
+    items: [{
+        name: "JSON"
+      },
+      {
+        name: "YAML"
+      },
+    ]
+  },
+  {
     title: "Analytics",
     items: [{
-        name: "Google Analytics"
+        name: "Google Analytics (Universal & GA4)"
       },
       {
         name: "HotJar"
@@ -228,9 +243,6 @@ const skills = [{
       },
       {
         name: "SQL & Postgres"
-      },
-      {
-        name: "SASS/SCSS"
       },
       {
         name: "HAML"

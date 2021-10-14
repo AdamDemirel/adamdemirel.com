@@ -19,7 +19,7 @@ export default class Home extends React.Component {
       <>
         <SEO
           title="Adam Demirel's Personal Website"
-          description="Adam Demirel is a Software Engineer from Sydney, working with the Web and Internet Of Things at Paper Moose. Learn more."
+          description="Adam Demirel is a Software Engineer from Sydney, developing for the web."
           path="/"
         />
         <Nav />
@@ -27,16 +27,7 @@ export default class Home extends React.Component {
           <Name>Adam Demirel.</Name>
           <Text>
             <Span>
-              I'm a <Yellow>Software Engineer</Yellow> from Sydney, working
-              with the Web and{" "}
-              <A to="https://en.wikipedia.org/wiki/Internet_of_things" iot>
-                Internet Of Things
-              </A>{" "}
-              at{" "}
-              <A to="https://papermoose.com/">
-                <Moose>Paper Moose</Moose>
-              </A>
-              .
+              I'm a <Yellow>Software Engineer</Yellow> from Sydney, developing for the Web.
             </Span>
             <Span>
               I'm passionate about the power of computers and technology to
@@ -50,7 +41,7 @@ export default class Home extends React.Component {
             </Span>
 
             <Span>
-              Outside of work, I spend my time <Hl4>rock-climbing</Hl4>, with my
+              Outside of work, I spend my time <Moose>doing jiujitsu</Moose>, <Hl4>rock-climbing</Hl4>, with my
               loved ones, or <Hl5>learning</Hl5> about whatever my current
               fascination is.
             </Span>
