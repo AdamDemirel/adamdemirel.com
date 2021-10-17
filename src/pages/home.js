@@ -27,7 +27,7 @@ export default class Home extends React.Component {
           <Name>Adam Demirel.</Name>
           <Text>
             <Span>
-              I'm a <Yellow>Software Engineer</Yellow> from Sydney, developing for the Web.
+              Hey, I'm Adam <span role="image">👋</span>. I'm a <Yellow>Software Engineer</Yellow> from Sydney, developing for the Web.
             </Span>
             <Span>
               I'm passionate about the power of computers and technology to
