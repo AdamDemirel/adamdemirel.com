@@ -6,6 +6,7 @@ This article is in the vein of a handful of others which fall under the category
 - [Ben Schifman](https://forum.effectivealtruism.org/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use)
 - [Michelle Hutchsinon](https://forum.effectivealtruism.org/posts/o7E47dNfeArTTQh74/10-things-i-bought-and-recommend-2020)
 - [Megan McArdle](https://cookerymonster.substack.com/p/the-2020-annual-kitchen-gift-guide)
+- [Thoughtworthy](https://thoughtworthy.co/favorites/)
 
 This is my attempt at making a list of recommendations. These are based on having read through a list of popular threads on LessWrong, and categorizing the main types of recommendations which popped up. Those threads being:
 
