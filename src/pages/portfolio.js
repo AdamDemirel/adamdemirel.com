@@ -52,7 +52,7 @@ export default props => {
           <img src="/images/coke2.jpg" />
           <img src="/images/coke3.jpg" />
           <hr />
-          <h1><a href="https://2019annualreport.ozharvest.org/food-rescue">MLC School Strategic Plan</a></h1>
+          <h1><a href="https://strategy.mlcsyd.nsw.edu.au/">MLC School Strategic Plan</a></h1>
           <p>Pair programmed on the frontend of the React build of this Strategic Plan website for the Sydney girls school MLC. Utilises modern scroll animations, and hosted on Netlify.</p>
           <video width="100%" controls>
             <source src="/videos/mlc.mp4" type="video/mp4"></source>
