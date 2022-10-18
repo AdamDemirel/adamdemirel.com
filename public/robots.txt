@@ -2,15 +2,7 @@ User-agent: *
 
 User-agent: Googlebot
 Disallow: /writing
-
-User-agent: Googlebot
 Disallow: /happiness
-
-User-agent: Googlebot
 Disallow: /property
-
-User-agent: Googlebot
 Disallow: /job-satisfaction
-
-User-agent: Googlebot
 Disallow: /sleep
