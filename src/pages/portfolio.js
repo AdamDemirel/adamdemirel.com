@@ -20,7 +20,7 @@ export default props => {
         <Name>Portfolio.</Name>
         <Text>
           <p>
-            I'm a full-stack software engineer with 4 years of full stack experience developing webapps, experiences, and interfaces for a variety of projects.
+            I'm a full-stack software engineer with 4 years of experience developing webapps, experiences, and interfaces for a variety of projects.
           </p>
           <p>
             I've worked across the stack from frontend to backend, from small screens to large.
