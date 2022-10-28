@@ -5,6 +5,21 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link
+          rel="preload"
+          href="/fonts/karla-bold.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="true"
+        ></link>
+        <link
+          rel="preload"
+          href="/fonts/karla-regular.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="true"
+        ></link>
         <meta charSet="utf-8" />
 
         {/* <meta name="google-site-verification" content="3SK90HgPUNr666XDbHneA9y1kTynEOMUQcsrythMgno" /> */}
