@@ -1,8 +1,8 @@
-import React, { useState } from "react";
-import { withRouteData } from "react-static";
-import Nav from "../components/Nav";
-import { Name } from "../pages/home";
-import styled from "styled-components";
+import { useState } from "react"
+import { withRouteData } from "react-static"
+import Nav from "../components/Nav"
+import { Name } from "../pages/home"
+import styled from "styled-components"
 import {
   top,
   left,
@@ -10,14 +10,14 @@ import {
   fontFamily,
   fontSize,
   lineHeight
-} from "../backend/StyledSystem";
-import Scrollspy from "react-scrollspy";
-import SEO from "../components/SEO";
-import PageProgress from "react-page-progress";
+} from "../backend/StyledSystem"
+import Scrollspy from "react-scrollspy"
+import SEO from "../components/SEO"
+import PageProgress from "react-page-progress"
 
 export default withRouteData(({ title, content, path }) => {
   // console.log("post props", props);
-  const [open, setOpen] = useState(false);
+  const [ open, setOpen ] = useState(false)
 
   return (
     <>
@@ -246,8 +246,8 @@ export default withRouteData(({ title, content, path }) => {
         </TextWrapper>
       </Card>
     </>
-  );
-});
+  )
+})
 
 const Text = styled.div`
   width: 50%;
@@ -256,8 +256,8 @@ const Text = styled.div`
 
 
   ${fontFamily({ fontFamily: "karla" })}
-  ${fontSize({ fontSize: ["20px", "20px", "20px"] })}
-  /* ${lineHeight({ lineHeight: ["24px", "30px", "30px"] })} */
+  ${fontSize({ fontSize: [ "20px", "20px", "20px" ] })}
+  /* ${lineHeight({ lineHeight: [ "24px", "30px", "30px" ] })} */
 
   @media (max-width: 960px) {
     width: 100%;
@@ -278,7 +278,7 @@ const Text = styled.div`
     line-height: 45px;
     letter-spacing: -1px;
   }
-`;
+`
 
 const TextWrapper = styled.div`
   max-width: 100%;
@@ -298,7 +298,7 @@ const TextWrapper = styled.div`
   @media (min-width: 960px) and (max-width: 1200px) {
     padding-left: 200px;
   }
-`;
+`
 
 const ScrollspyOuterWrapper = styled.div`
   position: absolute;
@@ -320,11 +320,11 @@ const ScrollspyOuterWrapper = styled.div`
     background-color: white;
     top: 45px;
   }
-`;
+`
 
 const ScrollspyStickyWrapper = styled.div`
   ${fontFamily({ fontFamily: "karla" })}
-  ${fontSize({ fontSize: ["16px", "20px", "14px"] })}
+  ${fontSize({ fontSize: [ "16px", "20px", "14px" ] })}
   font-weight: 500;
   padding-top: 8px;
 
@@ -368,17 +368,17 @@ const ScrollspyStickyWrapper = styled.div`
   }
 
 
-`;
+`
 
 const Li = styled.li`
   margin-top: 10px;
-`;
+`
 
 const Card = styled.div`
   width: auto;
-  ${top({ top: ["20px", "10%", "10%"] })}
-  ${left({ left: ["unset", "unset", "0"] })}
-  ${space({ p: "15px", m: ["10px", "10px", "auto"] })}
+  ${top({ top: [ "20px", "10%", "10%" ] })}
+  ${left({ left: [ "unset", "unset", "0" ] })}
+  ${space({ p: "15px", m: [ "10px", "10px", "auto" ] })}
   right: 0;
   max-width: 1250px;
   font-weight: 900;
@@ -411,4 +411,4 @@ const Card = styled.div`
   table {
     border-spacing: 0;
   }
-`;
+`

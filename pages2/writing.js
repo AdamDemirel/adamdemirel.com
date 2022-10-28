@@ -1,12 +1,12 @@
-import React from "react";
-import { Card, Name, Text } from "./home";
-import { Link } from "@reach/router";
-import styled from "styled-components";
-import Nav from "../components/Nav";
-import SEO from "../components/SEO";
+import React from "react"
+import { Card, Name, Text } from "./home"
+import Link from "next/link"
+import styled from "styled-components"
+import Nav from "../components/Nav"
+import SEO from "../components/SEO"
 
-export default props => {
-  console.log("post props", props);
+const Writing = props => {
+  console.log("post props", props)
 
   return (
     <>
@@ -28,7 +28,7 @@ export default props => {
             the ideas out of my head and give them some structure. I also enjoy deconstructing complex systems.
           </p>
           <p>
-            I don't aim for my writing to be 100% easy to read or approachable,
+            I don&apos;t aim for my writing to be 100% easy to read or approachable,
             but rather comprehensive and act as an end-point.
           </p>
           <p>
@@ -55,9 +55,11 @@ export default props => {
         </Text>
       </Card>
     </>
-  );
-};
+  )
+}
 
 const StyledLink = styled(Link)`
-  text-decoration: none;
-`;
+text-decoration: none;
+`
+
+export default Writing

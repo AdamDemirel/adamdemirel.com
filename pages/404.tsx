@@ -1,6 +1,6 @@
-import React from "react";
-import styled from "styled-components";
-import Nav from "../components/Nav";
+import styled from "styled-components"
+import Nav from "../components/Nav"
+import Image from 'next/image'
 
 const Container = styled.main`
   display: flex;
@@ -8,7 +8,7 @@ const Container = styled.main`
   align-items: center;
   height: 100vh;
   width: 100%;
-`;
+`
 
 const Child = styled.div`
   max-width: 600px;
@@ -21,7 +21,7 @@ const Child = styled.div`
       max-width: 90%;
     }
   }
-`;
+`
 
 const Title = styled.h1`
   font-family: Karla;
@@ -31,16 +31,18 @@ const Title = styled.h1`
   @media (max-width: 600px) {
     font-size: 22px;
   }
-`;
+`
 
-export default () => (
+const Custom404 = () => (
   <>
     <Nav />
     <Container>
       <Child>
-        <img src="/images/404.png" alt="cartoon character holding a question mark sign" />
-        <Title>Sorry Amigo, this page doesn't exist.</Title>
+        <Image src="/images/404.png" alt="cartoon character holding a question mark sign" width={500} height={500} />
+        <Title>Sorry Amigo, this page doesn&apos;t exist.</Title>
       </Child>
     </Container>
   </>
-);
+)
+
+export default Custom404

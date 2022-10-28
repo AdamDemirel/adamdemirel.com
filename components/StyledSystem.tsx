@@ -22,98 +22,98 @@ import {
   maxWidth as styledMaxWidth,
   maxHeight as styledMaxHeight,
   minHeight as styledMinHeight
-} from "styled-system";
+} from "styled-system"
 
 function color(props) {
-  return ({ theme }) => styledSystemColor({ theme, ...props });
+  return ({ theme }) => styledSystemColor({ theme, ...props })
 }
 
 function fontSize(props) {
-  return ({ theme }) => styledFontSize({ theme, ...props });
+  return ({ theme }) => styledFontSize({ theme, ...props })
 }
 
 function fontFamily(props) {
-  return ({ theme }) => styledFontFamily({ theme, ...props });
+  return ({ theme }) => styledFontFamily({ theme, ...props })
 }
 
 function height(props) {
-  return ({ theme }) => styledHeight({ theme, ...props });
+  return ({ theme }) => styledHeight({ theme, ...props })
 }
 
 function space(props) {
-  return ({ theme }) => styledSpace({ theme, ...props });
+  return ({ theme }) => styledSpace({ theme, ...props })
 }
 
 function fontWeight(props) {
-  return ({ theme }) => styledFontWeight({ theme, ...props });
+  return ({ theme }) => styledFontWeight({ theme, ...props })
 }
 
 function borderTop(props) {
-  return ({ theme }) => styledBorderTop({ theme, ...props });
+  return ({ theme }) => styledBorderTop({ theme, ...props })
 }
 
 function gridGap(props) {
-  return ({ theme }) => styledGridGap({ theme, ...props });
+  return ({ theme }) => styledGridGap({ theme, ...props })
 }
 
 function borderLeft(props) {
-  return ({ theme }) => styledBorderLeft({ theme, ...props });
+  return ({ theme }) => styledBorderLeft({ theme, ...props })
 }
 
 function top(props) {
-  return ({ theme }) => styledTop({ theme, ...props });
+  return ({ theme }) => styledTop({ theme, ...props })
 }
 
 function bottom(props) {
-  return ({ theme }) => styledBottom({ theme, ...props });
+  return ({ theme }) => styledBottom({ theme, ...props })
 }
 
 function left(props) {
-  return ({ theme }) => styledLeft({ theme, ...props });
+  return ({ theme }) => styledLeft({ theme, ...props })
 }
 
 function width(props) {
-  return ({ theme }) => styledWidth({ theme, ...props });
+  return ({ theme }) => styledWidth({ theme, ...props })
 }
 
 function borderBottom(props) {
-  return ({ theme }) => styledBorderBottom({ theme, ...props });
+  return ({ theme }) => styledBorderBottom({ theme, ...props })
 }
 
 function right(props) {
-  return ({ theme }) => styledRight({ theme, ...props });
+  return ({ theme }) => styledRight({ theme, ...props })
 }
 
 function display(props) {
-  return ({ theme }) => styledDisplay({ theme, ...props });
+  return ({ theme }) => styledDisplay({ theme, ...props })
 }
 
 function position(props) {
-  return ({ theme }) => styledPosition({ theme, ...props });
+  return ({ theme }) => styledPosition({ theme, ...props })
 }
 
 function border(props) {
-  return ({ theme }) => styledBorder({ theme, ...props });
+  return ({ theme }) => styledBorder({ theme, ...props })
 }
 
 function letterSpacing(props) {
-  return ({ theme }) => styledLetterSpacing({ theme, ...props });
+  return ({ theme }) => styledLetterSpacing({ theme, ...props })
 }
 
 function lineHeight(props) {
-  return ({ theme }) => styledLineHeight({ theme, ...props });
+  return ({ theme }) => styledLineHeight({ theme, ...props })
 }
 
 function maxWidth(props) {
-  return ({ theme }) => styledMaxWidth({ theme, ...props });
+  return ({ theme }) => styledMaxWidth({ theme, ...props })
 }
 
 function maxHeight(props) {
-  return ({ theme }) => styledMaxHeight({ theme, ...props });
+  return ({ theme }) => styledMaxHeight({ theme, ...props })
 }
 
 function minHeight(props) {
-  return ({ theme }) => styledMinHeight({ theme, ...props });
+  return ({ theme }) => styledMinHeight({ theme, ...props })
 }
 
 export {
@@ -140,4 +140,4 @@ export {
   maxWidth,
   maxHeight,
   minHeight
-};
+}

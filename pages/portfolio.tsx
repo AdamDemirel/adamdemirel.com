@@ -1,12 +1,11 @@
-import React from "react";
-import { Card, Name, Text } from "./home";
-import { Link } from "@reach/router";
-import styled from "styled-components";
-import Nav from "../components/Nav";
-import SEO from "../components/SEO";
+import { Card, Name, TextWrapper } from "../components/Home"
+import Link from 'next/link'
+import styled from "styled-components"
+import Nav from "../components/Nav"
+import SEO from "../components/SEO"
 
-export default props => {
-  console.log("post props", props);
+const Portfolio = props => {
+  console.log("post props", props)
 
   return (
     <>
@@ -18,19 +17,19 @@ export default props => {
       <Nav />
       <Card>
         <Name>Portfolio.</Name>
-        <Text>
+        <TextWrapper>
           <p>
-            I'm a full-stack software engineer with 4 years of experience developing webapps, experiences, and interfaces for a variety of projects.
+            I&apos;m a full-stack software engineer with 4 years of experience developing webapps, experiences, and interfaces for a variety of projects.
           </p>
           <p>
-            I've worked across the stack from frontend to backend, from small screens to large.
+            I&apos;ve worked across the stack from frontend to backend, from small screens to large.
           </p>
           <p>
             My focus is on developing webapps that are functional, meet client requirements, performant, secure, mobile-responsive, accessible, SEO friendly, maintainable, using Analytics, which provide both a good developer and user experience.
           </p>
           <p>
-            I've setup Content Management Systems (both headless like Strapi and headed like Wordpress), cloud services on AWS, small AI tools for image recognition, done User Experience testing, designing, a lot of UI development, SEO optimization, prototyped a chatbot, and played around with VR experiences.
-            I've also built interfaces using Rasperry Pi's and Arduino's using touch sensors, ultrasound sensors, LEDs, and NFCs. Here's a full <a href="/skills">list of my skills</a>.
+            I&apos;ve setup Content Management Systems (both headless like Strapi and headed like Wordpress), cloud services on AWS, small AI tools for image recognition, done User Experience testing, designing, a lot of UI development, SEO optimization, prototyped a chatbot, and played around with VR experiences.
+            I&apos;ve also built interfaces using Rasperry Pi&apos;s and Arduino&apos;s using touch sensors, ultrasound sensors, LEDs, and NFCs. Here&apos;s a full <Link href="/skills">list of my skills</Link>.
           </p>
           <p>
             Some of my main web work can be seen below.
@@ -41,12 +40,12 @@ export default props => {
             Led the complete frontend construction over 3 months for the giant rebuild of the popular not-for-profit OzHarvest, with over 40k month on month visitors.
           </p>
           <p>
-            The backend is a regular Wordpress CMS, using an ACF module system, and the frontend is templated with Nunjucks. Integrated with third party API's such as InfoExchange, Salesforce, and Google Analytics. Hosted on AWS EC2.
+            The backend is a regular Wordpress CMS, using an ACF module system, and the frontend is templated with Nunjucks. Integrated with third party API&apos;s such as InfoExchange, Salesforce, and Google Analytics. Hosted on AWS EC2.
           </p>
           <img src="/images/ozharvest.png" alt="ozharvest.org homepage hero" />
           <hr />
           <h1>Coke Recycling Bins</h1>
-          <p>On behalf of another digital agency, our agency built "smart bins" for CocaCola to be used at the new Sydney Cricket Ground at Moore Park.</p>
+          <p>On behalf of another digital agency, our agency built &ldquo;smart bins&rdquo; for CocaCola to be used at the new Sydney Cricket Ground at Moore Park.</p>
           <p>We contracted the physical build of the bin, and I built a bottle detection system which uses color sensors to detect if a coke or non-coke bottle has been placed in the bin, programmatically showing a different screen to the user, and lighting up LEDs. A signup form for an EDM was used to collect information, and the signup form plus thank you screen were both built in React.</p>
           <img src="/images/coke1.jpg" />
           <img src="/images/coke2.jpg" />
@@ -85,11 +84,11 @@ export default props => {
           <h1>Wotif Truck</h1>
           <p>
             Pair programmed on the build of this creative interface for the Australia travel company Wotif. We contracted the build of the truck to a third party and designed and implemented the interface. The truck uses multiple sensors (ultrasound, touch, distance) etc to allow users to interact with buttons and toggles living on the side of a truck. The truck drives around Australia to local festivals and continues to this day.
-            </p>
-            <p>
+          </p>
+          <p>
             Based on the user inputs a list of travel recommendations is programmatically shown on the screen by flipping through images in a slot-machine like fashion.
-            </p>
-            <p>
+          </p>
+          <p>
             We used Arduinos for the wiring of the inputs and designed the frontend with React.
           </p>
           <img src="/images/wotif1.jpg" />
@@ -104,17 +103,14 @@ export default props => {
             <source src="/videos/noosa.mp4" type="video/mp4"></source>
           </video>
           <hr />
-          <h1><a href="/">adamdemirel.com</a></h1>
+          <h1><Link href="/">adamdemirel.com</Link></h1>
           <p>Designed the clean UI for and built the full stack for this portfolio. Developed with react-static, styled components, and hosted on Netlify. Uses HotJar analytics.</p>
           <img src="/images/portfolio.png" alt="homepage of adamdemirel.com" />
           <hr />
-        </Text>
+        </TextWrapper>
       </Card>
     </>
-  );
-};
+  )
+}
 
-
-const StyledLink = styled(Link)`
-  text-decoration: none;
-`;
+export default Portfolio

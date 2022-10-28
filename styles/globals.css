@@ -1,0 +1,49 @@
+@font-face {
+  font-family: Karla;
+  font-style: normal;
+  font-display: fallback;
+  font-weight: 700;
+  src:
+    url("/fonts/karla-bold.woff2") format("woff2"),
+    url("/fonts/karla-bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src:
+    url("/fonts/karla-regular.woff2") format("woff2"),
+    url("/fonts/karla-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: hello;
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src:
+    url("/fonts/hello.woff2") format("woff2");
+}
+
+hr {
+  background-image: url(/images/hr.svg);
+  width: 30%;
+  height: 4px;
+  border: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* body::-webkit-scrollbar,
+.skills::-webkit-scrollbar {
+  width: 10px; }
+body::-webkit-scrollbar-thumb,
+.skills::-webkit-scrollbar-thumb {
+  background: #666;
+  border-radius: 20px; }
+body::-webkit-scrollbar-track,
+.skills::-webkit-scrollbar-track {
+  background: #ddd;
+  border-radius: 20px; } */

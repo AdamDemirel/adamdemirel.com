@@ -22,7 +22,7 @@ const theme = {
     lightGray: "1px solid hsl(0, 0%, 95%)",
     brightBlue: "2px solid hsl(186, 87%, 54%)" // view as pdf article
   },
-  fontWeights: [400, 700, 900],
+  fontWeights: [ 400, 700, 900 ],
   lineHeights: {
     0: "16px",
     1: "22px",
@@ -87,7 +87,7 @@ const theme = {
     15: "82px"
   },
   sizes: {},
-  breakpoints: ["600px", "960px", "1280px", "1640px"],
+  breakpoints: [ "600px", "960px", "1280px", "1640px" ],
   mediaQueries: {
     sm: "@media (max-width: 600px)",
     md: "@media (min-width: 601px) and (max-width: 960px)",
@@ -96,6 +96,6 @@ const theme = {
   fonts: {
     karla: "Karla, sans-serif"
   }
-};
+}
 
-export default theme;
+export default theme
