@@ -42,13 +42,13 @@ const Portfolio = props => {
           <Text>4 days per week, fully remote. Ideally a product company, rather than an agency. Interested in the health tech space. JavaScript based tech steck. <a href="https://www.linkedin.com/in/adam-demirel/">Reach out</a> if you think I might be interested 🔥.</Text>
           <Text as="strong" lineHeight={1} my={3}>Aug 2021-Present - <a href="https://dotdev.com.au/">DotDev</a> -
           Mid Full Stack Developer</Text>
-          <Text>Bug fixing and feature creation for 20+ projects in the company portfolio, requiring debugging skills and direct client communication. Most projects being a mix of React, Gatstby, Shopify, API's, and liquid. Recently the lead developer on the large 4 month rebuild of <a href="https://goodnessme.gatsbyjs.io/">GoodnessMe</a>.</Text>
+          <Text>Bug fixing and feature creation for 20+ projects in the company portfolio, requiring debugging skills and direct client communication. Most projects being a mix of React, Gatstby, Shopify, API&apos;s, and liquid. Recently the lead developer on the large 4 month rebuild of <a href="https://goodnessme.gatsbyjs.io/">GoodnessMe</a>.</Text>
           <Text as="strong" lineHeight={1} my={3}>Mar 2019-Aug 2021 - <a href="https://papermoose.com/">Paper Moose</a> -
           Software Engineer</Text>
           <Text>One of two developers responsible for delivering 20+ technical projects, independently, or together. Variety of projects listed below.</Text>
           <Text as="strong" lineHeight={1} my={3}>Feb 2019 - <a href="https://www.readytech.com.au/">JobReady</a> -
           Software Engineering Intern</Text>
-          <Text>Built a custom package to integrate JobReady's platform metrics into an analytics dashboard.</Text>
+          <Text>Built a custom package to integrate JobReady&apos;s platform metrics into an analytics dashboard.</Text>
           <hr />
           <Heading size="h1">Projects</Heading>
           <h1><a href="https://ozharvest.org">OzHarvest.org</a></h1>
