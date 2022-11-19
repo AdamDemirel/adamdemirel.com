@@ -1,5 +1,5 @@
 import React from "react"
-import { Card, Name, Text } from "./home"
+import { Card, Name, Text } from "../components/Home"
 import Link from "next/link"
 import styled from "styled-components"
 import Nav from "../components/Nav"
@@ -7,6 +7,8 @@ import SEO from "../components/SEO"
 
 const Writing = props => {
   console.log("post props", props)
+
+  return <div>.</div>
 
   return (
     <>

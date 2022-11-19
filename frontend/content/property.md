@@ -1,5 +1,4 @@
-This article is in the vein of a handful of others which fall under the category of "property recommendations". Or rather "rational attempts at spending money to improve your happiness". The most popular of which was Rob's, circulating and gaining popularity throughout 2019. Here's a list of others which this is inspired by:
-- [Rob Wiblin](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68)
+
 - [Sam Bowman](https://s8mb.medium.com/things-i-recommend-you-buy-and-use-second-edition-457a8e7163f6)
 - [Alexey Guzey](https://guzey.com/tools-gear/)
 - [Alex Vermeer](https://alexvermeer.com/tangibles/)

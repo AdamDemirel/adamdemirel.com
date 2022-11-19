@@ -73,4 +73,5 @@ export {
   Heading5,
   Heading4,
   Li,
+  Text,
 }

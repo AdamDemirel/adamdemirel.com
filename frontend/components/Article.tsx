@@ -1,23 +1,18 @@
 import { useState } from "react"
-import { withRouteData } from "react-static"
-import Nav from "../components/Nav"
-import { Name } from "../pages/home"
-import styled from "styled-components"
-import {
-  top,
-  left,
-  space,
-  fontFamily,
-  fontSize,
-  lineHeight
-} from "../backend/StyledSystem"
-import Scrollspy from "react-scrollspy"
+import { Box } from "@chakra-ui/react"
 import SEO from "../components/SEO"
 import PageProgress from "react-page-progress"
+import Nav from "../components/Nav"
+import { Name } from "./Home"
+import Scrollspy from "react-scrollspy"
+import { PortableText } from '@portabletext/react'
 
-export default withRouteData(({ title, content, path }) => {
-  // console.log("post props", props);
+const Article = ({ content }: any) => {
   const [ open, setOpen ] = useState(false)
+
+  // get this from sanity
+  const title = "Things I recommend you buy and use."
+  const path = "/property"
 
   return (
     <>
@@ -30,7 +25,7 @@ export default withRouteData(({ title, content, path }) => {
       <Nav open={open} setOpen={setOpen} title={title} />
       <Card>
         <Name>{title}</Name>
-        <ScrollspyOuterWrapper open={open}>
+        {/* <ScrollspyOuterWrapper open={open}>
           <ScrollspyStickyWrapper>
             {title === "Sleep." && (
               <Scrollspy
@@ -240,175 +235,133 @@ export default withRouteData(({ title, content, path }) => {
               </Scrollspy>
             )}
           </ScrollspyStickyWrapper>
-        </ScrollspyOuterWrapper>
+        </ScrollspyOuterWrapper> */}
         <TextWrapper>
-          <Text dangerouslySetInnerHTML={{ __html: content }} />
+          <Text>
+            <PortableText
+              value={content}
+              // components={/* optional object of custom components to use */}
+            />
+          </Text>
         </TextWrapper>
       </Card>
     </>
   )
-})
+}
 
-const Text = styled.div`
-  width: 50%;
-  margin: 0 auto;
-  box-sizing: border-box;
+const Text = ({ children }) => <Box
+  w={[ "50%", "100%" ]}
+  m="0 auto"
+  boxSizing="border-box"
+  fontFamily="karla"
+  fontSize={[ "20px", "20px", "20px" ]}
+  lineHeight={[ "24px", "30px", "30px" ]}
+  maxW={[ '550px', '550px', 'unset' ]}
 
-
-  ${fontFamily({ fontFamily: "karla" })}
-  ${fontSize({ fontSize: [ "20px", "20px", "20px" ] })}
-  /* ${lineHeight({ lineHeight: [ "24px", "30px", "30px" ] })} */
-
-  @media (max-width: 960px) {
-    width: 100%;
-  }
-
-  @media (min-width: 601px) and (max-width: 960px) {
-    max-width: 550px;
-  }
-
-  @media (max-width: 600px) {
-    max-width: 550px;
-  }
-
-
-
-  h1 {
-    color: #625CDF;
-    line-height: 45px;
-    letter-spacing: -1px;
-  }
-`
-
-const TextWrapper = styled.div`
-  max-width: 100%;
-
-  display: inline-block;
-  position: static;
-  top: 0;
-
-  @media (max-width: 600px) {
-    width: 100%;
-    word-wrap: break-word;
-  }
-  @media (min-width: 601px) and (max-width: 960px) {
-    width: 100%;
-  }
-
-  @media (min-width: 960px) and (max-width: 1200px) {
-    padding-left: 200px;
-  }
-`
-
-const ScrollspyOuterWrapper = styled.div`
-  position: absolute;
-  height: 100%;
-
-  @media (max-width: 600px) {
-    display: none;
-    display: ${({ open }) => (open ? "block" : "none")};
-  }
-
-  @media (max-width: 960px) {
-    height: auto;
-    position: static;
-  }
-
-  @media (max-width: 600px) {
-    position: sticky;
-    top: 0px;
-    background-color: white;
-    top: 45px;
-  }
-`
-
-const ScrollspyStickyWrapper = styled.div`
-  ${fontFamily({ fontFamily: "karla" })}
-  ${fontSize({ fontSize: [ "16px", "20px", "14px" ] })}
-  font-weight: 500;
-  padding-top: 8px;
-
-  @media (min-width: 601px) {
-    position: sticky;
-    top: 25px;
-  }
-
-  @media (max-height: 670px) {
-    position: static;
-  }
-
-  a {
-    text-decoration: none;
-    color: inherit;
-
-    &:hover {
-      text-decoration: underline;
+  sx={{
+    'h1': {
+      color: '#625CDF',
+      lineHeight: '45px',
+      letterSpacing: '-1px',
     }
-  }
+  }}
+>{children}</Box>
 
-  ul {
-    list-style: none;
-    padding-right: 20px;
-    border-bottom: 2px solid #191545;
-    padding-bottom: 20px;
+const TextWrapper = ({ children }: any) => <Box maxW="100%"
+  display="inline-block"
+  position="static"
+  top={0}
+  w={[ '100%', '100%', 'unset' ]}
+  sx={{ 'wordWrap': [ 'break-word', 'unset' ] }}
+  pl={[ 'auto', '200px', 'auto' ]}
+>{children}</Box>
 
-    @media (min-width: 961px) {
-      border-right: 2px solid #191545;
-      border-bottom: none;
-    }
+// const ScrollspyOuterWrapper = styled.div`
+//   position: absolute;
+//   height: 100%;
 
-    @media (max-width: 960px) {
-      padding-left: 0;
-    }
-  }
+//   @media (max-width: 600px) {
+//     display: none;
+//     display: ${({ open }) => (open ? "block" : "none")};
+//   }
 
-  .activeScrollspy {
-    text-decoration: underline;
-    font-weight: 700;
-  }
+//   @media (max-width: 960px) {
+//     height: auto;
+//     position: static;
+//   }
 
+//   @media (max-width: 600px) {
+//     position: sticky;
+//     top: 0px;
+//     background-color: white;
+//     top: 45px;
+//   }
+// `
 
-`
+// const ScrollspyStickyWrapper = styled.div`
+//   ${fontFamily({ fontFamily: "karla" })}
+//   ${fontSize({ fontSize: [ "16px", "20px", "14px" ] })}
+//   font-weight: 500;
+//   padding-top: 8px;
 
-const Li = styled.li`
-  margin-top: 10px;
-`
+//   @media (min-width: 601px) {
+//     position: sticky;
+//     top: 25px;
+//   }
 
-const Card = styled.div`
-  width: auto;
-  ${top({ top: [ "20px", "10%", "10%" ] })}
-  ${left({ left: [ "unset", "unset", "0" ] })}
-  ${space({ p: "15px", m: [ "10px", "10px", "auto" ] })}
-  right: 0;
-  max-width: 1250px;
-  font-weight: 900;
-  /* z-index: 998; */
-  z-index: -1;
-  position: absolute;
-  color: #191545;
-  font-weight: 400;
-  background-color: white;
-  border-radius: 5px;
+//   @media (max-height: 670px) {
+//     position: static;
+//   }
 
+//   a {
+//     text-decoration: none;
+//     color: inherit;
+
+//     &:hover {
+//       text-decoration: underline;
+//     }
+//   }
+
+//   ul {
+//     list-style: none;
+//     padding-right: 20px;
+//     border-bottom: 2px solid #191545;
+//     padding-bottom: 20px;
+
+//     @media (min-width: 961px) {
+//       border-right: 2px solid #191545;
+//       border-bottom: none;
+//     }
+
+//     @media (max-width: 960px) {
+//       padding-left: 0;
+//     }
+//   }
+
+//   .activeScrollspy {
+//     text-decoration: underline;
+//     font-weight: 700;
+//   }
+
+// `
+
+const Li = ({ children }) => <Box as="li" mt="10px">{children}</Box>
+
+const Card = ({ children }: any) => <Box w="auto" top={[ "20px", "10%", "10%" ]} left={[ "unset", "unset", "0" ]} p="15px" m={[ "10px", "10px", "auto" ]} right={0} maxW="1250px" fontWeight={400} zIndex={-1} position={[ 'static', 'static', 'absolute' ]} color="#191545" bgColor="white" borderRadius="5px" sx={{
   // styles footnotes
-  code {
-    background-color: #EFF8FF;
-    padding: 0 3px;
-    font-size: 16px;
-  }
-
+  "card": {
+    bgColor: "#EFF8FF",
+    padding: "0 30px",
+    fontSize: "16px",
+  },
   // logic for realigning the table of contents from top to side
-  @media(max-width: 960px) {
-    right: unset;
-    position: static;
+  "td": {
+    border: "1px solid black",
+    boxSizing: "border-box",
+  },
+  "table": {
+    borderSpacing: 0,
   }
+}}>{children}</Box>
 
-  td {
-    border: 1px solid black;
-    box-sizing: border-box;
-  }
-
-  table {
-    border-spacing: 0;
-  }
-`
+export { Article }

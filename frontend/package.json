@@ -3,20 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "start": "next dev",
     "build": "next build",
-    "start": "next start",
+    "serve": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.3.6",
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
+    "@portabletext/react": "^2.0.0",
     "framer-motion": "^7.6.1",
     "next": "13.0.0",
+    "next-sanity": "^2.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-helmet": "^6.1.0",
+    "react-page-progress": "^1.1.1",
+    "react-scrollspy": "^3.4.3",
     "react-spinners": "^0.13.6",
     "styled-components": "^5.3.6",
     "styled-system": "^5.1.5"
