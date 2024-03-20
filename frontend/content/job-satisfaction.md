@@ -297,7 +297,7 @@ I couldn't seem to find any research done directly on job satisfaction unfortuna
 
 ## Ergonomics
 
-Ergonomics involves the extent to which work permits appropriate posture and movement.
+Ergonomics involves the extent to which work permits appropriate posture and movement. For example, you can imagine that working as a nail artist where you need to look down all day would cause neck issues which would become a cause of annoyance.
 
 ## CO2 / Air pollution
 
